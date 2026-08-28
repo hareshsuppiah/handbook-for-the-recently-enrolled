@@ -1,5 +1,5 @@
 ---
-title: "Supervision, authorship or collaboration problem"
+title: "A supervision, authorship or collaboration problem feels stuck"
 status: "broad-beta pathway"
 last-reviewed: "2026-08-28"
 ---

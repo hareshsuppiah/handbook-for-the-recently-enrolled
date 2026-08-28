@@ -1,5 +1,5 @@
 ---
-title: "Before committing to each study"
+title: "Is this study ready to commit to?"
 ---
 
 **Pause point:** Before committing substantial time, money, participant burden, scarce access or thesis scope to a study.

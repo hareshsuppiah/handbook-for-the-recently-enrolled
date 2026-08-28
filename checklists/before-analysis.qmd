@@ -1,5 +1,5 @@
 ---
-title: "Before analysis"
+title: "Is this study ready for analysis?"
 status: "broad-beta resource"
 last-reviewed: "2026-08-28"
 ---

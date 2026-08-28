@@ -1,5 +1,5 @@
 ---
-title: "Writing blockage or endless revision"
+title: "I cannot start writing or stop revising"
 status: "broad-beta pathway"
 last-reviewed: "2026-08-28"
 ---

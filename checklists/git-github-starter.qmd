@@ -1,5 +1,5 @@
 ---
-title: "Git and GitHub starter workflow"
+title: "Is this project ready for Git and GitHub?"
 status: "broad-beta resource"
 last-reviewed: "2026-08-28"
 ---

@@ -23,67 +23,67 @@ book:
   chapters:
     - index.qmd
     - status.qmd
-    - part: "I. Recently enrolled"
+    - part: "Starting your doctorate"
       chapters:
         - chapters/part-01/01-phd-and-good-enough.qmd
         - chapters/part-01/02-first-90-days.qmd
         - chapters/part-01/03-provisional-plan.qmd
-    - part: "II. Working with supervisors"
+    - part: "Working with supervisors"
       chapters:
         - chapters/part-02/04-roles-and-expectations.qmd
         - chapters/part-02/05-meetings-and-records.qmd
         - chapters/part-02/06-feedback-and-independence.qmd
-    - part: "III. Finding and defending a research direction"
+    - part: "Choosing a research direction"
       chapters:
         - chapters/part-03/07-problem-gap-contribution.qmd
         - chapters/part-03/08-topic-due-diligence.qmd
         - chapters/part-03/09-questions-and-pivots.qmd
-    - part: "IV. Finding, reading and synthesising evidence"
+    - part: "Finding and using evidence"
       chapters:
         - chapters/part-04/10-search-ladder.qmd
         - chapters/part-04/11-reproducible-searching.qmd
         - chapters/part-04/12-reading-and-synthesis.qmd
-    - part: "V. Designing defensible research"
+    - part: "Designing research you can defend"
       chapters:
         - chapters/part-05/13-design-alignment.qmd
         - chapters/part-05/14-sampling-measurement-pilots.qmd
         - chapters/part-05/15-rigour-and-variation.qmd
-    - part: "VI. Ethics, integrity and governance"
+    - part: "Protecting people and research integrity"
       chapters:
         - chapters/part-06/16-ethics-privacy-consent.qmd
         - chapters/part-06/17-integrity-governance-ai.qmd
         - chapters/part-06/18-authorship-collaboration-corrections.qmd
-    - part: "VII. Data, code and reproducibility"
+    - part: "Keeping data, code and decisions traceable"
       chapters:
         - chapters/part-07/19-data-management-storage.qmd
         - chapters/part-07/20-data-states-provenance.qmd
         - chapters/part-07/21-reproducible-workflows.qmd
-    - part: "VIII. The graduate research technology stack"
+    - part: "Choosing research technology"
       chapters:
         - chapters/part-08/22-minimum-viable-stack.qmd
         - chapters/part-08/23-analysis-review-quarto.qmd
         - chapters/part-08/24-git-github-ai.qmd
-    - part: "IX. Running the project"
+    - part: "Keeping the project moving"
       chapters:
         - chapters/part-09/25-milestones-weekly-work.qmd
         - chapters/part-09/26-risks-blocked-change.qmd
         - chapters/part-09/27-collaboration-handoffs-scope.qmd
-    - part: "X. Writing, publishing and communicating"
+    - part: "Writing, publishing and communicating"
       chapters:
         - chapters/part-10/28-writing-and-argument.qmd
         - chapters/part-10/29-reviewable-work-feedback.qmd
         - chapters/part-10/30-publishing-review-communication.qmd
-    - part: "XI. When the plan meets reality"
+    - part: "Recovering when plans fail"
       chapters:
         - chapters/part-11/31-failed-studies.qmd
         - chapters/part-11/32-technical-failure-perfectionism.qmd
         - chapters/part-11/33-decide-and-stuck.qmd
-    - part: "XII. Completion and independence"
+    - part: "Finishing well and becoming independent"
       chapters:
         - chapters/part-12/34-independence-contribution.qmd
         - chapters/part-12/35-examination-corrections.qmd
         - chapters/part-12/36-closure-transition.qmd
-    - part: "Practical resources: Checklists and decision aids"
+    - part: "Checklists for important pause points"
       chapters:
         - resources.qmd
         - checklists/index.qmd
@@ -105,7 +105,7 @@ book:
         - checklists/pivot-continue-stop.qmd
         - checklists/before-thesis-submission.qmd
         - checklists/project-closure-handover.qmd
-    - part: "Practical resources: Templates"
+    - part: "Templates you can use"
       chapters:
         - templates/supervisor-expectations.qmd
         - templates/supervision-agreement.qmd
@@ -140,7 +140,7 @@ book:
         - templates/reviewer-response.qmd
         - templates/escalation-message.qmd
         - templates/thesis-contribution-map.qmd
-    - part: "I’m stuck pathways"
+    - part: "Find a way forward when you’re stuck"
       chapters:
         - stuck/index.qmd
         - stuck/starting-or-expectations.qmd

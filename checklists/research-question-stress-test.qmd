@@ -1,5 +1,5 @@
 ---
-title: "Research-question stress test"
+title: "Can this research question carry the study?"
 status: "broad-beta resource"
 last-reviewed: "2026-08-28"
 ---

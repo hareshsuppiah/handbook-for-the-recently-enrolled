@@ -1,5 +1,5 @@
 ---
-title: "Pivot, continue or stop decision aid"
+title: "Should I continue, pivot or stop?"
 status: "broad-beta resource"
 last-reviewed: "2026-08-28"
 ---

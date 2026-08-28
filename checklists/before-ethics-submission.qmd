@@ -1,5 +1,5 @@
 ---
-title: "Before ethics or governance submission"
+title: "Is this application ready for ethics or governance review?"
 status: "broad-beta resource"
 last-reviewed: "2026-08-28"
 ---

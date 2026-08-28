@@ -1,5 +1,5 @@
 ---
-title: "AI-use decision tree"
+title: "Can I use AI for this task?"
 status: "broad-beta resource"
 last-reviewed: "2026-08-28"
 ---

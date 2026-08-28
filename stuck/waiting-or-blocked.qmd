@@ -1,5 +1,5 @@
 ---
-title: "Waiting for feedback, approval, access, equipment or data"
+title: "I am waiting for feedback, approval, access, equipment or data"
 status: "broad-beta pathway"
 last-reviewed: "2026-08-28"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Endless searching or no synthesis"
+title: "I keep searching but cannot build an argument"
 status: "broad-beta pathway"
 last-reviewed: "2026-08-28"
 ---

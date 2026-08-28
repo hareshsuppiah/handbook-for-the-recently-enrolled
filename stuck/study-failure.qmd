@@ -1,5 +1,5 @@
 ---
-title: "Recruitment, study or findings have failed"
+title: "Recruitment, data or a study has failed"
 status: "broad-beta pathway"
 last-reviewed: "2026-08-28"
 ---

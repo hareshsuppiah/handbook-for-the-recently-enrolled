@@ -1,5 +1,5 @@
 ---
-title: "Pilot-readiness checklist"
+title: "Is this pilot ready to run?"
 status: "broad-beta resource"
 last-reviewed: "2026-08-28"
 ---

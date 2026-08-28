@@ -1,5 +1,5 @@
 ---
-title: "Before project closure and handover"
+title: "Is this project ready to close or hand over?"
 status: "broad-beta resource"
 last-reviewed: "2026-08-28"
 ---
