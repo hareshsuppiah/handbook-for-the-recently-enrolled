@@ -1,0 +1,56 @@
+---
+title: "Research-question stress test"
+status: "broad-beta resource"
+last-reviewed: "2026-08-28"
+---
+
+**Pause point:** Before a question anchors a proposal, design, ethics application, analysis plan or major study commitment.
+
+**Prevents:** A broad topic, compound question or unsupported causal promise being mistaken for an answerable research question.
+
+**Use:** Do-confirm. Repeat after consequential changes to access, design, measures, data or intended contribution.
+
+## Critical checks
+
+- [ ] **Problem link:** Answering the question would address a defined part of the research problem.
+- [ ] **Unit and context:** The people, material, cases, texts, systems or phenomena under study are sufficiently clear for this stage.
+- [ ] **Uncertainty:** The question identifies what is not known, understood, compared, interpreted, created or tested; it does not merely name a topic.
+- [ ] **Verb–evidence fit:** Verbs such as *cause*, *predict*, *experience*, *interpret*, *evaluate* or *develop* match evidence the planned design could support.
+- [ ] **Scope:** The question is not several studies disguised by “and”.
+- [ ] **Importance:** A relevant audience or body of knowledge would care about the answer for a stated reason.
+- [ ] **Feasibility:** Access, time, skills, resources and sample or corpus adequacy have a credible path.
+- [ ] **Ethical and governance path:** The question can be investigated responsibly under applicable requirements.
+- [ ] **Alternative framing:** A strong competing question or explanation has been considered.
+- [ ] **Contribution alignment:** The possible answer could support the proposed contribution without overclaiming.
+
+## Stop conditions
+
+Do not lock the design while:
+
+- the question promises an inference the evidence cannot support;
+- one sentence contains several independently consequential questions;
+- essential access or approval is treated as assumed;
+- the affected community or governing authority disputes a framing that requires their involvement;
+- no consequence of answering the question can be stated.
+
+## Worked scenario
+
+**Initial question:** “How does social media cause anxiety and poor performance among all university students?”
+
+The stress test finds an undefined exposure, two outcomes, a causal claim, an unbounded population and no feasible route to representative evidence.
+
+**Provisional revision:** “How do first-year students in one programme describe the ways social-media use affects their study routines during assessment periods?”
+
+The revision supports an interpretive study but cannot estimate prevalence or demonstrate causation. If causal estimation is essential, the project needs a different design rather than stronger wording.
+
+## Evidence to retain
+
+Keep the question version, failed checks, revisions, design consequence, supervisor or specialist review, and the decision-log entry explaining why the question changed.
+
+::: {.callout-warning title="Check locally"}
+Proposal, confirmation, preregistration, ethics and examination requirements may demand a particular question format. Methodological traditions differ in when and how questions are fixed.
+:::
+
+## Related guidance
+
+Read [Problem, gap and contribution](../chapters/part-03/07-problem-gap-contribution.qmd) and [Questions, aims and pivots](../chapters/part-03/09-questions-and-pivots.qmd).
