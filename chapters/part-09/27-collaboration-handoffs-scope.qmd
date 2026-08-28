@@ -1,55 +1,221 @@
 ---
 title: "Collaboration, handoffs and scope"
-status: "broad-beta baseline"
+status: "broad-beta draft"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta baseline. Evidence verification and worked examples are being expanded; local requirements must be checked before acting.
+**Content status:** Broad-beta draft. Agreements, intellectual property, data access, authorship, partner obligations and thesis structures vary. Confirm formal responsibilities and permissions locally.
 :::
+
+## The questions students are usually asking
+
+- How do several studies fit into one thesis rather than becoming separate projects?
+- Who owns a shared task, and who can decide that it is complete?
+- What should I hand over to a collaborator, analyst or incoming student?
+- How do I avoid losing the project when somebody leaves?
+- What belongs inside my candidature and what is partner or team work?
+- How do I challenge unclear or expanding expectations?
+- What if a collaborator delivers something that cannot be understood or reproduced?
 
 ## The direct answer
 
-Shared work needs explicit ownership, interfaces, decision rights and handoff evidence.
+Design collaboration around interfaces, not goodwill alone. Each shared unit of work needs an outcome, inputs, owner, decision rights, constraints, expected output, acceptance test and recoverable record. A handoff is complete when the recipient can verify and use the output—not when a file or message is sent.
 
-## The decision in front of you
+For a multi-study thesis, give each study a distinct inferential job and maintain the links among question, evidence, method and contribution. Shared infrastructure can support several studies, but it does not by itself make them coherent.
 
-What does each person own, what must be handed over and how will acceptance be confirmed?
+## Begin with the whole-project argument
+
+A set of publishable studies is not automatically a thesis. Map the programme before optimising individual studies:
+
+| Layer | Question |
+|---|---|
+| Central problem | What larger problem makes the programme worth doing? |
+| Overall question | What can the combined work answer that one study cannot? |
+| Study role | What distinct uncertainty does each study reduce? |
+| Dependency | What must one study establish, produce or rule out for another? |
+| Integration | Where will results be compared, reconciled or bounded? |
+| Contribution | What defensible claim emerges from the programme as a whole? |
+
+Common study roles include defining the problem, developing or validating a measure, estimating a pattern, testing an explanation, evaluating an intervention, examining implementation or integrating perspectives. Two studies that repeat the same inferential job with different samples may still be justified, but the replication or comparison logic must be explicit.
+
+## Map dependencies without creating a brittle chain
+
+Distinguish four relationships:
+
+- **hard dependency:** Study B cannot begin or answer its question without Study A's accepted output;
+- **soft dependency:** A informs B, but B has a defensible fallback;
+- **shared dependency:** several studies rely on the same approval, dataset, instrument, platform or collaborator;
+- **conceptual dependency:** interpretation relies on a definition, framework or claim established elsewhere.
+
+Hard dependencies concentrate delay. Shared dependencies create single points of failure. Where possible, build an alternative path, test the critical interface early and avoid scheduling every study as a strict sequence.
+
+Example: a measurement study may be a hard dependency for a later trial if the trial cannot use any other valid measure. If an established instrument could support a narrower question, that is a fallback—not an identical substitute. Record the inferential trade-off.
+
+## Define ownership and decision rights
+
+“We are all working on the analysis” is not ownership. For each deliverable, name:
+
+- the **accountable owner** who ensures the outcome is reached;
+- contributors responsible for bounded components;
+- reviewers whose expertise is required;
+- the person or body authorised to accept or approve it;
+- people who must be consulted before a decision; and
+- people who need the resulting information.
+
+One person can hold several roles, but the roles should not be confused. A statistician may advise on a model without owning the research question. A supervisor may accept a draft for feedback without approving an ethics amendment. A partner may control access without owning interpretation.
+
+Authority should be attached to the decision, not assumed from seniority. Record unresolved disagreement and use the relevant governance route when the team cannot safely or legitimately decide it internally.
+
+## Write an interface contract for consequential shared work
+
+An interface contract can be a short table, ticket or cover note. It should state:
+
+| Element | Prompt |
+|---|---|
+| Outcome | What state should this work create? |
+| Inputs | Which exact versions, variables, files, definitions and permissions are supplied? |
+| Constraints | What must not be shared, altered, inferred or published? |
+| Method | Which decisions are fixed, flexible or require consultation? |
+| Output | What files, explanation and provenance must be returned? |
+| Acceptance | What test will the recipient run? |
+| Timing | When is a reviewable version needed, and what depends on it? |
+| Change route | What should happen if assumptions fail or scope changes? |
+| Record | Where will decisions, code, data lineage and final artefacts live? |
+
+This is especially important across disciplines. “Clean the data”, “run the model”, “review the chapter” and “build the app” can mean very different things to different people.
+
+## Make handoffs verifiable
+
+A useful handoff includes:
+
+1. **purpose and boundary:** what the package covers and does not cover;
+2. **current state:** accepted, provisional, failed, superseded or awaiting decision;
+3. **contents:** an inventory with authoritative locations and versions;
+4. **provenance:** where inputs came from and what transformations occurred;
+5. **decisions:** assumptions, exclusions, deviations and rejected alternatives;
+6. **operation:** how to open, run, reproduce or update the work;
+7. **verification:** expected results, tests and known limitations;
+8. **risks and open questions:** with owners and review dates;
+9. **permissions:** access, confidentiality, licence, retention and sharing boundaries; and
+10. **acceptance:** the receiving person's test, result and unresolved exceptions.
 
 ::: {.decision-card}
-**Smallest useful next action:** Write a handoff note covering inputs, outputs, state, risks and the receiving person’s confirmation.
+**Smallest useful next action:** Ask the intended recipient to recover one input, reproduce one consequential output and explain one decision using only the handoff package. Repair what fails.
 :::
 
-## A defensible way to proceed
+Sending is not acceptance. A ZIP file is not a handoff if nobody knows which script to run. A meeting is not a handoff if the new state remains only in participants' memories.
 
-1. State the outcome or decision in plain language.
-2. Separate known facts, assumptions, constraints and unresolved questions.
-3. Check the evidence and any applicable local requirement.
-4. Compare realistic options, including doing less, waiting or stopping.
-5. Record the choice, reasons, owner, next review point and evidence of completion.
+## Maintain project memory while work is active
+
+Project memory is the minimum recoverable explanation of how the current state came to exist. Maintain:
+
+- a current README or project map;
+- decision and change records;
+- action, issue and unresolved-question registers;
+- data provenance and dictionaries;
+- version-controlled code and documents where appropriate;
+- environment and execution instructions;
+- meeting records for consequential decisions;
+- authorship and contribution records by output; and
+- links from current artefacts to their authoritative evidence.
+
+Do not duplicate the same truth across many files without naming which version governs. Prefer links and stable identifiers. Archive superseded material without making it look current.
+
+## Control scope at three boundaries
+
+### Candidature boundary
+
+Is this work necessary for the thesis contribution and feasible within remaining time, approvals and resources? Interesting adjacent work can be recorded for later without becoming a candidature obligation.
+
+### Study boundary
+
+Does the task serve the study's accepted question, design or required governance? An attractive extra measure or analysis carries collection, validation, multiplicity, interpretation and reporting costs.
+
+### Collaboration boundary
+
+Was the work included in the agreed outcome, role and resource commitment? A partner request may be valuable but still require a separate decision, timeline or agreement.
+
+When new work appears, classify it as required, replacing existing scope, optional if capacity remains, deferred, separately resourced or declined. “Yes” without naming what moves is not a plan.
+
+## Worked example: a shared analysis changes hands
+
+**Situation:** A collaborator who developed the primary analysis is leaving. They have sent a script and one output table. The student can open the files but cannot recreate the table from the approved data extract.
+
+**Diagnosis:** This is not a completed handoff. Inputs, environment, execution order, package versions, variable derivations and decision history are missing. The collaborator is a single point of failure, and the primary result is not yet independently recoverable.
+
+**Recovery package:**
+
+- authoritative input location and checksum;
+- data dictionary and derivation rules;
+- ordered scripts or pipeline entry point;
+- environment lockfile and setup instructions;
+- expected test output;
+- model decisions, exclusions and deviations;
+- known failed approaches;
+- access and confidentiality constraints; and
+- named recipient and acceptance date.
+
+**Acceptance test:** From an approved clean environment, the student runs the documented workflow, reproduces the key estimate within the stated tolerance and traces every reported variable to its source. Differences are recorded and resolved rather than manually overwritten.
+
+**Scope decision:** Further exploratory analyses suggested by the departing collaborator are logged as optional. They do not enter the thesis plan unless their inferential purpose, cost and displacement are accepted.
+
+**Evidence of completion:** Successful clean run, reviewed README, resolved exceptions, updated contribution record and removal or managed transfer of access according to the authorised process.
+
+## When collaboration becomes unsafe or unfair
+
+Seek independent advice when there is coercion, retaliation, discriminatory conduct, bullying, harassment, pressure to breach approval or integrity requirements, disputed ownership, withheld essential records, inappropriate authorship demands or a power imbalance that makes direct negotiation unsafe.
+
+Preserve factual records in an authorised secure location. Do not put sensitive allegations into a broadly shared project register. Ordinary project tools cannot replace institutional support, research-integrity, safety, complaints or emergency processes.
 
 ## Common failure modes
 
-- treating an early plan as permanently fixed;
-- collecting information without naming the decision it should inform;
-- copying a method or workflow without checking fit;
-- waiting for perfect certainty when a reversible next step is available;
-- relying on private memory instead of a recoverable project record;
-- presenting an institutional rule or one disciplinary convention as universal.
+- treating a list of studies as a coherent research programme;
+- making every study depend on one uncertain approval or person;
+- assigning tasks without decision rights or acceptance criteria;
+- assuming seniority establishes ownership;
+- sending files without versions, provenance, explanation or verification;
+- relying on a collaborator's private drive or undocumented software environment;
+- accepting screenshots or final tables without recoverable analysis;
+- allowing informal requests to expand thesis scope;
+- confusing promised contributions with completed contributions;
+- keeping disagreement out of the record until it becomes a dispute;
+- duplicating project state across unlabelled “final” files; and
+- making a departing person responsible for approving their own handoff.
 
 ## Good enough for now
 
-Good enough means the work is proportionate to its current purpose, major risks are controlled, important assumptions are visible, and the next decision can be defended. It does not mean that every uncertainty has disappeared.
+A collaboration is workable when each consequential deliverable has an owner, authority path, interface and acceptance test; project memory can be recovered without one person's private knowledge; shared dependencies and fallbacks are visible; studies have distinct roles in the overall argument; and new work cannot enter unnoticed.
 
-## Before you ask your supervisor
+## Before you ask your supervisor or collaborator
 
-Bring a concise problem statement, the checks you completed, the strongest relevant evidence, feasible options, your provisional recommendation and one precise request. If risk, approval, participant welfare, integrity or safety is involved, seek the appropriate specialist or formal local process rather than relying only on an ordinary supervision meeting.
+Bring:
+
+- the overall question and each study's role;
+- the dependency and single-point-of-failure map;
+- the proposed owner and decision rights;
+- exact inputs, outputs, constraints and acceptance test;
+- current project-memory gaps;
+- the scope impact of the request; and
+- one precise decision, handoff or resource request.
+
+## Pause-point checklist
+
+- [ ] Each study has a distinct role in the whole-project argument.
+- [ ] Hard, soft, shared and conceptual dependencies are visible.
+- [ ] Consequential deliverables have accountable owners and authorised acceptors.
+- [ ] Inputs, outputs, constraints and change routes are explicit.
+- [ ] Handoffs include provenance, operation, verification and known limitations.
+- [ ] The recipient has tested recovery or reproduction.
+- [ ] Project memory does not depend on one person's private knowledge or storage.
+- [ ] Candidature, study and collaboration scope boundaries are applied.
+- [ ] New work is accepted with displacement and resource consequences visible.
+- [ ] Sensitive disputes use an authorised independent route.
 
 ## Check locally
 
-Milestones, approvals, systems, storage, authorship processes, examination requirements and support routes vary. Verify the current rule with the responsible office or official documentation.
+Verify thesis format and examination rules, partner and funding agreements, intellectual-property ownership, data-access and confidentiality conditions, research-record retention, repository access, software licences, authorship standards, staffing changes and formal dispute routes.
 
 ## Related practical resources
 
-Use the [practical resource library](../../resources.qmd) and the [I’m stuck pathway](../../stuck/index.qmd) to turn this guidance into a documented action.
-
+Use the [repository README template](../../templates/repository-readme.qmd), [data-management plan](../../templates/data-management-plan.qmd), [data dictionary](../../templates/data-dictionary.qmd), [decision log](../../templates/decision-log.qmd), [action register](../../templates/action-register.qmd), [authorship conversation record](../../templates/authorship-conversation.qmd) and [project closure and handover checklist](../../checklists/project-closure-handover.qmd).
