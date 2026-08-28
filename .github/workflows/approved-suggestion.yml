@@ -3,6 +3,8 @@ name: Prepare an approved suggestion for agent work
 on:
   issues:
     types: [labeled]
+  issue_comment:
+    types: [created]
 
 permissions:
   issues: write
@@ -11,9 +13,18 @@ jobs:
   prepare-handoff:
     if: >-
       github.actor == 'hareshsuppiah' &&
-      github.event.label.name == 'decision: approved'
+      ((github.event_name == 'issues' && github.event.label.name == 'decision: approved') ||
+      (github.event_name == 'issue_comment' && github.event.issue.pull_request == null && github.event.comment.body == '/approve'))
     runs-on: ubuntu-latest
     steps:
+      - name: Record approval label from owner command
+        if: github.event_name == 'issue_comment'
+        run: >-
+          gh issue edit "$ISSUE_NUMBER" --add-label "decision: approved"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
       - name: Mark the issue as agent-ready
         run: |
           gh issue edit "$ISSUE_NUMBER" --remove-label "status: needs-triage" || true

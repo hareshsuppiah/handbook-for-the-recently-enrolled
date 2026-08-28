@@ -19,7 +19,7 @@ Record the competing positions, applicable contexts, evidence quality, uncertain
 
 Readers submit suggestions as GitHub issues; they are not expected to edit the handbook. Unsolicited pull requests are not the public contribution route.
 
-Only Haresh Suppiah can approve a suggestion for implementation. Approval is recorded by applying the `decision: approved` label. An approval authorises an agent or maintainer to prepare a pull request. It does not authorise merging or publication.
+Only Haresh Suppiah can approve a suggestion for implementation. Approval is recorded by posting the exact comment `/approve` or applying the `decision: approved` label. The workflow ignores approval commands from other users. An approval authorises an agent or maintainer to prepare a pull request. It does not authorise merging or publication.
 
 The implementation sequence is:
 

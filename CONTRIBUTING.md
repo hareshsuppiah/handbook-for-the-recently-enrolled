@@ -38,7 +38,7 @@ Unsolicited pull requests are not the public contribution route. A pull request 
 
 Submission → privacy and duplicate check → evidence check → Haresh's decision → agent work → Haresh's review → release or revision.
 
-Only Haresh can approve a suggestion. Approval is recorded with the `decision: approved` label. Approval allows an agent or maintainer to prepare a pull request; it does not publish a change. Haresh must review and merge the pull request before the public handbook changes.
+Only Haresh can approve a suggestion. He records approval by posting `/approve` on the issue or applying the `decision: approved` label. Approval allows an agent or maintainer to prepare a pull request; it does not publish a change. Haresh must review and merge the pull request before the public handbook changes.
 
 Possible decisions are approved, needs evidence, deferred, duplicate, local adaptation, declined, or out of scope. The issue remains the public record of the suggestion and its outcome.
 

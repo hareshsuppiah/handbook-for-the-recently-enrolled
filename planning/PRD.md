@@ -159,7 +159,7 @@ For the initial edition run up to five full passes. At least two student-phase p
 
 Provide an owner-approved no-GitHub form when its URL is available and five structured GitHub suggestion forms: missing content, correction, source, accessibility or technical problem, and local adaptation. Ordinary readers are not asked to edit files, fork the repository, use a command line or prepare a pull request. The founding editor may use Discussions internally if they reduce administrative work, but Discussions are not required for public intake.
 
-Only Haresh Suppiah can approve implementation. Applying `decision: approved` records that decision and prepares the issue for assignment to an agent or maintainer. The assignee returns a linked pull request for Haresh's review. Approval does not authorise merge or publication.
+Only Haresh Suppiah can approve implementation. Posting `/approve` on the issue or applying `decision: approved` records that decision and prepares the issue for assignment to an agent or maintainer. The workflow ignores approval commands from other users. The assignee returns a linked pull request for Haresh's review. Approval does not authorise merge or publication.
 
 All routes feed: submission, privacy check, duplicate/coverage check, triage, evidence review, accepted/needs evidence/local adaptation/declined/duplicate, drafting, review, release, and contributor notification.
 

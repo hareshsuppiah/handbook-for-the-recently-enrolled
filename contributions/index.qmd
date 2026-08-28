@@ -26,7 +26,7 @@ Submit one issue for each distinct suggestion. You may describe the problem with
 
 1. The issue is checked for private information, duplicates and existing coverage.
 2. Evidence and scope are checked. The issue may be labelled `needs evidence` or `awaiting owner decision`.
-3. Haresh records the decision. Only the `decision: approved` label authorises work.
+3. Haresh records the decision by commenting `/approve` or applying `decision: approved`. Only either owner action authorises work.
 4. An assigned agent or maintainer researches and drafts the change in a pull request.
 5. Haresh reviews the pull request. He may request changes, merge it or stop the work.
 6. Merging to `main` publishes the change through the handbook's release process.

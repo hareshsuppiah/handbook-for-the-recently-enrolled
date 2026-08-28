@@ -6,7 +6,7 @@ The GitHub issue is the public editorial record. It holds the reader's suggestio
 
 ## The approval rule
 
-Only Haresh Suppiah can approve implementation. He approves an issue by applying the label `decision: approved`.
+Only Haresh Suppiah can approve implementation. He approves an issue by posting the exact comment `/approve` or applying the label `decision: approved`. The workflow ignores an approval command posted by anyone else.
 
 That label allows an agent or maintainer to prepare a change. It does not approve the wording, merge a pull request or publish the handbook.
 
@@ -34,7 +34,7 @@ Agent access is deliberately downstream of the editorial decision. Reader-submit
 - `status: needs-triage`: submitted and awaiting an initial check;
 - `status: needs-evidence`: more support or clarification is required;
 - `status: awaiting-owner-decision`: ready for Haresh's decision;
-- `decision: approved`: implementation is authorised;
+- `decision: approved`: implementation is authorised by Haresh's command or label;
 - `decision: deferred`, `decision: declined` or `decision: duplicate`: the recorded editorial outcome;
 - `work: agent-ready`: approved and ready to assign;
 - `work: in-progress`: an agent or maintainer is preparing a change;
