@@ -1,0 +1,63 @@
+---
+title: "AI-use decision tree"
+status: "broad-beta resource"
+last-reviewed: "2026-08-28"
+---
+
+::: {.manual-status}
+**Resource status:** Usable broad-beta. AI rules and tool practices change quickly. Recheck the current institution, funder, publisher, ethics, data, intellectual-property and contractual rules for every material use.
+:::
+
+## Start here
+
+**What exact task will the tool perform?** [ ]
+
+**What research decision, evidence, analysis, text, code, image, communication or external action could it affect?** [ ]
+
+### 1. Is the use authorised?
+
+- **No or unknown:** stop. Find the governing rule and authorised decision-maker.
+- **Yes:** retain the evidence and continue.
+
+### 2. Would any input be protected or sensitive?
+
+This includes personal, confidential, unpublished, embargoed, copyrighted, culturally restricted, commercially sensitive, security-sensitive, reviewer or collaborator material.
+
+- **Yes or unknown:** do not enter it. Determine whether an approved controlled environment and explicit authority exist. Prefer synthetic or minimum non-sensitive input.
+- **No:** continue, while checking provider handling and intellectual-property terms.
+
+### 3. Does the tool influence a consequential judgement?
+
+- **Yes:** name the qualified human decision-maker, alternative evidence, error consequences and appeal or correction route. Do not delegate final judgement where the governing rule requires human expertise.
+- **No:** continue with proportionate checks.
+
+### 4. Can the output be independently verified?
+
+- **No:** do not rely on it for a factual, analytical, interpretive or external claim.
+- **Yes:** write the verification procedure before accepting the output.
+
+### 5. Is disclosure or a retained record required?
+
+- **Yes:** specify audience, format, tool/task details and protected-record location.
+- **Unknown:** check before submission, publication or sharing.
+- **No:** retain the decision evidence required by the project anyway.
+
+## Decision
+
+- [ ] **Proceed:** authorised, minimal input, accountable and verifiable.
+- [ ] **Proceed with controls:** list access, configuration, review and disclosure controls.
+- [ ] **Use a lower-risk alternative:** [ ]
+- [ ] **Pause for authoritative advice:** owner and date [ ]
+- [ ] **Do not use:** reason [ ]
+
+## Scenario test
+
+You want help debugging analysis code that contains no data but includes confidential project names, local server paths and comments describing restricted variables. “No dataset attached” is not enough. Replace names and paths with synthetic equivalents, reduce the code to the reproducible error, confirm tool and policy permission, test the proposed fix against known cases, and record the verified change.
+
+## Stop conditions
+
+Do not proceed when authority, provider handling, input sensitivity, human accountability or verification is unresolved. Disclosure cannot repair a prohibited or unsafe use.
+
+## Related guidance
+
+Return to [Research integrity, governance and responsible AI use](../chapters/part-06/17-integrity-governance-ai.qmd) and record material uses in the [AI-use and verification log](../templates/ai-use-log.qmd).

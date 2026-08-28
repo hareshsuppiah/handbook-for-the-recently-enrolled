@@ -1,55 +1,223 @@
 ---
-title: "Integrity, governance and AI"
-status: "broad-beta baseline"
+title: "Research integrity, governance and responsible AI use"
+status: "broad-beta draft"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta baseline. Evidence verification and worked examples are being expanded; local requirements must be checked before acting.
+**Content status:** Broad-beta draft. AI products, data practices and organisational rules change quickly. Check the current institution, funder, publisher, ethics, data, intellectual-property and contractual rules for the exact task and tool. The AI guidance here was reviewed on 28 August 2026.
 :::
+
+## The questions students are usually asking
+
+- What counts as a research-integrity problem?
+- Who is accountable when software or AI produces an error?
+- Can I put research text, code or data into an AI tool?
+- Do I need to disclose AI-assisted work?
+- How do I verify generated citations, summaries, code or analysis?
+- Is a tool permitted because my institution provides an account?
+- What record should I keep without saving sensitive prompts?
 
 ## The direct answer
 
-Responsible practice requires honest records, appropriate approvals, secure handling and transparent disclosure of tools that affect the work.
+You remain accountable for the research decisions, evidence, claims and disclosures made in your name. A tool can assist a task; it cannot accept responsibility, consent, authorship or professional accountability.
 
-## The decision in front of you
+Before using any external service, identify what would leave the approved research environment, who could access or retain it, which decision the output may influence, and how a competent person will verify it.
 
-Does the proposed action preserve accountability, confidentiality, verification and accurate attribution?
+## Distinguish integrity from governance
 
-::: {.decision-card}
-**Smallest useful next action:** Pause any unclear use and check the relevant institutional, funder, publisher or ethics rule.
-:::
+**Research integrity** concerns honest, rigorous, transparent, fair, respectful and accountable conduct. **Governance** concerns who has authority, which rules and agreements apply, and how compliance and responsibility are demonstrated.
 
-## A defensible way to proceed
+A use can fail one or both:
 
-1. State the outcome or decision in plain language.
-2. Separate known facts, assumptions, constraints and unresolved questions.
-3. Check the evidence and any applicable local requirement.
-4. Compare realistic options, including doing less, waiting or stopping.
-5. Record the choice, reasons, owner, next review point and evidence of completion.
+- fabricated citations violate integrity even if no confidential data were uploaded;
+- uploading an unpublished collaborator draft may violate confidentiality or contract even if the summary is accurate;
+- an institutionally licensed tool may still be outside an ethics approval or data agreement;
+- an allowed task may still require disclosure, verification and version records.
+
+The Australian Code places responsibility on researchers for accurate records, appropriate methods, justified conclusions, responsible dissemination and accurate citation [@australian-code-2018]. Those responsibilities continue when software or AI is involved.
+
+## Classify the proposed AI task
+
+Do not ask only “Can I use AI?” Record the precise task.
+
+| Task role | Example | Main questions |
+|---|---|---|
+| Mechanical transformation | formatting, spelling, converting a known structure | Will meaning, confidentiality or provenance change? |
+| Retrieval support | search terms, candidate sources, document discovery | Can every source and coverage claim be independently checked? |
+| Explanation or summarisation | plain-language explanation, draft summary | Is the source supplied, and will the summary be checked against it? |
+| Generative drafting | prose, code, images, instruments | Who owns, verifies and discloses the result? What material shaped it? |
+| Analytical assistance | coding suggestions, models, interpretation | Does the user understand and test the method, assumptions and output? |
+| Classification or decision support | screening, risk flags, scoring | What errors, bias and appeals matter? Is human judgement preserved? |
+| Autonomous action | sending, publishing, modifying records, contacting people | Is this authorised, reviewable, reversible and logged? |
+
+Risk depends on the task, inputs, output, consequence, tool configuration and governing rules—not on the product name alone.
+
+## Apply the stop-first screen
+
+Do not enter material into a tool until all of these are resolved:
+
+- **Authority:** Does the institution, protocol, agreement, funder, publisher or client permit this use?
+- **Input sensitivity:** Does it contain personal, confidential, embargoed, copyrighted, culturally restricted, security-sensitive or unpublished material?
+- **Provider handling:** Where is processing performed? Are inputs or outputs stored, reviewed, reused for training or available to third parties?
+- **Purpose:** Is the tool necessary and proportionate, or is a lower-risk method adequate?
+- **Accountability:** Who will inspect the result and make the decision?
+- **Verification:** What independent evidence could show the result is wrong?
+- **Disclosure:** Who must be told, in what form and at what stage?
+- **Retention:** What record is needed, and what must not be copied into that record?
+
+If authority or input handling is unknown, pause. Removing names may not remove confidentiality, intellectual property, re-identification or cultural risk.
+
+## Use the minimum necessary input
+
+Reduce inputs before considering tool settings:
+
+- provide an invented or synthetic example where it serves the task;
+- describe a structure instead of uploading the document;
+- isolate the smallest non-sensitive excerpt;
+- remove identifiers and rare contextual combinations only where de-identification is defensible;
+- use approved local or controlled tools when required; and
+- do not upload third-party material merely because you personally can access it.
+
+The current ARC–NHMRC position for their grant programs keeps responsibility and judgement with people, recommends minimum necessary information and warns that material entered into generative tools should be treated as potentially public [@arc-nhmrc-ai-2026]. That policy is a current Australian grant-program example, not a universal permission for research, thesis or publication tasks.
+
+## Verify by output type
+
+“I read it and it looked right” is not an adequate general verification method.
+
+### Facts and citations
+
+- open the primary or authoritative source;
+- verify title, author, date, version, DOI or URL;
+- locate the passage, data or result supporting the exact claim;
+- check scope, uncertainty and contrary evidence; and
+- delete any source that cannot be verified.
+
+### Summaries and translations
+
+- compare against the complete supplied source, not only selected excerpts;
+- check negation, quantities, technical terms, quotations and qualifications;
+- involve a competent language or subject expert where consequences are material; and
+- preserve the original alongside the checked output.
+
+### Code and analysis
+
+- understand the algorithm and assumptions sufficiently to defend its use;
+- review dependencies, licences, security and data movement;
+- run tests using known, boundary, missing and adversarial cases;
+- compare with an independently derived result where feasible;
+- inspect errors, warnings, logs and environment; and
+- reproduce the output from retained inputs in a clean context.
+
+### Qualitative or interpretive work
+
+- decide whether external processing is authorised before uploading material;
+- preserve researcher reflexivity and the interpretive chain;
+- test what context or minority cases the output suppresses;
+- do not present machine-produced categories as participant meaning; and
+- disclose the role of the tool in generation, coding or synthesis as required.
+
+### Images, audio and synthetic material
+
+- verify consent and rights for source material;
+- avoid deceptive presentation or unlabelled fabrication;
+- retain generation and editing provenance where needed;
+- test whether identifiable likenesses, voices or protected material were introduced; and
+- disclose synthetic or materially altered content according to the relevant venue and context.
+
+## Worked example: summarising confidential peer review
+
+**Proposed task:** upload an unpublished manuscript and reviewer invitation to a public chatbot to draft the review.
+
+**Stop-screen result:** the manuscript and review process are confidential; the reviewer does not own the authors' unpublished ideas; the tool's handling is not authorised; and evaluation must be the reviewer's own expert judgement.
+
+**Decision:** do not upload the material. Read and assess it within the authorised environment. If the governing policy permits limited language editing, draft the review first and use only the permitted tool and minimum non-identifying text, then recheck meaning and confidentiality.
+
+The ARC's current grant-assessment policy, for example, permits limited wording support under conditions but prohibits public-tool upload of application material and keeps evaluation with assessors [@arc-ai-policy-2026]. A journal or institution may set a different rule; check it directly.
+
+## Keep an AI-use and verification record
+
+Record material uses that affect research decisions, content, evidence, analysis or outputs. A useful record includes:
+
+- date, task and project stage;
+- tool, model or service and available version information;
+- account or environment category—not credentials;
+- input category and sensitivity decision, without reproducing protected content;
+- purpose and alternatives considered;
+- output used, rejected or modified;
+- verification method and evidence;
+- human decision-maker;
+- applicable rule and disclosure location; and
+- unresolved risk or review date.
+
+Do not create a second confidentiality breach by copying sensitive prompts or outputs into an open log. Store protected records in the approved environment and keep the public log at an appropriate level.
+
+## Disclosure should be useful
+
+A disclosure should let the relevant reader understand how the tool affected the work. Depending on the context, identify:
+
+- the task performed;
+- the tool and date/version where material;
+- which inputs or evidence were used;
+- the human verification and revision;
+- whether generated material appears in the output; and
+- where a fuller reproducibility record can be found.
+
+Follow the exact journal, thesis, funder or institutional rule. Disclosure does not cure prohibited, unsafe, unverified or misleading use.
 
 ## Common failure modes
 
-- treating an early plan as permanently fixed;
-- collecting information without naming the decision it should inform;
-- copying a method or workflow without checking fit;
-- waiting for perfect certainty when a reversible next step is available;
-- relying on private memory instead of a recoverable project record;
-- presenting an institutional rule or one disciplinary convention as universal.
+- assuming an institutional licence authorises every data type and research use;
+- pasting unpublished, participant, reviewer or collaborator material into a public tool;
+- trusting citations because they have plausible metadata;
+- accepting code because it runs once;
+- using AI output to make a decision the researcher cannot explain;
+- treating a generic disclosure sentence as evidence of responsible practice;
+- recording sensitive prompts in an open repository;
+- assuming output ownership, copyright or confidentiality terms are stable;
+- using AI-detection scores as proof of misconduct;
+- allowing automated action to send, publish, delete or alter records without explicit authority and review.
 
 ## Good enough for now
 
-Good enough means the work is proportionate to its current purpose, major risks are controlled, important assumptions are visible, and the next decision can be defended. It does not mean that every uncertainty has disappeared.
+An AI-assisted task is ready to proceed only when:
 
-## Before you ask your supervisor
+- the exact task and consequence are defined;
+- the use is permitted by all applicable authorities;
+- input handling and sensitivity are understood;
+- minimum necessary information will be used;
+- a competent person retains judgement and accountability;
+- verification is matched to the output and consequence;
+- disclosure and retention requirements are known; and
+- the decision, evidence and review date are recorded.
 
-Bring a concise problem statement, the checks you completed, the strongest relevant evidence, feasible options, your provisional recommendation and one precise request. If risk, approval, participant welfare, integrity or safety is involved, seek the appropriate specialist or formal local process rather than relying only on an ordinary supervision meeting.
+If any critical condition is unknown, choose a lower-risk route or pause.
 
-## Check locally
+## Before you ask your supervisor, integrity adviser or data steward
 
-Milestones, approvals, systems, storage, authorship processes, examination requirements and support routes vary. Verify the current rule with the responsible office or official documentation.
+Bring:
+
+- the exact task rather than a product-level question;
+- the proposed input categories and sensitivity classification;
+- the tool and account/environment information;
+- the applicable policy or agreement text;
+- the minimum-input alternative;
+- the verification and disclosure plan; and
+- one precise authority or risk question.
+
+## Pause-point checklist
+
+- [ ] The tool role and consequence are classified.
+- [ ] Current institution, funder, publisher, ethics and contractual rules are checked.
+- [ ] Input sensitivity and provider handling are understood.
+- [ ] Minimum necessary or synthetic input is used.
+- [ ] Human expertise and decision authority are retained.
+- [ ] Verification is independent and output-specific.
+- [ ] Errors, rejected outputs and changes remain visible where material.
+- [ ] Disclosure is accurate and context-specific.
+- [ ] The record does not itself expose protected material.
+- [ ] The guidance and tool terms have a review date.
 
 ## Related practical resources
 
-Use the [practical resource library](../../resources.qmd) and the [I’m stuck pathway](../../stuck/index.qmd) to turn this guidance into a documented action.
-
+Use the [AI-use decision tree](../../checklists/ai-use-decision.qmd), [AI-use and verification log](../../templates/ai-use-log.qmd), [protocol-deviation log](../../templates/protocol-deviation.qmd) and [Before analysis](../../checklists/before-analysis.qmd). For suspected integrity concerns, follow the responsible local process and seek confidential advice rather than investigating people through an AI tool.
