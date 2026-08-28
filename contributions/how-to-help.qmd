@@ -1,0 +1,72 @@
+---
+title: "How to help improve the handbook"
+---
+
+You do not need to rewrite a chapter to improve this handbook. A useful contribution often starts with a much smaller observation: *I needed help with this decision, and the handbook did not quite get me there.*
+
+The form is designed to help you explain that observation. Your job is to describe the reader's need. The editorial process will investigate the evidence and prepare any change.
+
+[Suggest an improvement](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/issues/new?template=share-feedback.yml){.btn .btn-primary}
+
+## What can I suggest?
+
+You can tell us that:
+
+- an important question, situation, example or practical resource is missing;
+- a passage is unclear, wrong, outdated or more confident than its evidence;
+- a section should be shortened, combined, replaced or removed;
+- an authoritative source would strengthen or qualify the advice;
+- the handbook is difficult to read, navigate or access; or
+- advice needs a clearer disciplinary, methodological, institutional or jurisdictional boundary.
+
+## What should I include?
+
+A strong suggestion answers four questions:
+
+1. **Where does this apply?** Link the page or name the section if you can.
+2. **What was the researcher trying to decide or do?** Use the words a student might actually use.
+3. **What is missing, wrong or no longer useful?** Explain the problem rather than drafting a polished replacement.
+4. **Why does it matter?** Describe the likely confusion, wasted effort, error or harm. Add a source or example when you have one.
+
+It also helps to say whether your suggestion applies broadly or only in a particular country, institution, discipline, method or kind of candidature.
+
+## What does a useful suggestion look like?
+
+### Something is missing
+
+> I was trying to decide whether to run another pilot after changing the recruitment procedure. The pilot chapter discusses instruments and analysis, but not changes to recruitment. A short decision prompt or example would help students decide whether the change affects feasibility or ethics approval.
+
+### Something may be wrong
+
+> This paragraph appears to describe one institution's confirmation process as if it were universal. The general point is useful, but the milestone name and timing vary. The page should separate the general decision from the local rule.
+
+### Something should be removed or reduced
+
+> The second checklist repeats the decision already covered in the first table. I reached the same instruction three times before finding the next action. Combining them would make the chapter easier to use without losing the warning.
+
+### I have a useful source
+
+> This national research-integrity guideline supports the distinction made in the chapter. It applies in Australia, so it should be presented as a jurisdiction-specific source rather than a universal rule.
+
+These examples are patterns, not scripts. A few clear sentences are enough.
+
+## What should I leave out?
+
+Submissions made through GitHub are public. Do not include names, identifiable personal information, participant data, private correspondence, complaints casework, confidential research, credentials, or unpublished findings you cannot share. Describe the general situation and remove identifying details.
+
+Do not paste long extracts from copyrighted books, articles or commercial templates. A link and a short explanation of relevance are more useful.
+
+## What happens after I submit?
+
+1. The suggestion is checked for privacy, duplication and existing coverage.
+2. Its evidence, scope and likely consequence are assessed.
+3. The project lead decides whether to approve it, request evidence, defer it or decline it.
+4. An approved suggestion may be assigned to an AI agent or human contributor to prepare a proposed change.
+5. The proposal is checked and reviewed by a human before publication.
+6. The public record is updated with the outcome and any released change.
+
+Approval does not mean that automatically generated wording goes straight into the handbook. It starts the drafting and review stage.
+
+## How will I be credited?
+
+You can choose named, organisational, pseudonymous or no public credit. A contribution may be acknowledged even when the final wording differs from the original suggestion. Suggestions do not automatically confer authorship, but substantive contributions remain traceable to their public record and release.

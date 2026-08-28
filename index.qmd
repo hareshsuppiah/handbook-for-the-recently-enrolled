@@ -4,6 +4,10 @@ subtitle: "An Operating Manual for Graduate Researchers"
 description: "A practical, evidence-informed operating manual for graduate researchers."
 ---
 
+**Project lead and founding editor:** Haresh Suppiah
+
+**Editorial approach:** Human-led and AI-assisted
+
 Graduate research rarely fails because nobody can find another definition of methodology. It becomes difficult when several reasonable actions are available, the evidence is incomplete, the rules vary by institution, and the next useful move is unclear.
 
 This handbook is built for those moments. It helps you identify the decision in front of you, do proportionate due diligence, record what you considered, take a defensible next step, and know when local or specialist help is required.
@@ -31,4 +35,6 @@ This is not a substitute for ethics approval, research-integrity advice, legal o
 
 ## Help improve it
 
-The handbook is maintained as a living edition. You can [suggest a correction, source, question, accessibility improvement or local adaptation](contributions/index.qmd). Do not submit confidential research data, identifiable personal information, private correspondence, complaints casework, or unpublished material you cannot share.
+The handbook is maintained as a living edition. You can [suggest an improvement](contributions/index.qmd), or first read [how to make a useful suggestion](contributions/how-to-help.qmd). Do not submit confidential research data, identifiable personal information, private correspondence, complaints casework, or unpublished material you cannot share.
+
+The project's questions, priorities and editorial decisions are human-led. AI tools assist with organising suggestions, research support, drafting, consistency checks and technical production. [Read how human judgement and AI assistance are separated](contributions/ai-and-editorial-practice.qmd).

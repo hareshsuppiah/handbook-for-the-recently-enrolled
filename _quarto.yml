@@ -5,7 +5,9 @@ project:
 book:
   title: "The Handbook for the Recently Enrolled"
   subtitle: "An Operating Manual for Graduate Researchers"
-  author: "Haresh Suppiah"
+  author:
+    - name: "Haresh Suppiah"
+      roles: ["Project lead", "Founding editor"]
   date: last-modified
   favicon: assets/favicon.svg
   site-url: https://hareshsuppiah.github.io/handbook-for-the-recently-enrolled/
@@ -156,6 +158,8 @@ book:
       chapters:
         - support.qmd
         - contributions/index.qmd
+        - contributions/how-to-help.qmd
+        - contributions/ai-and-editorial-practice.qmd
     - references.qmd
 
 bibliography: references.bib
@@ -182,4 +186,4 @@ format:
     documentclass: scrreprt
 
 language:
-  title-block-author-single: "Author"
+  title-block-author-single: "Project lead and founding editor"

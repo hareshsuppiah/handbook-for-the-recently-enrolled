@@ -4,7 +4,7 @@
 |---|---|---|---|---|
 | DEC-001 | 2026-08-28 | Use **The Handbook for the Recently Enrolled** as the exact title. | This is the confirmed title, not a placeholder. | Settled |
 | DEC-002 | 2026-08-28 | Use **An Operating Manual for Graduate Researchers** as the subtitle. | Preserves the serious purpose beneath the light title. | Settled |
-| DEC-003 | 2026-08-28 | Credit **Haresh Suppiah** as founding author and editor. | Contributions are acknowledged under a documented policy and do not automatically confer authorship. | Settled |
+| DEC-003 | 2026-08-28 | Credit **Haresh Suppiah** as project lead and founding editor. | This replaces sole-author language and supports a living work with many credited contributors. Contributions are acknowledged under a documented policy and do not automatically confer authorship. | Superseded wording settled |
 | DEC-004 | 2026-08-28 | Build a broad beta. | Every part receives meaningful content; priority areas receive complete treatment. | Settled |
 | DEC-005 | 2026-08-28 | Make the repository public from the first pushed commit. | Development remains transparent while unfinished pages are clearly labelled. | Settled |
 | DEC-006 | 2026-08-28 | Use `hareshsuppiah/handbook-for-the-recently-enrolled`. | Personal GitHub repository selected. | Settled |
@@ -23,6 +23,9 @@
 | DEC-023 | 2026-08-28 | Replace the cream, oxblood and serif reading theme with a black-on-white sans-serif system modelled on the reading structure of *R for the Rest of Us*. | The original illustrated cover remains, but the website interface should feel current, quiet and legible rather than like an aged manual. | Settled |
 | DEC-024 | 2026-08-28 | Use one reader-facing feedback form rather than a GitHub template chooser. | The form still classifies content, correction, evidence, accessibility and local-adaptation feedback. The direct link avoids unnecessary software-development language; GitHub's fixed "Create new issue" heading cannot be renamed. | Settled |
 | DEC-025 | 2026-08-28 | Organise operational checklists around consequential pause points rather than treating day one, first week, 30 days and 90 days as equivalent checklist products. | Calendar-based orientation remains guidance within chapters. The published checklist system now concentrates on moments such as study commitment, ethics submission, data collection, analysis, write-up, manuscript submission, thesis submission and handover, where omissions can still be caught before consequential work proceeds. | Settled |
+| DEC-026 | 2026-08-28 | Describe the publication as **human-led and AI-assisted**. | Human contributors supply questions, experience, evidence, judgement and editorial decisions. AI may assist with collection, drafting, editing and production, but does not independently determine truth, authorship or publication. | Settled |
+| DEC-027 | 2026-08-28 | Use one plain-language **Suggest an improvement** route for readers. | The route covers missing material, corrections, proposed removals, sources, contextual boundaries and barriers to reading or access. It does not describe the handbook merely as a website. | Settled |
+| DEC-028 | 2026-08-28 | Build a separate owner-facing editorial dashboard over the GitHub record. | Haresh should be able to approve, decline, defer or request evidence without navigating developer-oriented repository screens. Approval prepares and, when securely authorised, assigns the issue to GitHub Copilot; publication remains a separate human decision. | Settled |
 
 ## Pending owner-supplied settings
 

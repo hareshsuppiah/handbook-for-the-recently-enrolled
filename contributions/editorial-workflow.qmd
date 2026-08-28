@@ -6,7 +6,7 @@ The GitHub issue is the public editorial record. It holds the reader's suggestio
 
 ## The approval rule
 
-Only Haresh Suppiah can approve implementation. He approves an issue by posting the exact comment `/approve` or applying the label `decision: approved`. The workflow ignores an approval command posted by anyone else.
+Only Haresh Suppiah can make an editorial decision. He approves an issue by posting the exact comment `/approve` or applying the label `decision: approved`. He can decline it by posting `/decline` followed by a short reason. The workflow ignores these commands when they are posted by anyone else.
 
 That label allows an agent or maintainer to prepare a change. It does not approve the wording, merge a pull request or publish the handbook.
 
@@ -16,14 +16,14 @@ That label allows an agent or maintainer to prepare a change. It does not approv
 2. **Checked:** an editor removes or protects private material, checks for duplicates and identifies the affected pages and resources.
 3. **Assessed:** the evidence, scope, risk and local-policy boundaries are recorded.
 4. **Decided:** Haresh approves, requests evidence, defers, declines, marks a duplicate or classifies the suggestion as a local adaptation.
-5. **Assigned:** after approval, Haresh assigns the issue to a coding agent or maintainer. The issue title, body and current comments become the work brief.
+5. **Assigned:** after approval, the workflow prepares a bounded agent brief. When the project lead's Copilot credential is configured, approval also assigns the issue to GitHub Copilot. Otherwise the issue remains visibly ready for manual assignment.
 6. **Drafted and tested:** the assignee works on a branch and opens a pull request linked to the approved issue. The pull request must describe the evidence used, files changed, checks run and limitations.
 7. **Reviewed:** Haresh reviews the actual change and may request revisions.
 8. **Released:** Haresh merges the pull request. The issue is linked to the published change and closed with the outcome.
 
 ## Agent options
 
-If GitHub Copilot coding agent is enabled, Haresh can assign the approved issue to Copilot from the issue's **Assignees** menu. Copilot then works on a branch and opens a pull request for review.
+If GitHub Copilot coding agent and its owner-authorised project credential are enabled, `/approve` assigns the approved issue to Copilot. Copilot then works on a branch and opens a pull request for review. Without that credential, the same issue can still be assigned from the **Assignees** menu.
 
 For Codex, Haresh can give Codex the approved issue URL and say: `Implement this approved handbook issue and return a tested pull request. Do not merge it.` Codex must confirm that the issue has the `decision: approved` label before changing files.
 

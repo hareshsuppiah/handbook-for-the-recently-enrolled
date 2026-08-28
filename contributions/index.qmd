@@ -1,12 +1,14 @@
 ---
-title: "Share feedback"
+title: "Suggest an improvement"
 ---
 
-Tell Haresh what you were trying to find, what was missing or unclear, or what could cause an avoidable mistake. You do not need to edit the handbook, propose replacement wording or understand GitHub.
+You may notice a question we have missed, advice that needs correcting, a section that no longer earns its place, or a source that would make the handbook stronger. You do not need to edit the handbook or arrive with finished wording. Tell us what a graduate researcher needs and why it matters.
 
-[Share feedback](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/issues/new?template=share-feedback.yml){.btn .btn-primary}
+[Suggest an improvement](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/issues/new?template=share-feedback.yml){.btn .btn-primary}
 
-A no-GitHub form will be added when Haresh approves its URL. Until then, the form is hosted by GitHub and requires a free GitHub account. GitHub may display its own platform heading above the form.
+The current form is hosted by GitHub and requires a free GitHub account. GitHub calls a suggestion an “issue”, but you are not reporting a software bug and you will not be asked to change the book yourself. A simpler form without a GitHub login is planned.
+
+Not sure what to write? Read the [short guide with worked examples](how-to-help.qmd).
 
 ## Before submitting
 
@@ -16,9 +18,10 @@ Do not include identifiable personal information, participant data, private corr
 
 - a graduate-research question or situation the handbook does not answer;
 - an inaccurate, unclear or potentially misleading passage;
+- a section that should be shortened, combined, replaced or removed;
 - a missing checklist, template, example or decision aid;
 - an authoritative source relevant to a handbook claim;
-- a problem reading, navigating or using the website;
+- a barrier that makes the handbook difficult to read, navigate or access;
 - a local rule or practice that needs a clearer boundary.
 
 Submit one feedback record for each distinct problem. Describe the problem without trying to rewrite the page yourself.
@@ -27,11 +30,11 @@ Submit one feedback record for each distinct problem. Describe the problem witho
 
 1. The feedback is checked for private information, duplicates and existing coverage.
 2. The evidence, scope, likely consequence and local-policy boundaries are reviewed.
-3. Haresh decides whether the suggestion is approved, needs more evidence, is deferred, duplicates existing work or is outside the handbook's scope.
+3. Haresh, as project lead and founding editor, decides whether the suggestion is approved, needs more evidence, is deferred, duplicates existing work or is outside the handbook's scope.
 4. Approved improvements are researched, drafted and tested.
 5. Haresh reviews the actual change before deciding whether to publish it.
 
-Sending feedback does not approve an automatic change. Haresh remains responsible for the editorial decision and final publication.
+Approval authorises an AI agent or maintainer to prepare a proposed change. It does not publish that change. Haresh reviews the actual wording and evidence before anything is released.
 
 ## Credit
 

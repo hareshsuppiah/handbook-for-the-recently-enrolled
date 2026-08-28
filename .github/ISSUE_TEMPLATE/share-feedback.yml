@@ -1,5 +1,5 @@
-name: Share feedback about the handbook
-description: Tell Haresh what you were trying to find, what was missing or unclear, or what could cause a mistake.
+name: Suggest an improvement to the handbook
+description: Share a missing question, correction, proposed removal, useful resource or clearer way to help graduate researchers.
 title: "[Reader feedback] "
 labels: ["type: reader-feedback", "status: needs-triage"]
 body:
@@ -15,10 +15,11 @@ body:
       label: What would you like to tell us?
       options:
         - A question or situation is missing
-        - Something is unclear or may be wrong
+        - Something is unclear, wrong or potentially misleading
+        - Something should be shortened, combined, replaced or removed
         - A checklist, template or example is missing
         - I found a useful source or piece of evidence
-        - The website was difficult to read, navigate or use
+        - The handbook was difficult to read, navigate or access
         - A local rule or practice needs clearer boundaries
         - Something else
     validations:
@@ -33,8 +34,8 @@ body:
   - type: textarea
     id: current_problem
     attributes:
-      label: What was missing, unclear, wrong or difficult to use?
-      description: Include a page link if you have one. You do not need to propose replacement wording.
+      label: What should be added, corrected, reconsidered or removed?
+      description: Include a page link or section heading if you have one. You do not need to propose replacement wording.
     validations:
       required: true
   - type: textarea
@@ -67,7 +68,7 @@ body:
     id: evidence
     attributes:
       label: Optional source or example
-      description: Link material you are allowed to share and explain why it is relevant. Do not paste confidential or copyrighted material.
+      description: Link material you are allowed to share, explain why it is relevant, and say whether it applies generally or only in a particular context. Do not paste confidential or copyrighted material.
   - type: dropdown
     id: credit
     attributes:

@@ -2,7 +2,7 @@
 
 ## Editorial authority
 
-Haresh Suppiah is the founding author, editor, and final decision-maker for the broad beta. Editorial decisions must remain traceable to a question, evidence, requirement, or documented product decision.
+Haresh Suppiah is the project lead, founding editor, and final decision-maker for the broad beta. Editorial decisions must remain traceable to a question, evidence, requirement, or documented product decision.
 
 ## Review expectations
 
@@ -19,7 +19,7 @@ Record the competing positions, applicable contexts, evidence quality, uncertain
 
 Readers submit suggestions as GitHub issues; they are not expected to edit the handbook. Unsolicited pull requests are not the public contribution route.
 
-Only Haresh Suppiah can approve a suggestion for implementation. Approval is recorded by posting the exact comment `/approve` or applying the `decision: approved` label. The workflow ignores approval commands from other users. An approval authorises an agent or maintainer to prepare a pull request. It does not authorise merging or publication.
+Only Haresh Suppiah can approve or decline a suggestion. Approval is recorded by posting the exact comment `/approve` or applying the `decision: approved` label. Decline is recorded with `/decline` followed by a concise reason. The workflow ignores decision commands from other users. An approval authorises an agent or maintainer to prepare a pull request. It does not authorise merging or publication.
 
 The implementation sequence is:
 
@@ -35,3 +35,9 @@ Suggestions may also be deferred, declined, marked as duplicates, treated as loc
 ## Credit
 
 Acknowledgement is distinct from authorship. Contributors choose whether they are named, acknowledged anonymously, or not credited publicly. Citation metadata is controlled editorially and is not automatically expanded for issue participation.
+
+## Human-led, AI-assisted production
+
+The handbook's purpose, questions, priorities, evidence standards and publication decisions remain human responsibilities. AI tools may assist with organising submissions, identifying connected material, research support, drafting, editing, consistency checks, software changes and quality assurance. AI output is never treated as a source of authority merely because it was generated fluently.
+
+Every AI-assisted change must remain traceable to an approved suggestion or editorial decision, disclose the evidence used, pass the project's checks, and be reviewed by a human before publication. Consequential guidance still requires appropriately qualified review. AI assistance does not make a tool an author and does not diminish the credit owed to people whose ideas, evidence or review materially improve the work.
