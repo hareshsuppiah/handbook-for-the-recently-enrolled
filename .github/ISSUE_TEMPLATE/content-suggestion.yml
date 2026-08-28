@@ -1,48 +1,76 @@
-name: Suggest a handbook improvement
-description: Suggest a question, correction, source, accessibility improvement or local adaptation.
-title: "[Suggestion]: "
-labels: ["needs-triage"]
+name: Suggest a missing question or resource
+description: Tell the editor about a missing question, topic, checklist, template, example or decision aid. No editing or coding is required.
+title: "[Content suggestion]: "
+labels: ["type: content", "status: needs-triage"]
 body:
   - type: markdown
     attributes:
       value: |
-        Do not include personal data, participant data, confidential research, private correspondence, complaints casework or credentials. Generalise and redact.
+        This issue will be public. Do not include personal data, participant data, confidential research, private correspondence, complaints casework, credentials or unpublished sensitive findings. Generalise and redact. You are suggesting a change; you are not being asked to edit the handbook.
+  - type: textarea
+    id: question
+    attributes:
+      label: What would the graduate researcher ask?
+      description: Write the question in the words a student might use.
+    validations:
+      required: true
   - type: dropdown
-    id: kind
+    id: phase
     attributes:
-      label: Type of suggestion
+      label: When might this arise?
       options:
-        - Student question or missing situation
-        - Correction
-        - Source or evidence
-        - Content improvement
-        - Accessibility improvement
-        - Local adaptation
+        - Before enrolment or starting
+        - First 90 days
+        - Choosing a topic or question
+        - Reviewing literature
+        - Designing the research
+        - Ethics, integrity or governance
+        - Collecting, managing or analysing data
+        - Using software, code, GitHub or AI
+        - Managing the project or supervision
+        - Writing, publishing or communicating
+        - Examination, corrections or completion
+        - Disruption, failure or feeling stuck
+        - More than one stage
+        - Unsure
     validations:
       required: true
   - type: textarea
-    id: situation
+    id: insufficiency
     attributes:
-      label: What problem would this solve?
-      description: Describe the general reader situation and the decision they need to make.
+      label: What is missing, unclear or wrong now?
+      description: Link the relevant page if there is one. Describe the gap or problem rather than editing the page yourself.
     validations:
       required: true
   - type: textarea
-    id: location
+    id: risk
     attributes:
-      label: Where does it belong?
-      description: Link the page or name the relevant Part, chapter, checklist, template or stuck pathway.
-  - type: textarea
-    id: proposal
-    attributes:
-      label: Suggested change
+      label: What could happen if this is not addressed?
+      description: Describe the likely confusion, error, wasted effort or harm. Say "low risk" if the change is minor.
     validations:
       required: true
+  - type: textarea
+    id: variations
+    attributes:
+      label: Who or what kind of project might be affected?
+      description: For example, part-time students, laboratory projects, qualitative studies, international candidates or a particular jurisdiction.
+  - type: checkboxes
+    id: aid
+    attributes:
+      label: What might help?
+      description: Select any that apply. The editor will decide the final form.
+      options:
+        - label: A clearer explanation
+        - label: A checklist
+        - label: A template
+        - label: A worked example
+        - label: A decision aid or "I'm stuck" pathway
+        - label: A source or further reading
   - type: textarea
     id: evidence
     attributes:
-      label: Supporting evidence
-      description: Provide an official or primary source where possible and explain what claim it supports.
+      label: Optional evidence or example
+      description: Link an official, primary or peer-reviewed source if you have one and say what it supports. Do not paste copyrighted or confidential material.
   - type: dropdown
     id: credit
     attributes:
@@ -61,4 +89,3 @@ body:
       options:
         - label: I have removed personal, confidential, security-sensitive and unpublished material that I cannot share.
           required: true
-

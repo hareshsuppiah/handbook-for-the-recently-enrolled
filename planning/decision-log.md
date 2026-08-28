@@ -17,6 +17,9 @@
 | DEC-012 | 2026-08-28 | Keep the core institution-neutral. | Institution, jurisdiction, discipline, and method-specific guidance must be clearly bounded. | Settled |
 | DEC-013 | 2026-08-28 | Keep the raw conversation source private initially. | Preserve it in the Dropbox project but exclude it from the public repository until privacy review and owner approval. | Settled |
 | DEC-014 | 2026-08-28 | Treat the full Version 2 source brief as permanent authority. | Shorter plans and drafts cannot silently weaken or replace it. | Settled |
+| DEC-020 | 2026-08-28 | Readers submit suggestions as issues rather than editing the handbook directly. | The public contribution route captures questions, problems, corrections, sources and accessibility reports without asking readers to fork the repository or prepare pull requests. This later explicit decision supersedes the earlier optional direct-edit route in the source brief. | Settled |
+| DEC-021 | 2026-08-28 | Haresh approves implementation by applying `decision: approved`. | Only an owner-controlled label authorises agent or maintainer work. Approval creates an auditable handoff but does not authorise merge or publication. | Settled |
+| DEC-022 | 2026-08-28 | Approved work returns as a linked pull request for Haresh's review. | An agent may research, draft and test the change, but Haresh decides whether it is revised, merged and released. No reader suggestion is executed automatically. | Settled |
 
 ## Pending owner-supplied settings
 

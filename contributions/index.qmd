@@ -2,19 +2,39 @@
 title: "Suggest an improvement"
 ---
 
-You can suggest a student question, correction, source, content improvement, accessibility fix or local adaptation. A no-GitHub form will be added when the editor approves its URL. Until then, use the repository’s plain-language issue forms or propose a direct edit by pull request.
+You do not need to edit the handbook. Tell us what a graduate researcher might ask, what is missing or unclear, or what could cause an avoidable mistake.
+
+[Choose a suggestion form](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/issues/new/choose){.btn .btn-primary}
+
+A no-GitHub form will be added when Haresh approves its URL. Until then, the GitHub form is the public submission route. You need a free GitHub account, but you do not need to fork the repository, use the command line or write code.
 
 ## Before submitting
 
 Do not include identifiable personal information, participant data, private correspondence, complaints casework, confidential research, unpublished results you cannot share, credentials or security-sensitive details. Describe the general problem and redact specifics.
 
+## What you can suggest
+
+- [Missing question or content](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/issues/new?template=content-suggestion.yml): a student question, situation, checklist, template, example or decision aid the handbook does not cover;
+- [Correction or unclear passage](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/issues/new?template=correction.yml): something inaccurate, unclear, broken or potentially misleading;
+- [Source or evidence](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/issues/new?template=source-suggestion.yml): an authoritative source relevant to a handbook claim;
+- [Accessibility or technical problem](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/issues/new?template=accessibility-or-technical.yml): a problem using, reading or navigating the site;
+- [Local adaptation](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/issues/new?template=local-adaptation.yml): a practice that applies only to a particular institution, jurisdiction, discipline or method.
+
+Submit one issue for each distinct suggestion. You may describe the problem without proposing the wording that should replace it.
+
 ## What happens next
 
-`submitted → privacy check → duplicate and coverage check → evidence review → decision → drafting → review → release → contributor notified`
+1. The issue is checked for private information, duplicates and existing coverage.
+2. Evidence and scope are checked. The issue may be labelled `needs evidence` or `awaiting owner decision`.
+3. Haresh records the decision. Only the `decision: approved` label authorises work.
+4. An assigned agent or maintainer researches and drafts the change in a pull request.
+5. Haresh reviews the pull request. He may request changes, merge it or stop the work.
+6. Merging to `main` publishes the change through the handbook's release process.
 
-Suggestions may be accepted, merged with an existing request, deferred, treated as a local adaptation, held for more evidence, or declined with a public reason. Submission does not guarantee inclusion.
+Approval does not mean automatic publication. The issue records the suggestion and decision; the pull request records the proposed change and review.
+
+See [the editorial and agent workflow](editorial-workflow.qmd) for the exact approval rule.
 
 ## Credit
 
-You may request named credit, organisational credit, pseudonymous credit or no public credit. Contributions are accepted under the applicable project licence described in [how to contribute](../contributing.qmd).
-
+You may request named credit, organisational credit, pseudonymous credit or no public credit. Submitting an issue does not automatically make someone an author of the handbook.

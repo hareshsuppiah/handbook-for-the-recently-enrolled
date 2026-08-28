@@ -2,11 +2,11 @@
 title: "How to contribute"
 ---
 
-The simplest route is the [plain-language suggestion page](contributions/index.qmd). Direct edits are also welcome through pull requests.
+Use the [plain-language suggestion page](contributions/index.qmd). Readers submit a question, problem or proposed improvement. They are not expected to edit files or prepare a pull request.
 
 ## What makes a useful contribution
 
-Describe the reader’s situation, the decision or failure mode, where the change belongs, the proposed improvement and any supporting evidence. Prefer official, primary and peer-reviewed sources. State jurisdiction, limitations and review date for time-sensitive guidance.
+Describe the reader’s situation, the decision or failure mode, where the change belongs, the proposed improvement and any supporting evidence. An editor will check the source, scope and implications before deciding whether work should begin.
 
 ## Privacy and licensing
 
@@ -14,4 +14,4 @@ Do not contribute confidential, identifiable, restricted or security-sensitive m
 
 ## Editorial outcomes
 
-The founding editor may accept, merge, defer, request evidence, classify as a local adaptation, or decline a suggestion. Decisions should be explained and connected to the community-request and editorial records.
+Haresh may approve, defer, request evidence, mark as a duplicate, classify as a local adaptation, decline or close a suggestion as out of scope. Only an approved issue can become agent work. The agent prepares a pull request, which Haresh reviews before anything is merged or published.

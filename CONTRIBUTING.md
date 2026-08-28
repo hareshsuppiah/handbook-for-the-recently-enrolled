@@ -1,8 +1,10 @@
-# Contributing
+# Suggesting an improvement
 
 You do not need to know Git, GitHub, or coding to help improve this handbook.
 
-You can suggest:
+Readers suggest changes through a public GitHub issue. Readers are not asked to edit the handbook, fork the repository, use the command line, or prepare a pull request.
+
+You can report:
 
 - a question a graduate researcher might ask;
 - a missing topic, checklist, template, or example;
@@ -15,14 +17,14 @@ You can suggest:
 
 GitHub issues and discussions are public. Do not include participant data, confidential supervision material, personal information, credentials, unpublished sensitive findings, or identifying information about another person.
 
-## Ways to contribute
+## How to submit a suggestion
 
 1. **Without GitHub:** an owner-approved feedback form will be linked when available.
-2. **Simple GitHub suggestion:** choose the relevant structured issue form and answer its plain-language questions.
-3. **Open-ended discussion:** use Discussions if enabled; maintainers transfer actionable work into an issue.
-4. **Direct edit:** experienced contributors may propose a pull request.
+2. **With GitHub:** choose the relevant [plain-language suggestion form](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/issues/new/choose). One issue should describe one question, problem or proposed improvement.
 
-## Evidence and writing standard
+Unsolicited pull requests are not the public contribution route. A pull request is created only after Haresh approves an issue and assigns the work to an agent or maintainer.
+
+## What makes a useful suggestion
 
 - Preserve the student's question in natural language.
 - Cite real sources and identify the claim they support.
@@ -32,9 +34,12 @@ GitHub issues and discussions are public. Do not include participant data, confi
 - Keep checklists short and attached to a meaningful pause point.
 - Maintain accessibility and institution-neutrality.
 
-## Editorial process
+## What happens after submission
 
-Submission → privacy check → duplicate and coverage check → classification → evidence review → decision → drafting → review → release → contributor notified.
+Submission → privacy and duplicate check → evidence check → Haresh's decision → agent work → Haresh's review → release or revision.
 
-Contributions are accepted under the licence that applies to the material: CC BY 4.0 for prose and reusable non-code content, and MIT for code or configuration.
+Only Haresh can approve a suggestion. Approval is recorded with the `decision: approved` label. Approval allows an agent or maintainer to prepare a pull request; it does not publish a change. Haresh must review and merge the pull request before the public handbook changes.
 
+Possible decisions are approved, needs evidence, deferred, duplicate, local adaptation, declined, or out of scope. The issue remains the public record of the suggestion and its outcome.
+
+Suggestions do not transfer copyright in material that is merely linked or quoted. Text or code accepted into the handbook is governed by the repository licences: CC BY 4.0 for prose and reusable non-code content, and MIT for code or configuration.

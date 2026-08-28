@@ -10,7 +10,8 @@ book:
   favicon: assets/favicon.svg
   site-url: https://hareshsuppiah.github.io/handbook-for-the-recently-enrolled/
   repo-url: https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled
-  repo-actions: [edit, source, issue]
+  issue-url: https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/issues/new/choose
+  repo-actions: [source, issue]
   sharing: [linkedin]
   reader-mode: true
   page-navigation: true
@@ -91,6 +92,7 @@ book:
         - support.qmd
         - contributing.qmd
         - contributions/index.qmd
+        - contributions/editorial-workflow.qmd
     - references.qmd
 
 bibliography: references.bib

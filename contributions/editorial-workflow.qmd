@@ -1,0 +1,42 @@
+---
+title: "How suggestions become handbook changes"
+---
+
+The GitHub issue is the public editorial record. It holds the reader's suggestion, the evidence check, Haresh's decision, the implementation link and the final outcome.
+
+## The approval rule
+
+Only Haresh Suppiah can approve implementation. He approves an issue by applying the label `decision: approved`.
+
+That label allows an agent or maintainer to prepare a change. It does not approve the wording, merge a pull request or publish the handbook.
+
+## The workflow
+
+1. **Submitted:** a reader completes the suggestion form.
+2. **Checked:** an editor removes or protects private material, checks for duplicates and identifies the affected pages and resources.
+3. **Assessed:** the evidence, scope, risk and local-policy boundaries are recorded.
+4. **Decided:** Haresh approves, requests evidence, defers, declines, marks a duplicate or classifies the suggestion as a local adaptation.
+5. **Assigned:** after approval, Haresh assigns the issue to a coding agent or maintainer. The issue title, body and current comments become the work brief.
+6. **Drafted and tested:** the assignee works on a branch and opens a pull request linked to the approved issue. The pull request must describe the evidence used, files changed, checks run and limitations.
+7. **Reviewed:** Haresh reviews the actual change and may request revisions.
+8. **Released:** Haresh merges the pull request. The issue is linked to the published change and closed with the outcome.
+
+## Agent options
+
+If GitHub Copilot coding agent is enabled, Haresh can assign the approved issue to Copilot from the issue's **Assignees** menu. Copilot then works on a branch and opens a pull request for review.
+
+For Codex, Haresh can give Codex the approved issue URL and say: `Implement this approved handbook issue and return a tested pull request. Do not merge it.` Codex must confirm that the issue has the `decision: approved` label before changing files.
+
+Agent access is deliberately downstream of the editorial decision. Reader-submitted text is treated as untrusted input until the privacy, evidence and scope checks are complete.
+
+## Status labels
+
+- `status: needs-triage`: submitted and awaiting an initial check;
+- `status: needs-evidence`: more support or clarification is required;
+- `status: awaiting-owner-decision`: ready for Haresh's decision;
+- `decision: approved`: implementation is authorised;
+- `decision: deferred`, `decision: declined` or `decision: duplicate`: the recorded editorial outcome;
+- `work: agent-ready`: approved and ready to assign;
+- `work: in-progress`: an agent or maintainer is preparing a change;
+- `work: owner-review`: a pull request is ready for Haresh;
+- `work: released`: the accepted change has been published.

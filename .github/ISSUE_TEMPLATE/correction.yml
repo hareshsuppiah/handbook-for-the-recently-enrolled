@@ -1,0 +1,49 @@
+name: Report a correction or unclear passage
+description: Point out something inaccurate, unclear, broken or potentially misleading. You do not need to rewrite it.
+title: "[Correction]: "
+labels: ["type: correction", "status: needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This issue will be public. Do not include personal data, participant data, confidential research, private correspondence, complaints casework, credentials or unpublished sensitive findings. Generalise and redact.
+  - type: input
+    id: page
+    attributes:
+      label: Which page contains the problem?
+      description: Paste the public page link or name the chapter or resource.
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is inaccurate, unclear, broken or potentially misleading?
+      description: Quote only the short passage needed to identify the problem.
+    validations:
+      required: true
+  - type: textarea
+    id: consequence
+    attributes:
+      label: How might this affect a reader?
+      description: Describe the likely misunderstanding, error or harm. Say "minor" if it is a small correction.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Optional supporting source
+      description: Link an official, primary or peer-reviewed source and say what it supports.
+  - type: dropdown
+    id: credit
+    attributes:
+      label: Credit preference
+      options: [Named credit, Organisational credit, Pseudonymous credit, No public credit]
+    validations:
+      required: true
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Privacy check
+      options:
+        - label: I have removed personal, confidential, security-sensitive and unpublished material that I cannot share.
+          required: true
