@@ -4,12 +4,13 @@ $body-color: #171717;
 $link-color: #111111;
 $sidebar-bg: #ffffff;
 $toc-color: #525252;
-$font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-$headings-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+$font-family-sans-serif: "IBM Plex Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+$headings-font-family: "IBM Plex Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
 $border-color: #dedede;
 $grid-sidebar-width: 320px;
 
 /*-- scss:rules --*/
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,700;1,400&display=swap");
 :root {
   --page: #ffffff;
   --ink: #171717;
@@ -25,7 +26,7 @@ body {
   background: var(--page);
   color: var(--ink);
   font-size: 1rem;
-  line-height: 1.65;
+  line-height: 1.58;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -65,7 +66,7 @@ body {
 .sidebar-item-section > .sidebar-item-container .sidebar-item-text {
   color: var(--ink);
   font-family: inherit;
-  font-weight: 650;
+  font-weight: 500;
 }
 
 .sidebar-item a:hover .sidebar-item-text,
@@ -73,28 +74,32 @@ body {
   color: #000000;
 }
 
-.content { max-width: 760px; }
+.content { max-width: 720px; }
 #TOC { width: 100%; }
-.page-columns { column-gap: 2.25rem; }
+.page-columns { column-gap: 1.5rem; }
+
+#quarto-header .quarto-secondary-nav {
+  display: none !important;
+}
 
 h1, h2, h3 {
   color: var(--ink);
   font-family: inherit;
-  font-weight: 720;
-  letter-spacing: -.025em;
+  font-weight: 700;
+  letter-spacing: -.018em;
   text-wrap: balance;
 }
 
 h1 {
   border: 0;
-  font-size: clamp(2.1rem, 4vw, 2.75rem);
-  line-height: 1.12;
-  margin-bottom: 1.4rem;
+  font-size: clamp(2rem, 3.3vw, 2.6rem);
+  line-height: 1.14;
+  margin-bottom: 1.25rem;
   padding: 0;
 }
 
 h2 {
-  font-size: 1.65rem;
+  font-size: 1.55rem;
   line-height: 1.25;
   margin-top: 3rem;
 }
@@ -105,7 +110,7 @@ h3 {
   margin-top: 2rem;
 }
 
-p, li { max-width: 72ch; }
+p, li { max-width: 70ch; }
 
 a {
   color: #111111;
@@ -188,37 +193,93 @@ a:hover {
   #quarto-margin-sidebar { width: 250px; }
 }
 
-@media (max-width: 991px) {
+@media (min-width: 768px) and (max-width: 991px) {
   body { font-size: 1rem; }
-  .content { max-width: 100%; }
-  h1 { font-size: 2.15rem; }
+  .content { max-width: 680px; }
+  h1 { font-size: 2.1rem; }
 
-  #quarto-margin-sidebar {
+  #quarto-sidebar {
+    bottom: 0 !important;
+    display: flex !important;
+    flex-direction: column !important;
+    left: 0 !important;
+    position: fixed !important;
+    top: 0 !important;
+    transform: none !important;
+    visibility: visible !important;
+    width: 250px !important;
+  }
+
+  #quarto-sidebar .sidebar-header {
     display: none !important;
   }
 
-  #quarto-header .quarto-secondary-nav {
-    background: #ffffff;
-    border-bottom: 1px solid var(--rule);
+  #quarto-sidebar .sidebar-search {
+    display: block !important;
   }
 
-  #quarto-header .quarto-btn-toggle {
-    align-items: center;
-    color: var(--ink);
-    display: inline-flex;
-    gap: .45rem;
-    min-height: 44px;
-    padding: .45rem .75rem;
+  #quarto-sidebar .tablet-cover-link {
+    display: block;
+    flex: 0 0 auto;
+    padding: 1rem 1rem .75rem;
   }
 
-  #quarto-header .compact-contents-label {
+  #quarto-sidebar .tablet-cover-link img {
+    display: block;
+    height: auto;
+    margin: 0 auto;
+    width: 190px;
+  }
+
+  #quarto-sidebar .sidebar-menu-container {
+    display: block !important;
+    flex: 1 1 auto;
+    overflow-x: hidden;
+    padding: 0 1rem 2rem !important;
+    position: static !important;
+    visibility: visible !important;
+  }
+
+  #quarto-sidebar .aa-DetachedSearchButton {
+    border: 1px solid var(--rule);
+    border-radius: 4px;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin: 0 1rem 1rem;
+    min-height: 42px;
+    padding: .5rem .65rem;
+    width: calc(100% - 2rem);
+  }
+
+  #quarto-sidebar .aa-DetachedSearchButton::after {
+    color: var(--muted);
+    content: "Search this book";
     font-size: .9rem;
-    font-weight: 650;
+    margin-left: .5rem;
   }
 
-  #quarto-header .quarto-search-button {
-    min-height: 44px;
-    min-width: 44px;
+  #quarto-content.page-columns {
+    bottom: 0 !important;
+    display: block !important;
+    left: 250px !important;
+    margin: 0 !important;
+    overflow-y: auto !important;
+    padding: 0 1.5rem 3rem !important;
+    position: fixed !important;
+    right: 0 !important;
+    top: 0 !important;
+    width: auto !important;
+  }
+
+  #quarto-document-content {
+    margin: 0 !important;
+    max-width: none !important;
+    padding: 1.5rem 0 0 !important;
+    width: auto !important;
+  }
+
+  #quarto-margin-sidebar {
+    display: none !important;
   }
 
   #quarto-sidebar .sidebar-item-container {
@@ -243,7 +304,7 @@ a:hover {
     position: static;
   }
 
-  .compact-page-contents #toc-title {
+  .compact-page-contents #compact-toc-title {
     font-size: 1rem;
     font-weight: 700;
     margin: 0 0 .55rem;
@@ -270,9 +331,31 @@ a:hover {
   }
 }
 
-@media (max-width: 575px) {
-  #quarto-header .quarto-page-breadcrumbs {
-    display: none;
+@media (max-width: 767px) {
+  body { font-size: 1rem; }
+  .content { max-width: 100%; }
+  h1 { font-size: 2rem; }
+
+  .book-contents-button {
+    align-items: center;
+    background: #ffffff;
+    border: 1px solid var(--rule);
+    border-radius: 4px;
+    color: var(--ink);
+    display: inline-flex;
+    font: inherit;
+    font-size: .9rem;
+    font-weight: 500;
+    left: .75rem;
+    min-height: 44px;
+    padding: .55rem .75rem;
+    position: fixed;
+    top: .75rem;
+    z-index: 1060;
+  }
+
+  #quarto-content {
+    padding-top: 3.75rem !important;
   }
 
   .compact-page-contents ul {

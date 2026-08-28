@@ -8,7 +8,7 @@ The cover remains a distinct illustrative asset. Haresh approved concept C, the 
 
 ## Reading contract
 
-The book is for sustained reading and practical use. The interface should disappear behind the content. The left rail is approximately 320 px with the cover and local search. The main text is approximately 760 px. The right rail is approximately 250 px and provides a sticky local index titled “On this page”. At compact and mobile widths, an explicitly labelled **Contents** control opens the full book-navigation drawer and the chapter's **On this page** links remain visible inline below the title. The reading column uses the available width without horizontal clipping.
+The book is for sustained reading and practical use. The interface should disappear behind the content. The left rail is approximately 320 px with the cover and local search. The main text is approximately 720 px. The right rail is approximately 220 px and provides a sticky local index titled “On this page”. At tablet widths, the full book contents remain permanently visible in a narrower left rail and the chapter contents appear expanded below the title. The compact Quarto dropdown bars are never shown. On a phone, where a permanent 100-page rail cannot coexist with readable text, a small **Book contents** button opens the navigation drawer and the chapter contents remain expanded below the title. The reading column uses the available width without horizontal clipping.
 
 The sidebar contains no social, repository or reader-mode icon row. Reader feedback is reached through a clearly labelled page in the book.
 
@@ -22,7 +22,7 @@ The sidebar contains no social, repository or reader-mode icon row. Reader feedb
 - Link: `#111111`
 - Focus: `#111111`
 
-Headings, body copy and interface labels use the native system sans-serif stack. Headings are bold with restrained negative tracking. Links are black with visible grey underlines. Shadows are absent. Rules are neutral grey. Corners are modest and never pill-shaped. The illustrated cover is the only deliberately atmospheric element.
+Headings, body copy and interface labels use IBM Plex Sans with the native system stack as fallback, matching the reference book's lighter, more open reading texture. Headings use 700 weight with restrained negative tracking. Links are black with visible grey underlines. Shadows are absent. Rules are neutral grey. Corners are modest and never pill-shaped. The illustrated cover is the only deliberately atmospheric element.
 
 ## Cover assets
 

@@ -162,6 +162,12 @@ bibliography: references.bib
 
 format:
   html:
+    page-layout: full
+    grid:
+      sidebar-width: 320px
+      body-width: 720px
+      margin-width: 220px
+      gutter-width: 1.5rem
     theme:
       light: [cosmo, styles.scss]
     toc: true

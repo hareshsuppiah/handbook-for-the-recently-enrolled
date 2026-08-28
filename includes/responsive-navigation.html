@@ -1,21 +1,45 @@
 <script>
 document.addEventListener("DOMContentLoaded", () => {
   const toggle = document.querySelector("#quarto-header .quarto-btn-toggle");
-  if (toggle) {
-    toggle.setAttribute("aria-label", "Open book contents");
+  const mobile = window.matchMedia("(max-width: 767px)");
+  const tablet = window.matchMedia("(min-width: 768px) and (max-width: 991px)");
+  const sidebar = document.querySelector("#quarto-sidebar");
+  const logo = sidebar?.querySelector(".sidebar-logo");
 
-    const label = document.createElement("span");
-    label.className = "compact-contents-label";
-    label.textContent = "Contents";
-    toggle.appendChild(label);
+  const updateBookNavigation = () => {
+    document.querySelector(".book-contents-button")?.remove();
+    document.querySelector(".tablet-cover-link")?.remove();
 
-    toggle.addEventListener("click", () => {
-      window.setTimeout(() => {
-        const expanded = toggle.getAttribute("aria-expanded") === "true";
-        toggle.setAttribute("aria-label", expanded ? "Close book contents" : "Open book contents");
-      }, 0);
-    });
-  }
+    if (tablet.matches) {
+      sidebar?.classList.add("show");
+      if (sidebar && logo) {
+        const coverLink = document.createElement("a");
+        coverLink.className = "tablet-cover-link";
+        coverLink.href = logo.closest("a")?.href || "./index.html";
+
+        const cover = document.createElement("img");
+        cover.src = logo.src;
+        cover.alt = "The handbook cover";
+        coverLink.appendChild(cover);
+        sidebar.prepend(coverLink);
+      }
+    } else if (mobile.matches) {
+      sidebar?.classList.remove("show");
+      if (toggle) {
+        const button = document.createElement("button");
+        button.className = "book-contents-button";
+        button.type = "button";
+        button.textContent = "Book contents";
+        button.setAttribute("aria-label", "Open book contents");
+        button.addEventListener("click", () => toggle.click());
+        document.body.appendChild(button);
+      }
+    }
+  };
+
+  updateBookNavigation();
+  mobile.addEventListener("change", updateBookNavigation);
+  tablet.addEventListener("change", updateBookNavigation);
 
   const media = window.matchMedia("(max-width: 991px)");
 
@@ -28,18 +52,34 @@ document.addEventListener("DOMContentLoaded", () => {
 
     if (existing) return;
 
-    const source = document.querySelector("#TOC");
     const main = document.querySelector("#quarto-document-content");
-    if (!source || !main) return;
+    if (!main) return;
 
     const contents = document.createElement("aside");
     contents.className = "compact-page-contents";
     contents.setAttribute("aria-label", "On this page");
 
-    const clone = source.cloneNode(true);
-    clone.removeAttribute("id");
-    clone.querySelectorAll("[id]").forEach((element) => element.removeAttribute("id"));
-    contents.appendChild(clone);
+    const navigation = document.createElement("nav");
+    const heading = document.createElement("div");
+    heading.id = "compact-toc-title";
+    heading.textContent = "On this page";
+    navigation.setAttribute("aria-labelledby", heading.id);
+    navigation.appendChild(heading);
+
+    const list = document.createElement("ul");
+    main.querySelectorAll("h2, h3").forEach((sectionHeading) => {
+      const section = sectionHeading.closest("section[id]");
+      const target = sectionHeading.id || section?.id;
+      if (!target) return;
+      const item = document.createElement("li");
+      const link = document.createElement("a");
+      link.href = `#${target}`;
+      link.textContent = sectionHeading.textContent.replace(/Anchor$/, "").trim();
+      item.appendChild(link);
+      list.appendChild(item);
+    });
+    navigation.appendChild(list);
+    contents.appendChild(navigation);
 
     const title = main.querySelector("#title-block-header");
     title?.insertAdjacentElement("afterend", contents);
