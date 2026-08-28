@@ -2,7 +2,7 @@
 document.addEventListener("DOMContentLoaded", () => {
   const toggle = document.querySelector("#quarto-header .quarto-btn-toggle");
   const mobile = window.matchMedia("(max-width: 767px)");
-  const tablet = window.matchMedia("(min-width: 768px) and (max-width: 991px)");
+  const tablet = window.matchMedia("(min-width: 768px) and (max-width: 991.98px)");
   const sidebar = document.querySelector("#quarto-sidebar");
   const logo = sidebar?.querySelector(".sidebar-logo");
 
@@ -41,7 +41,7 @@ document.addEventListener("DOMContentLoaded", () => {
   mobile.addEventListener("change", updateBookNavigation);
   tablet.addEventListener("change", updateBookNavigation);
 
-  const media = window.matchMedia("(max-width: 991px)");
+  const media = window.matchMedia("(max-width: 991.98px)");
 
   const updateCompactPageContents = () => {
     const existing = document.querySelector(".compact-page-contents");
