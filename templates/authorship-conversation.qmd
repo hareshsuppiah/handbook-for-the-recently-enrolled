@@ -1,48 +1,59 @@
 ---
-title: "Authorship Conversation"
-status: "beta resource"
+title: "Authorship conversation record"
+status: "broad-beta resource"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Resource status:** Usable beta. Adapt it to the method and check local requirements. Do not place confidential or identifiable information in a public copy.
+**Resource status:** Usable broad-beta. Apply the current authorship standard governing the output. This record documents discussion; it does not override institutional, publisher, contractual, ethical, community or legal requirements.
 :::
 
-## When to use it
+## Output and standard
 
-Use this template when the relevant reasoning needs to remain visible after the conversation or task has ended. Replace the prompts; do not leave bracketed instructions in a final record.
+**Output title or ID:** [ ]
+**Output type and intended venue:** [ ]
+**Conversation date and attendees:** [ ]
+**Current authorship/contribution standard:** [link, version and review date]
+**Relevant disciplinary order convention:** [ ]
+**Data, IP, community, contract or approval constraints:** [ ]
 
-## Blank template
+## Contribution record
 
-**Purpose or decision:** [What is this record for?]  
-**Context:** [What has happened, and what stage is the work at?]  
-**Known facts and evidence:** [Cite or link the authoritative record.]  
-**Assumptions:** [What is believed but not yet verified?]  
-**Constraints and local requirements:** [What limits the available choices?]  
-**Options considered:** [Include realistic alternatives.]  
-**Provisional recommendation:** [What should happen, and why?]  
-**Owner and next action:** [Name the person and action.]  
-**Evidence of done:** [What observable result will close this item?]  
-**Review or escalation date:** [When will this be reconsidered?]
+Use CRediT or another suitable vocabulary to describe work, but apply the governing authorship criteria separately.
+
+| Person or community | Work completed and evidence | Work expected | Accountability/review responsibility | Provisional status and order | Change trigger |
+|---|---|---|---|---|---|
+| [ ] | [ ] | [ ] | [ ] | [author / acknowledge / undecided] | [ ] |
+
+## Decisions
+
+**Proposed author list and order:** [ ]
+**Reason for order:** [ ]
+**Contributions not meeting authorship criteria and proposed recognition:** [ ]
+**Permission needed for acknowledgement or named credit:** [ ]
+**Unresolved disagreement or dissent:** [ ]
+**Independent advice or formal process required:** [ ]
+**Next review trigger/date:** [ ]
+**Confirmation method and retained evidence:** [ ]
 
 ## Completed example
 
-**Purpose or decision:** choose the next reversible project step.  
-**Context:** the preferred activity depends on an approval that has not yet been confirmed.  
-**Known facts and evidence:** the submitted request and current approved protocol are linked in the project record.  
-**Assumptions:** approval may arrive this week; this is not treated as confirmed.  
-**Constraints and local requirements:** no participant-facing activity may begin before written approval.  
-**Options considered:** wait; prepare non-participant materials; redesign the sequence.  
-**Provisional recommendation:** complete reversible preparation only.  
-**Owner and next action:** researcher prepares materials and checks status on Friday.  
-**Evidence of done:** materials saved in the approved project location and status recorded.  
-**Review or escalation date:** Friday, or earlier if the milestone is threatened.
+**Output:** Withdrawal-prediction methods paper.
+**Standard:** institution's current Australian-Code-aligned authorship procedure plus selected journal policy.
 
-## What this prevents
+| Person | Completed | Expected | Responsibility | Provisional status | Trigger |
+|---|---|---|---|---|---|
+| Candidate A | concept, protocol, data audit, initial code | analysis, first draft, revisions | whole output; data and analysis sections | first author | analysis role materially changes |
+| Statistician B | design consultation | verify model, draft technical methods | model and methods | provisional co-author | expected work not completed |
+| Supervisor C | methodology development, governance support | substantive critical revision | framing and interpretation | provisional co-author | contribution or accountability changes |
+| Data steward D | authorised extract and metadata explanation | factual data-flow check | no manuscript accountability | acknowledgement with permission | intellectual contribution expands |
 
-This resource reduces decisions being lost, assumptions being mistaken for facts, and actions being marked complete without evidence.
+**Review trigger:** after the validated analysis and before full-draft circulation. The record states that provisional order is not permanent entitlement.
+
+## Scenario test
+
+A senior collaborator requests authorship after providing access but has not made a scholarly contribution and will not review the manuscript. Do not add or refuse them solely by status. Apply the current standard, explain the accountable contribution required, offer an appropriate acknowledgement if permitted, document the conversation, and seek independent advice if power or retaliation makes direct resolution unsafe.
 
 ## Related guidance
 
-Return to the [handbook contents](../index.qmd), browse the [resource library](../resources.qmd), or use [I’m stuck](../stuck/index.qmd).
-
+Return to [Authorship, collaboration and correcting the record](../chapters/part-06/18-authorship-collaboration-corrections.qmd) and prepare the final [contribution statement](contribution-statement.qmd) from completed—not promised—work.

@@ -1,55 +1,216 @@
 ---
-title: "Authorship, collaboration and corrections"
-status: "broad-beta baseline"
+title: "Authorship, collaboration and correcting the record"
+status: "broad-beta draft"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta baseline. Evidence verification and worked examples are being expanded; local requirements must be checked before acting.
+**Content status:** Broad-beta draft. Authorship standards, author order, intellectual property, Indigenous knowledge governance, contractual duties and correction processes vary by discipline, institution, partner and venue. Check the standards governing the actual output.
 :::
+
+## The questions students are usually asking
+
+- Who should be an author, and in what order?
+- Does supervision, funding, data ownership or seniority guarantee authorship?
+- When should authorship be discussed?
+- How do industry and community partners change the workflow?
+- What if a contributor does not complete the work expected?
+- What do I do if I find an error after submission or publication?
+- How can a student raise a concern safely when power is unequal?
 
 ## The direct answer
 
-Authorship and contribution should be discussed early, revisited as work changes and separated from status or goodwill.
+Discuss contributions before substantial work begins, record provisional expectations, revisit them when work changes, and apply the authorship standard governing the output. Authorship is not a reward for status, access, supervision, funding or goodwill alone.
 
-## The decision in front of you
+If an error could affect evidence, attribution, participant or community interests, confidentiality, decisions or trust, preserve the facts and seek the appropriate correction route promptly. Do not wait until everyone agrees that the error is embarrassing enough.
 
-Who contributed what, what remains expected and which standard or local process governs the decision?
+## Separate contribution, authorship, acknowledgement and ownership
 
-::: {.decision-card}
-**Smallest useful next action:** Start a contribution record before drafting and schedule an authorship conversation.
-:::
+These are different decisions:
 
-## A defensible way to proceed
+- **Contribution** describes work performed.
+- **Authorship** assigns public credit and accountability under a governing standard.
+- **Acknowledgement** recognises contributions that do not meet authorship criteria, usually with permission where naming implies endorsement.
+- **Ownership and intellectual property** concern legal or contractual rights in data, materials, inventions, copyright or knowledge.
+- **Access and custody** concern who can hold, use, transfer or preserve records.
 
-1. State the outcome or decision in plain language.
-2. Separate known facts, assumptions, constraints and unresolved questions.
-3. Check the evidence and any applicable local requirement.
-4. Compare realistic options, including doing less, waiting or stopping.
-5. Record the choice, reasons, owner, next review point and evidence of completion.
+A person may own data without qualifying as an author. A person may qualify for authorship without owning the output. A community may hold governance authority that cannot be reduced to an individual contributor role.
+
+The Australian Code requires authors to have made a significant intellectual or scholarly contribution and agree to be listed, and requires appropriate acknowledgement of contributions [@australian-code-2018]. Apply the current local and venue-specific interpretation rather than treating this summary as a universal threshold.
+
+## Use contribution roles without turning them into an authorship calculator
+
+CRediT provides 14 standard roles for describing contributions, such as conceptualisation, methodology, investigation, data curation, software, visualisation, supervision and writing [@credit-taxonomy]. It improves specificity, but it does not decide who qualifies as an author or what order authors should appear.
+
+For each planned output, record:
+
+- work already completed;
+- work still expected;
+- evidence of the contribution;
+- responsibility for checking relevant content;
+- provisional authorship status and order;
+- the governing standard; and
+- the next review trigger.
+
+Use future contributions as expectations, not facts. “Will lead analysis” cannot justify final authorship if the work never occurs.
+
+## Hold the conversation at decision points
+
+At minimum, revisit authorship and contributions:
+
+1. when an output is first proposed;
+2. when roles are allocated;
+3. after a material method, staffing or scope change;
+4. before a full draft is circulated;
+5. before submission;
+6. after major revision; and
+7. before any correction, retraction or derivative output.
+
+Changes are normal. Secret or status-driven changes are not.
+
+### A useful meeting sequence
+
+- Identify the exact output—not “the project” in general.
+- Read the applicable authorship and contribution standard.
+- Review actual and expected work person by person.
+- Discuss accountability and who can verify each part.
+- Propose order using the disciplinary convention and explain it.
+- Identify conflicts, missing work and dependencies.
+- Record provisional agreement and what would trigger change.
+- Confirm the record with everyone, including dissent or unresolved issues.
+
+## Worked example: expected analysis does not happen
+
+**Initial record:** Candidate A will lead conceptualisation, data collection, analysis and drafting; Statistician B will advise on design and verify analysis; Supervisor C will contribute to methodology and substantive revision. Provisional order: A, B, C, subject to completed contributions.
+
+**What changes:** B leaves the project before analysis. Statistician D reconstructs the model, identifies a serious error, performs the analysis and drafts the technical methods. B provided one early consultation but does not review or approve the manuscript.
+
+**Bad response:** retain the original order because it was “promised”, or remove B privately without discussion.
+
+**Defensible response:** update the contribution record; apply the governing authorship criteria to completed work; invite B to clarify and, if appropriate, complete remaining author responsibilities; assess D's actual intellectual contribution and accountability; discuss revised order with all proposed authors; retain the decision and dissent; acknowledge non-author contributions appropriately.
+
+The initial conversation created expectations, not permanent entitlement.
+
+## Design collaboration before conflict
+
+For academic, industry, government, service, community or international collaboration, agree early on:
+
+- purpose, values and decision rights;
+- roles, authority and escalation;
+- data, materials, knowledge and intellectual-property governance;
+- Indigenous and community protocols where relevant;
+- confidentiality and public communication;
+- publication review and reasonable timeframes;
+- conflicts of interest;
+- funding and resource commitments;
+- authorship and acknowledgement standards;
+- record locations, access and handover;
+- changes, withdrawal and project closure; and
+- what happens when agreements conflict.
+
+Do not promise a partner control that the university, ethics approval, law or research-integrity standard does not permit. Do not describe consultation as co-design or partnership when affected people had no decision power.
+
+## Recognise power and protect disagreement
+
+Students may fear that questioning authorship, data use or reporting will affect supervision, references, employment or examination. Build a pathway that does not require confronting the most powerful person first.
+
+Possible routes include:
+
+- a documented clarification conversation where safe;
+- an independent supervisor or graduate research coordinator;
+- a research integrity adviser;
+- an authorship, dispute or complaints process;
+- an ethics, governance, data or community authority; and
+- confidential student or staff support.
+
+Check the local process and confidentiality limits. Distinguish seeking advice from making a formal allegation.
+
+## Correct mistakes and disclosures proportionately
+
+When a possible error is found:
+
+1. preserve the source data, files, communications, versions and outputs;
+2. state what is known, suspected and unknown;
+3. assess immediate welfare, privacy, legal, cultural and decision consequences;
+4. stop affected analysis, recruitment, release or reuse where necessary;
+5. notify the appropriate responsible people or bodies;
+6. reproduce the issue and determine its scope;
+7. correct the process and verify the correction;
+8. assess whether prior conclusions, participants, collaborators, funders or readers are affected;
+9. use the venue's correction, withdrawal, retraction or update mechanism; and
+10. retain a transparent record without unnecessary personal accusation.
+
+Australian publication guidance recommends accurate citation of primary sources where appropriate, transparency and timely correction of the record [@nhmrc-publication-guide]. The exact route depends on whether the material is an internal report, thesis, preprint, repository release, grant report or published article.
+
+### Error is not the same as misconduct
+
+Do not diagnose intent from a discrepancy. Honest error, poor practice, dispute and potential breach require different evidence and processes. Protect records, use neutral factual language and seek the authorised process.
+
+## Difficult disclosures
+
+A disclosure should identify:
+
+- what happened or changed;
+- which version, output, people or decisions may be affected;
+- immediate controls already taken;
+- what remains uncertain;
+- who has authority to decide the next step; and
+- what evidence will confirm correction.
+
+Avoid both minimisation (“just a minor issue”) and unsupported accusation. If participant safety, confidentiality, illegal conduct or immediate harm is possible, use the urgent local route.
 
 ## Common failure modes
 
-- treating an early plan as permanently fixed;
-- collecting information without naming the decision it should inform;
-- copying a method or workflow without checking fit;
-- waiting for perfect certainty when a reversible next step is available;
-- relying on private memory instead of a recoverable project record;
-- presenting an institutional rule or one disciplinary convention as universal.
+- assigning authorship at the end from hierarchy or politics;
+- treating supervision, funding, editing or data ownership as automatic authorship;
+- using CRediT roles as a points system;
+- recording promised rather than completed contributions as fact;
+- failing to revisit order after major work changes;
+- calling extractive access a partnership;
+- allowing a contract to suppress findings contrary to integrity obligations;
+- correcting files without preserving the error and decision trail;
+- delaying disclosure until every cause and consequence is known;
+- using public accusation before confidential evidence-preserving advice.
 
 ## Good enough for now
 
-Good enough means the work is proportionate to its current purpose, major risks are controlled, important assumptions are visible, and the next decision can be defended. It does not mean that every uncertainty has disappeared.
+Before an output advances:
 
-## Before you ask your supervisor
+- the exact output and governing authorship standard are identified;
+- actual and expected contributions are separated;
+- provisional status and order have reasons;
+- every author can take the required accountability and approve the output;
+- non-author contributions and permission to acknowledge are addressed;
+- collaboration, data, IP and publication rights are consistent with ethics and integrity duties;
+- conflict and escalation routes are known; and
+- errors, changes and unresolved disagreement remain visible.
 
-Bring a concise problem statement, the checks you completed, the strongest relevant evidence, feasible options, your provisional recommendation and one precise request. If risk, approval, participant welfare, integrity or safety is involved, seek the appropriate specialist or formal local process rather than relying only on an ordinary supervision meeting.
+## Before you ask your supervisor, collaborator or integrity adviser
 
-## Check locally
+Bring:
 
-Milestones, approvals, systems, storage, authorship processes, examination requirements and support routes vary. Verify the current rule with the responsible office or official documentation.
+- the exact output and current version;
+- the applicable authorship or contribution standard;
+- the completed [authorship conversation record](../../templates/authorship-conversation.qmd);
+- evidence of actual contributions;
+- expected work still outstanding;
+- the proposed decision and reason;
+- any contract, data, ethics or community constraint; and
+- a precise request for agreement, independent advice or formal process.
+
+## Pause-point checklist
+
+- [ ] Contribution, authorship, acknowledgement, ownership and access are separated.
+- [ ] The governing standard is current and identified.
+- [ ] Completed and expected work are not confused.
+- [ ] Author order has a stated disciplinary rationale.
+- [ ] All proposed authors can review, approve and accept accountability as required.
+- [ ] Community, cultural, partner, data and IP rights are respected.
+- [ ] Conflicts and power-sensitive escalation routes are known.
+- [ ] Errors preserve original records and trigger proportionate review.
+- [ ] Corrections reach every affected version and audience.
+- [ ] The contribution and correction records have review dates.
 
 ## Related practical resources
 
-Use the [practical resource library](../../resources.qmd) and the [I’m stuck pathway](../../stuck/index.qmd) to turn this guidance into a documented action.
-
+Use the [authorship conversation record](../../templates/authorship-conversation.qmd), [contribution statement template](../../templates/contribution-statement.qmd), [protocol-deviation log](../../templates/protocol-deviation.qmd) and [decision log](../../templates/decision-log.qmd). For suspected breaches or unsafe disputes, use the authorised confidential local process.
