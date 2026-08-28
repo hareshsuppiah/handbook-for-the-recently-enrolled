@@ -1,48 +1,53 @@
 ---
-title: "Data Dictionary"
-status: "beta resource"
+title: "Data dictionary and codebook"
+status: "broad-beta resource"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Resource status:** Usable beta. Adapt it to the method and check local requirements. Do not place confidential or identifiable information in a public copy.
+**Resource status:** Usable broad-beta. Adapt this to tabular, qualitative, image, sensor, archival or other material. Keep sensitive variable descriptions and examples in an approved location.
 :::
 
-## When to use it
+## Dataset or corpus header
 
-Use this template when the relevant reasoning needs to remain visible after the conversation or task has ended. Replace the prompts; do not leave bracketed instructions in a final record.
+**Dataset/corpus ID and version:** [ ]
+**Purpose and authorised use:** [ ]
+**Source, custodian and coverage period:** [ ]
+**Unit of observation or material:** [ ]
+**Authoritative location:** [ ]
+**Related schema, code, consent, licence or protocol:** [ ]
+**Owner and last review:** [ ]
 
-## Blank template
+## Variable dictionary
 
-**Purpose or decision:** [What is this record for?]  
-**Context:** [What has happened, and what stage is the work at?]  
-**Known facts and evidence:** [Cite or link the authoritative record.]  
-**Assumptions:** [What is believed but not yet verified?]  
-**Constraints and local requirements:** [What limits the available choices?]  
-**Options considered:** [Include realistic alternatives.]  
-**Provisional recommendation:** [What should happen, and why?]  
-**Owner and next action:** [Name the person and action.]  
-**Evidence of done:** [What observable result will close this item?]  
-**Review or escalation date:** [When will this be reconsidered?]
+| Field | Definition and construct | Type/unit/allowed values | Source or derivation | Time and level | Missing/unknown rules | Validation | Sensitivity/release | Limitation |
+|---|---|---|---|---|---|---|---|---|
+| [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+
+## Qualitative or interpretive codebook
+
+| Code | Definition | Include | Exclude | Positive/boundary example | Related codes | Decision history or disagreement |
+|---|---|---|---|---|---|---|
+| [ ] | [ ] | [ ] | [ ] | [protected or synthetic] | [ ] | [ ] |
 
 ## Completed example
 
-**Purpose or decision:** choose the next reversible project step.  
-**Context:** the preferred activity depends on an approval that has not yet been confirmed.  
-**Known facts and evidence:** the submitted request and current approved protocol are linked in the project record.  
-**Assumptions:** approval may arrive this week; this is not treated as confirmed.  
-**Constraints and local requirements:** no participant-facing activity may begin before written approval.  
-**Options considered:** wait; prepare non-participant materials; redesign the sequence.  
-**Provisional recommendation:** complete reversible preparation only.  
-**Owner and next action:** researcher prepares materials and checks status on Friday.  
-**Evidence of done:** materials saved in the approved project location and status recorded.  
-**Review or escalation date:** Friday, or earlier if the milestone is threatened.
+| Field | Definition | Values | Derivation | Time/level | Missing rules | Validation | Limitation |
+|---|---|---|---|---|---|---|---|
+| `status_source` | status exactly as received | `A`,`I`,`W`,`T`,`0`,blank | preserved from annual extract | candidate-record at extract date | blank and `0` retained separately | frequency by year and source-system check | meaning changes across systems |
+| `status_harmonised` | bounded common status for approved analysis | active, interrupted, withdrawn, unknown | period-specific lookup v2.1 | candidate at extract date | unresolved codes become unknown | sample reconciled to status histories | transfer/completion not separable in legacy period |
+| `withdrawal_12m` | verified withdrawal within 365 days after index | 0,1,unknown | status-history function commit `abc123` | candidate-index episode | incomplete follow-up becomes unknown | known-case unit tests and manual audit | not a measure of reason for withdrawal |
 
-## What this prevents
+## Scenario test
 
-This resource reduces decisions being lost, assumptions being mistaken for facts, and actions being marked complete without evidence.
+A variable is labelled `engagement_score`, range 0–100. No one can identify the component fields, weights, missing-data handling or period. Do not treat the name as a definition. Mark derivation and validity as unresolved, locate the producing system and code, and exclude or narrow the use if provenance cannot be established.
+
+## Change record
+
+| Version/date | Field or code | Change | Reason/evidence | Downstream effect | Reviewer |
+|---|---|---|---|---|---|
+| [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 
 ## Related guidance
 
-Return to the [handbook contents](../index.qmd), browse the [resource library](../resources.qmd), or use [I’m stuck](../stuck/index.qmd).
-
+Return to [Data states, codebooks and provenance](../chapters/part-07/20-data-states-provenance.qmd) and link every derived field to the relevant script, configuration or manual decision record.

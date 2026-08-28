@@ -1,55 +1,220 @@
 ---
-title: "Data states and provenance"
-status: "broad-beta baseline"
+title: "Data states, codebooks and provenance"
+status: "broad-beta draft"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta baseline. Evidence verification and worked examples are being expanded; local requirements must be checked before acting.
+**Content status:** Broad-beta draft. “Raw”, “clean” and “analysis-ready” are project-defined states, not universal guarantees. Document the actual source, transformations, authority, exclusions and limitations for your method and data.
 :::
+
+## The questions students are usually asking
+
+- What is the difference between raw, clean, derived and analysis-ready data?
+- Should raw data ever be changed?
+- How do I document manual corrections?
+- What belongs in a data dictionary or codebook?
+- How can another person trace a result back to its source?
+- What if a collaborator sends a new version with the same filename?
+- How do provenance principles apply to qualitative, archival or image data?
 
 ## The direct answer
 
-Keep raw data immutable, record transformations and make the path to analysis-ready data inspectable.
+Define data states by what has happened to the material and what it is authorised to support. Preserve the earliest authoritative source state, create later states through inspectable transformations, and keep enough provenance to trace every consequential result backwards.
 
-## The decision in front of you
+“Clean” is not self-explanatory. A useful state name must answer: cleaned from what, by which rules, for which purpose, by whom, when and with what exclusions?
 
-Can another person identify the authoritative file and reproduce every material transformation?
+## Define the states for this project
 
-::: {.decision-card}
-**Smallest useful next action:** Label raw, interim, clean, derived and analysis-ready states and link each transformation to code or a record.
-:::
+A practical sequence is:
 
-## A defensible way to proceed
+| State | Meaning | Rule |
+|---|---|---|
+| Incoming | received but not yet verified, quarantined or registered | do not analyse |
+| Raw authoritative | closest retained representation of the approved source or capture | preserve and protect from overwrite |
+| Interim or working | parsing, transcription, coding or quality work in progress | disposable only if reproducible and authorised |
+| Derived | new variables, features, categories, segments or aggregations | transformation and inputs must be recorded |
+| Analysis-ready | fixed input prepared for a named analysis under defined rules | version, schema and exclusions frozen for that analysis |
+| Release | reviewed material approved for a particular audience and use | separate privacy, licence and disclosure check |
 
-1. State the outcome or decision in plain language.
-2. Separate known facts, assumptions, constraints and unresolved questions.
-3. Check the evidence and any applicable local requirement.
-4. Compare realistic options, including doing less, waiting or stopping.
-5. Record the choice, reasons, owner, next review point and evidence of completion.
+These names may not fit every project. A historian may preserve photographed archival pages, transcription, annotations and interpretive corpus. A qualitative project may separate original audio, verified transcript, coded corpus and publication extracts. An imaging study may preserve instrument-native files, calibrated images, segmented objects and analysis tables.
+
+## Protect the earliest authoritative state
+
+Raw does not mean perfect, neutral or free from prior processing. Device firmware, platform exports, transcription services, laboratory systems and data custodians may already have transformed the source.
+
+On receipt or capture, retain:
+
+- source, custodian and authority;
+- date/time and transfer route;
+- original filename and format;
+- file manifest, checksum or equivalent identity;
+- instrument, software, firmware or export settings;
+- schema and record count where relevant;
+- known missingness, truncation or corruption;
+- consent, licence or use constraints; and
+- the person who verified receipt.
+
+If correction of the source record is necessary, preserve the original and create a documented corrected version. Do not silently edit values in place.
+
+## Make transformations executable or auditable
+
+Prefer scripts, queries or structured workflows that can be rerun. Where manual judgement is necessary, preserve a decision log or annotation record containing:
+
+- input record and location;
+- original value or interpretation;
+- changed value, code or classification;
+- rule or rationale;
+- person and date;
+- reviewer where required;
+- uncertainty or disagreement; and
+- effect on downstream states.
+
+Spreadsheet editing can be appropriate, but hidden cell changes, sorting errors and overwritten formulas are difficult to audit. Retain imports, use validation, protect identifier columns, export change logs where possible and compare outputs to expectations.
+
+## Build a provenance chain
+
+For every published number, quotation, image or model, aim to trace:
+
+`output → analysis or interpretation → analysis-ready input → derivation/selection → raw authoritative source → authority and context`
+
+Forward provenance answers what a source record influenced. Backward provenance answers where a result came from. Both matter for correction.
+
+Record:
+
+- stable dataset or corpus IDs;
+- versions or release tags;
+- checksums or manifests for important files;
+- code commit, script or workflow version;
+- configuration and parameters;
+- inclusion, exclusion and missing-data decisions;
+- software/environment information;
+- person or automated process responsible; and
+- date and outcome of checks.
+
+ARDC includes documentation, metadata, provenance and versioning within good data practice [@ardc-good-data]. Apply these principles in a way proportionate to the research and consistent with data governance.
+
+## Use a data dictionary as a contract
+
+For tabular or structured data, each variable should specify:
+
+- dataset and variable name;
+- plain-language definition;
+- construct or source field;
+- unit, type and allowed values;
+- coding and missing-value rules;
+- collection or derivation method;
+- time reference and level of observation;
+- applicable population or records;
+- sensitivity and release status;
+- validation checks;
+- known limitations; and
+- owner and version.
+
+For qualitative or unstructured material, a codebook may instead record code name, definition, inclusion and exclusion criteria, examples, boundaries, relationships, decision history and unresolved disagreements.
+
+A dictionary documents meaning. It does not establish that a measure is valid.
+
+## Worked example: the changing status variable
+
+**Incoming field:** `STATUS` contains `A`, `I`, `W`, `T`, blanks and `0` across five yearly extracts.
+
+**Temptation:** recode `A = active`, `W = withdrawn`, everything else missing.
+
+**Provenance audit:** the custodian explains that `I` changed from “inactive” to “interrupted” in 2024; `T` includes transfer and completion in different legacy systems; `0` is an export default, not a status; blank sometimes means no current enrolment row.
+
+**Defensible workflow:** preserve each extract; register schema and period; obtain or reconstruct period-specific code definitions; create `status_source` and a separately derived `status_harmonised`; retain `unknown` rather than inventing meaning; validate a sample against authoritative histories; restrict analysis periods or claims when harmonisation is not defensible.
+
+One column name did not represent one stable construct.
+
+## Record exclusions as data decisions
+
+For every exclusion rule, document:
+
+- why it exists;
+- when it was decided;
+- whether it was prespecified or observed after inspection;
+- records affected;
+- whether the exclusion differs across analyses;
+- effect on target population or corpus;
+- sensitivity or alternative analysis; and
+- approval or review where required.
+
+Never delete excluded records from the only dataset. Preserve a status or flow record so counts can be reconciled.
+
+## Validate each state transition
+
+Automate checks where practical:
+
+- input file identity and schema;
+- unique and non-missing identifiers;
+- row, case, file or segment counts;
+- allowable values and units;
+- date ranges and ordering;
+- impossible combinations;
+- duplicate and linkage behaviour;
+- transformations on known test cases;
+- reconciliation of exclusions;
+- unexpected disclosure fields; and
+- output schema and checksum.
+
+A pipeline that completes without an error may still produce the wrong data. Include tests tied to scientific and operational expectations.
+
+## Handle new source versions deliberately
+
+When a collaborator sends `dataset_final.xlsx` again:
+
+1. retain both files without overwriting;
+2. register receipt, source and checksum;
+3. compare schema, records and values;
+4. ask what changed and why;
+5. determine which version is authoritative for which period or purpose;
+6. rerun affected transformations in a new state/version;
+7. compare downstream results; and
+8. record the decision and disclosure consequence.
+
+Do not assume the latest attachment supersedes the prior research record.
 
 ## Common failure modes
 
-- treating an early plan as permanently fixed;
-- collecting information without naming the decision it should inform;
-- copying a method or workflow without checking fit;
-- waiting for perfect certainty when a reversible next step is available;
-- relying on private memory instead of a recoverable project record;
-- presenting an institutional rule or one disciplinary convention as universal.
+- calling data raw after undocumented export or manual processing;
+- editing the only source file to “fix” errors;
+- using filenames as the entire version system;
+- keeping transformation logic in one person's memory;
+- documenting variable labels but not time, unit or missingness;
+- treating `NA`, blank, zero, “unknown” and “not applicable” as interchangeable;
+- changing exclusion rules after seeing a preferred result;
+- allowing a new extract to overwrite the analysed version;
+- publishing a de-identified dataset without a separate release review;
+- retaining a final table without the code, inputs and decisions that produced it.
 
 ## Good enough for now
 
-Good enough means the work is proportionate to its current purpose, major risks are controlled, important assumptions are visible, and the next decision can be defended. It does not mean that every uncertainty has disappeared.
+Before substantive analysis:
 
-## Before you ask your supervisor
+- each data state is defined and has an authoritative location;
+- original source material and receipt context are preserved;
+- transformations are executable or auditable;
+- identifiers, versions and manifests connect states;
+- variables, codes, units, missingness and limitations are documented;
+- exclusions remain recoverable and reconciled;
+- state transitions include scientific checks;
+- the analysis-ready input is fixed for the named analysis; and
+- outputs can be traced back to authority and source.
 
-Bring a concise problem statement, the checks you completed, the strongest relevant evidence, feasible options, your provisional recommendation and one precise request. If risk, approval, participant welfare, integrity or safety is involved, seek the appropriate specialist or formal local process rather than relying only on an ordinary supervision meeting.
+## Before you ask your supervisor, analyst or data steward
 
-## Check locally
+Bring:
 
-Milestones, approvals, systems, storage, authorship processes, examination requirements and support routes vary. Verify the current rule with the responsible office or official documentation.
+- the state map and authoritative locations;
+- one complete provenance chain from output to source;
+- the [data dictionary or codebook](../../templates/data-dictionary.qmd);
+- transformation scripts or manual decision record;
+- unresolved source definitions;
+- exclusion flow and reconciliation;
+- test results for a difficult record; and
+- the exact meaning, authority or analysis question you cannot resolve.
 
 ## Related practical resources
 
-Use the [practical resource library](../../resources.qmd) and the [I’m stuck pathway](../../stuck/index.qmd) to turn this guidance into a documented action.
-
+Use the [data dictionary and codebook](../../templates/data-dictionary.qmd), [folder and file-naming starter](../../templates/folder-file-naming.qmd), [protocol-deviation log](../../templates/protocol-deviation.qmd) and [Before analysis](../../checklists/before-analysis.qmd). Continue to [Reproducible workflows](21-reproducible-workflows.qmd) for code, environments and clean-run checks.
