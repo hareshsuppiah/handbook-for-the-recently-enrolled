@@ -1,0 +1,82 @@
+---
+title: "Good enough for this stage"
+status: "broad-beta resource"
+last-reviewed: "2026-08-28"
+---
+
+**Pause point:** When uncertainty about quality is causing delay, repeated refinement or premature release.
+
+**Prevents:** Using anxiety as a standard, polishing the wrong stage, or calling weak work sufficient without checking consequential requirements.
+
+## Name the stage
+
+- [ ] Explore: test an idea or uncertainty cheaply.
+- [ ] Decide: choose among realistic options.
+- [ ] Review: obtain a bounded judgement from another person.
+- [ ] Submit or act: meet a formal external gate.
+- [ ] Archive or hand over: leave a recoverable, verifiable record.
+
+## Critical questions
+
+| Test | Evidence | Pass / fail / not applicable |
+|---|---|---|
+| Purpose: is the intended decision, reader or use explicit? | [ ] | [ ] |
+| Alignment: do question, evidence, method and claim match? | [ ] | [ ] |
+| Critical evidence: are consequential sources, data and outputs verified? | [ ] | [ ] |
+| Risk: are safety, integrity, privacy, approval and material failure modes controlled? | [ ] | [ ] |
+| Requirements: do the current formal or local rules pass? | [ ] | [ ] |
+| Inspectability: can the relevant reviewer trace the reasoning and state? | [ ] | [ ] |
+| Reproducibility/recovery: can the work be rerun or understood to the degree its purpose requires? | [ ] | [ ] |
+| Boundaries: are uncertainty, limitations and non-claims explicit? | [ ] | [ ] |
+| Ownership: is the authorised reviewer or decision-maker identified? | [ ] | [ ] |
+| Opportunity cost: would further work displace something more consequential? | [ ] | [ ] |
+
+## Decision rule
+
+Proceed when every critical test for the named stage passes or has a documented, authorised disposition. Defer refinements that do not address a failed test, material risk or formal requirement.
+
+Do not proceed merely because the deadline is near. Do not delay merely because another improvement is imaginable.
+
+## Stage-specific evidence
+
+### Explore
+
+Retain the question, cheap test, result, assumptions and next decision. Polish is optional.
+
+### Decide
+
+Retain realistic options, decisive evidence, trade-offs, recommendation, authority and review trigger.
+
+### Review
+
+Retain the labelled draft, cover note, central evidence, known gaps and requested decision.
+
+### Submit or act
+
+Retain completed gate checklist, approvals, verified package, exact submitted/implemented version and receipt or acceptance evidence.
+
+### Archive or hand over
+
+Retain authoritative inventory, provenance, permissions, environment/instructions, known limitations and recipient verification.
+
+## Completed scenario
+
+**Stage:** Substantive supervisor review of a literature chapter.
+
+**Passes:** Question, bounded claim, section structure and central source locations are present. Contrary evidence and two unresolved claims are labelled. A cover note asks for argument and structure review.
+
+**Not required yet:** Final reference formatting, sentence-level copy editing and print layout.
+
+**Decision:** Send for substantive review. Defer copy work until the argument is accepted.
+
+## Failure scenario
+
+A manuscript looks polished but the primary table cannot be regenerated and author approval is incomplete. It fails the submit stage. The correct response is not more proofreading; restore the analysis and obtain exact-version approval.
+
+## Stop conditions
+
+Pause when a critical safety, integrity, approval, evidence, reproducibility or authorship test fails. Use the relevant authority rather than waiving it personally.
+
+## Related guidance
+
+Return to [Technical failure, perfectionism and scope creep](../chapters/part-11/32-technical-failure-perfectionism.qmd) and use the phase-specific checklist for the actual gate.
