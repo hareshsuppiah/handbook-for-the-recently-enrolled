@@ -28,6 +28,16 @@ Pause any major commitment if the central question, feasibility, necessary acces
 
 Keep the reviewed project statement, feasibility notes, search record, decision log, risk register, next-phase outcomes and supervisor comments or approval.
 
+## Scenario test
+
+**Situation:** At day 90, the research question is promising and supervision is working, but access to the proposed dataset remains unconfirmed.
+
+**Result:** The project is not treated as fully viable. Access remains a named risk with an owner and decision date; the next phase includes reversible work and an alternative data route rather than silently assuming access.
+
 ::: {.callout-warning title="Check locally"}
 This review complements, but does not replace, formal confirmation or progress milestones.
 :::
+
+## Related guidance
+
+Read [Day one to day 90](../chapters/part-01/02-first-90-days.qmd) and [From proposal to provisional plan](../chapters/part-01/03-provisional-plan.qmd).

@@ -1,6 +1,6 @@
 coverage_id,question_or_requirement_id,phase,chapter,section,checklist,template,stuck_path,evidence_status,content_status,last_reviewed
-COV-0001,Q0001,first-90-days,02-first-90-days,Where to start,day-one,,,needs-evidence,planned,2026-08-28
-COV-0002,Q0002,first-90-days,02-first-90-days,First 90 days,first-week;first-30-days;first-90-days,,,needs-evidence,planned,2026-08-28
+COV-0001,Q0001,first-90-days,02-first-90-days,Five-step starting sequence,starting-candidature,,,verified-UKRI-expectations-source,in_progress,2026-08-28
+COV-0002,Q0002,first-90-days,02-first-90-days,Day one week one first 30 and first 90 days,starting-candidature;first-90-day-review,,,verified-UKRI-expectations-source,in_progress,2026-08-28
 COV-0003,Q0003,all,01-phd-and-good-enough,What a doctorate asks,pause-point-checklist,,decision-unknown,verified-framework-sources,in_progress,2026-08-28
 COV-0004,Q0004,all,01-phd-and-good-enough,Defensible progress checks,pause-point-checklist,,unsure-if-enough,verified-framework-sources,in_progress,2026-08-28
 COV-0005,Q0005,topic,08-topic-due-diligence,Topic tests,feasibility,topic-due-diligence,topic-too-broad-or-narrow,needs-evidence,planned,2026-08-28

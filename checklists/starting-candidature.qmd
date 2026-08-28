@@ -27,6 +27,16 @@ Do not begin participant contact, data collection, access to restricted data, or
 
 Keep the enrolment or milestone confirmation, induction record, supervision notes, training record, access confirmations, first action register and first decision-log entry.
 
+## Scenario test
+
+**Situation:** A newly enrolled student can access email and the library but has not confirmed the supervisory team, approved storage or safety training. They want to begin collecting pilot data.
+
+**Result:** The checklist stops participant or data-facing work. The safe next step is to confirm the supervisory and approval pathway, establish approved storage and complete the required training. Orientation searching and reversible planning may continue.
+
 ::: {.callout-warning title="Check locally"}
 Names, deadlines, mandatory training, record systems and escalation routes vary by institution and project.
 :::
+
+## Related guidance
+
+Read [Day one to day 90](../chapters/part-01/02-first-90-days.qmd) for the reasoning and phase sequence behind this checklist.

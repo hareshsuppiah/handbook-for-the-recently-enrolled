@@ -1,55 +1,169 @@
 ---
 title: "Day one to day 90"
-status: "broad-beta baseline"
+status: "broad-beta draft"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta baseline. Evidence verification and worked examples are being expanded; local requirements must be checked before acting.
+**Content status:** Broad-beta draft. Use this sequence to orient yourself, then replace its local placeholders with your institution's current requirements.
 :::
+
+## The questions students are usually asking
+
+- Where do I start?
+- What should I have done by the end of the first week, month and 90 days?
+- Should I begin reading, writing, collecting data or learning methods?
+- What should I ask in the first supervision meeting?
+- Which systems and training are essential now, and which can wait?
 
 ## The direct answer
 
-The first 90 days are for building orientation, relationships, safe working systems and a provisional direction—not for proving the entire thesis.
+The first 90 days are for building a working research environment, a functioning supervisory relationship and a provisional direction. They are not for proving the thesis or locking every study into place.
+
+Doctoral training is broader than producing a thesis. Current UKRI expectations, for example, separate responsibilities across students, supervisors, research organisations, funders and collaborators, and include the research environment, support, research skills and professional development [@ukri-expectations-2024]. That framework is specific to funded UK training, but the division of responsibility is a useful warning: you are responsible for active participation and documented progress, not for personally providing every service, approval or safeguard the project needs.
 
 ## The decision in front of you
 
-Which foundations need to exist before specialised work becomes reliable?
+Decide which foundations must exist before specialised work becomes reliable. Work in this order:
+
+1. **permission and safety**;
+2. **people and expectations**;
+3. **recoverable records**;
+4. **project orientation**;
+5. **tested next-phase plan**.
+
+If a task depends on approval, access, training, equipment, data, another person or a local deadline, expose that dependency early. Quiet dependencies are a common cause of avoidable delay.
 
 ::: {.decision-card}
-**Smallest useful next action:** Book the essential conversations, confirm local milestones, and create one trusted place for actions and decisions.
+**Smallest useful next action:** Open the [Starting candidature checklist](../../checklists/starting-candidature.qmd), mark each item as confirmed, unknown or not applicable, and assign an owner and date to every unknown.
 :::
 
-## A defensible way to proceed
+## What to do at each phase
 
-1. State the outcome or decision in plain language.
-2. Separate known facts, assumptions, constraints and unresolved questions.
-3. Check the evidence and any applicable local requirement.
-4. Compare realistic options, including doing less, waiting or stopping.
-5. Record the choice, reasons, owner, next review point and evidence of completion.
+### Day one: become findable and safe
+
+Confirm your formal status, supervisory team, immediate contacts and next official milestone. Establish one approved location for research files and one trusted action register. Identify activities you must not begin without training or approval.
+
+Do not spend the day optimising software. A plain, recoverable system that you can use today is better than a sophisticated system that delays the work.
+
+**Evidence of done:** you can show where the official requirement came from, who your supervisors are, where your project record lives and what your next appointment is.
+
+### First week: make expectations discussable
+
+Book or hold the first supervision meeting. Discuss:
+
+- the provisional research direction;
+- each person's role and availability;
+- meeting cadence and communication channels;
+- what material supervisors can review and expected turnaround;
+- how agendas, decisions and actions will be recorded;
+- immediate training, access, ethics, safety and data dependencies;
+- what should be true at the first 30- and 90-day reviews.
+
+Create an unresolved-questions list instead of forcing premature answers. “Unknown, owner: Haresh, review: Friday” is a legitimate project state. An assumption silently treated as fact is not.
+
+**Evidence of done:** a short meeting record, agreed actions, a visible questions list and a date for the next review.
+
+### First 30 days: test the project story
+
+Build an orientation map rather than an exhaustive literature review. You should be able to explain:
+
+- the broad problem and who or what it affects;
+- what appears known, contested and unknown;
+- the vocabulary and neighbouring fields;
+- the proposal's central assumptions;
+- plausible forms of contribution;
+- the largest feasibility and governance risks;
+- the skills, people and services the project may require.
+
+Begin a search log and decision log. Test access to storage, software, library services, equipment and relevant support. Draft a working data-management plan even if no data will be collected soon; it should state what kinds of material may exist, who may access them and where they may be stored.
+
+**Evidence of done:** an orientation map, source trail, assumption list, initial risk register, verified working environment and a revised set of questions.
+
+### First 90 days: decide whether the provisional plan can carry weight
+
+By the 90-day point, aim for a defensible provisional plan, not final certainty. Review:
+
+- supervisory arrangements in practice, not merely on paper;
+- the project problem, provisional question and likely contribution;
+- feasibility of access, time, skills, resources and approvals;
+- the search strategy and what it has not covered;
+- the data, code and document-recovery system;
+- the next formal milestone and its evidence requirements;
+- the next 90 days as outcomes with evidence, owners and review points.
+
+Use the [First 90-day review](../../checklists/first-90-day-review.qmd) as a do-confirm pause point.
+
+## Decision rules
+
+- **If the activity involves participants, restricted data, hazardous work or a controlled environment:** confirm the required approval, training and supervision before beginning.
+- **If an official milestone occurs inside 90 days:** work backwards from its evidence requirements, not from a generic calendar.
+- **If the project direction is unclear but low-risk work is available:** do orientation searching, skills development and reversible setup while the decision is prepared.
+- **If access or feasibility is doubtful:** test the dependency before investing heavily in detailed design.
+- **If supervisors disagree:** record the disagreement, the evidence each view relies on, the decision owner and the next resolution point.
+- **If personal circumstances or accessibility needs affect participation:** contact the responsible service early; do not wait for a crisis to make the need visible.
+
+## Worked example: the proposal assumes data access
+
+Sam's application proposes analysing a partner organisation's records. During week one, nobody can identify a signed data-access agreement.
+
+The weak response is to begin selecting models and assume access will be resolved. The stronger response is to record data access as an unverified dependency, identify the institutional and partner owners, clarify the approval pathway and develop a bounded alternative question that uses accessible material.
+
+At the 30-day review, Sam has not “failed to start the analysis”. Sam has discovered that the original plan contained a critical assumption. The useful outputs are the access record, risk entry, alternative options and a decision date.
 
 ## Common failure modes
 
-- treating an early plan as permanently fixed;
-- collecting information without naming the decision it should inform;
-- copying a method or workflow without checking fit;
-- waiting for perfect certainty when a reversible next step is available;
-- relying on private memory instead of a recoverable project record;
-- presenting an institutional rule or one disciplinary convention as universal.
+- **Starting with visible activity rather than consequential uncertainty.** Test access, approval and feasibility early.
+- **Reading without recording the question the reading serves.** Use an orientation map and search log.
+- **Building an elaborate productivity system.** Start with actions, decisions, questions, risks and recoverable files.
+- **Letting meetings end with shared impressions.** Record decisions, owners, dates and evidence of completion.
+- **Waiting to be told every next step.** Bring a recommendation and ask for correction.
+- **Treating the proposal as fixed.** Preserve what changed and why.
+- **Ignoring the wider research environment.** Meet peers, librarians, methodologists, data specialists and relevant communities where appropriate.
+- **Confusing workload distress with personal failure.** Surface constraints and use formal support routes before the situation becomes acute.
 
-## Good enough for now
+## What progress looks like
 
-Good enough means the work is proportionate to its current purpose, major risks are controlled, important assumptions are visible, and the next decision can be defended. It does not mean that every uncertainty has disappeared.
+| Stage | Novice practice | Developing practice | Increasingly independent practice |
+|---|---|---|---|
+| Questions | Waits for a complete task list | Maintains an unresolved-questions log | Prioritises questions by risk and decision value |
+| Supervision | Reports activity | Brings options and asks targeted questions | Makes provisional recommendations and records decisions |
+| Evidence | Accumulates papers | Maps evidence to project questions | Tests contrary evidence and states search limits |
+| Planning | Copies the proposal into a timeline | Identifies dependencies and review points | Replans when evidence changes while preserving rationale |
+| Records | Relies on memory and email | Uses actions and decision logs | Maintains a recoverable project record others can follow |
 
 ## Before you ask your supervisor
 
-Bring a concise problem statement, the checks you completed, the strongest relevant evidence, feasible options, your provisional recommendation and one precise request. If risk, approval, participant welfare, integrity or safety is involved, seek the appropriate specialist or formal local process rather than relying only on an ordinary supervision meeting.
+Bring a one-page state report:
+
+- **Decision needed:** the exact choice or uncertainty.
+- **What I checked:** sources, people, systems or tests.
+- **Current evidence:** the strongest relevant information.
+- **Options:** at least two realistic paths, including a smaller or delayed path where appropriate.
+- **Recommendation:** what you think should happen and why.
+- **Request:** the decision, feedback or introduction you need.
+
+## Escalate now if
+
+- you are being asked to begin work without a required approval or training;
+- you cannot access essential supervision, facilities, funding or agreed support;
+- a relationship, workload, discrimination, bullying, safety, integrity or wellbeing concern is affecting the candidature;
+- sensitive information has been placed in an unapproved system or may have been exposed;
+- the project cannot meet a formal deadline and the delay needs institutional action.
+
+Use the responsible candidature, ethics, integrity, safety, accessibility, wellbeing or complaints route. A supervisor may help you navigate the route but is not always the decision-maker or appropriate sole recipient.
 
 ## Check locally
 
-Milestones, approvals, systems, storage, authorship processes, examination requirements and support routes vary. Verify the current rule with the responsible office or official documentation.
+Confirm induction and training, milestone dates, leave and attendance rules, intellectual property and confidentiality terms, approved storage, safety responsibilities, ethics and governance, research costs, software and equipment access, accessibility support and escalation routes.
 
-## Related practical resources
+## Related resources
 
-Use the [practical resource library](../../resources.qmd) and the [I’m stuck pathway](../../stuck/index.qmd) to turn this guidance into a documented action.
-
+- [Starting candidature checklist](../../checklists/starting-candidature.qmd)
+- [First 90-day review](../../checklists/first-90-day-review.qmd)
+- [Supervisor expectations guide](../../templates/supervisor-expectations.qmd)
+- [Action register](../../templates/action-register.qmd)
+- [Decision log](../../templates/decision-log.qmd)
+- [Risk and issues register](../../templates/risk-issues-register.qmd)
+- [Unresolved-questions log](../../templates/unresolved-questions.qmd)
+- [I’m stuck](../../stuck/index.qmd)

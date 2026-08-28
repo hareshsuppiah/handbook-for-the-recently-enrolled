@@ -1,55 +1,161 @@
 ---
 title: "From proposal to provisional plan"
-status: "broad-beta baseline"
+status: "broad-beta draft"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta baseline. Evidence verification and worked examples are being expanded; local requirements must be checked before acting.
+**Content status:** Broad-beta draft. The workflow is institution-neutral; formal milestone formats and approval processes must be checked locally.
 :::
+
+## The questions students are usually asking
+
+- Am I still expected to do exactly what was in my application?
+- How do I turn a proposal into work I can actually manage?
+- What needs to be decided now, and what should remain provisional?
+- What records do I need besides a timeline?
+- Which tools should I set up before the project becomes complicated?
 
 ## The direct answer
 
-Treat the proposal as an opening argument, not a contract with the future. Convert it into a testable plan with assumptions, dependencies and review points.
+Treat the proposal as an opening argument, not a contract with the future. Convert it into a provisional plan that separates commitments, evidence, assumptions, options and unknowns. Add dependencies and review points so the plan can change without losing its history.
 
-## The decision in front of you
+A useful plan does not predict every future task. It makes the next consequential decisions visible, states what evidence would support them and shows what could block them.
 
-Which parts of the proposal are commitments, hypotheses or merely starting assumptions?
+## What changed when you enrolled
+
+The proposal was written to demonstrate that a worthwhile project might be possible. Candidature requires you to test that proposition. Access may differ from what was assumed. Literature may change the question. Ethical or technical constraints may rule out an attractive method. Supervisors may identify a stronger contribution.
+
+Changing the plan in response to evidence is not automatically drift. Changing it without a record of the decision is.
+
+## Classify every proposal element
+
+Mark each important statement using one of five states:
+
+| State | Meaning | What to do |
+|---|---|---|
+| Confirmed commitment | A current rule, agreement or approved constraint requires it | Record the authoritative source and change process |
+| Supported working decision | Evidence currently favours it | Record the rationale and review trigger |
+| Assumption | It is being treated as true but has not been tested | Assign a test, owner and date |
+| Option | It remains one plausible path | State what evidence would select or reject it |
+| Unknown | The question has not been resolved | Put it in the unresolved-questions log |
+
+“The study will recruit 100 participants” may be an assumption, not a commitment. “No participant contact before ethics approval” may be a firm constraint. Treating both as ordinary tasks conceals their different status.
 
 ::: {.decision-card}
-**Smallest useful next action:** Mark each proposal element as fixed, provisional or unknown, then schedule the first review point.
+**Smallest useful next action:** Annotate the proposal using the five states above. Move every assumption and unknown into a visible register rather than quietly carrying it into the timeline.
 :::
 
-## A defensible way to proceed
+## Build the provisional plan
 
-1. State the outcome or decision in plain language.
-2. Separate known facts, assumptions, constraints and unresolved questions.
-3. Check the evidence and any applicable local requirement.
-4. Compare realistic options, including doing less, waiting or stopping.
-5. Record the choice, reasons, owner, next review point and evidence of completion.
+### 1. State the project in one page
+
+Write the problem, current question, intended contribution, proposed evidence and main limitations. This is a working state description, not promotional prose.
+
+### 2. Map formal constraints
+
+Record milestones, funding periods, approvals, training, reporting, leave rules and any partner commitments. Link each entry to a current authoritative source. Do not rely on what another student remembers.
+
+### 3. Identify decision gates
+
+A decision gate is a point where evidence determines whether the project continues as planned, narrows, pivots, pauses or stops. Useful early gates include:
+
+- enough orientation evidence to refine the question;
+- confirmation of access or recruitment feasibility;
+- method choice after comparison and specialist review;
+- pilot evidence before scaling;
+- required approval before participant or data-facing work.
+
+### 4. Work backwards from evidence of done
+
+Replace “finish literature review” with an inspectable result: “produce a six-theme evidence map, record the search limits and identify three unresolved claims for supervisor review”.
+
+### 5. Expose dependencies
+
+For each outcome, ask what must already be true. Name the owner of every dependency. “Ethics” is not an owner; the researcher may prepare the application, a supervisor may review it and a committee may decide it.
+
+### 6. Set review points
+
+Review the plan when important evidence arrives, a dependency changes, a formal milestone approaches or the project exceeds an agreed tolerance. A plan without review triggers becomes stale while still looking official.
+
+## The minimum research operating system
+
+Begin with five recoverable records:
+
+1. **Action register:** what will happen, owner, due date, status, dependency and evidence of done.
+2. **Decision log:** the decision, options, evidence, rationale, owner and review trigger.
+3. **Unresolved-questions log:** what is unknown, why it matters, next check and decision date.
+4. **Risk and issues register:** potential and actual problems, consequence, response, owner and escalation point.
+5. **Source trail:** where claims, requirements and evidence came from.
+
+These records may live in a spreadsheet, database, plain-text files or an approved project platform. The tool matters less than recoverability, access control and consistent use.
+
+Use calendar entries for time-specific commitments. Use an action register for work state. Use a decision log for reasoning. Email is evidence of communication, not a complete project-management system.
+
+## Worked example: recruitment was never tested
+
+The proposal assumes 60 specialist participants can be recruited in six months. The student converts this into:
+
+- **Assumption:** 60 eligible participants are reachable.
+- **Evidence needed:** credible pool size, contact route, likely response and exclusion rate.
+- **Owner:** student, with partner contact confirming the eligible pool.
+- **Gate:** feasibility decision before finalising the main study design.
+- **Options:** original sample; fewer participants with a different design; additional sites; revised question.
+- **Stop condition:** do not represent access as secured without written confirmation or begin recruitment without approval.
+
+The plan becomes more honest before it becomes more detailed.
+
+## Decision rules
+
+- **Fixed by current approval or agreement:** follow the formal change process.
+- **High consequence and weak evidence:** test before committing resources.
+- **Reversible and low risk:** choose a provisional option and set a review trigger.
+- **Dependent on another person:** record their actual commitment, not your hope.
+- **No longer supports the research question:** remove or redesign it even if work has already been invested.
+- **Cannot be completed inside constraints:** narrow scope, change sequence or escalate; do not hide the conflict in an optimistic timeline.
 
 ## Common failure modes
 
-- treating an early plan as permanently fixed;
-- collecting information without naming the decision it should inform;
-- copying a method or workflow without checking fit;
-- waiting for perfect certainty when a reversible next step is available;
-- relying on private memory instead of a recoverable project record;
-- presenting an institutional rule or one disciplinary convention as universal.
+- copying proposal headings into a Gantt chart without testing assumptions;
+- treating every date as equally certain;
+- planning activities without defining their outputs;
+- assigning actions to “the team”;
+- marking a sent request as completed when the needed approval or access has not arrived;
+- storing key decisions only in meeting memory or email;
+- changing direction without recording why;
+- adding tools instead of maintaining the minimum records;
+- interpreting sunk effort as evidence that the original path remains sound.
 
-## Good enough for now
+## Pause-point checklist: before adopting the provisional plan
 
-Good enough means the work is proportionate to its current purpose, major risks are controlled, important assumptions are visible, and the next decision can be defended. It does not mean that every uncertainty has disappeared.
+- [ ] Formal constraints are linked to current authoritative sources.
+- [ ] Commitments, decisions, assumptions, options and unknowns are distinguished.
+- [ ] Major feasibility and approval dependencies have owners and dates.
+- [ ] Each next-phase outcome has observable evidence of completion.
+- [ ] Decision gates and review triggers are scheduled.
+- [ ] Actions, decisions, questions and risks have recoverable records.
+- [ ] A realistic alternative exists for the most consequential unverified assumption.
+
+**Stop condition:** Do not call the plan viable while essential access, approval, safety or resource assumptions remain invisible or ownerless.
 
 ## Before you ask your supervisor
 
-Bring a concise problem statement, the checks you completed, the strongest relevant evidence, feasible options, your provisional recommendation and one precise request. If risk, approval, participant welfare, integrity or safety is involved, seek the appropriate specialist or formal local process rather than relying only on an ordinary supervision meeting.
+Bring the one-page project statement, annotated assumptions, the two most consequential decision gates, the main risk and your proposed next 90-day outcomes. Ask: “Which assumption would you test first, and what evidence would change our present direction?”
 
-## Check locally
+## When to escalate
 
-Milestones, approvals, systems, storage, authorship processes, examination requirements and support routes vary. Verify the current rule with the responsible office or official documentation.
+Escalate when a required decision sits outside the supervisory team's authority; a formal milestone is threatened; an agreed resource is unavailable; a partner commitment materially changes; work is being proposed outside an approval; or relationship and workload problems cannot be resolved through ordinary planning.
 
-## Related practical resources
+## Variation and local boundaries
 
-Use the [practical resource library](../../resources.qmd) and the [I’m stuck pathway](../../stuck/index.qmd) to turn this guidance into a documented action.
+Laboratory, fieldwork, archival, computational, qualitative, creative and participatory projects have different dependencies and evidence. A practice-led project may use cycles of making and critical reflection; a computational project may use datasets, repositories and validation gates; a community partnership may require shared governance and longer relationship-building. Do not force all of them into a task-only project template.
 
+## Related resources
+
+- [Action register](../../templates/action-register.qmd)
+- [Decision log](../../templates/decision-log.qmd)
+- [Unresolved-questions log](../../templates/unresolved-questions.qmd)
+- [Risk and issues register](../../templates/risk-issues-register.qmd)
+- [First 90-day review](../../checklists/first-90-day-review.qmd)
+- [Topic due diligence](../../templates/topic-due-diligence.qmd)
+- [I’m stuck](../../stuck/index.qmd)
