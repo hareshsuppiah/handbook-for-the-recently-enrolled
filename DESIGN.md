@@ -8,7 +8,7 @@ The cover remains a distinct illustrative asset. Haresh approved concept C, the 
 
 ## Reading contract
 
-The book is for sustained reading and practical use. The interface should disappear behind the content. The left rail is approximately 320 px with the cover and local search. The main text is approximately 760 px. The right rail is approximately 250 px and provides a sticky local index titled “On this page”. On mobile, the sidebars collapse into navigation controls and the reading column uses the available width without horizontal clipping.
+The book is for sustained reading and practical use. The interface should disappear behind the content. The left rail is approximately 320 px with the cover and local search. The main text is approximately 760 px. The right rail is approximately 250 px and provides a sticky local index titled “On this page”. At compact and mobile widths, an explicitly labelled **Contents** control opens the full book-navigation drawer and the chapter's **On this page** links remain visible inline below the title. The reading column uses the available width without horizontal clipping.
 
 The sidebar contains no social, repository or reader-mode icon row. Reader feedback is reached through a clearly labelled page in the book.
 

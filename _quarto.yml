@@ -113,6 +113,7 @@ format:
     code-copy: true
     link-external-newwindow: true
     include-before-body: includes/design-contract.html
+    include-after-body: includes/responsive-navigation.html
   pdf:
     documentclass: scrreprt
 

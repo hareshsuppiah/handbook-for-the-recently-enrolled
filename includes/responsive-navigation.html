@@ -1,0 +1,52 @@
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const toggle = document.querySelector("#quarto-header .quarto-btn-toggle");
+  if (toggle) {
+    toggle.setAttribute("aria-label", "Open book contents");
+
+    const label = document.createElement("span");
+    label.className = "compact-contents-label";
+    label.textContent = "Contents";
+    toggle.appendChild(label);
+
+    toggle.addEventListener("click", () => {
+      window.setTimeout(() => {
+        const expanded = toggle.getAttribute("aria-expanded") === "true";
+        toggle.setAttribute("aria-label", expanded ? "Close book contents" : "Open book contents");
+      }, 0);
+    });
+  }
+
+  const media = window.matchMedia("(max-width: 991px)");
+
+  const updateCompactPageContents = () => {
+    const existing = document.querySelector(".compact-page-contents");
+    if (!media.matches) {
+      existing?.remove();
+      return;
+    }
+
+    if (existing) return;
+
+    const source = document.querySelector("#TOC");
+    const main = document.querySelector("#quarto-document-content");
+    if (!source || !main) return;
+
+    const contents = document.createElement("aside");
+    contents.className = "compact-page-contents";
+    contents.setAttribute("aria-label", "On this page");
+
+    const clone = source.cloneNode(true);
+    clone.removeAttribute("id");
+    clone.querySelectorAll("[id]").forEach((element) => element.removeAttribute("id"));
+    contents.appendChild(clone);
+
+    const title = main.querySelector("#title-block-header");
+    title?.insertAdjacentElement("afterend", contents);
+    if (!title) main.prepend(contents);
+  };
+
+  updateCompactPageContents();
+  media.addEventListener("change", updateCompactPageContents);
+});
+</script>
