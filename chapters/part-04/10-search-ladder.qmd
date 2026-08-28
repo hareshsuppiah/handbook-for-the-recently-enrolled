@@ -133,6 +133,10 @@ Stop the chain according to the purpose. Orientation may stop when new records n
 
 Bring the question, intended output, current concept table, databases considered, sample strategy, known relevant records, limits and the decision you need. Ask: “What evidence could this approach systematically miss, and does that matter for the claim?”
 
+## Check locally
+
+Database access, review protocols, language capability, information-specialist support and required reporting standards vary. Confirm the route appropriate to the intended review and field.
+
 ## Related resources
 
 - [Search-ladder decision tree](../../checklists/search-ladder.qmd)

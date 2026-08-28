@@ -196,6 +196,10 @@ Bring:
 - [ ] Approval, consent and protocol determine whether pilot data may be reused.
 - [ ] Pilot results and resulting decisions are retained.
 
+## Check locally
+
+Confirm method-specific adequacy standards, access and sampling authority, instrument licences and validation, pilot-data reuse, ethics amendments, safety and progression rules.
+
 ## Related practical resources
 
 Use the [pilot-readiness checklist](../../checklists/pilot-readiness.qmd), [before data collection checklist](../../checklists/before-data-collection.qmd), [method-options comparison](../../templates/method-options.qmd) and [methodological decision record](../../templates/method-decision.qmd). If adequacy cannot yet be defended, use [I’m stuck](../../stuck/index.qmd) before launching the main study.

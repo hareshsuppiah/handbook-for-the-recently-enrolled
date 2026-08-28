@@ -1,5 +1,7 @@
 ---
 title: "Before data collection"
+status: "broad-beta resource"
+last-reviewed: "2026-08-28"
 ---
 
 **Pause point:** Immediately before the first participant, observation, specimen, device recording, field visit or restricted-data transfer.
@@ -29,6 +31,18 @@ Do not begin if approval, current materials, site permission, safety arrangement
 
 Keep approvals, approved versions, training and delegation records, test results, access lists, backup-recovery evidence, collection logs, incidents and deviations.
 
+## Completed scenario
+
+The approved protocol permits coded interview audio in institutional storage. A team member proposes automatic transcription through a personal cloud account and discovers the recorder also embeds the participant's name in filenames. The checkpoint fails. Collection pauses while the team renames the device profile, tests an approved transfer and transcription route with synthetic audio, confirms role-based access and recovery, and updates training. Data collection begins only when the actual workflow matches the approval.
+
+## Scenario test: access is approved but storage is not
+
+The custodian authorises a restricted-data extract, but the project folder is still a personal synchronised drive. Written data access is not permission to use an unapproved storage route. Keep the transfer paused, establish and test the authorised environment, then retain approval and recovery evidence.
+
 ::: {.callout-warning title="Check locally"}
 Required approvals and safety controls vary with the participants, setting, data, methods, jurisdiction and institution.
 :::
+
+## Related guidance
+
+Return to [Ethics, privacy and consent](../chapters/part-06/16-ethics-privacy-consent.qmd), use the [data-management plan](../templates/data-management-plan.qmd), and run the [backup and restore audit](backup-restore.qmd).

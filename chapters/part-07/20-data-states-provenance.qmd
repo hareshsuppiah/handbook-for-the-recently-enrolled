@@ -215,6 +215,10 @@ Bring:
 - test results for a difficult record; and
 - the exact meaning, authority or analysis question you cannot resolve.
 
+## Check locally
+
+Confirm authoritative systems, record custody, identifiers, metadata standards, retention, release review, culturally governed data requirements and who may approve corrections to source records.
+
 ## Related practical resources
 
 Use the [data dictionary and codebook](../../templates/data-dictionary.qmd), [folder and file-naming starter](../../templates/folder-file-naming.qmd), [protocol-deviation log](../../templates/protocol-deviation.qmd) and [Before analysis](../../checklists/before-analysis.qmd). Continue to [Reproducible workflows](21-reproducible-workflows.qmd) for code, environments and clean-run checks.

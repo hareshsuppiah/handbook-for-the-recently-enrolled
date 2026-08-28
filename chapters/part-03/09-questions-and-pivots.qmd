@@ -154,6 +154,10 @@ Bring the old and revised chains side by side, the evidence that triggered chang
 
 Seek formal or specialist advice when the change affects approval, preregistration, data permissions, cultural governance, partner agreements, funding, intellectual property, formal milestones or the central candidature scope.
 
+## Check locally
+
+Confirm who can approve changes to candidature scope, ethics or governance, registration, data access, partner commitments and formal milestones before affected work proceeds.
+
 ## Related resources
 
 - [Research-question stress test](../../checklists/research-question-stress-test.qmd)
