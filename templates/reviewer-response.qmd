@@ -1,48 +1,62 @@
 ---
-title: "Reviewer Response"
-status: "beta resource"
+title: "Reviewer-response matrix"
+status: "broad-beta resource"
 last-reviewed: "2026-08-28"
 ---
 
-::: {.manual-status}
-**Resource status:** Usable beta. Adapt it to the method and check local requirements. Do not place confidential or identifiable information in a public copy.
-:::
+Use one row for every editor and reviewer point, including comments you do not accept literally. Preserve the original numbering.
 
-## When to use it
+## Decision summary
 
-Use this template when the relevant reasoning needs to remain visible after the conversation or task has ended. Replace the prompts; do not leave bracketed instructions in a final record.
+**Manuscript/version:** [ ]
 
-## Blank template
+**Decision and deadline:** [ ]
 
-**Purpose or decision:** [What is this record for?]  
-**Context:** [What has happened, and what stage is the work at?]  
-**Known facts and evidence:** [Cite or link the authoritative record.]  
-**Assumptions:** [What is believed but not yet verified?]  
-**Constraints and local requirements:** [What limits the available choices?]  
-**Options considered:** [Include realistic alternatives.]  
-**Provisional recommendation:** [What should happen, and why?]  
-**Owner and next action:** [Name the person and action.]  
-**Evidence of done:** [What observable result will close this item?]  
-**Review or escalation date:** [When will this be reconsidered?]
+**Response owner and author approval route:** [ ]
+
+**Files in the authoritative response package:** [ ]
+
+## Blank matrix
+
+| ID | Comment or faithful summary | Underlying concern | Disposition | Response and rationale | Manuscript change/location | Other records affected | Status/verification |
+|---|---|---|---|---|---|---|---|
+| E1/R1.1 | [ ] | [scientific/reporting/reader concern] | accept / adapt / investigate / discuss / decline | [ ] | [page/line/section or no change] | [analysis/supplement/abstract/etc.] | open / checked / author-approved |
+
+## Response pattern
+
+For each point:
+
+1. thank or acknowledge without empty repetition;
+2. state the concern you understood;
+3. explain what you did and why;
+4. identify the exact changed location or explain a reasoned non-change; and
+5. quote only the short passage needed to make verification easy.
 
 ## Completed example
 
-**Purpose or decision:** choose the next reversible project step.  
-**Context:** the preferred activity depends on an approval that has not yet been confirmed.  
-**Known facts and evidence:** the submitted request and current approved protocol are linked in the project record.  
-**Assumptions:** approval may arrive this week; this is not treated as confirmed.  
-**Constraints and local requirements:** no participant-facing activity may begin before written approval.  
-**Options considered:** wait; prepare non-participant materials; redesign the sequence.  
-**Provisional recommendation:** complete reversible preparation only.  
-**Owner and next action:** researcher prepares materials and checks status on Friday.  
-**Evidence of done:** materials saved in the approved project location and status recorded.  
-**Review or escalation date:** Friday, or earlier if the milestone is threatened.
+| ID | Comment or faithful summary | Underlying concern | Disposition | Response and rationale | Manuscript change/location | Other records affected | Status/verification |
+|---|---|---|---|---|---|---|---|
+| R2.4 | Dichotomise recovery score for easier interpretation | continuous effect may be hard for applied readers to interpret | adapt | retain continuous primary analysis because an arbitrary split loses information; add predicted-value plot at meaningful reference points and clarify effect size | Results §3.2; Fig 2; Discussion ¶2 | figure script, caption, supplement and abstract checked | author-approved |
 
-## What this prevents
+**Response text:** “We agree that the practical interpretation required clarification. We retained the prespecified continuous analysis and added predicted values at three clinically meaningful reference points in Figure 2, with corresponding text in Results §3.2. We did not dichotomise the outcome because no validated threshold was prespecified and doing so would discard information.”
 
-This resource reduces decisions being lost, assumptions being mistaken for facts, and actions being marked complete without evidence.
+## Conflict and new-analysis checks
+
+- [ ] Editor instructions take precedence where they define the decision, but scientific or ethical concerns are raised explicitly.
+- [ ] Conflicting reviewer requests are shown rather than silently choosing one.
+- [ ] New analyses have a stated purpose and are labelled planned, amended or exploratory accurately.
+- [ ] Any protocol, registration, ethics, data, code or authorship implications are addressed.
+- [ ] Abstract, tables, figures, supplement and response letter agree.
+- [ ] Every author approves the revised manuscript and response.
+
+## Scenario test
+
+Reviewer 1 asks for more causal language; Reviewer 2 says the design is observational. Record the conflict, retain the design-appropriate claim, explain the inferential limit and ask the editor to resolve any remaining presentation requirement. Do not satisfy both by using inconsistent wording in different sections.
+
+## Evidence of done
+
+Retain the decision letter, response matrix, tracked or diffed revision, clean manuscript, regenerated outputs where applicable, verification record and exact author-approved resubmission package.
 
 ## Related guidance
 
-Return to the [handbook contents](../index.qmd), browse the [resource library](../resources.qmd), or use [I’m stuck](../stuck/index.qmd).
-
+Return to [Publishing, review and communication](../chapters/part-10/30-publishing-review-communication.qmd) and use the general [feedback response matrix](feedback-response.qmd) for internal reviews.

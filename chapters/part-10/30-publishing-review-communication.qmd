@@ -1,55 +1,224 @@
 ---
 title: "Publishing, review and communication"
-status: "broad-beta baseline"
+status: "broad-beta draft"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta baseline. Evidence verification and worked examples are being expanded; local requirements must be checked before acting.
+**Content status:** Broad-beta draft. Journal policies, fees, reporting requirements, AI rules and repository rights change. Recheck the official outlet pages immediately before submission.
 :::
+
+## The questions students are usually asking
+
+- Which journal is right for this paper?
+- How can I tell whether an invitation or outlet is legitimate?
+- Should journal ranking decide where I submit?
+- What must be agreed about authorship before submission?
+- How do I respond to reviewers without accepting every suggestion?
+- What should I do after rejection?
+- How do I communicate the work beyond an academic paper without overstating it?
 
 ## The direct answer
 
-Publication strategy should match audience, contribution, reporting duties, openness, feasibility and risk.
+Choose an outlet by fit among contribution, readers, article type, editorial practice, reporting duties, access, rights, cost, timing and risk. Verify claims on official pages and preserve the decision. Before submission, reconcile the manuscript, approvals, contribution record, reporting checklist, data/code statements and author agreement.
 
-## The decision in front of you
+Treat peer review as a new evidence-and-decision cycle. Respond to the underlying concern, show the exact change or reasoned disagreement and ensure that every response remains consistent with the study record.
 
-Which outlet and format best serve the intended readers without distorting the work?
+## Decide what publication is for
 
-::: {.decision-card}
-**Smallest useful next action:** Document journal scope, audience, policies, costs, timelines and warning signs before submission.
-:::
+Name the primary purpose:
 
-## A defensible way to proceed
+- reach researchers who can build on the finding;
+- inform a professional or policy decision;
+- establish a method, dataset, software object or conceptual contribution;
+- satisfy a funder, thesis or partner commitment;
+- create an accessible record; or
+- invite scrutiny and reuse.
 
-1. State the outcome or decision in plain language.
-2. Separate known facts, assumptions, constraints and unresolved questions.
-3. Check the evidence and any applicable local requirement.
-4. Compare realistic options, including doing less, waiting or stopping.
-5. Record the choice, reasons, owner, next review point and evidence of completion.
+No single journal optimises every purpose. A highly ranked outlet with the wrong readers, format or timeline can be a poor choice. Metrics can inform context but do not establish article quality or fit.
+
+## Build a shortlist, then verify it
+
+For each candidate, check the current official record:
+
+| Domain | Evidence to inspect |
+|---|---|
+| Scope and readers | aims, recent comparable articles, article types and exclusions |
+| Editorial process | named publisher and board, peer-review model, decision authority and corrections policy |
+| Reporting | author instructions, relevant reporting guideline, registration, data/code and disclosure rules |
+| Authorship and AI | contribution criteria, author approval, assistance and generative-AI policy |
+| Access and rights | subscription/open model, licence, copyright, repository and preprint policy |
+| Cost | submission, processing, page, colour and other charges; waiver conditions and currency |
+| Timing | evidenced—not promised—review/publication pattern and thesis dependency |
+| Preservation and identifiers | persistent identifiers, indexing and archiving arrangements |
+| Integrity signals | transparent contact details, complaints/corrections process and verifiable claims |
+
+Transparency standards expect journals to make scope, governance, review, fees, copyright, licensing and related policies clear [@doaj-transparency]. DOAJ's application guide provides additional evidence for evaluating open-access journals, including declared charges and editorial processes [@doaj-guide]. These are screening aids, not guarantees that a specific submission will receive good review.
+
+## Investigate warning signs
+
+Pause when:
+
+- an unsolicited invitation uses generic praise or misstates your work;
+- the journal name or website imitates another title;
+- scope is implausibly broad;
+- editorial-board identities or affiliations cannot be verified;
+- acceptance is guaranteed or tied to payment;
+- peer review is unexplained or unrealistically fast;
+- fees appear late or differ across pages;
+- contact and publisher details are unclear;
+- indexing or metrics claims cannot be confirmed with the named service;
+- withdrawal, copyright or licence terms are coercive or contradictory; or
+- the requested manuscript transfer, data upload or AI use conflicts with confidentiality or approval.
+
+One weak signal may reflect poor administration; several unresolved signals change the risk. Ask a librarian or research office for help rather than relying on an undocumented blacklist.
+
+## Use reporting guidance at the right time
+
+Identify the relevant guideline while designing the study and revisit it during write-up and submission. Reporting guidelines specify information readers need to understand and appraise particular research; they do not repair a weak design [@equator-what-guideline]. EQUATOR maintains a searchable collection for many health-research designs [@equator-library]. Other disciplines use different standards.
+
+Record the guideline version, extensions, completed page references and justified non-applicable items. Check the target journal's exact requirements, because it may request a checklist, flow diagram, protocol, registration or additional statement.
+
+## Confirm the author group before submission
+
+For this output, verify:
+
+- authorship standard and completed contributions;
+- author order and corresponding-author responsibilities;
+- title, abstract, conclusions and claims;
+- conflicts, funding and acknowledgements;
+- use of editorial or AI assistance and required disclosure;
+- data, code, materials, registration and protocol statements;
+- licence, copyright and repository choices;
+- related manuscripts or overlapping content; and
+- approval of the exact submitted version by every author.
+
+Authorship is output-specific and should reflect contribution and accountability, not access, seniority or promised future work [@australian-code-2018; @nhmrc-publication-guide]. Use CRediT to describe roles where appropriate, but not as an automatic authorship test [@credit-taxonomy].
+
+## Submit one coherent package
+
+Run the manuscript readiness checkpoint, then verify:
+
+1. manuscript and supplement versions agree;
+2. tables, figures and numerical claims trace to checked outputs;
+3. title page, anonymised file and metadata meet the review model;
+4. cover letter makes only defensible claims;
+5. reporting checklist page references are current;
+6. author details, contributions, funding and conflicts are correct;
+7. required data/code/ethics/registration statements are consistent;
+8. files open and render correctly; and
+9. every author approves the final package.
+
+Retain the submitted package, confirmation and manuscript identifier. A prepared upload is not a submission; a submission is not editorial acceptance.
+
+## Turn reviewer comments into decisions
+
+For each comment:
+
+1. reproduce or faithfully summarise it;
+2. identify the underlying scientific, reporting or reader concern;
+3. decide to accept, adapt, investigate, discuss or respectfully decline;
+4. change the manuscript and related records where needed;
+5. quote a short changed passage or identify exact locations;
+6. explain the reasoning and evidence; and
+7. verify consistency across abstract, methods, results, discussion and supplement.
+
+Write for the editor and future reader, not to win an argument with the reviewer. Be specific, calm and complete. A polite response is not enough if the analysis is wrong; an extensive new analysis is not justified merely because it was requested.
+
+## When the requested analysis is not defensible
+
+State the concern you understood, explain why the proposed analysis would not answer it or would create another problem, and offer a defensible alternative if one exists.
+
+**Example:** A reviewer asks to dichotomise a continuous outcome to make the result easier to interpret. The team explains the information loss and arbitrary threshold, retains the continuous primary analysis, adds a plot with clinically meaningful reference points, and clarifies interpretation. If the journal requires a different presentation, the editor—not the authors' guess—resolves the requirement.
+
+## Treat rejection as information, not automatic failure
+
+Classify the decision:
+
+- scope or priority mismatch;
+- reporting or clarity weakness;
+- correctable methodological concern;
+- fundamental design limitation;
+- unsupported claim;
+- conflicting reviewer preferences; or
+- editorial decision with little actionable detail.
+
+Then decide among revise and resubmit, appeal when a material factual or process error exists, submit elsewhere after adapting the package, redesign future work, or stop the paper. Do not send the unchanged manuscript to the next journal while ignoring valid concerns. Do not keep revising forever when the central inference cannot be repaired.
+
+## Communicate beyond the paper
+
+Start again from the audience and decision. A practitioner summary, policy brief, community report, presentation, dataset note or public post is not merely a shorter abstract.
+
+For each output specify:
+
+- who needs it and what they may decide;
+- the one bounded message;
+- essential context and uncertainty;
+- what action is and is not justified;
+- accessibility, language and format needs;
+- confidentiality, consent, cultural and partner obligations;
+- attribution and links to the full record; and
+- a correction route.
+
+Avoid causal or universal language that the study cannot support. Report null, ambiguous and harmful findings honestly. Do not release participant-level stories, images, quotations or partner information merely because they make communication vivid.
+
+## Worked example: choosing between two outlets
+
+**Paper:** A validated workflow for monitoring athlete-reported recovery, intended for applied researchers and practitioners.
+
+**Outlet A:** strong methods readership, transparent policies, no mandatory fee, permits repository deposit, average published timeline compatible with thesis. Recent articles use the relevant reporting standard.
+
+**Outlet B:** broader headline metric and a flattering invitation, but unclear peer review, unverifiable board affiliations, fee disclosed only during submission and no clear repository policy.
+
+**Decision:** Choose A. The reason is not that every lower-profile outlet is safer; it is that A has verified audience fit, transparent process, feasible rights and cost, and suitable article precedent. Record URLs and the date checked because policies can change.
+
+**If rejected:** Separate fit from manuscript concerns, revise valid issues, update the due-diligence comparison and obtain author approval before the next submission.
 
 ## Common failure modes
 
-- treating an early plan as permanently fixed;
-- collecting information without naming the decision it should inform;
-- copying a method or workflow without checking fit;
-- waiting for perfect certainty when a reversible next step is available;
-- relying on private memory instead of a recoverable project record;
-- presenting an institutional rule or one disciplinary convention as universal.
+- choosing by metric or supervisor habit without checking the paper's readers;
+- treating an invitation as evidence of legitimacy;
+- relying on search-result snippets or third-party summaries for current policy;
+- checking fees only after acceptance;
+- using a reporting checklist as a design-quality certificate;
+- deciding authorship at the upload screen;
+- uploading a version not approved by all authors;
+- replying “done” without identifying the change;
+- adding analyses that do not address the review concern;
+- resubmitting an unchanged rejected manuscript;
+- translating findings into recommendations stronger than the evidence; and
+- treating publication as the end of correction, archiving or communication duties.
 
 ## Good enough for now
 
-Good enough means the work is proportionate to its current purpose, major risks are controlled, important assumptions are visible, and the next decision can be defended. It does not mean that every uncertainty has disappeared.
+A submission decision is ready when audience and contribution fit are evidenced; policies, rights, cost and integrity signals are checked on current official pages; reporting and authorship requirements are reconciled; the package passes independent verification; and the team has a documented fallback.
 
-## Before you ask your supervisor
+## Before you ask your supervisors or co-authors
 
-Bring a concise problem statement, the checks you completed, the strongest relevant evidence, feasible options, your provisional recommendation and one precise request. If risk, approval, participant welfare, integrity or safety is involved, seek the appropriate specialist or formal local process rather than relying only on an ordinary supervision meeting.
+Bring the completed outlet comparison, recent comparable articles, exact costs and rights, reporting requirements, current author/contribution record, remaining manuscript gaps, timing dependency, preferred outlet and fallback, and one precise approval request.
+
+## Pause-point checklist
+
+- [ ] The intended reader and publication purpose are explicit.
+- [ ] At least two realistic outlets have been compared.
+- [ ] Scope, review, fees, rights, timing and integrity claims are verified.
+- [ ] The current reporting guideline and outlet instructions are reconciled.
+- [ ] Authorship and exact-version approval are complete.
+- [ ] All claims, figures and statements trace to the research record.
+- [ ] The submitted package and receipt will be retained.
+- [ ] Reviewer concerns receive reasoned, location-specific responses.
+- [ ] Rejection triggers diagnosis before resubmission.
+- [ ] Non-academic communication preserves evidence boundaries and privacy.
 
 ## Check locally
 
-Milestones, approvals, systems, storage, authorship processes, examination requirements and support routes vary. Verify the current rule with the responsible office or official documentation.
+Confirm thesis-by-publication rules, funder and institutional open-access obligations, repository agreements, publication costs, copyright authority, embargoes, partner review, Indigenous data and cultural protocols, sanctions/export controls where relevant, authorship disputes and media approval.
 
 ## Related practical resources
 
-Use the [practical resource library](../../resources.qmd) and the [I’m stuck pathway](../../stuck/index.qmd) to turn this guidance into a documented action.
+Use the [journal due-diligence template](../../templates/journal-due-diligence.qmd), [before manuscript submission checklist](../../checklists/before-manuscript-submission.qmd), [reviewer-response matrix](../../templates/reviewer-response.qmd), [authorship conversation record](../../templates/authorship-conversation.qmd), [contribution statement](../../templates/contribution-statement.qmd) and [feedback response matrix](../../templates/feedback-response.qmd).
 
+## References
+
+::: {#refs}
+:::
