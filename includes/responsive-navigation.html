@@ -1,13 +1,11 @@
 <script>
 document.addEventListener("DOMContentLoaded", () => {
-  const toggle = document.querySelector("#quarto-header .quarto-btn-toggle");
   const mobile = window.matchMedia("(max-width: 767px)");
   const tablet = window.matchMedia("(min-width: 768px) and (max-width: 991.98px)");
   const sidebar = document.querySelector("#quarto-sidebar");
   const logo = sidebar?.querySelector(".sidebar-logo");
 
   const updateBookNavigation = () => {
-    document.querySelector(".book-contents-button")?.remove();
     document.querySelector(".tablet-cover-link")?.remove();
 
     if (tablet.matches) {
@@ -25,15 +23,6 @@ document.addEventListener("DOMContentLoaded", () => {
       }
     } else if (mobile.matches) {
       sidebar?.classList.remove("show");
-      if (toggle) {
-        const button = document.createElement("button");
-        button.className = "book-contents-button";
-        button.type = "button";
-        button.textContent = "Book contents";
-        button.setAttribute("aria-label", "Open book contents");
-        button.addEventListener("click", () => toggle.click());
-        document.body.appendChild(button);
-      }
     }
   };
 
@@ -41,11 +30,9 @@ document.addEventListener("DOMContentLoaded", () => {
   mobile.addEventListener("change", updateBookNavigation);
   tablet.addEventListener("change", updateBookNavigation);
 
-  const media = window.matchMedia("(max-width: 991.98px)");
-
   const updateCompactPageContents = () => {
     const existing = document.querySelector(".compact-page-contents");
-    if (!media.matches) {
+    if (!tablet.matches) {
       existing?.remove();
       return;
     }
@@ -87,6 +74,6 @@ document.addEventListener("DOMContentLoaded", () => {
   };
 
   updateCompactPageContents();
-  media.addEventListener("change", updateCompactPageContents);
+  tablet.addEventListener("change", updateCompactPageContents);
 });
 </script>

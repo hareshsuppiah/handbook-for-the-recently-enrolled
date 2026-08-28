@@ -4,15 +4,11 @@ subtitle: "An Operating Manual for Graduate Researchers"
 description: "A practical, evidence-informed operating manual for graduate researchers."
 ---
 
-**Project lead and founding editor:** Haresh Suppiah
-
-**Editorial approach:** Human-led and AI-assisted
-
 Graduate research rarely fails because nobody can find another definition of methodology. It becomes difficult when several reasonable actions are available, the evidence is incomplete, the rules vary by institution, and the next useful move is unclear.
 
 This handbook is built for those moments. It helps you identify the decision in front of you, do proportionate due diligence, record what you considered, take a defensible next step, and know when local or specialist help is required.
 
-This is the broad-beta edition. Institution-specific rules must always be checked locally. [Read the release status](status.qmd).
+This is a living public edition: it is ready to use now and will continue to be corrected and improved. Institution-specific rules must always be checked locally. [About this edition](status.qmd).
 
 ## Start from your situation
 

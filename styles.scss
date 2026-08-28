@@ -78,10 +78,6 @@ body {
 #TOC { width: 100%; }
 .page-columns { column-gap: 1.5rem; }
 
-#quarto-header .quarto-secondary-nav {
-  display: none !important;
-}
-
 h1, h2, h3 {
   color: var(--ink);
   font-family: inherit;
@@ -197,6 +193,10 @@ a:hover {
   body { font-size: 1rem; }
   .content { max-width: 680px; }
   h1 { font-size: 2.1rem; }
+
+  #quarto-header .quarto-secondary-nav {
+    display: none !important;
+  }
 
   #quarto-sidebar {
     bottom: 0 !important;
@@ -332,30 +332,45 @@ a:hover {
 }
 
 @media (max-width: 767px) {
-  body { font-size: 1rem; }
+  body {
+    font-size: 1rem;
+    padding-top: 41px !important;
+  }
   .content { max-width: 100%; }
   h1 { font-size: 2rem; }
 
-  .book-contents-button {
-    align-items: center;
+  #quarto-header .quarto-secondary-nav {
     background: #ffffff;
-    border: 1px solid var(--rule);
-    border-radius: 4px;
-    color: var(--ink);
-    display: inline-flex;
-    font: inherit;
-    font-size: .9rem;
-    font-weight: 500;
-    left: .75rem;
-    min-height: 44px;
-    padding: .55rem .75rem;
-    position: fixed;
-    top: .75rem;
-    z-index: 1060;
+    border-bottom: 1px solid var(--rule);
+    display: block !important;
   }
 
-  #quarto-content {
-    padding-top: 3.75rem !important;
+  #quarto-header .quarto-secondary-nav .container-fluid {
+    min-height: 41px;
+    padding-inline: .65rem;
+  }
+
+  #quarto-header .quarto-btn-toggle,
+  #quarto-header .quarto-search-button {
+    color: var(--ink);
+    min-height: 40px;
+    min-width: 40px;
+  }
+
+  #quarto-header .quarto-page-breadcrumbs {
+    min-width: 0;
+    overflow: hidden;
+  }
+
+  #quarto-header .breadcrumb {
+    flex-wrap: nowrap;
+    overflow: hidden;
+    white-space: nowrap;
+  }
+
+  #quarto-header .breadcrumb-item {
+    overflow: hidden;
+    text-overflow: ellipsis;
   }
 
   .compact-page-contents ul {

@@ -1,29 +1,26 @@
 ---
-title: "Broad-beta status"
+title: "About this edition"
 ---
 
-This edition is the **broad beta** promised in the project brief. It contains 36 substantive chapters across the 12 original Parts, covers all 82 source topics, publishes all 53 practical resources, and provides 11 situation-based “I’m stuck” pathways.
+This is a living public edition of the handbook. The complete handbook is available to use now, and it will continue to be corrected and improved as evidence, policies, technology and reader needs change.
 
-## What has been completed
+## What you can expect
 
-- the authoritative source brief is preserved privately and its SHA-256 hash is recorded;
-- every original topic has a substantive destination in the handbook;
-- all 36 chapters meet the broad-beta chapter contract and cite verified sources;
-- all 53 checklists, decision aids and templates are substantive and rendered as book pages;
-- priority resources include completed examples;
-- the full-book search, left book contents, right page contents, previous/next navigation and mobile contents work in the rendered site;
-- five documented coverage passes and two external-discovery passes have been completed;
-- the contribution workflow keeps editorial approval with Haresh rather than permitting direct publication by readers; and
-- automated verification checks chapter depth, citations, resources, internal links, image alternatives and rendered-page coverage.
+- all 36 chapters are available;
+- the handbook includes 53 checklists, decision aids and templates;
+- sources are linked to the claims they support;
+- local or time-sensitive requirements are labelled for checking;
+- corrections and useful additions can enter the documented editorial process; and
+- navigation, links, citations and page coverage are checked when the book is built.
 
-## One owner-dependent item
+## What this does not mean
 
-An independent no-GitHub feedback form cannot be activated until Haresh supplies or approves its URL. This dependency is stated openly on the [suggestion page](contributions/index.qmd). It does not prevent readers from using the current guided GitHub suggestion forms, and it does not give contributors permission to edit the handbook directly.
+No online handbook is permanently complete or universally applicable. Policies, software, evidence and institutional arrangements change. General guidance cannot replace the rules, approvals or specialist advice that govern your particular work.
 
-## What broad beta means
+## Help improve it
 
-Broad beta means the complete navigable handbook is available for use and review. It does not mean that advice is permanently complete or universal. Policies, technology and evidence change; local requirements must still be checked; and substantive corrections should flow through the documented editorial process.
+If something is missing, unclear, incorrect or no longer useful, you can [suggest an improvement](contributions/index.qmd). Suggestions are reviewed before any change is published.
 
-## Verification record
+## Project records
 
-The row-by-row requirements register is [`planning/requirements-checklist.csv`](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/blob/main/planning/requirements-checklist.csv). The original corrective audit is retained as project history; the current release evidence is recorded in [`planning/release-verification-2026-08-28.md`](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/blob/main/planning/release-verification-2026-08-28.md).
+For readers who want the underlying quality records, the project maintains a [`requirements register`](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/blob/main/planning/requirements-checklist.csv) and a [`release verification record`](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/blob/main/planning/release-verification-2026-08-28.md).

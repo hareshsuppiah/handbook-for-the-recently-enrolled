@@ -3,7 +3,7 @@
 **An Operating Manual for Graduate Researchers**  
 **Founding author and editor: Haresh Suppiah**
 
-This repository contains the broad-beta edition of an institution-neutral, evidence-informed Quarto handbook for graduate researchers. It is a maintained decision-support resource, not institutional, legal, ethical, medical, counselling, or emergency guidance.
+This repository contains a living public edition of an institution-neutral, evidence-informed Quarto handbook for graduate researchers. It is a maintained decision-support resource, not institutional, legal, ethical, medical, counselling, or emergency guidance.
 
 ## Current status
 
