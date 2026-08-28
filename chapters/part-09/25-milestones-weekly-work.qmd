@@ -1,55 +1,243 @@
 ---
-title: "Milestones and weekly work"
-status: "broad-beta baseline"
+title: "Milestones, dependencies and weekly evidence"
+status: "broad-beta draft"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta baseline. Evidence verification and worked examples are being expanded; local requirements must be checked before acting.
+**Content status:** Broad-beta draft. Formal milestones, leave, progress review, candidature variation and reporting requirements are institution-specific. Verify the current local process and distinguish internal planning from authorised deadline changes.
 :::
+
+## The questions students are usually asking
+
+- How do I turn a three-year plan into work for this week?
+- What does “70% complete” actually mean?
+- How much contingency should I allow?
+- How do I plan when approvals or collaborators control the timing?
+- What counts as visible progress during reading, thinking or troubleshooting?
+- How do I use milestones without pretending the plan will not change?
+- When should delay be escalated?
 
 ## The direct answer
 
-Translate distant milestones into visible evidence, near-term deliverables and the next physical action.
+Define milestones by evidence and decisions, then work backwards through dependencies to the next observable action. Track states such as not started, active, waiting, blocked, under review and accepted—not invented percentages.
 
-## The decision in front of you
+A milestone is not “finish methods”. It is a decision point with required evidence, acceptance criteria, an authorised reviewer and a response if the evidence is not ready.
 
-What evidence must exist at the milestone, and what can be produced this week?
+## Convert milestones into evidence
 
-::: {.decision-card}
-**Smallest useful next action:** Write one weekly outcome and the next three actions that create it.
-:::
+For each formal or internal milestone, record:
 
-## A defensible way to proceed
+| Element | Question |
+|---|---|
+| Decision | What will be approved, confirmed, released or reconsidered? |
+| Evidence | What exact artefacts must exist? |
+| Acceptance | What test or standard will show readiness? |
+| Reviewer | Who has authority or expertise to decide? |
+| Dependencies | What must happen first, and who controls it? |
+| Buffer | Which uncertainty is the buffer absorbing? |
+| Failure path | What happens if the evidence is late, weak or unsafe? |
+| Record | Where will the decision and resulting actions live? |
 
-1. State the outcome or decision in plain language.
-2. Separate known facts, assumptions, constraints and unresolved questions.
-3. Check the evidence and any applicable local requirement.
-4. Compare realistic options, including doing less, waiting or stopping.
-5. Record the choice, reasons, owner, next review point and evidence of completion.
+The milestone date is one constraint. The evidence chain is the work.
+
+## Work backwards through dependencies
+
+Begin with the accepted evidence and decompose it:
+
+`accepted milestone → reviewable package → component outputs → verified inputs → permissions/resources → next actions`
+
+Example:
+
+**Milestone:** ethics submission accepted for review by 30 October.
+
+**Evidence:** consistent protocol, application, recruitment materials, consent process, instruments, data-flow map, team roles and approvals.
+
+**Dependencies:** method decision; data storage approval; partner site agreement; supervisor review; document revisions; final package audit.
+
+**Next action:** send the data steward the draft flow map with one precise question about cross-border transcription—not “work on ethics”.
+
+Mark each dependency by owner and state. A task owned by an external person is not under your direct control, but following up, preparing alternatives and escalating at a threshold are.
+
+## Distinguish outcomes, deliverables and actions
+
+- **Outcome:** a changed state, such as “sampling route is defensible”.
+- **Deliverable:** evidence of that state, such as a reviewed sampling rationale and feasibility test.
+- **Action:** a concrete step, such as “calculate expected eligible cases from the custodian's 2025 extract by Tuesday”.
+
+Weekly lists often fail because they mix all three. Write one or two weekly outcomes, name the evidence, then specify actions that can be started without another planning meeting.
+
+## Write executable next actions
+
+A next action should contain:
+
+- a verb;
+- an object;
+- the relevant context or location;
+- an owner;
+- a completion signal; and
+- a due or review point if time matters.
+
+**Vague:** work on literature review.
+
+**Executable:** compare the five included supervision-feedback studies in the evidence matrix, draft the bounded pattern paragraph and link each claim to a checked source location before Thursday's review.
+
+## Use honest work states
+
+| State | Meaning | Required record |
+|---|---|---|
+| Planned | accepted as future work but not started | owner and trigger |
+| Ready | can begin now; inputs available | next action |
+| Active | being worked on | current output and review point |
+| Waiting | another event/person must act | dependency owner, request date and follow-up |
+| Blocked | cannot progress through the current route | blocker, impact and escalation/alternative |
+| Under review | submitted for a named decision | reviewer, date and requested response |
+| Accepted | evidence passed the criterion | approval or observable result |
+| Superseded | no longer required because a documented decision changed the plan | decision link |
+
+Do not call a submitted document finished when acceptance or approval is the required end state.
+
+## Estimate with ranges and buffers
+
+Separate:
+
+- **effort:** focused work time;
+- **elapsed time:** calendar duration including queues and review;
+- **uncertainty:** how much the estimate could change; and
+- **buffer:** protected time for identified variability.
+
+Place buffers before consequential commitments, not only at the end of candidature. Common uncertainties include recruitment, ethics review, data access, equipment, collaborator feedback, analysis failure, illness, leave, caring responsibilities and revision cycles.
+
+Do not treat a buffer as available scope. If it is consumed, revisit downstream commitments.
+
+## Plan at three horizons
+
+### Candidature horizon
+
+Maintain formal milestones, major studies/outputs, known leave and hard dependencies. Review after material change and at least around each formal progress point.
+
+### Twelve-week horizon
+
+Identify one or two decision outcomes, dependencies, risks, review windows and buffer. This horizon is long enough to coordinate and short enough to revise.
+
+### Weekly horizon
+
+Select outcomes that move the twelve-week decision. Protect focused blocks, collaboration windows, administrative work and recovery. Limit active work so progress becomes visible.
+
+Plans at different horizons should connect; the weekly list should not become a separate universe of urgent messages.
+
+## Run the weekly review
+
+1. **Collect:** capture open commitments, messages, notes, files and decisions.
+2. **Reconcile:** compare planned state with actual evidence.
+3. **Close:** mark accepted work only with proof; record superseded work.
+4. **Clarify:** convert ambiguous items into outcomes, deliverables and next actions.
+5. **Review waiting/blocked:** follow up or escalate at the defined threshold.
+6. **Review risks and changes:** update impact on milestones and buffers.
+7. **Choose:** select limited weekly outcomes tied to the active horizon.
+8. **Schedule:** place focused work and required conversations realistically.
+9. **Communicate:** send decisions or requests that others need.
+10. **Record:** retain the weekly state, not every transient thought.
+
+## Worked example: the “90% complete” chapter
+
+**Claim:** literature chapter is 90% complete.
+
+**Audit:** 7,000 words exist, but two central claims have no verified sources, the argument map is unresolved, supervisor feedback has not been incorporated and the references contain duplicates.
+
+**Reframed milestone:** reviewable literature chapter ready for supervisor decision.
+
+**Acceptance evidence:** bounded question, coherent section argument, claim-level citation audit, contrary evidence considered, reference library verified, clean render and cover note stating requested feedback.
+
+**Current state:** active, not 90%.
+
+**Weekly outcome:** resolve the two unsupported claims and produce a reviewable argument map.
+
+**Actions:** open and verify candidate primary sources; revise or narrow each claim; update the evidence matrix; render the chapter; ask a peer to trace one paragraph to its sources.
+
+The new state is more honest and more actionable than a percentage.
+
+## Make progress visible during uncertain work
+
+Reading, conceptual development and troubleshooting can produce evidence:
+
+- decision records and rejected alternatives;
+- annotated source maps;
+- failed tests and what they ruled out;
+- pilot results;
+- uncertainty registers;
+- method comparisons;
+- issue reproductions;
+- provisional argument maps; and
+- explicit escalation questions.
+
+The point is not bureaucratic volume. Preserve outputs that reduce uncertainty or support a later decision.
+
+## Escalate before the deadline is already lost
+
+Define a trigger such as:
+
+- dependency unconfirmed by a named date;
+- buffer consumption beyond a threshold;
+- repeated failure of a critical test;
+- review overdue after agreed follow-up;
+- approval or recruitment trajectory incompatible with the plan;
+- health, safety, wellbeing or caring impact; or
+- scope requiring more resources than remain.
+
+Bring evidence, impact, options and a recommended decision. Formal candidature changes require the authorised local process; a personal revised spreadsheet does not change the official deadline.
 
 ## Common failure modes
 
-- treating an early plan as permanently fixed;
-- collecting information without naming the decision it should inform;
-- copying a method or workflow without checking fit;
-- waiting for perfect certainty when a reversible next step is available;
-- relying on private memory instead of a recoverable project record;
-- presenting an institutional rule or one disciplinary convention as universal.
+- defining milestones by activity rather than evidence;
+- estimating progress by words written or time spent alone;
+- hiding queues and collaborator work inside personal task lists;
+- using due dates without dependency owners or buffers;
+- scheduling full capacity and treating every disruption as failure;
+- keeping too many outcomes active;
+- marking sent/submitted work as approved or complete;
+- allowing weekly urgency to replace the candidature plan;
+- recording every task but no decisions or evidence;
+- waiting until a milestone fails before escalating.
 
 ## Good enough for now
 
-Good enough means the work is proportionate to its current purpose, major risks are controlled, important assumptions are visible, and the next decision can be defended. It does not mean that every uncertainty has disappeared.
+A project plan is usable when:
 
-## Before you ask your supervisor
+- formal and internal milestones have decision evidence and acceptance criteria;
+- dependencies have owners, states and escalation thresholds;
+- effort, elapsed time, uncertainty and buffer are distinguished;
+- candidature, twelve-week and weekly horizons connect;
+- active work is limited;
+- next actions are executable;
+- waiting, blocked, review and accepted states are honest; and
+- the plan changes when evidence changes.
 
-Bring a concise problem statement, the checks you completed, the strongest relevant evidence, feasible options, your provisional recommendation and one precise request. If risk, approval, participant welfare, integrity or safety is involved, seek the appropriate specialist or formal local process rather than relying only on an ordinary supervision meeting.
+## Before you ask your supervisor or graduate research coordinator
 
-## Check locally
+Bring:
 
-Milestones, approvals, systems, storage, authorship processes, examination requirements and support routes vary. Verify the current rule with the responsible office or official documentation.
+- the milestone evidence map;
+- current dependency and buffer status;
+- accepted, active, waiting and blocked evidence;
+- the twelve-week outcome;
+- this week's deliverables and next actions;
+- the earliest escalation trigger reached; and
+- a precise decision request with feasible options.
+
+## Pause-point checklist
+
+- [ ] Every milestone is a decision with evidence and acceptance criteria.
+- [ ] Dependencies and reviewers have named owners.
+- [ ] Submitted is not confused with accepted.
+- [ ] Effort and elapsed time are estimated separately.
+- [ ] Buffers protect identified uncertainty.
+- [ ] Weekly outcomes connect to the twelve-week and candidature horizons.
+- [ ] Next actions are observable and immediately startable.
+- [ ] Waiting and blocked work have follow-up or escalation thresholds.
+- [ ] Evidence—not invented percentages—determines status.
+- [ ] The plan is revised after material changes.
 
 ## Related practical resources
 
-Use the [practical resource library](../../resources.qmd) and the [I’m stuck pathway](../../stuck/index.qmd) to turn this guidance into a documented action.
-
+Use the [action register](../../templates/action-register.qmd), [risk and issues register](../../templates/risk-issues-register.qmd), [decision log](../../templates/decision-log.qmd), [unresolved-questions log](../../templates/unresolved-questions.qmd) and [supervision agenda](../../templates/supervision-agenda.qmd). Continue to [Risks, blocked work and change](26-risks-blocked-change.qmd).
