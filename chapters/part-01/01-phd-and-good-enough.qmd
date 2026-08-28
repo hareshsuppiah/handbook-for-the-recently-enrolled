@@ -1,55 +1,154 @@
 ---
-title: "What a PhD asks you to do"
-status: "broad-beta baseline"
+title: "What a doctorate asks you to do"
+status: "broad-beta draft"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta baseline. Evidence verification and worked examples are being expanded; local requirements must be checked before acting.
+**Content status:** Broad-beta draft. The general principles are evidence-informed; your award rules, milestones and examination criteria must be checked locally.
 :::
+
+## The questions students are usually asking
+
+- What am I actually meant to produce?
+- How original does the work need to be?
+- How do I know whether something is good enough to show my supervisor?
+- Am I supposed to know how to do this already?
+- How can I make progress when the final thesis is years away?
 
 ## The direct answer
 
-A doctorate asks you to make and defend an original contribution using a process that is appropriate, ethical and sufficiently transparent.
+A doctorate asks you to make and defend an original contribution through research. It does not ask you to begin as an independent expert or to produce a flawless version of the thesis in your first year.
+
+Official descriptions differ in wording and jurisdiction, but they converge on several features: advanced knowledge, original research or application, critical judgement, responsible conduct, and the ability to communicate and defend the work. The UK Quality Assurance Agency, for example, describes original contribution as common across research, professional, practice-based and practice-led doctorates [@qaa-doctoral-2020]. Australia places doctoral qualifications at Level 10 of its qualifications framework, but the precise award requirements are still set by the enrolling institution [@aqf-review-2019].
+
+Your practical task is therefore to build a defensible chain:
+
+> question → decision → method → evidence → interpretation → contribution
+
+Every link will change as you learn. The standard is not “unchanging”. The standard is “traceable and defensible for the decision being made now”.
 
 ## The decision in front of you
 
-What standard is appropriate for this stage, and what evidence would show that it has been met?
+At any point in candidature, ask:
+
+1. What decision or claim am I working on?
+2. What standard applies at this stage?
+3. What evidence is enough to move to the next stage without hiding a serious risk?
+
+This prevents two common mistakes. The first is treating an early idea as though it must already meet the standard of an examined thesis. The second is calling weak work “good enough” without naming its purpose, risks or limitations.
 
 ::: {.decision-card}
-**Smallest useful next action:** Write the claim you are currently trying to support, the evidence available, and the standard that applies now.
+**Smallest useful next action:** Write one sentence for each of these prompts: “The decision is…”, “The evidence I have is…”, “The main uncertainty is…”, and “The next check is…”.
 :::
+
+## Four standards, not one
+
+“Good enough” changes with the purpose of the work. Use the correct threshold.
+
+| Work state | What it is for | A proportionate standard |
+|---|---|---|
+| Exploratory note | Thinking privately | Clear enough that you can recover the idea and its source |
+| Supervisor discussion draft | Getting diagnostic feedback | Complete enough to expose the decision, reasoning and uncertainty |
+| Approval or governance document | Obtaining formal permission | Accurate, complete and compliant with the responsible body's current requirements |
+| Thesis or publication claim | Entering the scholarly record | Supported, transparent, appropriately qualified and able to withstand review |
+
+Do not use a low-risk drafting standard for ethics, safety, consent, privacy or integrity decisions. Those are stop points: the applicable approval or specialist advice comes before the activity.
 
 ## A defensible way to proceed
 
-1. State the outcome or decision in plain language.
-2. Separate known facts, assumptions, constraints and unresolved questions.
-3. Check the evidence and any applicable local requirement.
-4. Compare realistic options, including doing less, waiting or stopping.
-5. Record the choice, reasons, owner, next review point and evidence of completion.
+### 1. Name the object
+
+Avoid “work on the PhD”. Name the object you can inspect: a question map, search log, sampling rationale, analysis plan, figure, argument outline or decision record.
+
+### 2. Name the use
+
+A rough map for a supervision discussion and a protocol for formal approval have different audiences and consequences. State who will use the work and what decision it supports.
+
+### 3. Define the present threshold
+
+Use observable criteria. “Ready for discussion when the question, assumptions and two realistic options are visible” is testable. “Make it better” is not.
+
+### 4. Test the main failure
+
+Ask what could make the next step unsafe, invalid or wasteful. Check that issue first. A polished introduction does not rescue an infeasible recruitment plan.
+
+### 5. Record the decision
+
+Capture what was decided, why, by whom, what remains uncertain, and when it will be reviewed. The record protects learning when the project changes.
+
+### 6. Move or escalate
+
+Proceed when the threshold is met. Escalate when the uncertainty concerns approval, participant welfare, legal obligations, research integrity, safety, irrecoverable data loss or a change to the agreed candidature.
+
+## Worked example: “Is my question ready?”
+
+**Initial thought:** “I want to study why students disengage.”
+
+**Present use:** A first supervision discussion, not an ethics submission.
+
+**Threshold for discussion:** The population, phenomenon and intended contribution are visible; major assumptions are listed; at least two plausible ways to investigate the question have been considered.
+
+**Evidence available:** A preliminary search, a short map of competing explanations and access to one relevant setting.
+
+**Main uncertainty:** “Disengagement” may refer to attendance, participation, persistence or a subjective experience.
+
+**Decision:** Take a one-page concept map and three candidate definitions to supervision. Do not select measures or draft participant material yet.
+
+This is good enough for the conversation because it exposes the consequential uncertainty. It is not good enough for study approval or data collection.
 
 ## Common failure modes
 
-- treating an early plan as permanently fixed;
-- collecting information without naming the decision it should inform;
-- copying a method or workflow without checking fit;
-- waiting for perfect certainty when a reversible next step is available;
-- relying on private memory instead of a recoverable project record;
-- presenting an institutional rule or one disciplinary convention as universal.
+- **Trying to prove the whole thesis at once.** Convert the distant outcome into the next reviewable object.
+- **Mistaking polish for readiness.** Test the reasoning and risk before formatting.
+- **Treating a proposal as a contract with the future.** Preserve the rationale, then revise it when evidence changes.
+- **Asking for feedback on an unnamed problem.** Tell the reviewer what decision you need help making.
+- **Collecting information without a stopping rule.** Define what new information could change the decision.
+- **Copying another project’s method.** Similar topics do not guarantee similar questions, constraints or valid inferences.
+- **Using local convention as universal truth.** Label the source and jurisdiction of every formal requirement.
+- **Waiting for confidence.** Seek enough evidence for a reversible next step, not a feeling of certainty.
 
-## Good enough for now
+## Pause-point checklist: before calling work “good enough”
 
-Good enough means the work is proportionate to its current purpose, major risks are controlled, important assumptions are visible, and the next decision can be defended. It does not mean that every uncertainty has disappeared.
+Use this as a **do-confirm** check at a handover, submission or decision point. It adapts the handbook’s checklist design principles from Gawande and the WHO implementation guidance: few critical checks, a defined pause point, and local adaptation rather than an exhaustive task list [@gawande2010checklist; @who2009checklist].
+
+- [ ] I can name the decision or use this work supports.
+- [ ] I have applied the standard for this stage, not a later or easier one.
+- [ ] The evidence, assumptions and unresolved uncertainty are visible.
+- [ ] I have checked the failure that would make the next step unsafe or wasteful.
+- [ ] Any required approval or specialist check occurs before the activity.
+- [ ] The decision, owner and next review point will be recorded.
+
+**Stop condition:** Do not proceed merely because a deadline is close if approval, participant welfare, integrity, safety or irreversible loss remains unresolved.
 
 ## Before you ask your supervisor
 
-Bring a concise problem statement, the checks you completed, the strongest relevant evidence, feasible options, your provisional recommendation and one precise request. If risk, approval, participant welfare, integrity or safety is involved, seek the appropriate specialist or formal local process rather than relying only on an ordinary supervision meeting.
+Bring:
 
-## Check locally
+1. the object you want reviewed;
+2. the purpose and present threshold;
+3. what you checked;
+4. the strongest evidence and main uncertainty;
+5. your provisional recommendation; and
+6. one precise request, such as “Please tell me whether this is ready for a pilot, and identify the one issue that would block it.”
 
-Milestones, approvals, systems, storage, authorship processes, examination requirements and support routes vary. Verify the current rule with the responsible office or official documentation.
+This turns supervision from “Is this okay?” into a decision-focused review.
 
-## Related practical resources
+## Variation and local boundaries
 
-Use the [practical resource library](../../resources.qmd) and the [I’m stuck pathway](../../stuck/index.qmd) to turn this guidance into a documented action.
+Doctoral forms vary. A monograph, thesis by publication, creative practice doctorate, professional doctorate and industry-linked doctorate can express contribution differently. Part-time, remote, interdisciplinary and collaborative candidature also changes the rhythm and ownership of decisions. The common requirement to make a defensible contribution does not erase those differences.
 
+::: {.callout-warning title="Check locally"}
+Verify your formal learning outcomes, milestone rules, thesis format, authorship expectations, intellectual-property terms, ethics and governance pathways, examination criteria, maximum candidature period and leave provisions using current institutional sources. Qualification frameworks describe broad characteristics; they do not replace your course rules.
+:::
+
+## If you are stuck
+
+- If you cannot identify the decision, use the [I’m stuck pathway](../../stuck/index.qmd).
+- If the project feels too large, move next to [Day one to day 90](02-first-90-days.qmd) and build the minimum working system.
+- If you cannot state the project’s possible contribution, use [Problem, gap and contribution](../part-03/07-problem-gap-contribution.qmd).
+- If “good enough” has become perfectionism or avoidance, use [Technical failure and perfectionism](../part-11/32-technical-failure-perfectionism.qmd).
+
+## Sources and limits
+
+The qualification sources support the broad description of doctoral outcomes, not a universal examination rubric. The checklist sources support the design of pause-point checks, not the substantive requirements of research governance. Local rules and case-specific specialist advice take priority where required.
