@@ -1,55 +1,237 @@
 ---
-title: "Analysis, review platforms and Quarto"
-status: "broad-beta baseline"
+title: "Analysis, review tools and Quarto"
+status: "broad-beta draft"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta baseline. Evidence verification and worked examples are being expanded; local requirements must be checked before acting.
+**Content status:** Broad-beta draft. Software, packages, plugins, licences and supported formats change. Tool descriptions were reviewed on 28 August 2026; verify official documentation, institutional approval and method-specific requirements before adoption.
 :::
+
+## The questions students are usually asking
+
+- Should I learn R, Python or use a graphical statistics tool?
+- Can I combine graphical and scripted analysis?
+- Which review or screening platform should I choose?
+- How should a reference manager fit into the writing workflow?
+- What problem does Quarto solve?
+- Does a reproducible document make the analysis correct?
+- How do collaborators review work when they do not use the same tools?
 
 ## The direct answer
 
-Use software that fits the method, makes important steps inspectable and can be sustained by the researcher or team.
+Choose the analysis and review route that supports the required method, governance, inspection and handover. Prototype one representative task—including import, analysis, verification, export and rerun—before committing the entire project.
 
-## The decision in front of you
+Quarto can connect narrative, citations, code and generated outputs in one source, but it does not choose a defensible method, verify data, or make a hidden workflow reproducible.
 
-Which tool choice materially improves validity, transparency, collaboration or maintainability?
+## Choose the analysis route
 
-::: {.decision-card}
-**Smallest useful next action:** Prototype one representative task before committing the whole project.
-:::
+### R
 
-## A defensible way to proceed
+R is a language and environment designed for statistical computing and graphics, with an extensible package ecosystem [@r-project-about]. It is often suitable when the project needs scripted data transformation, statistical modelling, visualisation, reports and a recoverable analysis pipeline.
 
-1. State the outcome or decision in plain language.
-2. Separate known facts, assumptions, constraints and unresolved questions.
-3. Check the evidence and any applicable local requirement.
-4. Compare realistic options, including doing less, waiting or stopping.
-5. Record the choice, reasons, owner, next review point and evidence of completion.
+Check:
+
+- whether required methods have maintained, validated implementations;
+- package versions and dependency capture;
+- how collaborators will review outputs and code;
+- specialist validation or regulated requirements; and
+- whether the approved environment supports installation and execution.
+
+### Python
+
+Python is a general-purpose programming language with packages spanning scientific computing, data work, machine learning, automation and software development [@python-about]. It may fit projects combining analysis with text, image, device, web, modelling or production workflows.
+
+The breadth of the ecosystem is not itself a quality guarantee. Pin dependencies, assess package provenance and licences, test scientific functions and prevent notebooks from depending on hidden execution state.
+
+### Graphical tools such as jamovi
+
+A graphical analysis environment may reduce coding burden, support teaching and make a bounded workflow accessible to collaborators. jamovi, for example, provides a spreadsheet-like interface and analysis modules [@jamovi-about].
+
+Ask:
+
+- can the complete analysis state be saved and reopened?
+- are data decisions and module versions visible?
+- can syntax or equivalent steps be exported where supported?
+- can the analysis be rerun after data change?
+- do required diagnostics and methods exist?
+- can a reviewer identify defaults and options?
+
+Using menus is not inherently unreproducible; undocumented clicks and overwritten outputs are.
+
+### Specialist software
+
+Qualitative analysis, geographic information systems, computer-assisted review, laboratory instruments, simulation, symbolic mathematics, imaging or discipline-specific platforms may be essential. Evaluate them using the same standards: method fit, data authority, provenance, versioning, export, validation, collaboration, recovery and exit.
+
+## Combine tools through declared handoffs
+
+A defensible hybrid might use:
+
+- an approved graphical tool for exploratory and standard analyses;
+- R or Python for repeatable cleaning and custom outputs;
+- specialist software for method-specific work;
+- Quarto for narrative, citations and generated results; and
+- PDF, DOCX or HTML for collaborator review.
+
+For each handoff specify the authoritative input, export format, version, checks and owner. Do not manually copy a table into the thesis without retaining the generating result and source.
+
+## Select a review platform by protocol needs
+
+For literature screening, evidence extraction or other structured review tasks, test:
+
+- support for the selected review method;
+- import/export fidelity and stable identifiers;
+- duplicate handling;
+- blinded or independent decisions where required;
+- conflict resolution and audit history;
+- custom eligibility and extraction fields;
+- team roles and access removal;
+- attachment, copyright and data-location rules;
+- complete export for analysis and archive; and
+- cost and access after candidature.
+
+Run a small set containing duplicates, ambiguous records, missing identifiers, disagreements and a withdrawn source. Confirm that decisions and reasons survive export.
+
+A platform manages records; it does not make the search comprehensive or eligibility decisions valid.
+
+## Make the reference manager authoritative for references
+
+Use one maintained library or defined group library for verified bibliographic records. A sound workflow includes:
+
+- stable collections, tags or saved searches with declared purposes;
+- DOI, author, title, date, version and publication-status checks;
+- lawful attachment handling;
+- notes distinguishing quotation, paraphrase and interpretation;
+- duplicate and retraction/update review;
+- citation-key stability where source-based writing requires it;
+- export in a durable format such as BibTeX, CSL JSON or RIS; and
+- backup and restoration.
+
+Zotero, for example, supports word-processor integration and citation management [@zotero-word-processor]. Tool support does not remove the need to verify source metadata and claim-level citation support.
+
+## Use Quarto as a publishing pipeline
+
+Quarto books and documents can combine Markdown, executable code, citations, cross-references and multiple output formats [@quarto-books]. A practical project might contain:
+
+```text
+project/
+  _quarto.yml
+  manuscript.qmd
+  references.bib
+  code/
+  data/              # only where approved
+  figures/
+  styles/
+  README.md
+  environment-file
+```
+
+The exact structure matters less than a documented route from source to output.
+
+### Keep execution deliberate
+
+Decide whether a document:
+
+- executes all analysis during render;
+- reads verified outputs from a separate pipeline;
+- uses cached or frozen results;
+- runs only in a controlled environment; or
+- builds a public version from approved release material.
+
+State the choice. Do not imply that a public manuscript source can regenerate confidential analysis if the data and secure environment are necessarily separate.
+
+## Worked example: the manually updated table
+
+**Initial workflow:** run analysis in a graphical tool, copy values into Excel, reformat them, paste a screenshot into Word and adjust the text when values change.
+
+**Failure:** the manuscript reports 124 participants, the table displays 121 and no one knows which exclusions the screenshot reflects.
+
+**Redesign:** save the analysis state and export a structured results table; validate the participant flow; use a script or controlled table specification to create the publication table; insert it into Quarto from the generated output; build the manuscript; compare the rendered table to the analysis manifest; have a reviewer trace one value back to the source.
+
+The improvement is not “using Quarto”. It is removing an undocumented manual handoff.
+
+## Build a representative prototype
+
+Before tool commitment, choose one difficult, realistic task:
+
+1. import an approved or synthetic input;
+2. apply one meaningful transformation;
+3. run the required method with diagnostics;
+4. generate a table or figure;
+5. cite a verified source;
+6. render the review format;
+7. revise from collaborator feedback;
+8. rerun after an input change;
+9. reproduce from a clean environment; and
+10. export or migrate the complete record.
+
+Score the workflow on correctness, inspectability, burden, governance, collaboration and recovery—not visual polish alone.
+
+## Make review accessible
+
+Not every supervisor or collaborator will review source code. Provide:
+
+- a rendered document with stable headings and numbered outputs;
+- a cover note identifying purpose, stage and requested feedback;
+- links from results to methods or appendices;
+- change summaries for revised versions;
+- a separate technical review path for code and analysis; and
+- accessible formats where required.
+
+Do not force all feedback into code-platform terminology. Preserve the review decision and connect it back to the source.
 
 ## Common failure modes
 
-- treating an early plan as permanently fixed;
-- collecting information without naming the decision it should inform;
-- copying a method or workflow without checking fit;
-- waiting for perfect certainty when a reversible next step is available;
-- relying on private memory instead of a recoverable project record;
-- presenting an institutional rule or one disciplinary convention as universal.
+- choosing R, Python or another tool for prestige rather than task fit;
+- assuming graphical analysis cannot be reproducible or code must be reproducible;
+- switching languages mid-project without a migration benefit;
+- relying on notebook cell state or cached objects;
+- using a review platform without testing complete export;
+- collecting duplicate reference libraries with conflicting metadata;
+- letting a citation plugin insert unchecked records;
+- manually copying values between analysis and manuscript;
+- treating a successful Quarto render as scientific verification;
+- creating a sophisticated document no collaborator can review.
 
 ## Good enough for now
 
-Good enough means the work is proportionate to its current purpose, major risks are controlled, important assumptions are visible, and the next decision can be defended. It does not mean that every uncertainty has disappeared.
+The workflow is ready for substantive work when:
 
-## Before you ask your supervisor
+- the selected analysis route implements the required method;
+- one representative task has passed end to end;
+- hybrid-tool handoffs are declared and tested;
+- review decisions and reference metadata export completely;
+- authoritative inputs and generated outputs are linked;
+- execution, cache and restricted-data boundaries are explicit;
+- collaborators have usable review formats;
+- the environment and project build are recoverable; and
+- tool versions and policies have review dates.
 
-Bring a concise problem statement, the checks you completed, the strongest relevant evidence, feasible options, your provisional recommendation and one precise request. If risk, approval, participant welfare, integrity or safety is involved, seek the appropriate specialist or formal local process rather than relying only on an ordinary supervision meeting.
+## Before you ask your supervisor, librarian or analyst
 
-## Check locally
+Bring:
 
-Milestones, approvals, systems, storage, authorship processes, examination requirements and support routes vary. Verify the current rule with the responsible office or official documentation.
+- the representative prototype;
+- required method and output;
+- tool comparison and rejection reasons;
+- workflow diagram and authoritative handoffs;
+- clean-run and export results;
+- collaborator review needs;
+- governance and licensing constraints; and
+- one precise method, platform, document or migration question.
+
+## Pause-point checklist
+
+- [ ] Method and review needs determine the tool.
+- [ ] The full workflow—not a toy feature—has been prototyped.
+- [ ] Defaults, versions and dependencies are visible.
+- [ ] Graphical, scripted and specialist handoffs are auditable.
+- [ ] Reference records and citation claims are independently verified.
+- [ ] Quarto execution and restricted-data boundaries are stated.
+- [ ] Generated outputs replace manual copy-and-paste where consequential.
+- [ ] Non-technical and technical reviewers both have appropriate routes.
+- [ ] Clean build, export and migration have been tested.
 
 ## Related practical resources
 
-Use the [practical resource library](../../resources.qmd) and the [I’m stuck pathway](../../stuck/index.qmd) to turn this guidance into a documented action.
-
+Use the [method-options comparison](../../templates/method-options.qmd), [Before analysis](../../checklists/before-analysis.qmd), [paper extraction template](../../templates/paper-triage-extraction.qmd), [search log](../../templates/search-log.qmd) and [supervisor review cover note](../../templates/supervisor-review-cover-note.qmd). Continue to [Git, GitHub and AI-assisted workflows](24-git-github-ai.qmd).
