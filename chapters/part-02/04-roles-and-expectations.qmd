@@ -1,55 +1,161 @@
 ---
 title: "Roles, expectations and boundaries"
-status: "broad-beta baseline"
+status: "broad-beta draft"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta baseline. Evidence verification and worked examples are being expanded; local requirements must be checked before acting.
+**Content status:** Broad-beta draft. Supervision rules and formal responsibilities vary; confirm the current local framework and record any agreed adaptation.
 :::
+
+## The questions students are usually asking
+
+- What is my supervisor actually responsible for?
+- What am I expected to decide myself?
+- How quickly should feedback arrive?
+- Which supervisor should I ask when there is more than one?
+- What can I reasonably expect when a supervisor is away?
+- When is a supervision problem serious enough to raise elsewhere?
 
 ## The direct answer
 
-Effective supervision depends on explicit expectations about roles, communication, feedback, decisions and boundaries.
+Effective supervision depends on explicit expectations about roles, communication, feedback, decisions and boundaries. A good relationship cannot be built from goodwill alone because reasonable people often hold different unspoken assumptions.
 
-## The decision in front of you
+Formal frameworks demonstrate that responsibility is distributed. The 2024 UKRI statement, for example, names expectations for students, supervisors, research organisations, collaborators and funders rather than treating supervision as a private arrangement between two people [@ukri-expectations-2024]. Your institution's rules take priority, but the general lesson travels: supervisors advise, challenge, develop and monitor; students actively prepare, investigate, decide within their authority and maintain the project record; institutions provide governance, formal progress processes, services and escalation routes.
 
-What must be agreed now, and what can remain flexible until the work becomes clearer?
+## What each role commonly contributes
+
+| Role | Common contribution | What not to assume |
+|---|---|---|
+| Doctoral researcher | Prepares work, investigates options, keeps records, raises risks, acts on decisions and develops independent judgement | That independence means working without support or concealing difficulty |
+| Principal supervisor | Provides intellectual leadership, developmental feedback, progress oversight and navigation of the research environment | That they personally approve ethics, resolve every technical issue or remain continuously available |
+| Co-supervisor or specialist adviser | Adds complementary expertise, continuity or challenge | That their authority, workload or decision role is identical to the principal supervisor's |
+| Advisory panel or progress reviewer | Provides periodic independent scrutiny and formal or developmental review | That it replaces regular supervision or specialist governance |
+| Institution or graduate research office | Sets candidature rules, milestones, formal changes, complaints and support pathways | That a supervisor can waive institutional requirements |
+| Ethics, integrity, safety, data or legal specialists | Make or advise on decisions within their remit | That ordinary supervision is a substitute for their process |
+| Partner or affected community | Provides context, access, expertise, governance or shared decision-making as agreed | That access or endorsement can be assumed from informal enthusiasm |
+
+## The expectations conversation
+
+Discuss these areas before a pattern hardens:
+
+### Purpose and responsibility
+
+- What decisions can the student make provisionally?
+- What must be discussed with the full supervisory team?
+- Which decisions require formal approval elsewhere?
+- Who is the first contact for substantive, methodological and administrative questions?
+
+### Meetings and communication
+
+- Usual meeting cadence and conditions for changing it.
+- How agendas and papers will be provided.
+- Which channels suit routine, urgent and sensitive matters.
+- How absences will be communicated and continuity maintained.
+
+### Feedback
+
+- What counts as reviewable material.
+- Expected turnaround for different kinds and lengths of work.
+- Whether feedback will focus first on argument, method, structure or language.
+- How conflicting comments will be reconciled.
+
+### Records
+
+- Who prepares the meeting record.
+- Where actions, decisions and unresolved questions live.
+- How corrections to a record are made.
+- Which formal records must also be entered in an institutional system.
+
+### Development and boundaries
+
+- What training, networks and specialist advice are needed.
+- How increasing independence will be recognised.
+- Working-hours, leave and contact boundaries.
+- Authorship and contribution conversations.
+- How concerns can be raised without waiting for the relationship to fail.
 
 ::: {.decision-card}
-**Smallest useful next action:** Draft a one-page expectations note and ask each supervisor to correct it.
+**Smallest useful next action:** Complete the [Supervisor expectations conversation guide](../../templates/supervisor-expectations.qmd), then ask every supervisor to correct the draft. Do not ask them to approve a blank form.
 :::
 
-## A defensible way to proceed
+## Agree the decision architecture
 
-1. State the outcome or decision in plain language.
-2. Separate known facts, assumptions, constraints and unresolved questions.
-3. Check the evidence and any applicable local requirement.
-4. Compare realistic options, including doing less, waiting or stopping.
-5. Record the choice, reasons, owner, next review point and evidence of completion.
+Multi-supervisor projects need a visible decision architecture:
+
+1. **Advice:** anyone may offer a view within their expertise.
+2. **Recommendation:** the student usually synthesises evidence and proposes a path.
+3. **Project decision:** identify who has authority to settle the working direction.
+4. **Formal decision:** route approvals, milestones and candidature changes to the responsible body.
+5. **Record:** preserve the decision, rationale, dissent, owner and review trigger.
+
+Consensus is useful but not always possible. If advice conflicts, do not choose privately based on seniority or convenience. State the conflict, ask what evidence distinguishes the options and identify who owns the decision.
+
+## Worked example: incompatible feedback promises
+
+One supervisor expects a complete chapter every two months and normally returns comments within two weeks. Another prefers short sections but travels frequently and cannot promise a fixed turnaround.
+
+The team agrees:
+
+- a two-page argument map before a full chapter;
+- the principal supervisor coordinates consolidated feedback;
+- short sections receive a target response within ten working days;
+- full chapters require an agreed review window;
+- travel periods are entered in the action register;
+- urgent milestone risks are raised through the graduate research contact if continuity cannot be maintained.
+
+The agreement does not force identical working styles. It makes the differences manageable.
+
+## Decision rules
+
+- **Routine and reversible:** the student proposes and acts, then records the outcome.
+- **Methodologically consequential:** seek relevant expertise and compare options before deciding.
+- **Formal approval or candidature change:** use the responsible institutional process.
+- **Conflicting advice:** synthesise the disagreement and request a decision meeting.
+- **No response within an agreed window:** follow up with the needed date and consequence; then use the agreed continuity route.
+- **Safety, integrity, discrimination, bullying or serious wellbeing concern:** use the appropriate independent or formal route rather than relying solely on the supervisory relationship.
 
 ## Common failure modes
 
-- treating an early plan as permanently fixed;
-- collecting information without naming the decision it should inform;
-- copying a method or workflow without checking fit;
-- waiting for perfect certainty when a reversible next step is available;
-- relying on private memory instead of a recoverable project record;
-- presenting an institutional rule or one disciplinary convention as universal.
+- treating supervisors as a single mind when their roles differ;
+- expecting immediate feedback without agreeing scope or timing;
+- sending material without stating the question it should answer;
+- assuming silence means approval;
+- making a consequential change after an informal conversation but not recording it;
+- agreeing to an unrealistic cadence to appear committed;
+- asking a supervisor to decide matters owned by ethics, governance or candidature authorities;
+- waiting until conflict becomes intolerable before learning the escalation route.
 
-## Good enough for now
+## Pause-point checklist: after the expectations conversation
 
-Good enough means the work is proportionate to its current purpose, major risks are controlled, important assumptions are visible, and the next decision can be defended. It does not mean that every uncertainty has disappeared.
+- [ ] Roles and decision authority are explicit.
+- [ ] Meeting cadence and communication channels are agreed.
+- [ ] Reviewable material and feedback windows are defined.
+- [ ] Decisions, actions and unresolved questions have a shared record.
+- [ ] Absence and continuity arrangements are known.
+- [ ] Authorship and contribution will be discussed before outputs are committed.
+- [ ] Local support and escalation routes are recorded.
+- [ ] The agreement has a review date.
 
-## Before you ask your supervisor
+## Before you ask your supervisors
 
-Bring a concise problem statement, the checks you completed, the strongest relevant evidence, feasible options, your provisional recommendation and one precise request. If risk, approval, participant welfare, integrity or safety is involved, seek the appropriate specialist or formal local process rather than relying only on an ordinary supervision meeting.
+Send a completed first draft. Flag the three areas where uncertainty would most affect the project. Ask each person: “What expectation here is wrong, missing or unrealistic from your perspective?”
 
-## Check locally
+## When to escalate
 
-Milestones, approvals, systems, storage, authorship processes, examination requirements and support routes vary. Verify the current rule with the responsible office or official documentation.
+Escalate outside ordinary supervision when essential supervision is persistently unavailable; progress is being harmed by unresolved conflict; formal responsibilities are not being met; you experience bullying, discrimination, harassment or retaliation; you are pressured to breach an approval or integrity standard; or a health, safety or wellbeing concern needs specialist support.
 
-## Related practical resources
+Where safe, keep a factual record of dates, requests, responses and effects. Use current local routes and ask about confidentiality and process before disclosing sensitive details.
 
-Use the [practical resource library](../../resources.qmd) and the [I’m stuck pathway](../../stuck/index.qmd) to turn this guidance into a documented action.
+## Variation and local boundaries
 
+Expectations differ for laboratory groups, individual humanities projects, community partnerships, industry doctorates, cotutelles, remote candidature and projects with cultural governance. Availability may be shaped by part-time appointments or fieldwork. Adapt the agreement without weakening formal protections or hiding who can decide.
+
+## Related resources
+
+- [Supervisor expectations conversation guide](../../templates/supervisor-expectations.qmd)
+- [Supervision agreement](../../templates/supervision-agreement.qmd)
+- [Decision-oriented meeting agenda](../../templates/meeting-agenda.qmd)
+- [Meeting record](../../templates/meeting-record.qmd)
+- [Escalation message builder](../../templates/escalation-message.qmd)
+- [I’m stuck](../../stuck/index.qmd)

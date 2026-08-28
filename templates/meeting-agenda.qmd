@@ -1,48 +1,35 @@
 ---
-title: "Meeting Agenda"
-status: "beta resource"
+title: "Decision-oriented meeting agenda"
+status: "broad-beta resource"
 last-reviewed: "2026-08-28"
 ---
 
-::: {.manual-status}
-**Resource status:** Usable beta. Adapt it to the method and check local requirements. Do not place confidential or identifiable information in a public copy.
-:::
+## Use
 
-## When to use it
-
-Use this template when the relevant reasoning needs to remain visible after the conversation or task has ended. Replace the prompts; do not leave bracketed instructions in a final record.
+Send before a supervision meeting. Limit the main agenda to decisions and feedback that need shared attention.
 
 ## Blank template
 
-**Purpose or decision:** [What is this record for?]  
-**Context:** [What has happened, and what stage is the work at?]  
-**Known facts and evidence:** [Cite or link the authoritative record.]  
-**Assumptions:** [What is believed but not yet verified?]  
-**Constraints and local requirements:** [What limits the available choices?]  
-**Options considered:** [Include realistic alternatives.]  
-**Provisional recommendation:** [What should happen, and why?]  
-**Owner and next action:** [Name the person and action.]  
-**Evidence of done:** [What observable result will close this item?]  
-**Review or escalation date:** [When will this be reconsidered?]
+**Meeting/date:** [ ]
+**Purpose:** [What should change by the end?]
+**Earlier actions needing attention:** [IDs and current state]
+
+| Time | Decision or feedback needed | Material and evidence | Student recommendation | Desired outcome |
+|---|---|---|---|---|
+| [ ] | [ ] | [link] | [ ] | decide / advise / escalate / note |
+
+**Final do-confirm:** decisions; actions with owner/date/evidence; unresolved questions; risks; next review.
 
 ## Completed example
 
-**Purpose or decision:** choose the next reversible project step.  
-**Context:** the preferred activity depends on an approval that has not yet been confirmed.  
-**Known facts and evidence:** the submitted request and current approved protocol are linked in the project record.  
-**Assumptions:** approval may arrive this week; this is not treated as confirmed.  
-**Constraints and local requirements:** no participant-facing activity may begin before written approval.  
-**Options considered:** wait; prepare non-participant materials; redesign the sequence.  
-**Provisional recommendation:** complete reversible preparation only.  
-**Owner and next action:** researcher prepares materials and checks status on Friday.  
-**Evidence of done:** materials saved in the approved project location and status recorded.  
-**Review or escalation date:** Friday, or earlier if the milestone is threatened.
+| Time | Decision or feedback needed | Material and evidence | Student recommendation | Desired outcome |
+|---|---|---|---|---|
+| 15 min | Is recruitment ready for privacy review? | recruitment flow v2; access note | consult privacy adviser before ethics draft | decide next gate |
 
-## What this prevents
+## Scenario test
 
-This resource reduces decisions being lost, assumptions being mistaken for facts, and actions being marked complete without evidence.
+A student has eight update topics but only one consequential design decision. The agenda moves routine updates to the action register and protects time for the decision.
 
 ## Related guidance
 
-Return to the [handbook contents](../index.qmd), browse the [resource library](../resources.qmd), or use [I’m stuck](../stuck/index.qmd).
-
+[Meetings, decisions and actions](../chapters/part-02/05-meetings-and-records.qmd)
