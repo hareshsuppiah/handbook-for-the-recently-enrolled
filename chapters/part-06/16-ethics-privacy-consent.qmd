@@ -1,55 +1,206 @@
 ---
-title: "Ethics, privacy and consent"
-status: "broad-beta baseline"
+title: "Ethics, privacy and consent across the project"
+status: "broad-beta draft"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta baseline. Evidence verification and worked examples are being expanded; local requirements must be checked before acting.
+**Content status:** Broad-beta draft. Ethics, privacy, consent and governance requirements depend on jurisdiction, institution, population, community, site, data and method. In Australia, the 2025 National Statement took effect on 23 June 2026 [@national-statement-2025]. Always use the current local process and obtain authoritative advice.
 :::
+
+## The questions students are usually asking
+
+- Do I need ethics review for this project or dataset?
+- Can I start while the application is being reviewed?
+- Is a signed form enough for consent?
+- Can participants really be anonymous?
+- May I reuse data collected for another purpose?
+- What happens when the protocol changes?
+- Is public information automatically ethical to collect and publish?
 
 ## The direct answer
 
-Ethics continues after approval. Changes in risk, data, recruitment, consent or participant burden may require advice or formal amendment.
+Ethics is the continuing work of making the project respectful, justifiable and accountable—not a form completed before research begins. Formal approval authorises only the work and versions within its scope and conditions.
 
-## The decision in front of you
+Do not begin participant-facing activity, restricted-data access, fieldwork or another governed activity on the assumption that approval is likely. Determine which review and permissions apply and retain the written decision.
 
-Has the project changed in a way that affects participants, data or the approved risk argument?
+## Map the project as experienced by people and communities
 
-::: {.decision-card}
-**Smallest useful next action:** Compare current practice with the approved protocol and record every difference.
-:::
+Trace the complete pathway:
 
-## A defensible way to proceed
+1. how people or data become visible to the project;
+2. who approaches, recruits or grants access;
+3. what information is provided and in what form;
+4. how voluntariness, capacity and comprehension are supported;
+5. what participation or data use involves;
+6. foreseeable burdens, benefits, risks and power relationships;
+7. withdrawal, complaints, distress, adverse events or incidental findings;
+8. collection, linkage, transfer, access, storage, retention, sharing and disposal;
+9. analysis, quotation, visualisation and re-identification risk; and
+10. dissemination, return of results and future use.
 
-1. State the outcome or decision in plain language.
-2. Separate known facts, assumptions, constraints and unresolved questions.
-3. Check the evidence and any applicable local requirement.
-4. Compare realistic options, including doing less, waiting or stopping.
-5. Record the choice, reasons, owner, next review point and evidence of completion.
+An application can be internally consistent while this lived pathway is unsafe or unclear. Test the participant or community experience, not only the document set.
+
+## Separate the authorities
+
+One approval rarely covers everything. The project may require distinct authority for:
+
+- ethics review;
+- research governance or site authorisation;
+- data custodian or platform access;
+- Indigenous or other community governance;
+- cultural knowledge and intellectual property;
+- safety, radiation, biosafety, animal or clinical processes;
+- organisational gatekeepers;
+- copyright, archive or collection use;
+- international transfer or collaboration; and
+- later reuse, linkage or release.
+
+Record the responsible body, current version, conditions, expiry or review date and activities authorised. Supervisor agreement is not formal approval unless the supervisor is the authorised decision-maker for that requirement.
+
+## Consent is a process
+
+Consent should be designed around what a person needs to decide and what the project will actually do.
+
+Check:
+
+- information is understandable and accessible;
+- participation is voluntary despite power, dependency, payment or gatekeeper relationships;
+- the person can ask questions and has capacity or appropriate support;
+- the scope covers collection, recording, linkage, quotation, image or voice use, sharing and future use as applicable;
+- refusal and withdrawal consequences are stated accurately;
+- new information or material changes trigger reconsideration; and
+- the recorded consent matches current practice.
+
+Australian privacy guidance describes consent, where it is relied upon, as informed, voluntary, current and specific, given by a person with capacity [@oaic-key-concepts]. That is Australian legal guidance for contexts within its scope. Ethical participation may require more than legal consent, and some lawful research pathways do not rely on individual consent. Never infer the governing rule from this summary.
+
+### Avoid bundled and indefinite consent
+
+Separate decisions where meaningful. Participation in an interview, recording, identifiable quotation, data linkage, future reuse and public archive deposit may have different implications. Do not imply that a person must accept optional future uses to join the core study unless that is genuinely necessary and approved.
+
+## Privacy, confidentiality, anonymity and de-identification
+
+These terms are not interchangeable.
+
+- **Privacy** concerns appropriate handling of information and intrusion into a person's sphere.
+- **Confidentiality** is a commitment and set of controls governing access and disclosure.
+- **Anonymous collection** means identity is not collected or reasonably knowable in the process; many online or small-population studies cannot guarantee this.
+- **De-identification** alters or removes information so an individual is no longer reasonably identifiable in the relevant context.
+- **Pseudonymisation or coding** replaces direct identifiers but preserves a link or re-identification pathway; the data remain identifiable to someone with access.
+
+The OAIC warns that removing names alone may not remove re-identification risk, which depends on the data, access, available linked information and release context [@oaic-key-concepts]. Small groups, distinctive narratives, locations, dates, roles, images and combined variables can identify people.
+
+Do not promise anonymity when the research team can identify participants or when quotations could reveal them.
+
+## Minimise data before securing it
+
+For every field, recording, file and metadata element ask:
+
+- Why is it needed for the question or an authorised operational purpose?
+- What decision or analysis will use it?
+- Could a less identifying or less sensitive form serve the purpose?
+- Who needs access, at which stage and for how long?
+- Does collection create a new risk without corresponding value?
+- When will it be destroyed, de-identified, archived or returned?
+
+Security does not justify unnecessary collection. Australian Privacy Principle guidance requires covered entities to limit collection to information reasonably necessary for their functions and describes a data-minimisation approach [@oaic-app3]. Applicability varies by entity and jurisdiction; obtain local privacy advice.
+
+## Treat secondary and public data as ethically consequential
+
+Availability is not permission. Before using social media, online forums, scraped material, administrative records, commercial data, archives or an existing research dataset, examine:
+
+- original purpose and participant expectations;
+- terms, licences, consent and custodian authority;
+- sensitivity and vulnerability;
+- whether individuals or communities are reasonably identifiable;
+- selection and representation harms;
+- linkage and inferential privacy risks;
+- platform changes or deleted material;
+- whether quotation makes a source searchable; and
+- required ethics or governance review.
+
+The 2025 Australian National Statement explicitly includes ethical issues across generation, access, analysis, disclosure, storage, sharing and reuse of data and information [@national-statement-2025]. Public status does not by itself resolve those issues.
+
+## Worked example: changing an interview to video
+
+**Approved plan:** audio-record remote interviews, transcribe them, remove direct identifiers and delete recordings after verified transcription.
+
+**Proposed convenience:** switch to a video-conferencing platform's cloud recording and keep video because automated transcription is easier.
+
+**Material differences:** facial images, background information, cloud location, service-provider access, metadata, retention, consent language, deletion capability and potentially cross-border transfer.
+
+**Defensible action:** do not begin video recording. Compare the proposed flow with the approved protocol and participant information; ask the responsible ethics, governance and privacy contacts whether amendment, new controls or a different platform is required; update documents consistently; obtain written authority; then test the approved workflow.
+
+Convenience does not make the change minor.
+
+## Monitor after approval
+
+Set review triggers for:
+
+- changed recruitment, eligibility, payment or gatekeepers;
+- new participants, communities, sites, countries or languages;
+- changed instruments, procedures, burden or risk;
+- additional data, linkage, AI processing, software or service providers;
+- new access roles, collaborators or storage locations;
+- unexpected distress, complaints, adverse events or privacy incidents;
+- deviations and repeated near misses;
+- proposed reuse, sharing, quotation or release; and
+- evidence that the consent process is not understood.
+
+When triggered, pause affected work if necessary, preserve facts and versions, consult the responsible body and use the [protocol-deviation log](../../templates/protocol-deviation.qmd). Do not decide privately that a change is too small to report when the governing process reserves that judgement.
 
 ## Common failure modes
 
-- treating an early plan as permanently fixed;
-- collecting information without naming the decision it should inform;
-- copying a method or workflow without checking fit;
-- waiting for perfect certainty when a reversible next step is available;
-- relying on private memory instead of a recoverable project record;
-- presenting an institutional rule or one disciplinary convention as universal.
+- treating approval as retrospective permission;
+- submitting inconsistent protocols, forms, scripts and data plans;
+- describing all low-risk or public-data work as exempt without an authorised decision;
+- confusing a signature with informed and voluntary consent;
+- promising anonymity while retaining links or identifiable narratives;
+- collecting demographic variables “just in case”;
+- assuming a vendor's security claim establishes institutional approval;
+- moving data across accounts, platforms or countries without checking authority;
+- changing recruitment or procedure without an amendment decision;
+- concealing a deviation because no obvious harm occurred.
 
 ## Good enough for now
 
-Good enough means the work is proportionate to its current purpose, major risks are controlled, important assumptions are visible, and the next decision can be defended. It does not mean that every uncertainty has disappeared.
+Before governed activity begins:
 
-## Before you ask your supervisor
+- the complete participant/community and data pathway is mapped;
+- required authorities are identified and evidenced in writing;
+- all submitted and operational documents describe the same current study;
+- consent is appropriate to the people, power relationships and uses;
+- privacy terms and promises are accurate;
+- data collection is necessary and proportionate;
+- storage, access, transfer, retention and disposal are operationally tested;
+- incidents, deviations and amendment triggers have owners; and
+- the team knows when to stop and whom to contact.
 
-Bring a concise problem statement, the checks you completed, the strongest relevant evidence, feasible options, your provisional recommendation and one precise request. If risk, approval, participant welfare, integrity or safety is involved, seek the appropriate specialist or formal local process rather than relying only on an ordinary supervision meeting.
+## Before you ask your supervisor or ethics/governance contact
 
-## Check locally
+Bring:
 
-Milestones, approvals, systems, storage, authorship processes, examination requirements and support routes vary. Verify the current rule with the responsible office or official documentation.
+- a one-page participant or community pathway;
+- a data-flow map from first contact or source access to disposal or release;
+- the current protocol and document version list;
+- identified authorities and written decisions already obtained;
+- the exact change or uncertainty;
+- your risk assessment and proposed control; and
+- a precise question about review, amendment, consent, privacy, governance or safety.
+
+## Pause-point checklist
+
+- [ ] Current local forms, standards and submission routes have been checked.
+- [ ] Ethics, governance, site, data and community authorities are separated.
+- [ ] Documents and actual workflows describe the same study.
+- [ ] Consent is understandable, voluntary, current and appropriately specific.
+- [ ] Privacy, confidentiality, anonymity, coding and de-identification are used accurately.
+- [ ] Every collected field and data movement has a justified purpose.
+- [ ] Re-identification, linkage, quotation and release risks are assessed contextually.
+- [ ] Secondary or public data use has authority beyond mere accessibility.
+- [ ] Amendment, incident and stop triggers are documented.
+- [ ] Written approvals and conditions cover the activity about to occur.
 
 ## Related practical resources
 
-Use the [practical resource library](../../resources.qmd) and the [I’m stuck pathway](../../stuck/index.qmd) to turn this guidance into a documented action.
-
+Use [Before ethics or governance submission](../../checklists/before-ethics-submission.qmd), [Before data collection](../../checklists/before-data-collection.qmd), the [pilot-readiness checklist](../../checklists/pilot-readiness.qmd) and [protocol-deviation log](../../templates/protocol-deviation.qmd). For urgent or case-specific risk, follow the responsible local process rather than relying on this handbook.

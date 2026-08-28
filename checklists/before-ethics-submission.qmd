@@ -1,6 +1,12 @@
 ---
 title: "Before ethics or governance submission"
+status: "broad-beta resource"
+last-reviewed: "2026-08-28"
 ---
+
+::: {.manual-status}
+**Resource status:** Usable broad-beta. Use the current local forms, National Statement or equivalent framework, and responsible review body. This checklist cannot determine exemption or approve research.
+:::
 
 **Pause point:** Immediately before submitting an ethics, governance, site-authorisation or amendment package.
 
@@ -29,6 +35,14 @@ Do not submit while documents materially contradict one another, a data flow is 
 
 Keep the exact submitted package, version register, data-flow map, permissions, training records, submission receipt, review correspondence and final approval conditions.
 
+## Completed scenario
+
+An application describes anonymous survey responses, but the survey platform records email addresses for prize entry and exports IP addresses by default. The checklist fails because the participant information, consent language and data flow contradict the system. The team separates prize entry from research responses, disables or justifies metadata collection, tests the export, updates every document and has the complete package reviewed again before submission.
+
 ::: {.callout-warning title="Check locally"}
 Only the responsible ethics, governance or review body can determine whether the submission is complete or approve the work.
 :::
+
+## Related guidance
+
+Return to [Ethics, privacy and consent across the project](../chapters/part-06/16-ethics-privacy-consent.qmd), then use [Before data collection](before-data-collection.qmd) immediately before approved activity begins.
