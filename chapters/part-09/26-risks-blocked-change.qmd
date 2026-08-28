@@ -1,55 +1,200 @@
 ---
 title: "Risks, blocked work and change"
-status: "broad-beta baseline"
+status: "broad-beta draft"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta baseline. Evidence verification and worked examples are being expanded; local requirements must be checked before acting.
+**Content status:** Broad-beta draft. Ethics, governance, safety, candidature and contractual changes can require formal approval before implementation. Use this chapter to prepare the decision, then verify the authorised local process.
 :::
+
+## The questions students are usually asking
+
+- Is this a risk, a current issue, something I am waiting for or a genuine blocker?
+- When should I keep following up, escalate, activate an alternative or change the study?
+- How do I discuss a problem without sounding as though I have failed?
+- What must be reconsidered when the project changes?
+- Can I start the revised work while an amendment is being reviewed?
+- How do I prevent a temporary workaround from silently becoming the new protocol?
 
 ## The direct answer
 
-Separate risks, active issues, waiting and blocked work because each requires a different response.
+Name the state accurately, record its consequence and give it an owner, trigger and next decision. A risk needs prevention and contingency. An issue needs response. Waiting needs a follow-up threshold. Blocked work needs another route or escalation. A material change needs an impact review and the required approval before affected work proceeds.
 
-## The decision in front of you
+The aim is not to keep a perfect register. It is to make uncertainty visible early enough to protect participants, evidence, people and time.
 
-Is this uncertain future harm, a present problem, an external dependency or an unmade decision?
+## Classify the situation before acting
+
+| State | Meaning | Immediate response |
+|---|---|---|
+| Risk | an uncertain event or condition that could affect the project | reduce likelihood or consequence; define a trigger and contingency |
+| Issue | the event has happened or the condition already exists | contain harm, establish facts, assign response and decide |
+| Waiting | progress depends on a known external action or event | record requester, request date, promised response and follow-up threshold |
+| Blocked | the current route cannot produce the required outcome | identify the blocker, affected milestone, alternatives and escalation point |
+| Incident | harm, breach, unsafe conduct or loss may have occurred | preserve evidence and use the authorised urgent reporting route |
+| Change | an accepted alteration to a baseline question, method, protocol, scope, role, resource, schedule or output | assess downstream effects, obtain required authority and update linked records |
+
+A single situation may move through several states. “Data access may be delayed” is a risk. Once the promised decision is overdue it is an issue. Work may be waiting on the custodian without being blocked if analysis preparation can continue. It becomes blocked when no available work can produce the milestone. A decision to use another dataset is a proposed change, not an automatic fix.
+
+Do not use “blocked” to mean difficult, unpleasant or not yet scheduled. Do not use “waiting” to hide a decision that nobody has taken ownership of.
+
+## Record the smallest useful risk
+
+A usable risk statement connects cause, event and consequence:
+
+> Because access depends on a partner's legal review, the de-identified extract may not arrive before the analysis window, which could make the primary study infeasible within candidature.
+
+That is more actionable than “data access: high risk”. Record:
+
+- the evidence currently available;
+- the consequence and who or what may be affected;
+- likelihood and consequence only to the precision the evidence supports;
+- prevention or mitigation;
+- contingency if the event occurs;
+- owner of each action;
+- a dated trigger for review or activation;
+- current state; and
+- closure evidence.
+
+Numbers and red–amber–green labels can create false precision. Use them only when the team shares definitions. A plain description of consequence, urgency and uncertainty is often clearer.
+
+## Choose a proportionate response
+
+For an ordinary project risk, consider whether to:
+
+- **avoid** it by changing the route before exposure;
+- **reduce** its likelihood or consequence;
+- **share or transfer** a bounded responsibility to someone with authority or capability;
+- **accept** it explicitly with a trigger and contingency; or
+- **escalate** because the consequence or authority exceeds the team's remit.
+
+Acceptance does not mean ignoring a risk. It means recording why further control is disproportionate, who accepted the residual exposure and when that decision will be reviewed.
+
+Immediate safety, integrity, privacy, participant-welfare or legal concerns do not wait for an ordinary weekly review. Use the relevant urgent local process and do not investigate beyond your authority.
+
+## Manage waiting without passive drift
+
+Every external dependency should have:
+
+1. a specific request and named recipient;
+2. the date sent and evidence of receipt if consequential;
+3. the expected response or decision;
+4. an agreed or reasonable follow-up date;
+5. work that can proceed safely meanwhile;
+6. an alternative or contingency; and
+7. an escalation threshold.
+
+“Waiting for ethics” is too vague. Record whether the application was submitted, administratively accepted, under review, returned for changes or approved. Those states have different implications. Never describe submission as approval.
+
+## Diagnose a blocker
+
+Use four questions:
+
+1. **Required outcome:** What evidence or decision cannot currently be produced?
+2. **Constraint:** What exactly prevents the current route from producing it?
+3. **Control:** Which part can the student, team, collaborator or institution change?
+4. **Threshold:** By when must an alternative or formal change be chosen?
+
+Then identify parallel work that remains legitimate. Preparing code against synthetic data may reduce later delay; collecting unapproved real data does not. Repeatedly polishing unrelated prose may create activity without protecting the threatened milestone.
 
 ::: {.decision-card}
-**Smallest useful next action:** Classify the blockage, assign an owner and set the next review or escalation date.
+**Smallest useful next action:** Write one sentence naming the blocked outcome, the constraint, its owner and the date at which the current route becomes untenable. Then take that sentence to the person with authority to decide among realistic options.
 :::
 
-## A defensible way to proceed
+## Use change control as reasoning, not bureaucracy
 
-1. State the outcome or decision in plain language.
-2. Separate known facts, assumptions, constraints and unresolved questions.
-3. Check the evidence and any applicable local requirement.
-4. Compare realistic options, including doing less, waiting or stopping.
-5. Record the choice, reasons, owner, next review point and evidence of completion.
+A baseline is the last accepted version of the relevant plan: research question, protocol, analysis plan, ethics application, data-management plan, authorship understanding, milestone or output scope. A change request explains why that baseline should change and what else the change affects.
 
-## Common failure modes
+Before implementing a material change, assess:
 
-- treating an early plan as permanently fixed;
-- collecting information without naming the decision it should inform;
-- copying a method or workflow without checking fit;
-- waiting for perfect certainty when a reversible next step is available;
-- relying on private memory instead of a recoverable project record;
-- presenting an institutional rule or one disciplinary convention as universal.
+| Domain | Questions |
+|---|---|
+| Research question and contribution | Does the revised work answer the same question? Is the intended contribution narrower or different? |
+| Design and inference | Do sampling, measurement, comparison, analysis and claims still align? |
+| Ethics, governance and safety | Is an amendment, notification, new permission or safety review required before work? |
+| Data and code | Do schemas, provenance, access, validation, scripts and reproducibility records change? |
+| People and commitments | Are participants, partners, collaborators, workload, authorship or ownership affected? |
+| Time and resources | Which milestones, dependencies, buffers, costs and opportunity costs change? |
+| Outputs | Which chapters, registrations, manuscripts, reports or communications must be revised? |
+| Authority | Who can recommend, approve, implement and verify the change? |
+
+Record the current baseline, precipitating evidence, realistic options, recommendation, impact analysis, required approvals, decision, implementation owner and verification evidence. Link the change to the decision log rather than silently replacing old files.
+
+Small reversible adjustments do not need elaborate paperwork. The record should be proportionate to the consequence and reversibility. A change affecting participant-facing material, consent, approved data use, safety, registered analysis or contractual commitments may be consequential even if it takes only minutes to edit.
+
+## Worked example: access has not arrived
+
+**Baseline:** The primary study uses a partner-controlled dataset. Written access confirmation was required by 15 September so analysis could begin in October.
+
+**Current evidence:** The custodian acknowledged the request but legal review has no decision date. The trigger has passed. No data have been transferred.
+
+**Classification:** The possible delay was a risk; the missed confirmation is now an issue. The primary analysis is waiting and will become blocked at the latest feasible start date.
+
+**Options:**
+
+1. continue waiting with a final decision date and protect the buffer;
+2. narrow the original study to variables already authorised;
+3. activate a public-data alternative answering a bounded version of the question;
+4. reorder linked studies while retaining the access route; or
+5. pause or remove the study through the formal candidature process.
+
+**Cheap tests:** Obtain a written variable list and decision timetable; run the planned pipeline against synthetic data; assess whether the alternative dataset can support the same inference; map effects on ethics, contribution and milestones.
+
+**Recommendation:** Continue preparation only until the named decision date while testing the public-data alternative. If access remains unconfirmed, submit a documented change recommendation rather than spending the remaining buffer on repeated informal follow-up.
+
+**Authority boundary:** The student can prepare options and tests. The custodian controls access. Supervisors can recommend a scientific route. Ethics, governance and candidature authorities decide changes within their remit.
+
+**Evidence of completion:** A dated decision, any required approval, revised question and method records, updated milestones and risk status, and a reproducible record showing which dataset and analysis route became authoritative.
+
+## Failure modes
+
+- keeping risks in someone's memory rather than a shared recoverable record;
+- listing a risk without a trigger, owner or contingency;
+- using “high risk” without stating the consequence;
+- copying unresolved items forward at every meeting;
+- treating an unanswered request as permission;
+- calling work blocked without identifying the required outcome;
+- escalating a vague complaint instead of a decision-ready problem;
+- implementing a material change before required approval;
+- updating the protocol but not the ethics, data, code, milestone or authorship records;
+- preserving the deadline by quietly weakening the inference;
+- treating sunk effort as a reason to continue an untenable route; and
+- hiding bad news until no feasible alternative remains.
 
 ## Good enough for now
 
-Good enough means the work is proportionate to its current purpose, major risks are controlled, important assumptions are visible, and the next decision can be defended. It does not mean that every uncertainty has disappeared.
+Risk and change control are usable when consequential uncertainties and current problems are distinguished; every live item has an owner and next decision point; waiting has a follow-up threshold; blockers identify the affected outcome and alternatives; material changes have an impact analysis and authority path; and closure is supported by evidence rather than disappearance from a list.
 
-## Before you ask your supervisor
+## Before you ask your supervisor or another decision-maker
 
-Bring a concise problem statement, the checks you completed, the strongest relevant evidence, feasible options, your provisional recommendation and one precise request. If risk, approval, participant welfare, integrity or safety is involved, seek the appropriate specialist or formal local process rather than relying only on an ordinary supervision meeting.
+Bring:
+
+- a one-sentence classification and consequence;
+- the relevant baseline and current evidence;
+- the trigger already reached or approaching;
+- actions already taken and their results;
+- two or more feasible options, including their trade-offs;
+- your provisional recommendation;
+- approvals or specialist advice that may be required; and
+- one precise decision request with a date.
+
+## Pause-point checklist
+
+- [ ] The item is classified as risk, issue, waiting, blocked, incident or proposed change.
+- [ ] The affected outcome and consequence are explicit.
+- [ ] Facts, assumptions and missing evidence are separated.
+- [ ] Each response has an owner and dated trigger.
+- [ ] Waiting work has a follow-up and escalation threshold.
+- [ ] A contingency can be activated before the critical buffer is exhausted.
+- [ ] Proposed changes are checked across question, design, ethics, data, people, time and outputs.
+- [ ] Required authority is identified before affected work proceeds.
+- [ ] Accepted changes update all linked records.
+- [ ] Closure requires observable evidence.
 
 ## Check locally
 
-Milestones, approvals, systems, storage, authorship processes, examination requirements and support routes vary. Verify the current rule with the responsible office or official documentation.
+Verify ethics and governance amendment rules, incident reporting, health and safety processes, data-breach procedures, contractual notifications, formal milestone variations, leave and suspension routes, and who has authority to approve each kind of change. General project advice cannot authorise work.
 
 ## Related practical resources
 
-Use the [practical resource library](../../resources.qmd) and the [I’m stuck pathway](../../stuck/index.qmd) to turn this guidance into a documented action.
-
+Use the [risk and issues register](../../templates/risk-issues-register.qmd), [unresolved-questions log](../../templates/unresolved-questions.qmd), [decision log](../../templates/decision-log.qmd), [action register](../../templates/action-register.qmd) and [pivot, continue or stop decision aid](../../checklists/pivot-continue-stop.qmd). If classification or escalation remains unclear, use the [I’m stuck pathway](../../stuck/index.qmd).

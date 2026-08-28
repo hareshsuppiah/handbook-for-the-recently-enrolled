@@ -4,26 +4,61 @@ status: "broad-beta resource"
 last-reviewed: "2026-08-28"
 ---
 
+Use this register for decision-relevant uncertainty and current problems, not as a warehouse for every worry. Read [Risks, blocked work and change](../chapters/part-09/26-risks-blocked-change.qmd) before first use.
+
+## Classification key
+
+- **Risk:** an uncertain future event or condition.
+- **Issue:** the event has happened or the condition exists.
+- **Waiting:** progress depends on a known external action.
+- **Blocked:** the current route cannot produce the required outcome.
+- **Incident:** harm, breach, loss or unsafe conduct may have occurred; use the authorised urgent process.
+
 ## Blank register
 
-| ID | Type | Event or condition | Consequence | Current evidence | Response | Owner | Trigger/date | Status |
+| ID | State | Cause, event and consequence | Current evidence | Prevention or current response | Contingency or alternative | Owner | Trigger, follow-up or escalation date | Status and closure evidence |
 |---|---|---|---|---|---|---|---|---|
-| R-001 | risk / issue | [uncertain future / present problem] | [ ] | [ ] | avoid / reduce / transfer / accept / escalate | [ ] | [ ] | open / monitoring / closed |
+| R-001 | risk / issue / waiting / blocked | Because [cause], [event] may/has occurred, causing [consequence] | known: [ ]; uncertain: [ ] | [ ] | [ ] | [ ] | [date + condition] | open / monitoring / escalated / closed because [evidence] |
+
+If likelihood or consequence ratings are required locally, define the scale beside the register. Do not present guessed numbers as measured probability.
 
 ## Completed example
 
-| ID | Type | Event or condition | Consequence | Current evidence | Response | Owner | Trigger/date | Status |
+| ID | State | Cause, event and consequence | Current evidence | Prevention or current response | Contingency or alternative | Owner | Trigger, follow-up or escalation date | Status and closure evidence |
 |---|---|---|---|---|---|---|---|---|
-| R-004 | risk | controlled-data variables may be unavailable | primary inference impossible | informal list only | verify; prepare public-data alternative | student | written list by 15 Sep | open |
+| R-004 | issue; analysis waiting | Because partner legal review has no decision date, the controlled-data extract was not confirmed by 15 Sep, which may make the primary analysis infeasible in candidature | request acknowledged; variable list and approval absent; no transfer | request written timetable; test pipeline with synthetic data | assess public dataset and narrower question; prepare change decision | student: tests and record; supervisor: scientific decision; custodian: access | follow up 18 Sep; choose route 30 Sep | open; closes only with written access or approved alternative and updated records |
+
+## Review procedure
+
+At each agreed review:
+
+1. confirm the state from current evidence;
+2. convert a risk to an issue when its trigger occurs;
+3. test whether waiting has become blocked;
+4. complete or escalate due actions;
+5. activate contingencies before the protected buffer is exhausted;
+6. link any material change to the decision record and required approval; and
+7. close only with observable evidence.
 
 ## Scenario test
 
-When the trigger date passes without confirmation, the item becomes a current issue and activates the alternative; it is not copied forward as an unchanged risk.
+The access trigger passes without confirmation. The correct response is not to copy the row into next week's register unchanged. Reclassify it as an issue, execute the named follow-up, test the alternative and take a decision by the recorded threshold.
 
-## Privacy boundary
+If the custodian later approves a smaller variable set, do not simply close the issue. First determine whether the reduced data alter the question, method, ethics, analysis or contribution. Record and approve the resulting change where required.
 
-Record the project consequence and response. Keep sensitive personal or case details in the authorised confidential process.
+## Privacy and authority boundary
 
-## Related guidance
+Record the project consequence and response. Keep sensitive personal, participant, health, misconduct or case details in the authorised confidential process. This register does not replace incident, safety, privacy, ethics or research-integrity reporting.
 
-[Topic due diligence](../chapters/part-03/08-topic-due-diligence.qmd)
+## Evidence to retain
+
+- dated register versions or change history;
+- consequential requests and responses;
+- test results supporting alternatives;
+- linked decisions and approvals;
+- revised plans or protocols; and
+- closure evidence.
+
+## Related resources
+
+Use the [decision log](decision-log.qmd), [unresolved-questions log](unresolved-questions.qmd), [action register](action-register.qmd) and [pivot, continue or stop decision aid](../checklists/pivot-continue-stop.qmd).
