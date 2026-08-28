@@ -7,6 +7,7 @@ $toc-color: #6e5b52;
 $font-family-sans-serif: "Aptos", "Segoe UI", system-ui, sans-serif;
 $headings-font-family: Georgia, "Times New Roman", serif;
 $border-color: #cdbdad;
+$grid-sidebar-width: 340px;
 
 /*-- scss:rules --*/
 :root {
@@ -20,8 +21,8 @@ $border-color: #cdbdad;
 }
 
 body { background-image: linear-gradient(rgba(75, 23, 27, .018) 1px, transparent 1px); background-size: 100% 31px; }
-#quarto-sidebar { width: 250px; border-right: 1px solid var(--manual-rule); }
-.sidebar-logo { max-height: 300px; width: auto; margin: .4rem auto 1rem; filter: drop-shadow(0 8px 12px rgba(42,27,24,.15)); }
+#quarto-sidebar { border-right: 1px solid var(--manual-rule); }
+.sidebar-logo { display: block; width: 168px; height: auto; max-height: none; margin: .4rem auto 1rem; filter: drop-shadow(0 8px 12px rgba(42,27,24,.15)); }
 .sidebar-search { margin-bottom: 1rem; }
 .sidebar-item .sidebar-item-text { line-height: 1.25; }
 .sidebar-item-section > .sidebar-item-container .sidebar-item-text { font-family: Georgia, serif; color: var(--manual-oxblood); }
@@ -38,9 +39,6 @@ h2 { margin-top: 2.5rem; }
 .skip-link { position: fixed; left: 1rem; top: -10rem; z-index: 9999; background: #fff; padding: .75rem 1rem; }
 .skip-link:focus { top: 1rem; outline: 3px solid #9d4652; }
 :focus-visible { outline: 3px solid #9d4652; outline-offset: 3px; }
-@media (min-width: 1500px) {
-  #quarto-sidebar { width: 340px; }
-  #quarto-margin-sidebar { width: 250px; }
-}
+@media (min-width: 1500px) { #quarto-margin-sidebar { width: 250px; } }
 @media (max-width: 991px) { .content { max-width: 100%; } body { background-image: none; } }
 @media print { #quarto-sidebar, #quarto-margin-sidebar, .quarto-navigation-tool { display: none !important; } body { background: white; } }

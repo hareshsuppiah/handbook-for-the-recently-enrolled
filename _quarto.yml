@@ -7,7 +7,6 @@ book:
   subtitle: "An Operating Manual for Graduate Researchers"
   author: "Haresh Suppiah"
   date: last-modified
-  cover-image: assets/cover.svg
   favicon: assets/favicon.svg
   site-url: https://hareshsuppiah.github.io/handbook-for-the-recently-enrolled/
   repo-url: https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled
@@ -21,7 +20,7 @@ book:
     limit: 20
   sidebar:
     style: docked
-    logo: assets/cover-sidebar.svg
+    logo: assets/cover-final.png
     collapse-level: 1
   chapters:
     - index.qmd

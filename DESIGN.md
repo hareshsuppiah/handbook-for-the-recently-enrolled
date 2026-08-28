@@ -25,7 +25,6 @@ Headings use a bookish serif. Interface labels and body copy use a highly legibl
 ## Cover assets
 
 - Selected artwork: `assets/cover-artwork.png`
-- Deterministic title composition: `assets/cover.svg`
-- Sidebar derivative: `assets/cover-sidebar.svg`
+- Deterministic title composition source: `assets/cover.svg`
+- Self-contained web cover: `assets/cover-final.png`
 - Alt text: “A worn dark-brown handbook cover. A graduate researcher stands before four paths leading towards library stacks, a laboratory, an archive and a staircase.”
-

@@ -3,7 +3,6 @@ title: "The Handbook for the Recently Enrolled"
 subtitle: "An Operating Manual for Graduate Researchers"
 author: "Haresh Suppiah"
 description: "A practical, evidence-informed operating manual for graduate researchers."
-image: assets/cover.svg
 ---
 
 ::: {.manual-status}
