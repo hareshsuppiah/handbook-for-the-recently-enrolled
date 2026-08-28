@@ -29,6 +29,16 @@ Do not commit while a critical dependency such as access, recruitment, data qual
 
 Keep the study decision record, evidence summary, feasibility checks, design rationale, resource estimate, risk register and agreed pivot or stop criteria.
 
+## Scenario test
+
+**Situation:** A controlled dataset appears ideal, but the exact variables and access date have not been confirmed by the data owner.
+
+**Result:** The checklist stops full study commitment. The team may submit the access request and complete reversible preparation, but it must test a feasible alternative and set a decision date rather than calling access secured.
+
 ::: {.callout-warning title="Check locally"}
 Required reviewers, approvals and study documents depend on the discipline, jurisdiction, data type, participants and host organisation.
 :::
+
+## Related guidance
+
+Read [Topic due diligence](../chapters/part-03/08-topic-due-diligence.qmd) and use the [Topic due-diligence canvas](../templates/topic-due-diligence.qmd).

@@ -1,55 +1,143 @@
 ---
 title: "Topic due diligence"
-status: "broad-beta baseline"
+status: "broad-beta draft"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta baseline. Evidence verification and worked examples are being expanded; local requirements must be checked before acting.
+**Content status:** Broad-beta draft. Feasibility and governance require method-, setting- and jurisdiction-specific evidence before commitment.
 :::
+
+## The questions students are usually asking
+
+- Is this topic suitable for a doctorate?
+- What must I check before committing to a study?
+- How can I test access, recruitment or data assumptions?
+- When is a project too broad?
+- How do I decide whether to proceed, narrow, redesign, pause or stop?
 
 ## The direct answer
 
-A defensible topic is important enough, answerable enough, feasible enough and appropriately bounded for the candidature.
+A defensible topic is important enough, answerable enough, feasible enough and appropriately bounded for the candidature. Due diligence is the deliberate search for evidence that could change the decision to proceed.
 
-## The decision in front of you
+Enthusiasm establishes interest, not viability. A long bibliography establishes activity, not access, ethical acceptability or alignment. Treat the proposed project as a case that must withstand a sceptical review.
 
-Is there enough evidence to proceed, narrow, redesign, pause or stop?
+## The due-diligence domains
+
+### Importance and contribution
+
+What problem is addressed, who cares, what present limitation matters and what bounded contribution could the evidence support?
+
+### Prior evidence
+
+What has been tried? What failed or produced inconsistent results? Which assumptions, measures, datasets and populations dominate? What contrary evidence exists?
+
+### Question and inference
+
+Is the question answerable with evidence that can actually be obtained? Does the wording promise causation, prevalence, representation, prediction or transfer beyond the proposed design?
+
+### Access and recruitment
+
+Who controls the participants, sites, archives, data, equipment or communities? Is access documented by someone with authority? What response, exclusion, attrition or downtime is plausible?
+
+### Method and capability
+
+Which designs are credible, what expertise is required, and can the team obtain it in time? Familiar software is not a methodological rationale.
+
+### Ethics, governance and relationships
+
+What approvals, consent, privacy, cultural governance, safety, partner or legal processes apply? Who decides? What lead times and ongoing obligations follow?
+
+### Resources and time
+
+Include training, licences, equipment, transcription, travel, participant reimbursement, storage, specialist review, analysis, reporting, correction and failure recovery.
+
+### Dependencies and alternatives
+
+Which assumptions could stop the project? What smaller, safer or more accessible route addresses the same problem?
 
 ::: {.decision-card}
-**Smallest useful next action:** Run the topic against importance, tractability, access, capability, ethics, time and contribution.
+**Smallest useful next action:** Complete the [Topic due-diligence canvas](../../templates/topic-due-diligence.qmd) using evidence rather than aspirations. Mark every unsupported statement as an assumption with an owner and test date.
 :::
 
-## A defensible way to proceed
+## Test assumptions cheaply
 
-1. State the outcome or decision in plain language.
-2. Separate known facts, assumptions, constraints and unresolved questions.
-3. Check the evidence and any applicable local requirement.
-4. Compare realistic options, including doing less, waiting or stopping.
-5. Record the choice, reasons, owner, next review point and evidence of completion.
+Before major commitment:
+
+- ask the authoritative data owner what can actually be shared;
+- estimate the eligible recruitment pool and plausible response;
+- inspect a sample of the archive or dataset where permitted;
+- trial the equipment or workflow with non-research material;
+- seek specialist review of the central method;
+- map approval lead times from current sources;
+- test whether the core analysis is possible with simulated or public data;
+- conduct appropriate consultation where communities or partners share authority.
+
+A feasibility test should answer a decision. “Run a pilot” is not enough; specify what result would lead to continue, revise or stop.
+
+## Worked example: the prestigious but inaccessible dataset
+
+A project proposes a novel analysis of a national administrative dataset. The proposal assumes access within six months.
+
+Due diligence finds:
+
+- applications are considered only twice each year;
+- variables needed for the primary inference may not be released;
+- analysis must occur in a secure environment;
+- the student lacks one required method;
+- a public dataset can address a narrower but related question.
+
+The decision is not simply “wait for access”. The team records two designs, applies for controlled access, begins the required training and sets a gate: if variable availability is not confirmed by the stated date, the public-data question becomes the primary study.
+
+## A proportionate decision
+
+| Finding | Response |
+|---|---|
+| Important, aligned and feasible | Proceed with documented assumptions and review triggers |
+| Important but too broad | Narrow the population, claim, mechanism, period or number of studies |
+| Important but one dependency is uncertain | Run a bounded feasibility test and preserve an alternative |
+| Feasible but contribution is weak | Reframe the problem or stop before sunk costs grow |
+| Approval or safety path is unclear | Pause affected work and seek responsible specialist guidance |
+| Central evidence cannot support intended inference | Redesign or change the question |
+| Stakeholder or community framing is not legitimate | Reopen problem definition and governance |
 
 ## Common failure modes
 
-- treating an early plan as permanently fixed;
-- collecting information without naming the decision it should inform;
-- copying a method or workflow without checking fit;
-- waiting for perfect certainty when a reversible next step is available;
-- relying on private memory instead of a recoverable project record;
-- presenting an institutional rule or one disciplinary convention as universal.
+- accepting informal enthusiasm as authorised access;
+- estimating only the successful path;
+- treating “available data” as data fit for the inference;
+- hiding recruitment, equipment or partner delays inside the timeline;
+- assuming ethics approval resolves all governance;
+- selecting a method because a supervisor or software package is familiar;
+- calling a project feasible because each task is individually possible;
+- continuing solely because time has already been invested.
 
-## Good enough for now
+## Pause-point checklist: before committing
 
-Good enough means the work is proportionate to its current purpose, major risks are controlled, important assumptions are visible, and the next decision can be defended. It does not mean that every uncertainty has disappeared.
+Use the full [Before committing to each study](../../checklists/before-study-commitment.qmd) check. At minimum:
+
+- [ ] importance, question, evidence and contribution align;
+- [ ] critical access and resource claims are verified with responsible people;
+- [ ] method and capability gaps have credible solutions;
+- [ ] approval, cultural governance, safety and privacy paths are known;
+- [ ] time and cost include failure scenarios;
+- [ ] the main dependency has a continue, revise and stop rule;
+- [ ] a realistic alternative has been considered;
+- [ ] the decision and assumptions are recorded.
 
 ## Before you ask your supervisor
 
-Bring a concise problem statement, the checks you completed, the strongest relevant evidence, feasible options, your provisional recommendation and one precise request. If risk, approval, participant welfare, integrity or safety is involved, seek the appropriate specialist or formal local process rather than relying only on an ordinary supervision meeting.
+Bring the one-page topic case, completed canvas, strongest contrary evidence, main dependency, one alternative and your recommendation. Ask which assumption would most damage the project if wrong and how cheaply it can be tested.
 
-## Check locally
+## Escalate or seek specialist input when
 
-Milestones, approvals, systems, storage, authorship processes, examination requirements and support routes vary. Verify the current rule with the responsible office or official documentation.
+Access, ethics, privacy, safety, cultural governance, legal obligations, specialist methods, intellectual property, funding or partner authority exceeds the team's competence or decision rights.
 
-## Related practical resources
+## Related resources
 
-Use the [practical resource library](../../resources.qmd) and the [I’m stuck pathway](../../stuck/index.qmd) to turn this guidance into a documented action.
-
+- [Topic due-diligence canvas](../../templates/topic-due-diligence.qmd)
+- [One-page topic case](../../templates/topic-case.qmd)
+- [Risk and issues register](../../templates/risk-issues-register.qmd)
+- [Before committing to each study](../../checklists/before-study-commitment.qmd)
+- [Contribution statement](../../templates/contribution-statement.qmd)
+- [I’m stuck](../../stuck/index.qmd)
