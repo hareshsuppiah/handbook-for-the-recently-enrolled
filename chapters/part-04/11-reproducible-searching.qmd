@@ -1,55 +1,157 @@
 ---
 title: "Reproducible and proportionate searching"
-status: "broad-beta baseline"
+status: "broad-beta draft"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta baseline. Evidence verification and worked examples are being expanded; local requirements must be checked before acting.
+**Content status:** Broad-beta draft. Search methods must follow the selected review methodology, databases and discipline; involve a librarian or information specialist where coverage is consequential.
 :::
+
+## The questions students are usually asking
+
+- How do I turn a question into search concepts?
+- Why does the same search fail in another database?
+- What exactly must go in a search log?
+- How do I refine a search without cherry-picking?
+- How do I know when to stop?
+- What makes a search reproducible?
 
 ## The direct answer
 
-A reproducible search records enough detail for another person to understand what was searched, when, where and how results were screened.
+A reproducible search preserves enough information for another person to understand what was searched, where, when, how and with what result. A proportionate search records what the present purpose requires without claiming a stronger level of coverage.
 
-## The decision in front of you
+Reproducibility is not achieved by saving one Boolean string. Platforms, controlled vocabularies, field codes, date coverage, filters and interfaces differ. Preserve both the reasoning and the exact execution for each source.
 
-How much reproducibility is required by the review purpose and any reporting standard?
+## Start with the question and output
+
+Define:
+
+- the decision or review question;
+- eligible evidence or material;
+- the output: orientation map, focused evidence set, scoping review or systematic review;
+- the consequence of missing relevant evidence;
+- the selected methodology and reporting guidance, where applicable.
+
+PRISMA-S specifies reporting items for systematic-review searches, including sources, platforms, strategies, dates, limits and supplementary methods [@rethlefsen2021prismas]. It improves reporting; it does not make a poorly designed search methodologically appropriate.
+
+## Build the concept table
+
+Break the question into concepts that need to be represented in retrieval. For each concept record:
+
+- natural-language terms;
+- spelling, abbreviation and historical variants;
+- controlled vocabulary or subject headings;
+- related terms that may broaden retrieval;
+- terms deliberately excluded and why;
+- seed papers or known relevant records that supplied vocabulary.
+
+Do not mechanically include every element of a question. Outcomes are sometimes poorly represented in titles and abstracts; adding them can remove relevant records. Test the decision empirically against known records and with specialist advice.
 
 ::: {.decision-card}
-**Smallest useful next action:** Save the exact search string, platform, date, limits and result count.
+**Smallest useful next action:** Put one concept in each column of the [Search-concept table](../../templates/search-concepts.qmd), then test whether the draft strategy retrieves three known relevant records for the right reason.
 :::
 
-## A defensible way to proceed
+## Translate, do not paste
 
-1. State the outcome or decision in plain language.
-2. Separate known facts, assumptions, constraints and unresolved questions.
-3. Check the evidence and any applicable local requirement.
-4. Compare realistic options, including doing less, waiting or stopping.
-5. Record the choice, reasons, owner, next review point and evidence of completion.
+For every database or source:
+
+1. identify its platform and coverage;
+2. translate controlled vocabulary;
+3. adjust field codes, phrase syntax, wildcards and proximity operators;
+4. run the exact strategy;
+5. record date, limits and result count;
+6. export results with enough metadata to deduplicate and trace;
+7. preserve the exact executed strategy.
+
+Changing the strategy after seeing results is not automatically wrong. Concealing the change is. Record what changed, why and whether earlier sources were rerun.
+
+## Test retrieval quality
+
+### Known-record test
+
+Does the strategy retrieve records already known to be relevant? Failure may expose missing terminology, indexing or an overrestrictive concept.
+
+### Noise inspection
+
+Sample irrelevant results. Identify which term or concept creates noise before narrowing. Do not optimise only for a tidy result count.
+
+### Contrary-concept test
+
+Search terms that represent competing explanations, negative findings, alternative labels or marginalised framings.
+
+### Source-coverage test
+
+Ask what the selected databases systematically omit: disciplines, languages, regions, grey literature, creative works, policy, Indigenous or community knowledge, preprints or older material.
+
+## Supplementary methods
+
+Citation searching, website searching, author searching, trial or study registers, repositories, handsearching and expert contact may be justified by the question and method. Report them as methods, not informal afterthoughts.
+
+The TARCiS statement distinguishes backward, forward and indirect citation methods and asks reviewers to report direction, resources and seed records [@hirt2024tarcis]. Citation searching can complement text searching; it cannot be assumed to reproduce a comprehensive review on its own.
+
+## Worked example: a search becomes unrecoverable
+
+A student records: “Scopus, March, about 800 hits.” After screening begins, they cannot reproduce the set because the exact date, platform syntax, fields and filters are missing.
+
+The repaired record contains:
+
+- source and platform;
+- exact executed strategy;
+- date and time zone;
+- database coverage or update note where relevant;
+- filters and limits with justification;
+- result count;
+- export filename and format;
+- deduplication batch;
+- changes from the prior version.
+
+The original screening decisions are retained; the failure is documented rather than silently reconstructed.
+
+## Stopping rules
+
+Stopping depends on the purpose:
+
+- **orientation:** new searching no longer changes the vocabulary, debate map or next decision within the time box;
+- **focused search:** predefined sources and supplementary checks are complete, known records are retrieved and limitations are acceptable for the claim;
+- **scoping or systematic review:** protocol and selected methodology determine coverage, update and completion; resource constraints are reported rather than relabelled as saturation;
+- **citation chaining:** the stated generations, seeds or completion rule have been applied and recorded.
+
+Never use “I had enough papers” as the sole rule for a completeness-sensitive search.
 
 ## Common failure modes
 
-- treating an early plan as permanently fixed;
-- collecting information without naming the decision it should inform;
-- copying a method or workflow without checking fit;
-- waiting for perfect certainty when a reversible next step is available;
-- relying on private memory instead of a recoverable project record;
-- presenting an institutional rule or one disciplinary convention as universal.
+- copying one database's syntax into another;
+- adding every question element and losing relevant records;
+- selecting filters because the result count looks manageable;
+- refining terms without versioning the change;
+- failing to record platforms separately from databases;
+- citing the search string but not the date or limits;
+- using citation counts as a quality assessment;
+- allowing reference-manager or AI output to substitute for checking the actual record;
+- applying one review standard to a different review type.
 
-## Good enough for now
+## Pause-point checklist: before screening
 
-Good enough means the work is proportionate to its current purpose, major risks are controlled, important assumptions are visible, and the next decision can be defended. It does not mean that every uncertainty has disappeared.
+- [ ] Question, eligibility and intended output are explicit.
+- [ ] Search concepts and controlled vocabulary are justified.
+- [ ] Each source has a translated, exact strategy.
+- [ ] Dates, platforms, fields, limits and result counts are recorded.
+- [ ] Known relevant records and contrary terminology were tested.
+- [ ] Supplementary methods and seeds are documented.
+- [ ] Exports are named, preserved and traceable to deduplication.
+- [ ] Stopping and update rules match the review purpose.
+- [ ] Limitations and information-specialist input are recorded.
 
-## Before you ask your supervisor
+## Before you ask a librarian or supervisor
 
-Bring a concise problem statement, the checks you completed, the strongest relevant evidence, feasible options, your provisional recommendation and one precise request. If risk, approval, participant welfare, integrity or safety is involved, seek the appropriate specialist or formal local process rather than relying only on an ordinary supervision meeting.
+Bring the question, eligibility logic, concept table, draft strategies, known records, planned sources, required output, deadline and the specific uncertainty. Ask what the approach could systematically miss and which change would most improve retrieval.
 
-## Check locally
+## Related resources
 
-Milestones, approvals, systems, storage, authorship processes, examination requirements and support routes vary. Verify the current rule with the responsible office or official documentation.
-
-## Related practical resources
-
-Use the [practical resource library](../../resources.qmd) and the [I’m stuck pathway](../../stuck/index.qmd) to turn this guidance into a documented action.
-
+- [Search-concept table](../../templates/search-concepts.qmd)
+- [Search log](../../templates/search-log.qmd)
+- [Citation-chaining log](../../templates/citation-chaining.qmd)
+- [Search-ladder decision tree](../../checklists/search-ladder.qmd)
+- [Reading and synthesis](12-reading-and-synthesis.qmd)
+- [I’m stuck](../../stuck/index.qmd)
