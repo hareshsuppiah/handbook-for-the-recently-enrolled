@@ -240,4 +240,4 @@ Bring:
 
 ## Related practical resources
 
-Use the [action register](../../templates/action-register.qmd), [risk and issues register](../../templates/risk-issues-register.qmd), [decision log](../../templates/decision-log.qmd), [unresolved-questions log](../../templates/unresolved-questions.qmd) and [supervision agenda](../../templates/supervision-agenda.qmd). Continue to [Risks, blocked work and change](26-risks-blocked-change.qmd).
+Use the [action register](../../templates/action-register.qmd), [risk and issues register](../../templates/risk-issues-register.qmd), [decision log](../../templates/decision-log.qmd), [unresolved-questions log](../../templates/unresolved-questions.qmd) and [supervision agenda](../../templates/meeting-agenda.qmd). Continue to [Risks, blocked work and change](26-risks-blocked-change.qmd).
