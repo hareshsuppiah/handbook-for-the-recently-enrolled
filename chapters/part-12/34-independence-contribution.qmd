@@ -1,55 +1,189 @@
 ---
 title: "Independence and contribution"
-status: "broad-beta baseline"
+status: "broad-beta draft"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta baseline. Evidence verification and worked examples are being expanded; local requirements must be checked before acting.
+**Content status:** Broad-beta draft. The examination standard, thesis form and required declarations are defined by the awarding institution and discipline. Qualification frameworks provide broad orientation, not an individual examination decision.
 :::
+
+## The questions students are usually asking
+
+- What does “independent researcher” mean when research is collaborative?
+- How much supervisor help is too much?
+- What exactly is my original contribution?
+- Can the contribution be methodological, empirical, theoretical, practical or negative?
+- How do several studies combine into one doctoral contribution?
+- How do I distinguish my contribution from the team's?
+- What evidence would convince a sceptical examiner?
 
 ## The direct answer
 
-Research independence is the ability to make reasoned decisions, seek appropriate expertise and remain accountable for the result.
+Independence is not working alone. It is the increasing ability to frame consequential questions, make and record defensible decisions, recognise limits, seek appropriate expertise, integrate feedback and remain accountable for the resulting claims.
 
-## The decision in front of you
+A thesis contribution is a bounded change in what a defined audience can know, explain, do, examine or build on, supported by the thesis evidence. Map it at three levels: the whole thesis, each study or component, and your own accountable contribution.
 
-Which judgements can you now defend, and where is specialist input still necessary?
+## Use an evidence-based independence profile
+
+Assess capability across decisions rather than asking whether you “feel independent”:
+
+| Domain | Evidence of developing independence |
+|---|---|
+| Problem framing | distinguishes a consequential problem from a convenient gap |
+| Question and scope | proposes bounded questions and knows when to narrow or pivot |
+| Evidence | searches, verifies, compares and synthesises rather than accumulating citations |
+| Design | aligns inference, sample/material, measurement, analysis and claim |
+| Governance | recognises authority boundaries and acts within approval |
+| Project judgement | manages dependencies, risks, change and opportunity cost |
+| Technical work | creates inspectable, recoverable workflows and seeks specialist review appropriately |
+| Writing | constructs and revises an argument while preserving evidentiary boundaries |
+| Collaboration | defines roles, handles disagreement and attributes contributions fairly |
+| Reflexivity | identifies assumptions, limitations, positionality and consequences |
+| Communication | adapts evidence for audiences without changing its strength |
+| Accountability | can explain decisions, correct errors and leave a usable record |
+
+Independence varies by domain. A candidate can lead the conceptual argument while correctly relying on statistical, cultural, clinical, technical or community expertise. Seeking qualified help is part of sound judgement.
+
+## Calibrate supervisory support
+
+Progression can move through:
+
+1. **model:** supervisor demonstrates the reasoning and makes tacit standards visible;
+2. **scaffold:** student completes a structured task with prompts and review;
+3. **propose:** student compares options and recommends a decision;
+4. **lead:** student makes, implements and defends decisions within authority;
+5. **mentor:** student can explain the process, limitations and transferable lessons to others.
+
+The aim is not zero feedback. Before completion, the candidate should increasingly bring problem diagnoses, evidence and recommendations rather than only requests for answers. Supervisors should still intervene when safety, integrity, quality or formal responsibility requires it.
+
+## Define contribution precisely
+
+Avoid “This thesis is the first…” unless the search and scope can support it. Use:
+
+> For [audience/field], this thesis contributes [new or improved knowledge, method, evidence, resource or explanation] about [bounded problem], supported by [linked studies/evidence], under [important conditions], enabling [credible use] while not establishing [non-claim].
+
+Possible contribution types include:
+
+- **empirical:** new, better-resolved or differently contextualised observations;
+- **methodological:** a validated method, workflow, measure or evaluation of method limits;
+- **theoretical or conceptual:** a new explanation, distinction, integration or boundary;
+- **computational or infrastructural:** software, dataset, protocol or reproducible system that enables inquiry;
+- **practice or policy:** decision-relevant evidence or implementation knowledge without overstating causality;
+- **critical or negative:** credible evidence that a presumed relation, method or route does not hold under specified conditions;
+- **integrative:** a synthesis that changes understanding across previously disconnected evidence; or
+- **reflexive or practice-led:** new knowledge arising through disciplined critical practice, where the doctorate permits it.
+
+Originality need not mean that no related idea has ever existed. It can arise from the question, evidence, context, method, integration, explanation or demonstrated boundary. The Australian Qualifications Framework describes the research doctorate as making a significant and original contribution to knowledge; the exact standard is operationalised by the institution and field [@aqf-doctoral]. The UK QAA statement similarly emphasises original contribution through independent research while recognising varied doctoral forms [@qaa-doctoral].
+
+## Build the contribution chain
+
+For every claimed contribution, map:
+
+`prior state → unresolved problem → thesis action → evidence produced → warranted new claim → boundary → value/use`
+
+Then test:
+
+- Would the claim survive if “novel”, “important” and “significant” were removed?
+- Which exact chapter, table, analysis, artefact or decision supports it?
+- What credible alternative explanation remains?
+- What would a sceptical examiner say already existed?
+- Does the contribution belong to the thesis, a study, the team or the candidate?
+- What is useful even if the preferred interpretation is rejected?
+
+## Integrate study-level contributions
+
+Each study should have a distinct job in the whole-thesis argument. Use a matrix:
+
+| Study/component | Question | Evidence | Study-level contribution | Dependency | Whole-thesis role | Boundary |
+|---|---|---|---|---|---|---|
+| [ ] | [ ] | [ ] | [ ] | [ ] | define / develop / test / explain / integrate | [ ] |
+
+The whole-thesis contribution is not the sum of abstracts. Explain how components change one another's interpretation, resolve the central problem or establish a coherent boundary.
+
+## Distinguish thesis, team and candidate contribution
+
+- **Thesis contribution:** the knowledge claim established by the submitted body of work.
+- **Team contribution:** what collaborators collectively produced.
+- **Candidate contribution:** the candidate's intellectual, practical and accountable work within that programme.
+
+Use output-specific contribution records and required thesis declarations. Do not erase collaboration to appear independent. Do not claim work performed by others. Explain which decisions you led, which expertise you sought, how it affected the work and how you verified the integrated result.
+
+## Worked example: a multi-study contribution
+
+**Problem:** Athlete-reported recovery data are collected frequently, but interpretation varies across settings and workflows are difficult to audit.
+
+**Study 1 role:** defines practitioner decision needs and current variation.
+
+**Study 2 role:** evaluates measurement behaviour and identifies conditions under which within-athlete change is interpretable.
+
+**Study 3 role:** implements a reproducible reporting workflow and tests whether another analyst can recover the decision record.
+
+**Weak contribution claim:** “This thesis revolutionises athlete monitoring.”
+
+**Bounded contribution:** “For applied sport settings using repeated self-report measures, this thesis identifies decision requirements, bounds interpretation of within-athlete change and demonstrates a recoverable reporting workflow. It does not establish that using the workflow improves athlete health or performance.”
+
+**Candidate contribution:** framed the programme, led design and synthesis, implemented the workflow and integrated specialist measurement and practitioner input. Collaborator roles are reported separately.
+
+## Audit readiness, not identity
+
+For each domain mark:
+
+- **lead independently:** can propose, execute and defend;
+- **lead with review:** can lead but needs consequential specialist or quality review;
+- **supported:** still requires structured scaffolding;
+- **not applicable:** with reason; or
+- **unresolved:** evidence needed before completion.
+
+Attach an example decision or artefact. This converts “be more independent” into a development conversation.
 
 ::: {.decision-card}
-**Smallest useful next action:** Map your contributions, decisions, evidence and collaborators across the thesis.
+**Smallest useful next action:** Complete one row of the thesis contribution map using an exact claim, thesis evidence, candidate role, boundary and sceptical challenge.
 :::
-
-## A defensible way to proceed
-
-1. State the outcome or decision in plain language.
-2. Separate known facts, assumptions, constraints and unresolved questions.
-3. Check the evidence and any applicable local requirement.
-4. Compare realistic options, including doing less, waiting or stopping.
-5. Record the choice, reasons, owner, next review point and evidence of completion.
 
 ## Common failure modes
 
-- treating an early plan as permanently fixed;
-- collecting information without naming the decision it should inform;
-- copying a method or workflow without checking fit;
-- waiting for perfect certainty when a reversible next step is available;
-- relying on private memory instead of a recoverable project record;
-- presenting an institutional rule or one disciplinary convention as universal.
+- equating independence with isolation;
+- hiding specialist or supervisor contributions;
+- describing activity rather than contribution;
+- using “first”, “novel” or “significant” without a defensible scope;
+- treating publications as automatic proof of a coherent thesis;
+- claiming practical impact when only an intermediate outcome was studied;
+- listing limitations without showing how they bound the claim;
+- describing candidate contribution only through hours or tasks;
+- waiting until the conclusion to discover the thesis argument; and
+- treating uncertainty or correction as evidence of dependence.
 
 ## Good enough for now
 
-Good enough means the work is proportionate to its current purpose, major risks are controlled, important assumptions are visible, and the next decision can be defended. It does not mean that every uncertainty has disappeared.
+The contribution is examination-ready when a defined audience, prior state, evidence, warranted change and boundary can be traced across the thesis; study roles integrate; candidate and collaborator contributions are transparent; and the candidate can defend major decisions while identifying where specialist authority remains necessary.
 
-## Before you ask your supervisor
+## Before you ask your supervisors
 
-Bring a concise problem statement, the checks you completed, the strongest relevant evidence, feasible options, your provisional recommendation and one precise request. If risk, approval, participant welfare, integrity or safety is involved, seek the appropriate specialist or formal local process rather than relying only on an ordinary supervision meeting.
+Bring the completed contribution map, whole-thesis claim, study-role matrix, candidate contribution evidence, three sceptical challenges, unresolved boundaries and one request: for example, “Which link in this contribution chain is least supported by the submitted thesis?”
+
+## Pause-point checklist
+
+- [ ] Independence is evidenced across decisions, not equated with working alone.
+- [ ] The contribution names audience, change, evidence and boundary.
+- [ ] Every contribution claim links to an exact thesis location.
+- [ ] Study-level roles combine into a whole-thesis argument.
+- [ ] Thesis, team and candidate contributions are distinguished.
+- [ ] Specialist input and candidate verification are transparent.
+- [ ] Sceptical alternatives and non-claims are explicit.
+- [ ] Originality language is supported at the stated scope.
+- [ ] Remaining supported domains have a completion plan.
+- [ ] Formal declarations and local standards are identified.
 
 ## Check locally
 
-Milestones, approvals, systems, storage, authorship processes, examination requirements and support routes vary. Verify the current rule with the responsible office or official documentation.
+Confirm award-level criteria, thesis form, publication and co-authorship declarations, creative/practice outputs, required oral examination, supervisor certification and whether the institution uses a specific originality or candidate-contribution statement.
 
 ## Related practical resources
 
-Use the [practical resource library](../../resources.qmd) and the [I’m stuck pathway](../../stuck/index.qmd) to turn this guidance into a documented action.
+Use the [thesis contribution map](../../templates/thesis-contribution-map.qmd), [contribution statement](../../templates/contribution-statement.qmd), [authorship conversation record](../../templates/authorship-conversation.qmd), [methodological decision record](../../templates/method-decision.qmd) and [before thesis submission checklist](../../checklists/before-thesis-submission.qmd).
 
+## References
+
+::: {#refs}
+:::
