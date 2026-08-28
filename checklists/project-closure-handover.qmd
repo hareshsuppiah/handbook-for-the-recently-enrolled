@@ -1,6 +1,12 @@
 ---
 title: "Before project closure and handover"
+status: "broad-beta resource"
+last-reviewed: "2026-08-28"
 ---
+
+::: {.manual-status}
+**Resource status:** Usable broad-beta. Apply current retention, disposal, ownership, departure, repository and account-closure rules. Handover is not complete until the recipient demonstrates access and recovery.
+:::
 
 **Pause point:** Before access ends, people leave, accounts close, records are archived or responsibility transfers.
 
@@ -29,6 +35,14 @@ Do not close or hand over while the only recoverable copy is in personal storage
 
 Keep the closure decision, archive manifest, access record, disposal evidence, handover note, recipient acknowledgement, outstanding-obligation register and final integrity check.
 
+## Completed scenario
+
+A candidate provides a folder and says the analysis is reproducible. The recipient can open the report but cannot locate the approved input, restore the environment or identify which script created Figure 3. Handover fails. The candidate supplies the input manifest, release tag, environment file, one build command and output map; the recipient reruns Figure 3 and the backup restore before acknowledging transfer.
+
 ::: {.callout-warning title="Check locally"}
 Retention, disposal, ownership, repository, departure and account-closure rules vary by institution, funder, agreement, jurisdiction and data type.
 :::
+
+## Related guidance
+
+Return to [Reproducible workflows and clean-run evidence](../chapters/part-07/21-reproducible-workflows.qmd) and the [backup and restore audit](backup-restore.qmd).

@@ -1,6 +1,12 @@
 ---
 title: "Before analysis"
+status: "broad-beta resource"
+last-reviewed: "2026-08-28"
 ---
+
+::: {.manual-status}
+**Resource status:** Usable broad-beta. Adapt checks to the method and authorised compute environment. Passing this checklist does not establish scientific validity.
+:::
 
 **Pause point:** Before running the analysis that will support an interpretable result or research claim.
 
@@ -29,6 +35,14 @@ Pause if the input dataset is unstable, exclusions cannot be explained, or the m
 
 Keep the frozen input reference, analysis plan, data decisions, scripts or commands, environment record, quality checks, deviations and final output manifest.
 
+## Completed scenario
+
+The analysis runs from an interactive session, but a fresh session fails because a recoding object and helper function were created manually. The checklist fails. The analyst moves both into version-controlled scripts, validates the input schema, restores the environment from its lockfile and reruns from one documented command. A second person reproduces the target table from the frozen input before the result is used.
+
 ::: {.callout-warning title="Check locally"}
 Specialist methods, sensitive data and regulated analyses may require formal review, validation or controlled computing environments.
 :::
+
+## Related guidance
+
+Return to [Reproducible workflows and clean-run evidence](../chapters/part-07/21-reproducible-workflows.qmd) and retain the clean-run log with the output manifest.

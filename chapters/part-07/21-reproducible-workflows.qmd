@@ -1,55 +1,216 @@
 ---
-title: "Reproducible workflows"
-status: "broad-beta baseline"
+title: "Reproducible workflows and clean-run evidence"
+status: "broad-beta draft"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta baseline. Evidence verification and worked examples are being expanded; local requirements must be checked before acting.
+**Content status:** Broad-beta draft. Reproducibility terminology and standards vary across disciplines. This chapter emphasises computational and procedural recoverability while protecting data, cultural, legal and contractual restrictions.
 :::
+
+## The questions students are usually asking
+
+- What does reproducible mean for my project?
+- Is sharing code enough?
+- How do I capture software and package versions?
+- What should be automated, and what should remain a documented judgement?
+- How can I test a workflow without publishing restricted data?
+- What counts as a clean run?
+- How do qualitative or non-computational projects apply these ideas?
 
 ## The direct answer
 
-Reproducibility means another competent person can understand and rerun the relevant process with the available materials and permissions.
+A reproducible workflow preserves the inputs, decisions, procedures, environment and outputs needed for a competent authorised person to understand and rerun the relevant process. The strongest evidence is a recorded run from a clean starting point—not the fact that the workflow still works on the researcher's own configured computer.
 
-## The decision in front of you
+The National Academies uses “reproducibility” for obtaining consistent computational results with the same data, steps, methods, code and analysis conditions, while noting that terminology differs across fields [@nasem-reproducibility-2019]. State the meaning you use rather than policing vocabulary.
 
-Which parts of the workflow depend on undocumented clicks, local state or personal memory?
+## Define the reproducibility target
 
-::: {.decision-card}
-**Smallest useful next action:** Run the workflow from a fresh session and record every missing dependency.
-:::
+Name:
 
-## A defensible way to proceed
+- the claim, table, figure, model, corpus or decision being reproduced;
+- the authoritative input version;
+- the required code, manual procedure and judgement;
+- the environment and external services;
+- the expected output and tolerance;
+- who is authorised to run it; and
+- what cannot be shared or automated.
 
-1. State the outcome or decision in plain language.
-2. Separate known facts, assumptions, constraints and unresolved questions.
-3. Check the evidence and any applicable local requirement.
-4. Compare realistic options, including doing less, waiting or stopping.
-5. Record the choice, reasons, owner, next review point and evidence of completion.
+“Reproduce the thesis” is too broad. “Regenerate Tables 2–4 from analysis-ready dataset release 1.2 using pipeline release 0.6 in the recorded environment” can be tested.
+
+## Build an inspectable workflow
+
+Aim for a visible dependency chain:
+
+`registered inputs → validation → transformation → analysis/interpretation → output → verification → release`
+
+Each stage should identify:
+
+- inputs and expected schema;
+- code, command or documented procedure;
+- parameters and configuration;
+- dependencies and environment;
+- outputs and location;
+- tests or review;
+- logs and failure behaviour; and
+- responsible person.
+
+Avoid hidden state: objects created interactively, absolute paths, undocumented spreadsheet edits, manual menu sequences, unrecorded environment variables, cached results and files selected by “latest” timestamps.
+
+## Separate code, configuration, credentials and data
+
+- **Code** expresses reusable logic and can often be version controlled.
+- **Configuration** contains project-specific parameters, paths, dates or options and should be versioned when safe.
+- **Credentials and secrets** authorise access and must not be committed or exposed in logs.
+- **Data** follow the approved governance and may be public, controlled or unavailable to the reproducer.
+
+Provide example configuration and documented secret setup without real credentials. Fail clearly when required settings are absent.
+
+## Capture the environment proportionately
+
+At minimum record:
+
+- operating system and relevant architecture;
+- language, application and runtime versions;
+- direct and transitive package dependencies where material;
+- external command-line tools;
+- system libraries, drivers or hardware dependencies;
+- locale, timezone, fonts and encoding where outputs depend on them;
+- random seed and stochastic settings;
+- remote APIs, databases or models with dates/versions; and
+- installation or environment restoration steps.
+
+Options include lockfiles, package managers, environment manifests, containers or virtual machines. A container is not automatically reproducible: it may rely on unavailable images, external data, mutable tags or hidden credentials.
+
+The Turing Way emphasises capturing computational environments because operating systems, software and libraries differ across machines [@turing-way-environments]. Select the lightest method that can recreate the material conditions of the workflow.
+
+## Automate repeated transformations, preserve judgement
+
+Automation is valuable when a step is repeated, consequential and rule-based. It can reduce transcription and version errors, but also repeat a mistake consistently.
+
+Automate where appropriate:
+
+- input validation and manifests;
+- parsing and transformation;
+- routine quality checks;
+- analysis and output generation;
+- link, citation or schema checks;
+- tests and build processes; and
+- release packaging.
+
+Keep a structured human record for decisions that require interpretation, ethical judgement, source criticism, ambiguous classification or community authority. Link the decision record to the workflow version.
+
+## Test more than successful execution
+
+A workflow needs:
+
+- **unit checks** for small functions or decision rules;
+- **integration checks** across data, software and stages;
+- **scientific checks** tied to expected units, ranges, conservation, known cases or theoretical constraints;
+- **privacy checks** for identifiers and disclosure fields;
+- **regression checks** for unintended output changes;
+- **failure checks** confirming that bad input stops loudly; and
+- **reproduction checks** from a fresh session or environment.
+
+Tests show only what they cover. A green build does not validate the research question, measurement, model or interpretation.
+
+## Run the clean-room test
+
+Use a new checkout, fresh environment, controlled compute session or independent machine that does not inherit private state.
+
+1. Retrieve the documented release or commit.
+2. Follow the README without oral assistance.
+3. Restore the environment from its retained specification.
+4. Obtain authorised input through the documented route.
+5. run the single entry command or documented sequence;
+6. capture logs, warnings, runtime and environment identity;
+7. compare outputs using specified tolerances or review criteria;
+8. record every undocumented dependency or judgement;
+9. repair documentation, code or packaging; and
+10. repeat until the relevant target passes.
+
+Do not call the run independent if the original analyst silently fixes it during execution.
+
+## Worked example: analysis works only on one laptop
+
+**Symptoms:** the report renders for the candidate but fails for the supervisor. The script reads `/Users/name/Desktop/data_final.csv`, uses packages installed months ago, assumes Melbourne time and loads a helper function from the interactive workspace.
+
+**Repair:** place paths and parameters in documented configuration; retrieve data through an approved project-relative route; move helper code into version control; create a dependency lockfile; set timezone explicitly; validate input schema; provide one build command; remove cached outputs; rerun in a clean environment.
+
+**Verification:** a second person checks out the tagged release, restores dependencies, obtains the controlled input, runs the command and reproduces the expected table values and report hash except for documented timestamp metadata.
+
+The original analysis may have been scientifically sound, but its recovery depended on private state.
+
+## Reproducibility with restricted data
+
+Open data are not always lawful, ethical or respectful. You can still improve reproducibility through:
+
+- public or controlled code and documentation;
+- synthetic or simulated example data;
+- a machine-readable schema;
+- input validation and known-output tests;
+- controlled-access application instructions;
+- secure-compute workflows;
+- disclosure-risk-reviewed aggregate outputs; and
+- an independent authorised reproduction inside the secure environment.
+
+State what is unavailable and why. Do not claim an open reproducibility package when critical private transformations remain undocumented.
+
+## Beyond quantitative code
+
+For qualitative, archival, practice-based and non-computational research, preserve the chain appropriate to the tradition:
+
+- source selection and access boundaries;
+- versions of recordings, transcripts, images or artefacts;
+- codebook or interpretive framework and its changes;
+- analytic memos, negative cases and reflexive decisions;
+- translation or transcription procedures;
+- links from claims and quotations to authorised source locations;
+- documentation of practice, materials and iterations; and
+- enough context for another competent person to understand how the interpretation was produced.
+
+The objective may be auditability and transparency rather than identical output. Name the standard honestly.
 
 ## Common failure modes
 
-- treating an early plan as permanently fixed;
-- collecting information without naming the decision it should inform;
-- copying a method or workflow without checking fit;
-- waiting for perfect certainty when a reversible next step is available;
-- relying on private memory instead of a recoverable project record;
-- presenting an institutional rule or one disciplinary convention as universal.
+- sharing code without inputs, environment or execution order;
+- relying on a long notebook that must be run manually in a secret order;
+- hard-coding personal paths, credentials or current dates;
+- using mutable package or container tags without versions;
+- treating a random seed as a guarantee of identical results across hardware;
+- retaining final outputs but not the generation source;
+- calling a pipeline reproducible because it reruns on the creator's machine;
+- publishing restricted data in the name of openness;
+- automating interpretive decisions without preserving accountability;
+- treating test success as evidence that scientific conclusions are valid.
 
 ## Good enough for now
 
-Good enough means the work is proportionate to its current purpose, major risks are controlled, important assumptions are visible, and the next decision can be defended. It does not mean that every uncertainty has disappeared.
+Before relying on an analysis or interpretive workflow:
 
-## Before you ask your supervisor
+- the reproducibility target is bounded;
+- authoritative inputs and permissions are identified;
+- code, configuration, data and secrets are separated;
+- dependencies and environment are recoverable;
+- repeated transformations and manual decisions are visible;
+- scientific, privacy and failure checks exist;
+- expected outputs and tolerances are specified;
+- a clean run has been completed by an appropriate person; and
+- limitations and inaccessible materials are documented.
 
-Bring a concise problem statement, the checks you completed, the strongest relevant evidence, feasible options, your provisional recommendation and one precise request. If risk, approval, participant welfare, integrity or safety is involved, seek the appropriate specialist or formal local process rather than relying only on an ordinary supervision meeting.
+## Before you ask your supervisor, analyst or research software specialist
 
-## Check locally
+Bring:
 
-Milestones, approvals, systems, storage, authorship processes, examination requirements and support routes vary. Verify the current rule with the responsible office or official documentation.
+- the target output and governing claim;
+- a diagram of inputs, stages and outputs;
+- the repository/release and README;
+- environment and dependency record;
+- failing clean-run log;
+- expected result and tolerance;
+- protected-data constraints; and
+- one precise dependency, test, packaging or interpretation problem.
 
 ## Related practical resources
 
-Use the [practical resource library](../../resources.qmd) and the [I’m stuck pathway](../../stuck/index.qmd) to turn this guidance into a documented action.
-
+Use [Before analysis](../../checklists/before-analysis.qmd), [Before project closure and handover](../../checklists/project-closure-handover.qmd), the [backup and restore audit](../../checklists/backup-restore.qmd) and [data dictionary](../../templates/data-dictionary.qmd). The technology chapters show how Quarto and version control can support—not replace—this reasoning.
