@@ -1,48 +1,70 @@
 ---
-title: "Folder File Naming"
-status: "beta resource"
+title: "Folder and file-naming starter"
+status: "broad-beta resource"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Resource status:** Usable beta. Adapt it to the method and check local requirements. Do not place confidential or identifiable information in a public copy.
+**Resource status:** Usable broad-beta. Adapt the structure to approved storage, data sensitivity, method and team practice. Identifiable or restricted material may need a separate controlled system.
 :::
 
-## When to use it
+## Starter structure
 
-Use this template when the relevant reasoning needs to remain visible after the conversation or task has ended. Replace the prompts; do not leave bracketed instructions in a final record.
+```text
+project/
+  README.md
+  admin/
+  protocol/
+  data/
+    00_incoming/
+    01_raw_read_only/
+    02_interim/
+    03_analysis_ready/
+    04_release/
+  code/
+  outputs/
+    figures/
+    tables/
+    reports/
+  metadata/
+  logs/
+```
 
-## Blank template
+**Authoritative copy for each folder:** [ ]
+**Folders prohibited from sync, repository or local device:** [ ]
+**Read-only enforcement for raw material:** [ ]
+**Access owner and review date:** [ ]
 
-**Purpose or decision:** [What is this record for?]  
-**Context:** [What has happened, and what stage is the work at?]  
-**Known facts and evidence:** [Cite or link the authoritative record.]  
-**Assumptions:** [What is believed but not yet verified?]  
-**Constraints and local requirements:** [What limits the available choices?]  
-**Options considered:** [Include realistic alternatives.]  
-**Provisional recommendation:** [What should happen, and why?]  
-**Owner and next action:** [Name the person and action.]  
-**Evidence of done:** [What observable result will close this item?]  
-**Review or escalation date:** [When will this be reconsidered?]
+## Naming convention
 
-## Completed example
+**Pattern:** `[project]_[item]_[context]_[YYYY-MM-DD]_[status-or-version].[ext]`
 
-**Purpose or decision:** choose the next reversible project step.  
-**Context:** the preferred activity depends on an approval that has not yet been confirmed.  
-**Known facts and evidence:** the submitted request and current approved protocol are linked in the project record.  
-**Assumptions:** approval may arrive this week; this is not treated as confirmed.  
-**Constraints and local requirements:** no participant-facing activity may begin before written approval.  
-**Options considered:** wait; prepare non-participant materials; redesign the sequence.  
-**Provisional recommendation:** complete reversible preparation only.  
-**Owner and next action:** researcher prepares materials and checks status on Friday.  
-**Evidence of done:** materials saved in the approved project location and status recorded.  
-**Review or escalation date:** Friday, or earlier if the milestone is threatened.
+**Allowed separators and case:** [ ]
+**Controlled status/version terms:** [draft / reviewed / approved / raw / derived / release]
+**Prohibited content:** participant names, sensitive attributes, credentials, unexplained initials, `final2`, `latest`
 
-## What this prevents
+| Good example | Why it works |
+|---|---|
+| `atlas_interview-guide_2026-08-28_approved-v3.docx` | project, item, date and controlled version are visible |
+| `atlas_device-export_2026-08-28_raw.csv` | raw state is explicit and should remain read-only |
+| `atlas_sample-flow_2026-08-28_draft.qmd` | editable source is distinguished from rendered output |
 
-This resource reduces decisions being lost, assumptions being mistaken for facts, and actions being marked complete without evidence.
+## README prompts
+
+- purpose and scope of the project;
+- owner, contact and last review date;
+- where restricted data actually live;
+- folder and data-state meanings;
+- setup or processing sequence;
+- naming, version and metadata rules;
+- prohibited actions;
+- backup and recovery route; and
+- closure or handover instructions.
+
+## Completed scenario
+
+Two files are named `clean_data_final.csv` and `clean_data_final_NEW.csv`. Inspection shows that one excludes withdrawals and the other changes timezone conversion. Rename neither until provenance is reconstructed. Preserve both, record checksums and origins, reproduce transformations from raw data, create a defined analysis-ready output and document the exclusions and timezone rule. Naming cannot substitute for a derivation record.
 
 ## Related guidance
 
-Return to the [handbook contents](../index.qmd), browse the [resource library](../resources.qmd), or use [I’m stuck](../stuck/index.qmd).
-
+Return to [Living data management, storage and recovery](../chapters/part-07/19-data-management-storage.qmd) and document data-state transitions in [Raw, clean, derived and analysis-ready data](../chapters/part-07/20-data-states-provenance.qmd).

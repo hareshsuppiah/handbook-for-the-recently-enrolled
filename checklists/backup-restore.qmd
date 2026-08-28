@@ -1,0 +1,52 @@
+---
+title: "Backup and restore audit"
+status: "broad-beta resource"
+last-reviewed: "2026-08-28"
+---
+
+::: {.manual-status}
+**Resource status:** Usable broad-beta. Restore protected data only into an approved test location. Coordinate with the responsible IT, security, data and records teams.
+:::
+
+**Pause point:** Before collection, quarterly during active work, after material storage changes and before handover.
+
+## Coverage checks
+
+- [ ] Every authoritative data, code, documentation, approval and key record is included or has a documented alternative.
+- [ ] Synchronisation, versioning, backup and archive functions are distinguished.
+- [ ] Backup frequency and retention meet the maximum tolerable data loss.
+- [ ] Backup copies are separated sufficiently from device, account, deletion and ransomware failures.
+- [ ] Encryption, keys, credentials and emergency access have recoverable authorised owners.
+- [ ] Departed staff or unavailable collaborators cannot become a single point of failure.
+
+## Restore test
+
+**Scenario tested:** [deletion / corruption / lost device / unavailable account / full handover / other]
+**Representative and difficult records selected:** [ ]
+**Backup source/date and approved restore target:** [ ]
+**Person and date:** [ ]
+**Recovery time:** [ ]
+
+- [ ] File inventory or manifest matches.
+- [ ] Checksums, row counts or known outputs confirm integrity.
+- [ ] Metadata, versions and permissions are correct.
+- [ ] Files open in the required software/environment.
+- [ ] Sensitive material was not exposed during testing.
+- [ ] The restored record can be interpreted without private memory.
+
+**Failure observed:** [ ]
+**Corrective action, owner and due date:** [ ]
+**Retest evidence:** [ ]
+**Next scheduled test:** [ ]
+
+## Stop condition
+
+Do not begin or continue irreplaceable collection if critical data have no verified recoverable route. Escalate any restore that exposes protected material or reveals corrupted, incomplete or inaccessible authoritative records.
+
+## Completed scenario
+
+A team restores a deleted analysis folder. The files return, but the environment lockfile and data dictionary are absent, and the restored output cannot be reproduced. The audit fails. Backup scope is expanded to include documentation and environment records; a clean reproduction is completed; then the restore is retested and recorded. File recovery alone was not research recovery.
+
+## Related guidance
+
+Return to [Living data management, storage and recovery](../chapters/part-07/19-data-management-storage.qmd) and update the [data-management plan](../templates/data-management-plan.qmd) with the verified result.

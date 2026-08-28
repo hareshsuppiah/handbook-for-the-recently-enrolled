@@ -1,48 +1,76 @@
 ---
-title: "Data Management Plan"
-status: "beta resource"
+title: "Living data-management plan"
+status: "broad-beta resource"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Resource status:** Usable beta. Adapt it to the method and check local requirements. Do not place confidential or identifiable information in a public copy.
+**Resource status:** Usable broad-beta. Reconcile this plan with current institutional, ethics, legal, contractual, funder, community and data-custodian requirements. Keep protected details in an approved location.
 :::
 
-## When to use it
+## Project and governance
 
-Use this template when the relevant reasoning needs to remain visible after the conversation or task has ended. Replace the prompts; do not leave bracketed instructions in a final record.
+**Project, owner and plan version:** [ ]
+**Next review trigger/date:** [ ]
+**Applicable approvals, policies, agreements and authorities:** [ ]
+**Data steward, custodian, security and escalation contacts:** [ ]
 
-## Blank template
+## Material inventory
 
-**Purpose or decision:** [What is this record for?]  
-**Context:** [What has happened, and what stage is the work at?]  
-**Known facts and evidence:** [Cite or link the authoritative record.]  
-**Assumptions:** [What is believed but not yet verified?]  
-**Constraints and local requirements:** [What limits the available choices?]  
-**Options considered:** [Include realistic alternatives.]  
-**Provisional recommendation:** [What should happen, and why?]  
-**Owner and next action:** [Name the person and action.]  
-**Evidence of done:** [What observable result will close this item?]  
-**Review or escalation date:** [When will this be reconsidered?]
+| Material or data class | Purpose and source | Sensitivity/authority | Format and volume | Authoritative location | Owner/custodian |
+|---|---|---|---|---|---|
+| [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 
-## Completed example
+## Lifecycle controls
 
-**Purpose or decision:** choose the next reversible project step.  
-**Context:** the preferred activity depends on an approval that has not yet been confirmed.  
-**Known facts and evidence:** the submitted request and current approved protocol are linked in the project record.  
-**Assumptions:** approval may arrive this week; this is not treated as confirmed.  
-**Constraints and local requirements:** no participant-facing activity may begin before written approval.  
-**Options considered:** wait; prepare non-participant materials; redesign the sequence.  
-**Provisional recommendation:** complete reversible preparation only.  
-**Owner and next action:** researcher prepares materials and checks status on Friday.  
-**Evidence of done:** materials saved in the approved project location and status recorded.  
-**Review or escalation date:** Friday, or earlier if the milestone is threatened.
+| Stage | Approved location/transfer | Access and role | Naming/version/metadata | Backup and restore | Evidence retained |
+|---|---|---|---|---|---|
+| collect or receive | [ ] | [ ] | [ ] | [ ] | [ ] |
+| raw authoritative | [ ] | [ ] | [ ] | [ ] | [ ] |
+| process and analyse | [ ] | [ ] | [ ] | [ ] | [ ] |
+| collaborate or share | [ ] | [ ] | [ ] | [ ] | [ ] |
+| publish or release | [ ] | [ ] | [ ] | [ ] | [ ] |
+| retain/archive/dispose | [ ] | [ ] | [ ] | [ ] | [ ] |
 
-## What this prevents
+## Access register summary
 
-This resource reduces decisions being lost, assumptions being mistaken for facts, and actions being marked complete without evidence.
+**Who can access identifiable or restricted material:** [ ]
+**Who can access coded or working material:** [ ]
+**Who approves, reviews and removes access:** [ ]
+**Offboarding and emergency access process:** [ ]
+
+## Recovery and continuity
+
+**Backup source, frequency and retention:** [ ]
+**Separation from synchronised working copies:** [ ]
+**Encryption and key recovery:** [ ]
+**Last restore test, result and evidence:** [ ]
+**Maximum tolerable data loss and recovery time:** [ ]
+
+## Sharing, retention and closure
+
+**Consent, licence, data-sovereignty and reuse conditions:** [ ]
+**Repository or archive and metadata requirements:** [ ]
+**Retention authority and period:** [ ]
+**Disposal/return method and verification:** [ ]
+**Final custodian and handover package:** [ ]
+
+## Completed example excerpt
+
+| Material | Purpose/source | Sensitivity | Authoritative location | Custodian |
+|---|---|---|---|---|
+| consent forms | evidence of consent | directly identifying | restricted institutional records drive | chief investigator |
+| interview audio | transcription and verification | identifiable and sensitive | encrypted approved research storage | chief investigator |
+| linkage key | connect study ID to participant | directly identifying | separate restricted vault | data manager |
+| coded transcript | approved analysis | pseudonymised; contextual re-identification possible | controlled team workspace | candidate |
+| analysis code | reproducibility | non-sensitive after review | private version-controlled repository | candidate |
+
+**Restore test:** one encrypted audio file and its metadata were restored to an approved test folder, checksum matched, permissions were reapplied and recovery took 18 minutes. The test revealed that the linkage-key location was missing from the continuity document; this was corrected before collection.
+
+## Scenario test
+
+A collaborator says their personal cloud drive is easier for sharing. The plan has no authority for that location and the data agreement limits transfer. Do not add the folder to the plan as a convenience. Keep data in the approved system, test an authorised collaboration route and seek written amendment if the current arrangement cannot support the necessary work.
 
 ## Related guidance
 
-Return to the [handbook contents](../index.qmd), browse the [resource library](../resources.qmd), or use [I’m stuck](../stuck/index.qmd).
-
+Return to [Living data management, storage and recovery](../chapters/part-07/19-data-management-storage.qmd), implement the [folder and file-naming starter](folder-file-naming.qmd), and record a [backup and restore test](../checklists/backup-restore.qmd).
