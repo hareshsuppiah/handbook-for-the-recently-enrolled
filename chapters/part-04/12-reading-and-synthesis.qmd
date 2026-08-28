@@ -1,55 +1,186 @@
 ---
-title: "Reading, synthesis and argument"
-status: "broad-beta baseline"
+title: "Reading, synthesis and citation integrity"
+status: "broad-beta draft"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta baseline. Evidence verification and worked examples are being expanded; local requirements must be checked before acting.
+**Content status:** Broad-beta draft. The extraction and synthesis method must fit the review purpose, discipline and evidence type. Confirm local requirements for copyright, culturally restricted knowledge, reference software, retention and research integrity.
 :::
+
+## The questions students are usually asking
+
+- Do I need to read every paper from beginning to end?
+- What should I record while I read?
+- How do I stop my literature review becoming one paragraph per author?
+- How do I compare unlike studies without flattening their differences?
+- How do I know whether a citation really supports my sentence?
+- What should be stored in a reference manager and what belongs in my own notes?
 
 ## The direct answer
 
-Reading becomes synthesis when evidence is compared in relation to a question, not merely summarised one paper at a time.
+Read for a declared purpose, extract only what that purpose requires, and synthesise across sources in relation to a claim or question. A reference manager stores and retrieves records; it does not perform source evaluation or argument construction for you.
 
-## The decision in front of you
+Your notes should let a future reader—including you—distinguish:
 
-What pattern, tension or uncertainty appears across sources?
+- what a source directly reports;
+- your interpretation of it;
+- the source's scope and limitations;
+- how it bears on the present question; and
+- where the supporting passage, table, figure or dataset can be checked.
+
+The Australian Code requires researchers to cite and acknowledge relevant work appropriately and accurately, while retaining clear, accurate and complete research records [@australian-code-2018]. That principle is Australian guidance, not a substitute for the rules that apply to your institution, publisher or jurisdiction.
+
+## Choose the reading pass
+
+Not every located record deserves the same attention.
+
+| Pass | Question | Typical action | Output |
+|---|---|---|---|
+| Triage | Is this plausibly relevant and credible enough to inspect? | Read title, abstract, metadata and obvious warnings | include, exclude or retrieve full text |
+| Mapping | Where does it sit in the intellectual neighbourhood? | Inspect question, design, setting, concepts and references | provisional category and links |
+| Extraction | What does it contribute to the review question? | Read the relevant methods, results, evidence and limitations | structured source record |
+| Verification | Does it support this exact claim? | Return to the original source and location | claim-level citation check |
+| Deep reading | How does its reasoning work and where could it fail? | Trace assumptions, warrants, alternatives and boundaries | analytic memo or argument map |
+
+A paper can move between passes. Triage is not permission to cite a source you have not verified.
+
+## Extract claims, not just topics
+
+Before reading closely, write the question the source is being asked to answer. Then record:
+
+1. the full and verified citation;
+2. the source's own purpose or research question;
+3. study or argument type, context, sample or materials;
+4. the evidence or reasoning relevant to your question;
+5. the source's conclusion in bounded terms;
+6. limitations stated by the authors and limitations you identify;
+7. your interpretation, clearly labelled as yours;
+8. the exact page, section, table, figure, timestamp or dataset location; and
+9. the decision: use, hold, seek a better source or exclude.
+
+For systematic reviews, the Cochrane Handbook recommends accurate, complete and accessible extraction with transparent decisions designed to reduce bias and human error [@cochrane-collecting-2024]. That is purpose-specific guidance. A conceptual essay, archival project or interpretive review needs a different extraction structure, but still benefits from recoverable claim locations and visible interpretation.
+
+## Move from extraction to comparison
+
+An evidence matrix is not the synthesis. It is the comparison surface.
+
+Choose columns that expose the distinctions relevant to your question: population, setting, construct, theory, method, intervention, comparator, outcome, mechanism, uncertainty or standpoint. Avoid a giant generic spreadsheet whose columns are never used.
+
+Read down columns and across rows. Ask:
+
+- Where do sources converge, and under what conditions?
+- Where do they appear to disagree because constructs, samples or methods differ?
+- Which result is direct evidence and which is inference?
+- What credible contrary evidence exists?
+- Which populations, contexts or voices are missing?
+- Is the apparent pattern driven by one influential paper or repeated independent evidence?
+
+## Build the paragraph around a claim
+
+A synthesis paragraph normally needs more than citations placed after a topic sentence.
 
 ::: {.decision-card}
-**Smallest useful next action:** Build one evidence-table row per source, then write a paragraph organised by a claim rather than an author.
+**Claim:** what bounded proposition will this paragraph defend?
+
+**Evidence:** which sources support, qualify or challenge it?
+
+**Comparison:** why do the sources agree or differ?
+
+**Warrant:** why does this evidence justify the claim?
+
+**Boundary:** where should the claim not be assumed to apply?
+
+**Consequence:** what does the pattern mean for the project?
 :::
 
-## A defensible way to proceed
+### Worked example
 
-1. State the outcome or decision in plain language.
-2. Separate known facts, assumptions, constraints and unresolved questions.
-3. Check the evidence and any applicable local requirement.
-4. Compare realistic options, including doing less, waiting or stopping.
-5. Record the choice, reasons, owner, next review point and evidence of completion.
+**Catalogue version:** “Smith found feedback was useful. Lee found students wanted more feedback. Patel discussed supervision.”
+
+**Synthesis version:** “Feedback is not a single exposure whose presence guarantees improvement. Across the selected studies, usefulness depended on whether comments were tied to a clear goal and translated into an actionable next step; however, the evidence came largely from taught-course settings, so the mechanism is more defensible here than a universal estimate for doctoral supervision.”
+
+The second version makes a comparative claim, states the condition, identifies the boundary and shows why the evidence matters. The citations would still need to be checked against each supporting source.
+
+## Audit citation integrity
+
+For every consequential sentence, test:
+
+1. **Entailment:** does the source support the sentence actually written?
+2. **Scope:** have population, context, time, method and uncertainty been preserved?
+3. **Proximity:** can the supporting passage or result be located quickly?
+4. **Primacy:** are you citing the original study, data or argument where appropriate rather than an incidental secondary mention?
+5. **Accuracy:** do author, title, year, version, DOI or URL and page details match the source?
+6. **Representation:** are contrary or qualifying sources being omitted in a way that misleads?
+
+Do not cite an abstract for a detail available only in the full text. Do not cite a review as though it conducted every study it summarises. Do not copy a citation from another paper without opening and checking the cited source. If the original cannot be accessed, say what you actually consulted and follow the relevant citation convention.
+
+## Use reference software as infrastructure
+
+A defensible record normally keeps:
+
+- verified bibliographic metadata;
+- the lawfully obtained file or stable link;
+- tags or collections serving a declared purpose;
+- notes that distinguish quotation, paraphrase and interpretation;
+- attachment or file-naming conventions;
+- duplicate-resolution decisions; and
+- a backup or export that is not dependent on one proprietary account.
+
+Automated metadata imports are a starting point. Check names, title capitalisation, dates, publication status, DOI and version against the source. Preprints, accepted manuscripts and versions of record are not interchangeable.
 
 ## Common failure modes
 
-- treating an early plan as permanently fixed;
-- collecting information without naming the decision it should inform;
-- copying a method or workflow without checking fit;
-- waiting for perfect certainty when a reversible next step is available;
-- relying on private memory instead of a recoverable project record;
-- presenting an institutional rule or one disciplinary convention as universal.
+- reading every item linearly before deciding relevance;
+- highlighting extensively without recording why a passage matters;
+- using identical extraction fields for every evidence type;
+- treating study quality as a single universal score;
+- converting association into causation during paraphrase;
+- writing one paragraph per paper and calling the sequence synthesis;
+- keeping only evidence that supports the preferred story;
+- inserting a citation suggested by software or AI without opening the source;
+- allowing a reference manager's incorrect metadata to enter the thesis unchanged;
+- storing copyrighted or culturally restricted material in an inappropriate shared location.
 
 ## Good enough for now
 
-Good enough means the work is proportionate to its current purpose, major risks are controlled, important assumptions are visible, and the next decision can be defended. It does not mean that every uncertainty has disappeared.
+For an orientation review, good enough may be a verified core set, a small comparison matrix and explicit search limits. For a confirmation document, thesis chapter or review intended to support strong completeness claims, the extraction, appraisal, synthesis and update rules need to follow the selected methodology.
 
-## Before you ask your supervisor
+Stop reading and start writing a provisional synthesis when you can state:
 
-Bring a concise problem statement, the checks you completed, the strongest relevant evidence, feasible options, your provisional recommendation and one precise request. If risk, approval, participant welfare, integrity or safety is involved, seek the appropriate specialist or formal local process rather than relying only on an ordinary supervision meeting.
+- the main pattern and at least one credible qualification;
+- which sources support each part;
+- the important contexts or evidence types not yet covered; and
+- the next uncertainty that would materially change the argument.
 
-## Check locally
+Writing is a diagnostic. If the claim cannot be supported without vague wording or citation clusters, return to the matrix and source locations.
 
-Milestones, approvals, systems, storage, authorship processes, examination requirements and support routes vary. Verify the current rule with the responsible office or official documentation.
+## Before you ask your supervisor or librarian
+
+Bring:
+
+- the review question and intended output;
+- one completed extraction record;
+- a small matrix containing supportive and contrary evidence;
+- a paragraph-level argument map;
+- one sentence whose citation support you are unsure about; and
+- a precise request: extraction fields, appraisal approach, missing evidence, synthesis logic or citation convention.
+
+Escalate suspected fabrication, plagiarism, systematic misrepresentation, unlawful sharing or culturally unsafe handling through the appropriate local integrity, library, governance or community process.
+
+## Pause-point checklist
+
+Before treating a literature section as ready for review, confirm:
+
+- [ ] each section answers a named question or advances an argument;
+- [ ] quotations, paraphrases and your interpretations are distinguishable;
+- [ ] consequential claims have been checked against the original sources;
+- [ ] source boundaries and uncertainty survive the paraphrase;
+- [ ] contrary and qualifying evidence has been considered;
+- [ ] the writing compares sources rather than cataloguing them;
+- [ ] bibliographic records and versions have been verified; and
+- [ ] unresolved evidence gaps are recorded rather than hidden.
 
 ## Related practical resources
 
-Use the [practical resource library](../../resources.qmd) and the [I’m stuck pathway](../../stuck/index.qmd) to turn this guidance into a documented action.
-
+Use the [paper triage and extraction template](../../templates/paper-triage-extraction.qmd), [evidence matrix](../../templates/evidence-matrix.qmd) and [synthesis and argument map](../../templates/synthesis-argument-map.qmd). If reading has become endless, use the [search ladder](10-search-ladder.qmd) and [I’m stuck](../../stuck/index.qmd).

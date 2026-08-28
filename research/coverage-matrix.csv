@@ -10,6 +10,7 @@ COV-0008,Q0008,topic,07-problem-gap-contribution,Meaningful gap,,topic-case,gap-
 COV-0009,Q0009,all,07-problem-gap-contribution,Sceptical-reader test,,evidence-matrix,,needs-evidence,planned,2026-08-28
 COV-0010,Q0010,literature,10-search-ladder,Five search levels and transition rules,search-ladder,search-log,endless-searching,verified-PRISMA-S-TARCiS-JBI-sources,in_progress,2026-08-28
 COV-0011,Q0011,literature,11-reproducible-searching,Concept design platform translation execution logs and stopping rules,,search-concepts;search-log;citation-chaining,endless-searching,verified-PRISMA-S-TARCiS-sources,in_progress,2026-08-28
+COV-0021,"TOP-025;TOP-026;TOP-027",literature,12-reading-and-synthesis,Reading passes extraction comparison argument and citation audit,,paper-triage-extraction;evidence-matrix;synthesis-argument-map,endless-searching,verified-Australian-Code-and-Cochrane-sources,in_progress,2026-08-28
 COV-0012,Q0012,design,13-design-alignment,Method comparison,,method-options,method-paralysis,needs-evidence,planned,2026-08-28
 COV-0013,Q0013,design,15-rigour-and-variation,Prior attempts,,method-decision,,needs-evidence,planned,2026-08-28
 COV-0014,Q0014,all,15-rigour-and-variation,Decision under uncertainty,,decision-log,unsure-if-enough,needs-evidence,planned,2026-08-28
