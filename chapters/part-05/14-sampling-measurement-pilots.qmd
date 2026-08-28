@@ -1,55 +1,201 @@
 ---
 title: "Sampling, measurement and pilots"
-status: "broad-beta baseline"
+status: "broad-beta draft"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta baseline. Evidence verification and worked examples are being expanded; local requirements must be checked before acting.
+**Content status:** Broad-beta draft. Sampling adequacy, measurement quality and pilot design are method-specific. Use the reasoning framework here, then obtain the statistical, qualitative, technical, cultural, clinical or other expertise required by the actual design.
 :::
+
+## The questions students are usually asking
+
+- How many participants, cases, documents or observations do I need?
+- Is my sample representative?
+- Can I use an existing questionnaire or dataset?
+- How do I know whether a measure captures the construct?
+- What exactly should a pilot test?
+- Can pilot results be included in the main study?
+- When should a failed pilot make me redesign or stop?
 
 ## The direct answer
 
-Adequacy is purpose-specific. Sampling, measurement and pilot decisions should be justified by the intended inference and practical constraints.
+Sampling is a reasoned connection between the evidence observed and the target of the claim. Measurement is a reasoned connection between a construct and what becomes recorded. A pilot should reduce a named uncertainty and trigger a pre-agreed decision.
 
-## The decision in front of you
+None of these is solved by a magic number. “Thirty participants”, “ten interviews”, “one case per variable”, “data saturation” or a conventional power threshold may be relevant in a particular design, but none is a universal adequacy rule.
 
-What uncertainty must be reduced before the main study can proceed responsibly?
+## Design the sample around the inference
 
-::: {.decision-card}
-**Smallest useful next action:** List the assumptions a pilot can test and the decisions each result would trigger.
-:::
+First distinguish four things:
 
-## A defensible way to proceed
+- **target:** the people, cases, settings, texts, events or systems to which the claim refers;
+- **sampling frame or accessible corpus:** what could actually be selected;
+- **observed sample:** what enters the study;
+- **analytic sample:** what remains for a particular analysis after exclusions, missingness or unusable material.
 
-1. State the outcome or decision in plain language.
-2. Separate known facts, assumptions, constraints and unresolved questions.
-3. Check the evidence and any applicable local requirement.
-4. Compare realistic options, including doing less, waiting or stopping.
-5. Record the choice, reasons, owner, next review point and evidence of completion.
+Then identify the selection pathway between them. Ask who or what cannot appear, who chooses to participate, who is screened out, which records are missing, and whether attrition changes the evidence.
+
+### Adequacy is purpose-specific
+
+Different designs justify adequacy differently:
+
+- an estimate may require precision and uncertainty targets;
+- a comparison may require enough information in each relevant group and protection against imbalance;
+- a causal analysis requires an identification strategy, not merely more observations;
+- a prediction model requires enough events and suitable validation, not only total sample size;
+- an interpretive study may seek information-rich cases, diversity, theoretical development or a justified stopping logic;
+- archival or computational work may require corpus coverage, provenance, missingness and temporal stability;
+- case study work depends on case selection and analytic generalisation, not statistical representativeness alone.
+
+State the rule appropriate to the design, its inputs, its uncertainty and what will happen if reality differs.
+
+## Separate representativeness from relevance
+
+A sample can be highly relevant to a question without statistically representing a population. It can also be large and demographically balanced while systematically excluding the phenomenon of interest.
+
+Record:
+
+- why each inclusion and exclusion criterion exists;
+- how recruitment or source selection changes who can enter;
+- what comparison or variation must be present;
+- likely non-response, attrition, missing records or unusable data;
+- whether the sample contains enough information for the intended analysis; and
+- the exact boundary placed on the final claim.
+
+Do not repair selection bias in the discussion by adding the word “generalisable”.
+
+## Treat measurement as an argument
+
+For each consequential variable, category, observation or interpretive construct, map:
+
+`construct → operational definition → instrument or procedure → recorded value → transformation → analytic use → claimed meaning`
+
+At every link ask what could be lost, distorted or systematically different.
+
+### Existing instruments and fields
+
+“Validated” does not mean valid everywhere. Check:
+
+- what construct the instrument was designed to measure;
+- the population, language, context and purpose in which it was developed and evaluated;
+- content relevance and whether important dimensions are absent;
+- interpretation of scores, categories or thresholds;
+- reliability, measurement error, responsiveness or classification performance relevant to your use;
+- accessibility, licensing, training and administration requirements; and
+- whether modifications invalidate prior evidence.
+
+COSMIN guidance, for example, foregrounds the relevance, comprehensiveness and comprehensibility of patient-reported outcome measures [@cosmin-selection]. That framework is useful within its scope; it is not a universal test for every instrument, qualitative construct, sensor, administrative variable or historical source.
+
+### Administrative, device and digital data
+
+Do not assume a field name is its construct. Establish:
+
+- why the record was originally created;
+- who entered it and under what workflow;
+- units, timestamps, firmware, calibration or coding changes;
+- default values and impossible values;
+- missingness and suppressed categories;
+- transformations applied before you received it; and
+- whether the meaning changed across sites or time.
+
+If provenance cannot be reconstructed, narrow the intended use or stop.
+
+## Make the pilot answer decisions
+
+A pilot is not a miniature main study performed for reassurance. Define the uncertainty, the test and the action before running it.
+
+| Uncertainty | Pilot evidence | Possible decision |
+|---|---|---|
+| Can eligible people be reached safely? | recruitment attempts, eligibility and refusal reasons | proceed, change route, narrow target or stop |
+| Are questions understood as intended? | cognitive testing, debriefs or difficult-case review | revise wording, translation or construct definition |
+| Does the procedure work end to end? | timed rehearsal from consent/source access to secure output | retrain, simplify, repair systems or pause |
+| Is the data usable? | missingness, range, provenance, signal or coding audit | change collection, analysis or claim |
+| Can the analysis answer the question? | dry run on realistic simulated or permitted data | revise model, outputs, sample logic or question |
+| Is burden or risk acceptable? | participant/team feedback and incidents | reduce burden, add controls or stop |
+
+For randomised pilot and feasibility trials, the CONSORT extension frames feasibility around whether a future definitive trial can and should be done and, if so, how, and recommends prespecified progression criteria [@eldridge2016pilot]. This guidance is specific to that family of studies. Its transferable lesson is to make progression decisions explicit, not to describe every small preliminary study as a trial.
+
+## Worked example: a survey that “works”
+
+**Initial plan:** email an existing English-language wellbeing survey to 500 graduate researchers and proceed if at least 50 respond.
+
+**Problems hidden by the number:**
+
+- the target construct and intended decisions are not stated;
+- the survey's evaluation population and licensing are unchecked;
+- email access may exclude candidates on interruption or leave;
+- “50 responses” says nothing about subgroup coverage or precision;
+- comprehension, distress handling, mobile usability and secure transfer are untested;
+- no rule says what a poor pilot result will change.
+
+**Redesigned pilot:** verify instrument purpose and permissions; conduct comprehension testing with deliberately varied candidates; test the full recruitment, consent, completion, withdrawal, distress and storage workflow; estimate response and item-missingness patterns; define green, amend and stop thresholds before launch.
+
+**Possible outcome:** overall completion is acceptable, but international part-time candidates misinterpret two items and the distress route is not visible on mobile. Decision: revise or select the instrument, repair the mobile materials, repeat those tests, and do not begin the main collection yet.
+
+## Decide whether pilot data can enter the main study
+
+Before collection, determine:
+
+- whether approvals and consent cover later inclusion;
+- whether the protocol, population, instrument and procedures will remain materially unchanged;
+- whether inclusion would introduce bias or compromise blinding;
+- whether the selected methodology permits an internal pilot;
+- how the decision will be documented and reported; and
+- who has authority to approve the change.
+
+Do not decide to reuse pilot data after seeing attractive results. If material changes occur, treat the pilot as development evidence unless the relevant methodology and approvals clearly support integration.
 
 ## Common failure modes
 
-- treating an early plan as permanently fixed;
-- collecting information without naming the decision it should inform;
-- copying a method or workflow without checking fit;
-- waiting for perfect certainty when a reversible next step is available;
-- relying on private memory instead of a recoverable project record;
-- presenting an institutional rule or one disciplinary convention as universal.
+- quoting a universal sample-size rule without an inference-specific justification;
+- confusing convenience, diversity and representativeness;
+- ignoring attrition, missingness or excluded records;
+- treating a familiar instrument as valid for a new population or purpose;
+- piloting only the questionnaire and not the full workflow;
+- using pilot results to test the main substantive hypothesis when the pilot was not designed for it;
+- setting progression rules after seeing the data;
+- declaring success because the procedure ran once;
+- hiding feasibility failures to protect the original plan;
+- beginning recruitment or restricted-data work before written authority.
 
 ## Good enough for now
 
-Good enough means the work is proportionate to its current purpose, major risks are controlled, important assumptions are visible, and the next decision can be defended. It does not mean that every uncertainty has disappeared.
+Before main data generation, good enough means:
 
-## Before you ask your supervisor
+- the target, frame, observed and analytic samples are distinguished;
+- adequacy is justified for the intended inference and analysis;
+- central constructs have operational definitions and provenance;
+- instrument or procedure evidence fits the population and purpose, or limitations are explicit;
+- the end-to-end workflow has been tested with realistic difficult cases;
+- progression, amendment and stop criteria were set before the pilot result;
+- approvals cover what will happen; and
+- pilot learning has been converted into documented decisions.
 
-Bring a concise problem statement, the checks you completed, the strongest relevant evidence, feasible options, your provisional recommendation and one precise request. If risk, approval, participant welfare, integrity or safety is involved, seek the appropriate specialist or formal local process rather than relying only on an ordinary supervision meeting.
+## Before you ask your supervisor, methodologist or statistician
 
-## Check locally
+Bring:
 
-Milestones, approvals, systems, storage, authorship processes, examination requirements and support routes vary. Verify the current rule with the responsible office or official documentation.
+- the intended inference and target;
+- the sampling pathway and anticipated losses;
+- the adequacy calculation or method-specific rationale with inputs;
+- the construct-to-record map for the most important measure;
+- evidence supporting the instrument or procedure in the relevant context;
+- the [pilot-readiness checklist](../../checklists/pilot-readiness.qmd);
+- progression, amendment and stop criteria; and
+- one result that would make you change the design.
+
+## Pause-point checklist
+
+- [ ] Target, sampling frame, observed sample and analytic sample are defined.
+- [ ] Adequacy follows the selected design rather than a universal rule.
+- [ ] Selection, non-response, attrition and missingness risks are explicit.
+- [ ] Central measures have a construct-to-record rationale and provenance.
+- [ ] Instrument evidence fits the population, context, language and purpose.
+- [ ] The pilot tests the complete operational pathway and difficult cases.
+- [ ] Progression, amendment and stop criteria are prespecified.
+- [ ] Approval, consent and protocol determine whether pilot data may be reused.
+- [ ] Pilot results and resulting decisions are retained.
 
 ## Related practical resources
 
-Use the [practical resource library](../../resources.qmd) and the [I’m stuck pathway](../../stuck/index.qmd) to turn this guidance into a documented action.
-
+Use the [pilot-readiness checklist](../../checklists/pilot-readiness.qmd), [before data collection checklist](../../checklists/before-data-collection.qmd), [method-options comparison](../../templates/method-options.qmd) and [methodological decision record](../../templates/method-decision.qmd). If adequacy cannot yet be defended, use [I’m stuck](../../stuck/index.qmd) before launching the main study.

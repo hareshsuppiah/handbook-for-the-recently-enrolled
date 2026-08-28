@@ -1,0 +1,63 @@
+---
+title: "Pilot-readiness checklist"
+status: "broad-beta resource"
+last-reviewed: "2026-08-28"
+---
+
+::: {.manual-status}
+**Resource status:** Usable broad-beta. Apply this before a feasibility test, instrument test, workflow rehearsal or pilot study. It does not authorise participant, animal, field, clinical, restricted-data or culturally governed activity.
+:::
+
+**Pause point:** Before the first pilot activity.
+
+**Prevents:** Running a small version of the main study without knowing what it must test, what decision it will inform or what authority it requires.
+
+**Use:** Do-confirm. Every critical item needs evidence, not confidence.
+
+## Decision definition
+
+- [ ] The uncertainty the pilot must reduce is stated in one sentence.
+- [ ] Each pilot objective maps to a proceed, amend, pause or stop decision.
+- [ ] The main study element being rehearsed is explicit.
+- [ ] The pilot is distinguished from exploratory research and from the main study.
+- [ ] Criteria were set before seeing pilot results.
+
+## Sampling and measurement
+
+- [ ] Pilot participants, cases, materials or simulated inputs expose the important variation and difficult cases.
+- [ ] The target construct and operational definition are written.
+- [ ] Instrument, translation, device, coding or observation evidence is appropriate to the intended population and purpose.
+- [ ] Expected ranges, missingness, units, timestamps and impossible values have checks.
+- [ ] The pilot size is justified by the feasibility decision—not by a generic sample-size slogan.
+
+## End-to-end operation
+
+- [ ] Recruitment or source access, information, consent, withdrawal and follow-up are rehearsed where relevant.
+- [ ] Burden, safety, distress, adverse events and escalation can be handled.
+- [ ] Staff roles, training, handoffs and absences are tested.
+- [ ] Data moves from generation through secure storage, backup, quality review and analysis output.
+- [ ] A realistic dry run has tested software, devices, files, integrations and recovery.
+
+## Authority and records
+
+- [ ] Written ethics, governance, site, data, safety, cultural and community authority covers the pilot.
+- [ ] It is documented whether pilot data may enter the main study and under what conditions.
+- [ ] Protocol version, materials, decisions, incidents and deviations will be retained.
+- [ ] A named person will review results against the criteria on a set date.
+- [ ] Any amendment or renewed approval required before progression is known.
+
+## Stop condition
+
+Do not start if authority, safety, secure handling, decision criteria or the purpose of the pilot is unresolved. Do not progress automatically if a critical criterion fails.
+
+## Completed scenario
+
+A team plans five test interviews. The guide has been reviewed, but the secure recorder-to-storage transfer has not been rehearsed and no one knows whether recordings can be retained after withdrawal. The checklist fails. The team first obtains the applicable rule, tests a non-participant recording through transfer and deletion, documents roles, then reschedules the pilot. A good interview guide does not override a broken or unauthorised data pathway.
+
+## Evidence to retain
+
+Keep the pilot plan, criteria, approvals, tested versions, recruitment or access log, workflow observations, missingness and quality results, incidents, participant or team feedback, analysis dry run and the signed progression decision.
+
+## Related guidance
+
+Return to [Sampling, measurement and pilots](../chapters/part-05/14-sampling-measurement-pilots.qmd) and use [Before data collection](before-data-collection.qmd) again immediately before the main study begins.

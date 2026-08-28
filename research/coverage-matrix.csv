@@ -12,6 +12,7 @@ COV-0010,Q0010,literature,10-search-ladder,Five search levels and transition rul
 COV-0011,Q0011,literature,11-reproducible-searching,Concept design platform translation execution logs and stopping rules,,search-concepts;search-log;citation-chaining,endless-searching,verified-PRISMA-S-TARCiS-sources,in_progress,2026-08-28
 COV-0021,"TOP-025;TOP-026;TOP-027",literature,12-reading-and-synthesis,Reading passes extraction comparison argument and citation audit,,paper-triage-extraction;evidence-matrix;synthesis-argument-map,endless-searching,verified-Australian-Code-and-Cochrane-sources,in_progress,2026-08-28
 COV-0012,Q0012,design,13-design-alignment,Inference chain design-family comparison and weak-link tests,,method-options;method-decision,method-paralysis,verified-Australian-Code-principle-with-method-specific-audit-pending,in_progress,2026-08-28
+COV-0022,"TOP-030;TOP-031",design,14-sampling-measurement-pilots,Sample pathways construct-to-record maps and decision-led pilots,pilot-readiness,,method-paralysis,verified-CONSORT-pilot-and-COSMIN-scope-bounded-sources,in_progress,2026-08-28
 COV-0013,Q0013,design,15-rigour-and-variation,Prior attempts,,method-decision,,needs-evidence,planned,2026-08-28
 COV-0014,Q0014,all,15-rigour-and-variation,Decision under uncertainty,,decision-log,unsure-if-enough,needs-evidence,planned,2026-08-28
 COV-0015,Q0015,all,01-phd-and-good-enough,Four stage-specific standards,pause-point-checklist,,unsure-if-enough,verified-framework-and-checklist-sources,in_progress,2026-08-28
