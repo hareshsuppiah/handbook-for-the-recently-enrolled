@@ -1,55 +1,236 @@
 ---
 title: "Writing and argument"
-status: "broad-beta baseline"
+status: "broad-beta draft"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta baseline. Evidence verification and worked examples are being expanded; local requirements must be checked before acting.
+**Content status:** Broad-beta draft. Thesis forms, disciplinary genres, reporting standards and acceptable use of prior publications vary. Confirm the required structure and current rules locally.
 :::
+
+## The questions students are usually asking
+
+- Should I wait until the reading or analysis is finished before writing?
+- How do I move from notes and citations to an argument?
+- What belongs in an introduction, literature review, methods, results or discussion?
+- How do I write when the findings are incomplete or ambiguous?
+- What is a draft good enough to show somebody?
+- How do I stop rewriting the opening and make progress on the whole chapter?
+- How do I avoid overstating what the study shows?
 
 ## The direct answer
 
-Write early to expose the reasoning. A useful draft makes a claim, shows its support and reveals what remains uncertain.
+Write as soon as writing can test the reasoning. Begin with the question, bounded claim, evidence, warrant and limits—not polished opening sentences. Label the state of the text so provisional reasoning cannot be mistaken for a finished account.
 
-## The decision in front of you
+Writing is part of the research because it exposes missing evidence, broken links and competing explanations. It is not evidence by itself: a clear paragraph cannot repair an invalid inference or an unverified source.
 
-What is this section trying to make the reader believe, understand or do?
+## Match the draft to its purpose
 
-::: {.decision-card}
-**Smallest useful next action:** Write the section’s claim and evidence chain before polishing sentences.
-:::
+| Draft state | Purpose | Minimum useful evidence |
+|---|---|---|
+| Thinking note | discover a possible idea or question | date, context, uncertainty label |
+| Argument sketch | test the reasoning chain | claim, evidence, warrant, boundary, unresolved challenge |
+| Section skeleton | test order and coverage | question for each section and paragraph-level functions |
+| Developmental draft | obtain conceptual or structural feedback | coherent route, source anchors, visible gaps and explicit request |
+| Substantive draft | test the full account | complete main argument, checked central evidence, limitations and stable structure |
+| Submission draft | meet an external standard | complete package, reporting and policy checks, final verification |
 
-## A defensible way to proceed
+A thinking note can contain placeholders. A submission draft cannot. Tell reviewers which state they are seeing and what kind of response is useful.
 
-1. State the outcome or decision in plain language.
-2. Separate known facts, assumptions, constraints and unresolved questions.
-3. Check the evidence and any applicable local requirement.
-4. Compare realistic options, including doing less, waiting or stopping.
-5. Record the choice, reasons, owner, next review point and evidence of completion.
+## Start with the reader's question
+
+For each section, write one question the reader needs answered. Then specify:
+
+- the answer or bounded claim;
+- why the answer matters to the larger argument;
+- the evidence needed;
+- the warrant connecting evidence to claim;
+- credible alternatives or contrary evidence;
+- the boundary beyond which the claim should not travel; and
+- the next consequence for the chapter or study.
+
+If you cannot state the section's question, additional prose usually increases the problem. Return to the argument map rather than searching for a more impressive first sentence.
+
+## Build paragraphs as reasoning units
+
+A defensible paragraph often performs this sequence:
+
+`claim → evidence or comparison → warrant → qualification → consequence`
+
+Not every paragraph needs five visible sentences, but each reasoning function should be recoverable.
+
+**Source-centred paragraph:** Smith found X. Jones found Y. Lee found Z.
+
+**Argument-centred paragraph:** Across the three studies, structured feedback was associated with more specific revisions, but the studies used different settings and did not test doctoral completion. The evidence therefore supports a workflow hypothesis about revision—not a claim that the approach improves candidature outcomes.
+
+The second version compares evidence, states the inferential boundary and explains why the pattern matters.
+
+## Separate claim, evidence and warrant
+
+- **Claim:** what you ask the reader to accept.
+- **Evidence:** observations, data, sources or accepted premises relevant to it.
+- **Warrant:** why that evidence supports that claim at that strength.
+- **Qualifier:** how certain, frequent, general or conditional the claim is.
+- **Boundary:** the population, context, method, time or construct beyond which it should not be assumed.
+
+A citation supplies neither a warrant nor automatic authority. Open the source, locate the support, check its design and scope, and make your reasoning visible.
+
+## Use a claim ladder
+
+Before polishing, test the strength of the verb:
+
+1. **describes:** X was observed in this sample or material;
+2. **associates:** X varied with Y under the analysis used;
+3. **compares:** X differed between defined groups or conditions;
+4. **explains:** the evidence supports a proposed mechanism against alternatives;
+5. **predicts:** the model performs on appropriately separated or new observations;
+6. **causes:** the design supports a causal contrast under stated assumptions;
+7. **recommends:** benefits, harms, feasibility, values and alternatives justify action.
+
+Do not climb the ladder because the stronger verb sounds important. Match the verb to the design and evidence. If the contribution is descriptive, make the description precise and useful.
+
+## Write before you feel ready—without fabricating certainty
+
+Use visible markers such as:
+
+- `[CLAIM TO TEST]`
+- `[SOURCE NOT YET VERIFIED]`
+- `[CONTRARY EVIDENCE NEEDED]`
+- `[DECISION: include or remove analysis]`
+- `[CHECK EXACT VALUE AGAINST OUTPUT]`
+
+Maintain a short unresolved-claims list. Replace each marker with verified content, revise the claim or remove it before the relevant review gate. Do not leave invented citations, guessed values or plausible-sounding filler in a shared draft where it could be mistaken for evidence.
+
+Write difficult middle sections before repeatedly polishing the abstract or introduction. Openings often stabilise only after the argument and contribution are clear.
+
+## Give each major section a job
+
+These functions are common, not universal templates.
+
+### Introduction
+
+Establish the consequential problem, what is known, the bounded uncertainty, why resolving it matters, the question and the promised contribution. Do not inflate a small gap into a crisis.
+
+### Literature review
+
+Define the review's purpose and method, organise evidence by question or explanatory pattern, compare studies, examine disagreement and establish what conclusion the evidence permits. A literature review is not an annotated bibliography with transitions.
+
+### Methods
+
+Explain what was done and why the design could answer the question. Report setting, participants or materials, procedures, measures, analysis, approvals, deviations and relevant researcher or system decisions at the detail needed for appraisal and—where applicable—reproduction.
+
+### Results or findings
+
+Present evidence in an order that answers the question. Distinguish planned, amended and exploratory analyses; report uncertainty and relevant negative or contradictory findings; and keep interpretation proportionate to the genre.
+
+### Discussion
+
+Answer the question, relate the result to prior evidence, examine plausible explanations and limitations, state the contribution and define implications without crossing the inferential boundary. Do not introduce a different study in the final pages.
+
+Choose and use the relevant current reporting guideline where one exists. The guideline supports completeness; it does not replace methodological judgement or local requirements [@nhmrc-publication-guide].
+
+## Reverse-outline an existing draft
+
+For every paragraph, write a margin note containing:
+
+1. its main function;
+2. its bounded claim;
+3. the evidence used;
+4. its connection to the preceding and following paragraph; and
+5. the section question it helps answer.
+
+Then inspect the sequence. Repeated functions reveal duplication. Paragraphs with no section role are candidates for removal or relocation. Missing steps expose reasoning gaps. A paragraph doing four jobs may need division.
+
+## Worked example: too many citations, no argument
+
+**Draft:** Six paragraphs summarise one paper each on doctoral feedback. The final sentence says feedback is important. No paragraph compares settings, feedback content or outcome measures.
+
+**Section question:** Under what conditions can feedback be converted into a feasible revision?
+
+**Reorganisation:**
+
+1. define usable feedback as information about the intended goal, current performance and next action;
+2. compare evidence about specificity, timing and opportunity to revise;
+3. examine variation in discipline, relationship and power;
+4. distinguish perceived usefulness from observed revision or longer-term outcomes;
+5. state the bounded implication for requesting and recording feedback.
+
+**Bounded claim:** Feedback is more actionable when the requested decision, evidence gap and next revision are explicit, but broad educational evidence does not show that this workflow improves doctoral completion.
+
+**Missing evidence:** Doctorate-specific comparisons and evidence about conflicting supervisor feedback.
+
+**Next action:** Build an evidence matrix around the five reasoning roles, verify the central sources, then draft the comparison paragraph. Do not merely add more studies to the original sequence.
+
+## Revise in passes
+
+1. **Purpose:** Does the chapter answer the right question for the thesis?
+2. **Argument:** Are claim, evidence, warrant, alternatives and boundaries aligned?
+3. **Structure:** Does each section and paragraph have one recoverable job?
+4. **Evidence:** Are central sources and outputs checked at their exact locations?
+5. **Integrity and reporting:** Are deviations, uncertainty, attribution and required items visible?
+6. **Reader guidance:** Are definitions, transitions, tables and signposting sufficient?
+7. **Sentence and copy edit:** Is the language accurate, concise and consistent?
+8. **Production:** Do citations, cross-references, figures, accessibility and rendering work?
+
+Do not line-edit a structure you expect to discard. Do not use copy editing to postpone a conceptual decision.
 
 ## Common failure modes
 
-- treating an early plan as permanently fixed;
-- collecting information without naming the decision it should inform;
-- copying a method or workflow without checking fit;
-- waiting for perfect certainty when a reversible next step is available;
-- relying on private memory instead of a recoverable project record;
-- presenting an institutional rule or one disciplinary convention as universal.
+- waiting for complete certainty before writing anything;
+- presenting exploratory notes as settled findings;
+- beginning with prose rather than a section question;
+- organising a review by one-source summaries;
+- using citation volume as a substitute for synthesis;
+- hiding the warrant between evidence and claim;
+- choosing a stronger verb than the design permits;
+- writing methods from memory instead of the final research record;
+- reporting only results that support the preferred account;
+- polishing the opening while central sections remain unwritten;
+- requesting “general feedback” on an unlabeled draft; and
+- applying a generic section formula where the discipline requires another genre.
 
 ## Good enough for now
 
-Good enough means the work is proportionate to its current purpose, major risks are controlled, important assumptions are visible, and the next decision can be defended. It does not mean that every uncertainty has disappeared.
+A developmental chapter is ready for substantive review when its question and intended contribution are explicit; every section has a job; the main reasoning chain can be followed; central evidence is anchored; important gaps and provisional claims are visible; and the author asks for a bounded decision. It need not have final wording.
 
-## Before you ask your supervisor
+## Before you ask your supervisor or another reader
 
-Bring a concise problem statement, the checks you completed, the strongest relevant evidence, feasible options, your provisional recommendation and one precise request. If risk, approval, participant welfare, integrity or safety is involved, seek the appropriate specialist or formal local process rather than relying only on an ordinary supervision meeting.
+Bring:
+
+- the draft state and intended audience;
+- the question and bounded contribution;
+- a one-page section or argument map;
+- the two or three decisions that remain open;
+- known evidence gaps or unstable passages;
+- checks already completed; and
+- a precise request such as “Does the evidence in Sections 2–3 justify this bounded claim?”
+
+## Pause-point checklist
+
+- [ ] The draft state and requested review are labelled.
+- [ ] Every major section answers a reader question.
+- [ ] Claims, evidence, warrants and boundaries can be traced.
+- [ ] Claim verbs match the design and evidence.
+- [ ] Contrary or ambiguous evidence is not hidden.
+- [ ] Central citations and reported results are verified.
+- [ ] Methods reflect the actual final record and deviations.
+- [ ] Section functions fit the relevant genre and reporting standard.
+- [ ] Substantive revision precedes sentence polishing.
+- [ ] Unresolved markers have owners and removal gates.
 
 ## Check locally
 
-Milestones, approvals, systems, storage, authorship processes, examination requirements and support routes vary. Verify the current rule with the responsible office or official documentation.
+Confirm thesis structure, word limits, publication-in-thesis rules, co-authored material declarations, copyright permissions, acceptable editorial or AI assistance, reporting guidelines, accessibility requirements and repository or embargo conditions.
 
 ## Related practical resources
 
-Use the [practical resource library](../../resources.qmd) and the [I’m stuck pathway](../../stuck/index.qmd) to turn this guidance into a documented action.
+Use the [synthesis and argument map](../../templates/synthesis-argument-map.qmd), [evidence matrix](../../templates/evidence-matrix.qmd), [before writing up a study checklist](../../checklists/before-study-write-up.qmd), [protocol-deviation log](../../templates/protocol-deviation.qmd) and [supervisor review cover note](../../templates/supervisor-review-cover-note.qmd). Continue to [Reviewable work and feedback](29-reviewable-work-feedback.qmd).
 
+## Source note
+
+The Australian publication and dissemination guide is used here for responsible reporting and attribution principles, not as a universal thesis-format rule [@nhmrc-publication-guide].
+
+## References
+
+::: {#refs}
+:::
