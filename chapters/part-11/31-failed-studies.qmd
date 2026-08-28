@@ -1,55 +1,203 @@
 ---
 title: "When studies fail"
-status: "broad-beta baseline"
+status: "broad-beta draft"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta baseline. Evidence verification and worked examples are being expanded; local requirements must be checked before acting.
+**Content status:** Broad-beta draft. Participant safety, reportable incidents, protocol changes, trial registration, sponsor obligations and candidature variations require the current authorised local process.
 :::
+
+## The questions students are usually asking
+
+- Does a null result mean the study failed?
+- What if recruitment, access, equipment or the intervention fails?
+- Can I change the question after seeing the results?
+- Is an underpowered or incomplete study still usable?
+- How do I explain a broken study in the thesis?
+- When should I repair, redesign, narrow, stop or report the failure itself?
+- How do I avoid wasting what participants and collaborators contributed?
 
 ## The direct answer
 
-A failed plan does not automatically mean failed research. Diagnose what failed, preserve the record and decide what can still be learned.
+A disappointing result is not automatically a failed study, and a completed protocol is not automatically successful research. Freeze the record, protect people and evidence, classify what failed, identify which inferences remain defensible and decide among repair, bounded analysis, redesign, transparent reporting or stopping.
 
-## The decision in front of you
+Do not redefine the original question after seeing favourable results. Preserve planned, amended and exploratory work as distinct states.
 
-Is the failure about recruitment, access, measurement, implementation, analysis or the original assumption?
+## Separate outcome from failure
+
+| Situation | What it means | First question |
+|---|---|---|
+| Null result | the analysis did not establish the anticipated effect at the stated precision | was the study capable of providing an informative test? |
+| Ambiguous result | evidence supports several explanations or is too imprecise for the intended decision | what uncertainty remains, and can it be bounded? |
+| Unexpected result | the pattern differs from the prediction | is it credible, reproducible and interpretable without hindsight? |
+| Recruitment failure | the required sample or variation was not obtained | which claims are no longer supportable? |
+| Access failure | data, site, population or equipment cannot be used as planned | is there an authorised alternative answering a worthwhile question? |
+| Implementation failure | the intervention or procedure was not delivered as intended | can delivery and effect be distinguished? |
+| Measurement failure | the recorded variable does not represent the intended construct reliably enough | which records and comparisons remain valid? |
+| Analysis failure | the planned analysis cannot run or its assumptions are untenable | is the issue technical, statistical or conceptual? |
+| Governance failure | work occurred outside approval, consent, agreement or required control | what immediate containment and formal reporting are required? |
+
+Failure is always failure **of something**: a prediction, assumption, dependency, procedure, measure, analysis, timeline or governance control. Name it precisely.
+
+## Freeze the record before redesigning
+
+Preserve:
+
+- the accepted protocol, registration and analysis plan;
+- approval and amendment history;
+- participant flow, recruitment and attrition records;
+- data states and checksums;
+- code, environments, logs and outputs;
+- equipment, software and procedure versions;
+- deviations, incidents and contemporaneous decisions;
+- communications affecting access or implementation; and
+- the exact point and evidence at which failure was recognised.
+
+Create a protected copy or immutable reference where appropriate. Do not overwrite the failed route with the repair. A recoverable failure account protects against hindsight and allows others to judge what was learned.
+
+## Diagnose the broken link
+
+Trace the chain:
+
+`problem → question → design → access/sample → measurement → implementation → data → analysis → inference → contribution`
+
+For each link ask:
+
+1. What was expected?
+2. What actually occurred?
+3. What evidence establishes the difference?
+4. Why might it have occurred?
+5. Which downstream claims are affected?
+6. Which claims remain intact?
+7. What test would distinguish the main explanations?
+
+Avoid premature stories. “Participants were unmotivated” may hide an inaccessible recruitment route, high burden, unsuitable timing or poor eligibility estimates. Separate observation from explanation.
+
+## Interpret null and ambiguous findings
+
+A non-significant test does not prove no effect. Examine the estimate, interval, data quality, design sensitivity, assumptions, missingness and range of effects still compatible with the evidence. Conversely, a statistically detectable result may be too small, biased or uncertain to support the intended claim.
+
+Ask:
+
+- What effect sizes remain plausible?
+- Was the measure capable of detecting the intended construct or change?
+- Did implementation create the contrast assumed by the design?
+- Were exclusions, missing data and deviations consequential?
+- Do sensitivity analyses change the interpretation?
+- Is the result informative for feasibility, measurement or future design even if it cannot answer the primary question?
+
+Report the result that the study produced, not the result needed to rescue the narrative. Responsible publication includes accurate reporting of inconclusive and negative findings [@nhmrc-publication-guide].
+
+## Treat unexpected findings as candidates, not discoveries
+
+Before elevating an unexpected pattern:
+
+1. verify data lineage, coding, units and analysis;
+2. reproduce it from the authoritative inputs;
+3. check multiplicity and how many patterns were inspected;
+4. test plausible artefacts and alternative explanations;
+5. compare with external evidence;
+6. label the analysis exploratory if it was not planned; and
+7. define what independent evidence would be needed next.
+
+Do not rewrite the original hypothesis to make the result look predicted. An honest exploratory result can be a useful contribution if its uncertainty is explicit.
+
+## Decide among recovery paths
+
+### Repair
+
+Use when the original question remains important and a bounded, authorised fix can restore the relevant link. Record the failure, repair, retest and any approval or registration change.
+
+### Narrow
+
+Use when part of the intended inference remains defensible. Reduce the claim, population, time horizon or contribution without pretending the original aim was achieved.
+
+### Redesign or pivot
+
+Use when a different design or question can produce a worthwhile contribution. Reassess ethics, feasibility, timeline, authorship, thesis coherence and sunk-cost bias before committing.
+
+### Report the failure or feasibility evidence
+
+Use when the process itself provides credible evidence about recruitment, acceptability, measurement, implementation or system constraints. Pilot and feasibility work should be judged against prespecified feasibility objectives, not only a later efficacy outcome [@eldridge2016pilot].
+
+### Stop
+
+Use when no important, feasible and responsible contribution remains, harm or burden is disproportionate, approvals cannot support the route, or repair would consume resources needed for a stronger programme. Stopping responsibly includes closure, reporting and preservation.
 
 ::: {.decision-card}
-**Smallest useful next action:** Freeze the current record and write a factual failure account before redesigning.
+**Smallest useful next action:** Freeze the authoritative record and write a one-page failure account: expected state, observed state, evidence, affected inference, remaining value, options, authority and next decision date.
 :::
 
-## A defensible way to proceed
+## Worked example: recruitment does not reach viability
 
-1. State the outcome or decision in plain language.
-2. Separate known facts, assumptions, constraints and unresolved questions.
-3. Check the evidence and any applicable local requirement.
-4. Compare realistic options, including doing less, waiting or stopping.
-5. Record the choice, reasons, owner, next review point and evidence of completion.
+**Baseline:** A survey requires at least 240 eligible respondents to estimate subgroup patterns with useful precision. The feasibility trigger is 80 eligible completions by week six.
+
+**Observed:** At week six, 32 eligible participants have completed the survey. Advertisement views are high, but eligibility and completion are low. No safety incident is identified.
+
+**Do not conclude:** “People are not interested” or “the study found no subgroup difference”. Neither follows from the record.
+
+**Tests:** Audit the denominator and recruitment funnel; confirm eligibility coding; compare burden and dropout points; check whether approved sites implemented the route; recalculate the precision supported by realistic recruitment; ask whether a narrower descriptive question remains meaningful.
+
+**Options:** Add an authorised site; reduce burden through an approved amendment; extend within the available buffer; narrow to a feasibility question; integrate qualitative evidence; or stop recruitment.
+
+**Decision:** Do not extend merely because data collection has begun. Compare each option's contribution, participant burden, approval path, time and displacement. Record any amended objective before inspecting outcome patterns that could bias the choice.
+
+**Evidence of done:** Dated decision, amendment where required, updated registration and protocol, revised analysis and contribution boundaries, participant communication if applicable, and preserved original recruitment record.
+
+## Worked example: data access disappears
+
+A partner withdraws access before transfer. The preferred dataset never became project data. The team should not describe it as “lost data”. Preserve the agreement and access history, close unauthorised routes, test whether a public dataset supports the same inference, and use formal change control if the question or contribution changes. Pressure or informal credentials do not create permission.
+
+## When the failure may involve harm or breach
+
+Stop affected work, protect participants and evidence, and use the authorised incident, safety, privacy, ethics or research-integrity route. Do not delay formal reporting while trying to establish fault. Do not place identifying details in an ordinary project register or investigate people beyond your role.
 
 ## Common failure modes
 
-- treating an early plan as permanently fixed;
-- collecting information without naming the decision it should inform;
-- copying a method or workflow without checking fit;
-- waiting for perfect certainty when a reversible next step is available;
-- relying on private memory instead of a recoverable project record;
-- presenting an institutional rule or one disciplinary convention as universal.
+- treating a null result as proof of no effect;
+- calling any unwanted result a failed study;
+- overwriting the original plan during rescue;
+- inventing a post hoc hypothesis;
+- collecting more data without a decision threshold;
+- changing inclusion criteria after inspecting outcomes without disclosure;
+- analysing an underpowered study as though its original precision remains;
+- treating feasibility work as a miniature efficacy test;
+- hiding deviations or implementation failure;
+- rescuing one paper at the cost of thesis coherence;
+- continuing because participants or time have already been invested; and
+- abandoning the record when the preferred claim disappears.
 
 ## Good enough for now
 
-Good enough means the work is proportionate to its current purpose, major risks are controlled, important assumptions are visible, and the next decision can be defended. It does not mean that every uncertainty has disappeared.
+A failure response is defensible when the original record is preserved; the failed link and downstream inference are explicit; safety and authority are addressed; remaining claims are bounded; recovery options are compared without hindsight; and the decision includes approval, reporting, closure and review consequences.
 
-## Before you ask your supervisor
+## Before you ask your supervisor or specialist
 
-Bring a concise problem statement, the checks you completed, the strongest relevant evidence, feasible options, your provisional recommendation and one precise request. If risk, approval, participant welfare, integrity or safety is involved, seek the appropriate specialist or formal local process rather than relying only on an ordinary supervision meeting.
+Bring the frozen record, expected-versus-observed account, verified failure evidence, affected inference chain, immediate protections, realistic options, remaining time/resources, required authorities, provisional recommendation and one decision request.
+
+## Pause-point checklist
+
+- [ ] The original protocol, data and analysis state are frozen.
+- [ ] The failure is named at a specific link in the chain.
+- [ ] Observation and causal explanation are separated.
+- [ ] Null, ambiguous, unexpected and failed implementation are distinguished.
+- [ ] Remaining defensible claims and unusable claims are explicit.
+- [ ] Recovery options include narrow, redesign, report and stop.
+- [ ] Participant burden, safety and governance are reassessed.
+- [ ] Amendments and exploratory analyses are labelled.
+- [ ] Sunk effort does not determine the choice.
+- [ ] Closure and evidence of done are defined.
 
 ## Check locally
 
-Milestones, approvals, systems, storage, authorship processes, examination requirements and support routes vary. Verify the current rule with the responsible office or official documentation.
+Verify adverse-event and incident reporting, protocol amendment, registration update, sponsor and partner notification, participant communication, data retention, thesis inclusion of incomplete studies, funding consequences and formal candidature variation.
 
 ## Related practical resources
 
-Use the [practical resource library](../../resources.qmd) and the [I’m stuck pathway](../../stuck/index.qmd) to turn this guidance into a documented action.
+Use the [pivot, continue or stop decision aid](../../checklists/pivot-continue-stop.qmd), [risk and issues register](../../templates/risk-issues-register.qmd), [protocol-deviation log](../../templates/protocol-deviation.qmd), [methodological decision record](../../templates/method-decision.qmd) and [I’m stuck diagnostic](../../stuck/index.qmd).
 
+## References
+
+::: {#refs}
+:::
