@@ -1,0 +1,114 @@
+project:
+  type: book
+  output-dir: _site
+
+book:
+  title: "The Handbook for the Recently Enrolled"
+  subtitle: "An Operating Manual for Graduate Researchers"
+  author: "Haresh Suppiah"
+  date: last-modified
+  cover-image: assets/cover.svg
+  favicon: assets/favicon.svg
+  site-url: https://hareshsuppiah.github.io/handbook-for-the-recently-enrolled/
+  repo-url: https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled
+  repo-actions: [edit, source, issue]
+  sharing: [linkedin]
+  reader-mode: true
+  page-navigation: true
+  search:
+    location: sidebar
+    type: textbox
+    limit: 20
+  sidebar:
+    style: docked
+    logo: assets/cover-sidebar.svg
+    collapse-level: 1
+  chapters:
+    - index.qmd
+    - part: "I. Recently enrolled"
+      chapters:
+        - chapters/part-01/01-phd-and-good-enough.qmd
+        - chapters/part-01/02-first-90-days.qmd
+        - chapters/part-01/03-provisional-plan.qmd
+    - part: "II. Working with supervisors"
+      chapters:
+        - chapters/part-02/04-roles-and-expectations.qmd
+        - chapters/part-02/05-meetings-and-records.qmd
+        - chapters/part-02/06-feedback-and-independence.qmd
+    - part: "III. Finding and defending a research direction"
+      chapters:
+        - chapters/part-03/07-problem-gap-contribution.qmd
+        - chapters/part-03/08-topic-due-diligence.qmd
+        - chapters/part-03/09-questions-and-pivots.qmd
+    - part: "IV. Finding, reading and synthesising evidence"
+      chapters:
+        - chapters/part-04/10-search-ladder.qmd
+        - chapters/part-04/11-reproducible-searching.qmd
+        - chapters/part-04/12-reading-and-synthesis.qmd
+    - part: "V. Designing defensible research"
+      chapters:
+        - chapters/part-05/13-design-alignment.qmd
+        - chapters/part-05/14-sampling-measurement-pilots.qmd
+        - chapters/part-05/15-rigour-and-variation.qmd
+    - part: "VI. Ethics, integrity and governance"
+      chapters:
+        - chapters/part-06/16-ethics-privacy-consent.qmd
+        - chapters/part-06/17-integrity-governance-ai.qmd
+        - chapters/part-06/18-authorship-collaboration-corrections.qmd
+    - part: "VII. Data, code and reproducibility"
+      chapters:
+        - chapters/part-07/19-data-management-storage.qmd
+        - chapters/part-07/20-data-states-provenance.qmd
+        - chapters/part-07/21-reproducible-workflows.qmd
+    - part: "VIII. The graduate research technology stack"
+      chapters:
+        - chapters/part-08/22-minimum-viable-stack.qmd
+        - chapters/part-08/23-analysis-review-quarto.qmd
+        - chapters/part-08/24-git-github-ai.qmd
+    - part: "IX. Running the project"
+      chapters:
+        - chapters/part-09/25-milestones-weekly-work.qmd
+        - chapters/part-09/26-risks-blocked-change.qmd
+        - chapters/part-09/27-collaboration-handoffs-scope.qmd
+    - part: "X. Writing, publishing and communicating"
+      chapters:
+        - chapters/part-10/28-writing-and-argument.qmd
+        - chapters/part-10/29-reviewable-work-feedback.qmd
+        - chapters/part-10/30-publishing-review-communication.qmd
+    - part: "XI. When the plan meets reality"
+      chapters:
+        - chapters/part-11/31-failed-studies.qmd
+        - chapters/part-11/32-technical-failure-perfectionism.qmd
+        - chapters/part-11/33-decide-and-stuck.qmd
+    - part: "XII. Completion and independence"
+      chapters:
+        - chapters/part-12/34-independence-contribution.qmd
+        - chapters/part-12/35-examination-corrections.qmd
+        - chapters/part-12/36-closure-transition.qmd
+    - part: "Practical resources"
+      chapters:
+        - resources.qmd
+        - stuck/index.qmd
+        - support.qmd
+        - contributing.qmd
+        - contributions/index.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      light: [cosmo, styles.scss]
+    toc: true
+    toc-title: "On this page"
+    toc-depth: 3
+    number-sections: false
+    code-copy: true
+    link-external-newwindow: true
+    include-before-body: includes/design-contract.html
+  pdf:
+    documentclass: scrreprt
+
+language:
+  title-block-author-single: "Author"

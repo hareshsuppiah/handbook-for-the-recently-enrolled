@@ -1,0 +1,20 @@
+---
+title: "Suggest an improvement"
+---
+
+You can suggest a student question, correction, source, content improvement, accessibility fix or local adaptation. A no-GitHub form will be added when the editor approves its URL. Until then, use the repository’s plain-language issue forms or propose a direct edit by pull request.
+
+## Before submitting
+
+Do not include identifiable personal information, participant data, private correspondence, complaints casework, confidential research, unpublished results you cannot share, credentials or security-sensitive details. Describe the general problem and redact specifics.
+
+## What happens next
+
+`submitted → privacy check → duplicate and coverage check → evidence review → decision → drafting → review → release → contributor notified`
+
+Suggestions may be accepted, merged with an existing request, deferred, treated as a local adaptation, held for more evidence, or declined with a public reason. Submission does not guarantee inclusion.
+
+## Credit
+
+You may request named credit, organisational credit, pseudonymous credit or no public credit. Contributions are accepted under the applicable project licence described in [how to contribute](../contributing.qmd).
+

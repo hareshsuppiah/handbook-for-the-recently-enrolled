@@ -1,0 +1,17 @@
+---
+title: "How to contribute"
+---
+
+The simplest route is the [plain-language suggestion page](contributions/index.qmd). Direct edits are also welcome through pull requests.
+
+## What makes a useful contribution
+
+Describe the reader’s situation, the decision or failure mode, where the change belongs, the proposed improvement and any supporting evidence. Prefer official, primary and peer-reviewed sources. State jurisdiction, limitations and review date for time-sensitive guidance.
+
+## Privacy and licensing
+
+Do not contribute confidential, identifiable, restricted or security-sensitive material. Prose and reusable non-code content are accepted under CC BY 4.0; code, configuration and scripts are accepted under MIT. Contributors may request named, organisational, pseudonymous or no public credit.
+
+## Editorial outcomes
+
+The founding editor may accept, merge, defer, request evidence, classify as a local adaptation, or decline a suggestion. Decisions should be explained and connected to the community-request and editorial records.

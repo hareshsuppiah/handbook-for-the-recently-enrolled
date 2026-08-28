@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 1536" role="img" aria-labelledby="title desc">
+  <title id="title">The Handbook for the Recently Enrolled</title>
+  <desc id="desc">A worn dark-brown handbook cover. A graduate researcher stands before four paths leading towards library stacks, a laboratory, an archive and a staircase.</desc>
+  <image width="1024" height="1536" xlink:href="cover-artwork.png" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="92" y="95" width="840" height="590" rx="10" fill="#25120f" opacity=".58"/>
+  <text x="512" y="180" text-anchor="middle" fill="#f0e4c8" font-family="Arial, Helvetica, sans-serif" font-size="35" font-weight="700" letter-spacing="7">THE HANDBOOK FOR THE</text>
+  <line x1="170" y1="225" x2="854" y2="225" stroke="#d8c6aa" stroke-width="2" opacity=".75"/>
+  <text x="512" y="362" text-anchor="middle" fill="#d99aa5" font-family="Georgia, 'Times New Roman', serif" font-size="101" font-weight="700" font-style="italic">Recently</text>
+  <text x="512" y="466" text-anchor="middle" fill="#d99aa5" font-family="Georgia, 'Times New Roman', serif" font-size="101" font-weight="700" font-style="italic">Enrolled</text>
+  <text x="512" y="555" text-anchor="middle" fill="#f0e4c8" font-family="Arial, Helvetica, sans-serif" font-size="29" letter-spacing="2">AN OPERATING MANUAL FOR</text>
+  <text x="512" y="596" text-anchor="middle" fill="#f0e4c8" font-family="Arial, Helvetica, sans-serif" font-size="29" letter-spacing="2">GRADUATE RESEARCHERS</text>
+  <line x1="250" y1="636" x2="774" y2="636" stroke="#d8c6aa" stroke-width="2" opacity=".75"/>
+  <text x="512" y="681" text-anchor="middle" fill="#f0e4c8" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" letter-spacing="4">HARESH SUPPIAH</text>
+</svg>
+

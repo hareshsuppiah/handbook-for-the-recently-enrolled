@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this handbook, please cite it using this metadata."
+title: "The Handbook for the Recently Enrolled: An Operating Manual for Graduate Researchers"
+type: book
+authors:
+  - family-names: Suppiah
+    given-names: Haresh
+year: 2026
+repository-code: "https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled"
+license: CC-BY-4.0
+version: 0.0.1-dev
+

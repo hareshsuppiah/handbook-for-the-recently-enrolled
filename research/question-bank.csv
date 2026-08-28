@@ -1,0 +1,22 @@
+question_id,exact_student_question,candidature_phase,decision_type,method_or_discipline_variation,risk_if_unanswered,current_chapter,checklist_or_template_needed,escalation_needed,status,source_or_rationale,origin_channel,linked_issue_or_submission_id,date_added,last_reviewed
+Q0001,"Where do I start?",first-90-days,next-action,all,consequential,02-first-90-days,day-one checklist,no,mapped,Source 2.2,source-brief,,2026-08-28,2026-08-28
+Q0002,"What should I do on day one in week one and during the first 90 days?",first-90-days,planning,all,consequential,02-first-90-days,first-90-days checklists,no,mapped,Source 2.2,source-brief,,2026-08-28,2026-08-28
+Q0003,"Am I doing a PhD properly?",all,standards,all,consequential,01-phd-and-good-enough,good-enough rubric,maybe,mapped,Source 2.2,source-brief,,2026-08-28,2026-08-28
+Q0004,"Am I on the right track?",all,progress,all,consequential,01-phd-and-good-enough,good-enough rubric,maybe,mapped,Source 2.2,source-brief,,2026-08-28,2026-08-28
+Q0005,"Is my topic appropriate for a PhD?",topic,topic-selection,all,consequential,08-topic-due-diligence,topic due-diligence canvas,maybe,mapped,Source 2.2,source-brief,,2026-08-28,2026-08-28
+Q0006,"Is my research question clear important feasible and defensible?",topic,research-question,all,consequential,09-questions-and-pivots,research-question stress test,maybe,mapped,Source 2.2,source-brief,,2026-08-28,2026-08-28
+Q0007,"Have I done enough background work before asking my supervisor?",all,due-diligence,all,routine,06-feedback-and-independence,before-you-ask prompt,no,mapped,Source 2.2,source-brief,,2026-08-28,2026-08-28
+Q0008,"Is the gap real consequential and worth addressing?",topic,gap-assessment,all,consequential,07-problem-gap-contribution,topic case,maybe,mapped,Source 2.2,source-brief,,2026-08-28,2026-08-28
+Q0009,"What evidence would persuade a sceptical researcher reviewer examiner or stakeholder?",all,evidence-sufficiency,all,consequential,07-problem-gap-contribution,evidence matrix,no,mapped,Source 2.2,source-brief,,2026-08-28,2026-08-28
+Q0010,"Which kind of literature search is proportionate to what I need now?",literature,search-method,all,consequential,10-search-ladder,search ladder decision tree,no,mapped,Source 2.2,source-brief,,2026-08-28,2026-08-28
+Q0011,"How do I move from quick orientation to a reproducible systematic search?",literature,search-method,evidence-synthesis,consequential,11-reproducible-searching,search log,maybe,mapped,Source 2.2,source-brief,,2026-08-28,2026-08-28
+Q0012,"How do I know whether a method is appropriate rather than merely familiar?",design,method-selection,method-specific,consequential,13-design-alignment,method-options table,maybe,mapped,Source 2.2,source-brief,,2026-08-28,2026-08-28
+Q0013,"What has already been tried what failed and what assumptions am I inheriting?",design,due-diligence,method-specific,consequential,15-rigour-and-variation,method decision record,no,mapped,Source 2.2,source-brief,,2026-08-28,2026-08-28
+Q0014,"How do I make and document a defensible decision under uncertainty?",all,decision,all,consequential,15-rigour-and-variation,decision log,maybe,mapped,Source 2.2,source-brief,,2026-08-28,2026-08-28
+Q0015,"What does good enough look like at this stage?",all,standards,all,consequential,01-phd-and-good-enough,good-enough rubric,no,mapped,Source 2.2,source-brief,,2026-08-28,2026-08-28
+Q0016,"What should I do when the research does not go to plan?",disruption,recovery,all,consequential,31-failed-studies,pivot continue stop aid,maybe,mapped,Source 2.2,source-brief,,2026-08-28,2026-08-28
+Q0017,"What do I do when I am stuck?",all,triage,all,consequential,33-decide-and-stuck,stuck diagnostic,maybe,mapped,Source 2.2,source-brief,,2026-08-28,2026-08-28
+Q0018,"When should I solve a problem myself consult a peer ask a supervisor or formally escalate?",all,escalation,all,high-risk,33-decide-and-stuck,escalation message builder,yes,mapped,Source 2.2,source-brief,,2026-08-28,2026-08-28
+Q0019,"How do I use coding version control and AI responsibly?",technology,tool-use,computational,high-risk,24-git-github-ai,AI decision tree,maybe,mapped,Source 2.2,source-brief,,2026-08-28,2026-08-28
+Q0020,"How do I become less dependent on my supervisor without becoming isolated or reckless?",all,independence,all,consequential,06-feedback-and-independence,before-you-ask prompt,maybe,mapped,Source 2.2,source-brief,,2026-08-28,2026-08-28
+

@@ -1,0 +1,42 @@
+---
+title: "I’m stuck"
+---
+
+This page is a five-minute triage point, not a diagnosis of you or your ability.
+
+## The five-minute diagnostic
+
+1. Write the outcome you are trying to produce in one sentence.
+2. Name the smallest decision preventing movement.
+3. Classify the blockage: **clarity, evidence, decision, permission, access, skill, capacity, relationship, or risk**.
+4. Record what you have already checked.
+5. Choose one action that either resolves the blockage or produces better evidence about it.
+
+## Smallest useful next action
+
+::: {.decision-card}
+If you cannot identify the decision, write a two-column list: “what is known” and “what remains uncertain”. Circle the uncertainty that changes what you would do next. That is the issue to investigate or take to a supervisor.
+:::
+
+## Common pathways
+
+- Starting point or unclear expectations
+- Topic too broad, too narrow, or not consequential
+- Endless searching or inability to synthesise
+- Method paralysis
+- Waiting for feedback, approval, access, equipment or data
+- Recruitment, study or analysis failure
+- Writing blockage, perfectionism or endless revision
+- Lost versions or irreproducible work
+- Supervisor disagreement, authorship, integrity or governance concern
+- Workload, wellbeing or safety concern
+- Uncertainty about whether the work is good enough
+
+## What to bring to a supervisor
+
+Bring the problem, the decision you think is required, checks already completed, evidence or constraints, two or three feasible options, your provisional recommendation, and one precise request.
+
+## Escalate now
+
+Use formal local help promptly when the issue involves safety, serious distress, bullying or harassment, discrimination, suspected research misconduct, a privacy or data breach, participant harm, legal threats, or pressure to act against an approval or policy. The handbook cannot manage these cases.
+

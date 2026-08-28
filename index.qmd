@@ -1,0 +1,38 @@
+---
+title: "The Handbook for the Recently Enrolled"
+subtitle: "An Operating Manual for Graduate Researchers"
+author: "Haresh Suppiah"
+description: "A practical, evidence-informed operating manual for graduate researchers."
+image: assets/cover.svg
+---
+
+::: {.manual-status}
+**Broad beta in active development.** This public build is designed to be useful early and honest about unfinished work. Institution-specific rules must always be checked locally.
+:::
+
+Graduate research rarely fails because nobody can find another definition of methodology. It becomes difficult when several reasonable actions are available, the evidence is incomplete, the rules vary by institution, and the next useful move is unclear.
+
+This handbook is built for those moments. It helps you identify the decision in front of you, do proportionate due diligence, record what you considered, take a defensible next step, and know when local or specialist help is required.
+
+## Start from your situation
+
+- **I have just enrolled:** begin with [your first 90 days](chapters/part-01/02-first-90-days.qmd).
+- **I need to work better with my supervisors:** use [roles and expectations](chapters/part-02/04-roles-and-expectations.qmd).
+- **I am unsure whether my topic is defensible:** run [topic due diligence](chapters/part-03/08-topic-due-diligence.qmd).
+- **I keep searching but cannot stop:** use [the search ladder](chapters/part-04/10-search-ladder.qmd).
+- **My project has gone wrong:** begin with [failed studies](chapters/part-11/31-failed-studies.qmd).
+- **I cannot work out what kind of problem I have:** go directly to [I’m stuck](stuck/index.qmd).
+
+## How to use the handbook
+
+Each chapter is organised around student questions and decisions. It gives a direct answer, a smallest useful next action, common failure modes, a test for what is good enough for now, practical resources, and signs that the issue should be escalated.
+
+The handbook is institution-neutral by design. A box labelled **Check locally** means that policies, systems, approvals, services, or legal requirements can vary. General advice never overrides your institution’s formal requirements or a specialist’s case-specific direction.
+
+## What this handbook is not
+
+This is not a substitute for ethics approval, research-integrity advice, legal or medical advice, counselling, emergency help, formal complaints processes, or method-specific supervision. [Support boundaries](support.qmd) explain where the handbook stops.
+
+## Help improve it
+
+The handbook is maintained as a living edition. You can [suggest a correction, source, question, accessibility improvement or local adaptation](contributions/index.qmd). Do not submit confidential research data, identifiable personal information, private correspondence, complaints casework, or unpublished material you cannot share.

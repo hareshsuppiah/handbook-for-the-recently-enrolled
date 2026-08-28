@@ -1,0 +1,64 @@
+name: Suggest a handbook improvement
+description: Suggest a question, correction, source, accessibility improvement or local adaptation.
+title: "[Suggestion]: "
+labels: ["needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Do not include personal data, participant data, confidential research, private correspondence, complaints casework or credentials. Generalise and redact.
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Type of suggestion
+      options:
+        - Student question or missing situation
+        - Correction
+        - Source or evidence
+        - Content improvement
+        - Accessibility improvement
+        - Local adaptation
+    validations:
+      required: true
+  - type: textarea
+    id: situation
+    attributes:
+      label: What problem would this solve?
+      description: Describe the general reader situation and the decision they need to make.
+    validations:
+      required: true
+  - type: textarea
+    id: location
+    attributes:
+      label: Where does it belong?
+      description: Link the page or name the relevant Part, chapter, checklist, template or stuck pathway.
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Suggested change
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Supporting evidence
+      description: Provide an official or primary source where possible and explain what claim it supports.
+  - type: dropdown
+    id: credit
+    attributes:
+      label: Credit preference
+      options:
+        - Named credit
+        - Organisational credit
+        - Pseudonymous credit
+        - No public credit
+    validations:
+      required: true
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Privacy check
+      options:
+        - label: I have removed personal, confidential, security-sensitive and unpublished material that I cannot share.
+          required: true
+
