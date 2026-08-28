@@ -1,55 +1,143 @@
 ---
 title: "The search ladder"
-status: "broad-beta baseline"
+status: "broad-beta draft"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta baseline. Evidence verification and worked examples are being expanded; local requirements must be checked before acting.
+**Content status:** Broad-beta draft. Review methods and reporting standards differ; consult an information specialist for consequential or unfamiliar evidence synthesis.
 :::
+
+## The questions students are usually asking
+
+- Where should I search first?
+- Is Google Scholar enough?
+- When should I follow references from a key paper?
+- Do I need a systematic or scoping review?
+- How do I avoid pretending that an orientation search is complete?
+- When can I stop?
 
 ## The direct answer
 
-Use the least intensive search that can answer the current purpose, then increase structure when decisions or claims require it.
+Use the least intensive search that can answer the present purpose, then increase structure when the decision, claim or review method requires more defensible coverage and reproducibility.
 
-## The decision in front of you
+There is no virtue in making every search systematic. There is serious risk in making a selective search and describing its results as though retrieval were comprehensive.
 
-Is this search for orientation, coverage, reproducibility or evidence synthesis?
+## Five levels of searching
+
+### 1. Orientation search
+
+**Purpose:** Learn vocabulary, major debates, key authors, likely databases and recent reviews.
+
+**Method:** Search several concept phrases, scan recent reviews and landmark records, trace terminology and keep brief notes on what remains unclear.
+
+**Output:** An initial map and a list of search concepts. It does not support a claim that all relevant evidence was found.
+
+### 2. Citation chaining
+
+**Purpose:** Explore the intellectual neighbourhood of known relevant sources.
+
+**Method:** Backward searching examines references cited by a seed record; forward searching examines later records that cite it. Related-record and author searches may supplement them.
+
+**Output:** A documented network showing which seed was used, direction, database or index, date and records retained.
+
+Citation searching can find records missed by text searching, particularly when terminology is inconsistent, but its value varies by topic. The TARCiS statement provides terminology and reporting guidance and cautions that standalone citation searching is not suitable as the sole method for reviews aiming at comprehensive recall [@hirt2024tarcis].
+
+### 3. Focused question-led search
+
+**Purpose:** Assemble a defensible evidence set for a bounded project decision, design choice or claim.
+
+**Method:** Define concepts and synonyms, choose sources for a reason, translate the strategy to each database, log searches and refine against known relevant records.
+
+**Output:** A focused set with a search record and explicit limitations.
+
+### 4. Scoping or evidence-mapping search
+
+**Purpose:** Map concepts, evidence types, methods, populations or gaps rather than estimate one narrowly defined effect.
+
+**Method:** Follow the selected review methodology, protocol and transparent inclusion logic. JBI guidance treats scoping-review searches as ideally comprehensive within stated constraints and includes published and unpublished sources where relevant [@jbi-scoping-2024].
+
+**Output:** A structured map with documented methods and boundaries.
+
+### 5. Systematic and reproducible search
+
+**Purpose:** Retrieve evidence for a review question using a predefined, transparent and reproducible process.
+
+**Method:** Use an appropriate protocol, multiple justified sources and methods, database-specific strategies, deduplication, screening and update procedures. Involve an information specialist where appropriate.
+
+**Output:** Search strategies, dates, platforms, limits, supplementary methods and flow records sufficient for scrutiny and updating. PRISMA-S provides reporting items for searches in systematic reviews; it is reporting guidance, not a substitute for choosing and conducting the right review method [@rethlefsen2021prismas].
 
 ::: {.decision-card}
-**Smallest useful next action:** Name the search purpose and stopping rule before opening another database.
+**Smallest useful next action:** Name the decision the search supports and choose the ladder level before opening another database. Record why that level is sufficient and what claim it cannot support.
 :::
 
-## A defensible way to proceed
+## Choosing the level
 
-1. State the outcome or decision in plain language.
-2. Separate known facts, assumptions, constraints and unresolved questions.
-3. Check the evidence and any applicable local requirement.
-4. Compare realistic options, including doing less, waiting or stopping.
-5. Record the choice, reasons, owner, next review point and evidence of completion.
+| Need | Appropriate starting level |
+|---|---|
+| Learn terminology before a supervision meeting | Orientation |
+| Trace a theory, method or landmark study | Citation chaining |
+| Support a bounded study or methodological decision | Focused question-led |
+| Describe the extent and characteristics of a field | Scoping or evidence mapping |
+| Conduct a systematic review or make a completeness-sensitive synthesis claim | Systematic and reproducible |
+
+Move upward when missed evidence would materially change the decision, when a formal review method requires it or when the intended claim implies coverage your present search cannot defend.
+
+## Worked example: one search, two claims
+
+A student searches Google Scholar for “doctoral student engagement”, reads the first 30 results and finds recurring themes.
+
+**Defensible statement:** “An orientation search identified these recurring terms and candidate debates; the search was selective and used to plan database searching.”
+
+**Indefensible statement:** “The literature shows there are only four causes of doctoral disengagement.”
+
+The same activity can be useful or misleading depending on the claim made about its coverage.
+
+## Citation chaining without losing control
+
+Choose seeds because they are relevant, not merely highly cited. Record:
+
+- seed citation and why selected;
+- backward, forward or related-record direction;
+- source or citation index;
+- date searched;
+- eligibility logic;
+- records retained and reason;
+- whether new records became seeds.
+
+Stop the chain according to the purpose. Orientation may stop when new records no longer change the concept map. A systematic review must follow its protocol and report the method; “I stopped seeing new papers” is not enough.
 
 ## Common failure modes
 
-- treating an early plan as permanently fixed;
-- collecting information without naming the decision it should inform;
-- copying a method or workflow without checking fit;
-- waiting for perfect certainty when a reversible next step is available;
-- relying on private memory instead of a recoverable project record;
-- presenting an institutional rule or one disciplinary convention as universal.
+- using one tool because it is convenient rather than fit for purpose;
+- equating ranked search results with the full literature;
+- failing to distinguish discovery from verification;
+- following citations without recording the seed or direction;
+- calling a search systematic because it used Boolean operators;
+- treating a scoping review as a faster, less rigorous systematic review;
+- searching indefinitely because no stopping rule was set;
+- hiding language, date, database or access limitations;
+- allowing an AI system to invent, select or summarise citations without source verification.
 
-## Good enough for now
+## Pause-point checklist: before reporting search findings
 
-Good enough means the work is proportionate to its current purpose, major risks are controlled, important assumptions are visible, and the next decision can be defended. It does not mean that every uncertainty has disappeared.
+- [ ] The search purpose and ladder level are stated.
+- [ ] Sources, platforms, dates, terms and limits are recorded at the required level.
+- [ ] Citation-search seeds and directions are documented.
+- [ ] Known relevant records were used to test retrieval where appropriate.
+- [ ] The search method matches the review or decision.
+- [ ] Limitations are visible and the claim does not imply stronger coverage.
+- [ ] Every cited record has been verified.
 
-## Before you ask your supervisor
+## Before you ask your supervisor or librarian
 
-Bring a concise problem statement, the checks you completed, the strongest relevant evidence, feasible options, your provisional recommendation and one precise request. If risk, approval, participant welfare, integrity or safety is involved, seek the appropriate specialist or formal local process rather than relying only on an ordinary supervision meeting.
+Bring the question, intended output, current concept table, databases considered, sample strategy, known relevant records, limits and the decision you need. Ask: “What evidence could this approach systematically miss, and does that matter for the claim?”
 
-## Check locally
+## Related resources
 
-Milestones, approvals, systems, storage, authorship processes, examination requirements and support routes vary. Verify the current rule with the responsible office or official documentation.
-
-## Related practical resources
-
-Use the [practical resource library](../../resources.qmd) and the [I’m stuck pathway](../../stuck/index.qmd) to turn this guidance into a documented action.
-
+- [Search-ladder decision tree](../../checklists/search-ladder.qmd)
+- [Search-concept table](../../templates/search-concepts.qmd)
+- [Search log](../../templates/search-log.qmd)
+- [Citation-chaining log](../../templates/citation-chaining.qmd)
+- [Reproducible searching](11-reproducible-searching.qmd)
+- [I’m stuck](../../stuck/index.qmd)

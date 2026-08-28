@@ -1,0 +1,39 @@
+---
+title: "Search-ladder decision tree"
+status: "broad-beta resource"
+last-reviewed: "2026-08-28"
+---
+
+**Pause point:** Before beginning or materially expanding a literature search.
+
+**Prevents:** Using a casual search for a completeness-sensitive claim or performing a full systematic search when orientation is sufficient.
+
+## Choose the level
+
+1. **Do you need only vocabulary, landmarks and a field map?**  
+   Use an **orientation search**. Report it as selective.
+2. **Do you need to trace a known source, theory or method?**  
+   Add **backward and/or forward citation searching** and log the seeds.
+3. **Do you need evidence for a bounded project decision or claim?**  
+   Use a **focused question-led search** with concepts, justified sources and a search log.
+4. **Do you need to map the extent, characteristics or types of evidence?**  
+   Select and follow an appropriate **scoping or evidence-mapping methodology**.
+5. **Does the review question or claim require comprehensive, reproducible retrieval?**  
+   Follow the appropriate **systematic-review methodology**, protocol and reporting guidance; seek information-specialist input.
+
+## Do-confirm checks
+
+- [ ] The decision and output are named.
+- [ ] The selected level can support the intended claim.
+- [ ] Search sources, dates and limits will be recorded at the required level.
+- [ ] A stopping rule or protocol is defined.
+- [ ] Known relevant records and contrary terms are considered.
+- [ ] Limitations will be reported without implying completeness.
+
+## Scenario test
+
+A student needs vocabulary before a supervision meeting. The tree selects orientation, not a systematic review. When the same student later undertakes a scoping review, the original search becomes preliminary work and does not substitute for the chosen review method.
+
+## Related guidance
+
+[The search ladder](../chapters/part-04/10-search-ladder.qmd)
