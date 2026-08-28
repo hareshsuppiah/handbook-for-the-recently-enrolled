@@ -1,0 +1,60 @@
+---
+title: "Git and GitHub starter workflow"
+status: "broad-beta resource"
+last-reviewed: "2026-08-28"
+---
+
+::: {.manual-status}
+**Resource status:** Usable broad-beta. Practise with invented, non-sensitive files. Verify institutional approval, repository ownership and data rules before adding research material.
+:::
+
+## Before initialising
+
+- [ ] Repository purpose, owner, visibility and collaborators are defined.
+- [ ] Files have been classified for privacy, confidentiality, IP, copyright and cultural restrictions.
+- [ ] Prohibited data and credentials live in approved locations outside the repository.
+- [ ] `.gitignore` covers local data, secrets, caches, generated outputs and editor files.
+- [ ] Safe example configuration replaces real credentials.
+- [ ] README, licence and support boundary are started.
+
+## First safe loop
+
+1. Initialise or clone the repository.
+2. Inspect status.
+3. Add one invented README or script.
+4. Inspect the unstaged diff.
+5. Stage that named file only.
+6. Inspect the staged diff.
+7. Commit with an outcome-focused message.
+8. Push to the intended remote.
+9. Verify repository visibility, files and commit remotely.
+10. Clone into a fresh test location and follow the README.
+
+## Branch and review simulation
+
+- [ ] Create an issue describing one bounded improvement and evidence of done.
+- [ ] Create a branch tied to the issue.
+- [ ] Make a coherent change and run its test/render.
+- [ ] Inspect status, diff and staged diff.
+- [ ] Open a pull request explaining what, why, risk and verification.
+- [ ] Have another person review the diff and rendered result.
+- [ ] Resolve findings, merge and verify the remote result.
+
+## Privacy pre-push
+
+- [ ] No data, identifiers, consent, confidential text or partner material is included without explicit authority.
+- [ ] No passwords, tokens, keys, internal URLs or sensitive paths appear in files, history, logs or generated output.
+- [ ] Generated HTML, PDFs, notebooks, caches and logs contain no hidden protected content.
+- [ ] Repository visibility and collaborator access are correct.
+
+## Scenario test
+
+You accidentally commit an API token but have not pushed. Do not merely add it to `.gitignore`. Revoke or rotate the token, remove it from the pending history using an appropriate local correction, verify the complete history and staged diff, and document the incident as required. If it was pushed, follow the security incident and coordinated history-removal process immediately.
+
+## Stop conditions
+
+Do not push if repository authority, visibility, tracked content or secret handling is uncertain. Do not rewrite shared history without coordinating the affected owners and understanding the consequences.
+
+## Related guidance
+
+Return to [Git, GitHub and AI-assisted research workflows](../chapters/part-08/24-git-github-ai.qmd) and complete the [repository README](../templates/repository-readme.qmd).
