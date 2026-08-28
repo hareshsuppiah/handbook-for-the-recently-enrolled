@@ -1,0 +1,34 @@
+---
+title: "Before committing to each study"
+---
+
+**Pause point:** Before committing substantial time, money, participant burden, scarce access or thesis scope to a study.
+
+**Prevents:** Running a study that cannot answer its question, is not feasible, duplicates existing work without justification, or creates obligations the team cannot meet.
+
+**Use:** Do-confirm. Repeat for every study, including secondary analyses and substantial method-development work.
+
+## Critical checks
+
+- [ ] The study's question, intended inference and contribution are explicit and mutually consistent.
+- [ ] Relevant existing evidence, competing explanations and closely related work have been checked.
+- [ ] The design, sampling, measures and analysis strategy can address the question at the claimed level.
+- [ ] The most important threats to validity or trustworthiness have been named, with a response or an accepted limitation.
+- [ ] Access to participants, sites, data, equipment, software and expertise has been tested with the responsible people.
+- [ ] Time, recruitment, cost and workload estimates include realistic failure and delay scenarios.
+- [ ] Ethics, governance, privacy, legal, cultural, safety and community obligations have a credible pathway and lead time.
+- [ ] A pilot or feasibility test is planned where uncertainty is both material and testable.
+- [ ] Continue, revise, pivot and stop criteria have been agreed before sunk costs accumulate.
+- [ ] The decision and its assumptions are recorded in a form that can later be audited.
+
+## Stop condition
+
+Do not commit while a critical dependency such as access, recruitment, data quality, measurement validity, required expertise or approval exists only as an assumption.
+
+## Evidence to retain
+
+Keep the study decision record, evidence summary, feasibility checks, design rationale, resource estimate, risk register and agreed pivot or stop criteria.
+
+::: {.callout-warning title="Check locally"}
+Required reviewers, approvals and study documents depend on the discipline, jurisdiction, data type, participants and host organisation.
+:::

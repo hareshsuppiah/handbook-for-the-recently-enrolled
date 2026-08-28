@@ -1,42 +1,34 @@
 ---
-title: "Project Closure Handover"
-status: "beta resource"
-last-reviewed: "2026-08-28"
+title: "Before project closure and handover"
 ---
 
-::: {.manual-status}
-**Resource status:** Usable beta. Adapt it to the method and check local requirements. Do not place confidential or identifiable information in a public copy.
+**Pause point:** Before access ends, people leave, accounts close, records are archived or responsibility transfers.
+
+**Prevents:** Losing the research record, leaving obligations without an owner, retaining data unlawfully, or handing over files that another person cannot understand or recover.
+
+**Use:** Do-confirm.
+
+## Critical checks
+
+- [ ] Final research records have approved, documented locations rather than depending on one person's device or account.
+- [ ] Data and records marked for disposal can be destroyed lawfully without removing material that must be retained.
+- [ ] Ownership, custody, access, retention, sharing, embargo and confidentiality obligations have been reconciled.
+- [ ] Data, code, software dependencies, metadata and file structure are sufficient for the authorised future use.
+- [ ] Publications, persistent identifiers, approvals, protocols, decisions, deviations and final outputs are linked to the same record.
+- [ ] Open actions, incidents, complaints, agreements, contracts and reporting obligations are resolved or transferred to a named owner.
+- [ ] Personal access can be removed without disabling shared services, automation, repositories or recovery routes.
+- [ ] The receiving person has opened the key files, located the critical evidence and tested the documented recovery or reproduction steps.
+- [ ] Known limitations, incomplete work and conditions on reuse are stated plainly.
+- [ ] The handover has a named recipient, acknowledgement, date and future owner.
+
+## Stop condition
+
+Do not close or hand over while the only recoverable copy is in personal storage, key files cannot be opened, or legal, ethical, contractual or reporting obligations have no owner.
+
+## Evidence to retain
+
+Keep the closure decision, archive manifest, access record, disposal evidence, handover note, recipient acknowledgement, outstanding-obligation register and final integrity check.
+
+::: {.callout-warning title="Check locally"}
+Retention, disposal, ownership, repository, departure and account-closure rules vary by institution, funder, agreement, jurisdiction and data type.
 :::
-
-## When to use it
-
-Use this at the pause point before you commit, submit, collect, change, close or escalate the relevant work. Tick an item only when you can identify the evidence.
-
-## Checklist
-
-- [ ] I can state the purpose and the decision this check supports.
-- [ ] I have identified the applicable local, disciplinary or project requirements.
-- [ ] I have separated verified facts from assumptions and unresolved questions.
-- [ ] I have checked the most consequential risks, dependencies and failure modes.
-- [ ] I have recorded the evidence, owner and date for each material judgement.
-- [ ] I know what is good enough for this stage and what remains deliberately unfinished.
-- [ ] I know the condition that would make me pause or escalate.
-- [ ] I have named the next action and what will count as done.
-
-## Completed example
-
-**Purpose:** decide whether the next project step is ready to proceed.  
-**Evidence checked:** current project record, relevant official requirement and the latest approved plan.  
-**Unresolved point:** one dependency remains with an external owner.  
-**Decision:** proceed only with reversible preparation; do not begin the dependent activity.  
-**Next review:** at the agreed response date.  
-**Escalation:** raise the matter if the dependency affects safety, approval, integrity or the milestone.
-
-## What this prevents
-
-This resource reduces decisions being lost, assumptions being mistaken for facts, and actions being marked complete without evidence.
-
-## Related guidance
-
-Return to the [handbook contents](../index.qmd), browse the [resource library](../resources.qmd), or use [I’m stuck](../stuck/index.qmd).
-

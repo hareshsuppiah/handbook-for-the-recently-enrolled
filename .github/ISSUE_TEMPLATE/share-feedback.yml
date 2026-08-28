@@ -1,0 +1,92 @@
+name: Share feedback about the handbook
+description: Tell Haresh what you were trying to find, what was missing or unclear, or what could cause a mistake.
+title: "[Reader feedback] "
+labels: ["type: reader-feedback", "status: needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping improve the handbook. You do not need to understand GitHub, edit the book or write code.
+
+        Do not include names, personal information, participant data, confidential research, private correspondence, complaints casework, credentials or unpublished sensitive findings. Describe the general situation and remove identifying details.
+  - type: dropdown
+    id: feedback_type
+    attributes:
+      label: What would you like to tell us?
+      options:
+        - A question or situation is missing
+        - Something is unclear or may be wrong
+        - A checklist, template or example is missing
+        - I found a useful source or piece of evidence
+        - The website was difficult to read, navigate or use
+        - A local rule or practice needs clearer boundaries
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: reader_goal
+    attributes:
+      label: What were you trying to find out or do?
+      description: Write the question or task in the words a graduate researcher might use.
+    validations:
+      required: true
+  - type: textarea
+    id: current_problem
+    attributes:
+      label: What was missing, unclear, wrong or difficult to use?
+      description: Include a page link if you have one. You do not need to propose replacement wording.
+    validations:
+      required: true
+  - type: textarea
+    id: consequence
+    attributes:
+      label: What could happen if the handbook does not address this?
+      description: Describe likely confusion, wasted effort, error or harm. Say "minor" if the feedback is low risk.
+    validations:
+      required: true
+  - type: dropdown
+    id: phase
+    attributes:
+      label: When might a researcher need this?
+      options:
+        - Starting candidature
+        - Choosing a topic or research question
+        - Planning a study
+        - Seeking ethics or governance approval
+        - Collecting or managing data
+        - Analysing or interpreting findings
+        - Writing a thesis chapter or study
+        - Preparing or revising a manuscript
+        - Examination, corrections or completion
+        - When a project is blocked or has failed
+        - More than one stage
+        - Unsure
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Optional source or example
+      description: Link material you are allowed to share and explain why it is relevant. Do not paste confidential or copyrighted material.
+  - type: dropdown
+    id: credit
+    attributes:
+      label: If the suggestion is used, how would you like to be credited?
+      options:
+        - Use my GitHub name
+        - Credit my organisation
+        - Use a pseudonym that I provide below
+        - Do not credit me publicly
+    validations:
+      required: true
+  - type: input
+    id: credit_name
+    attributes:
+      label: Optional organisation or pseudonym
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Public submission check
+      options:
+        - label: I have removed personal, confidential, security-sensitive and unpublished material that I cannot share publicly.
+          required: true

@@ -1,0 +1,33 @@
+---
+title: "First 90-day review"
+---
+
+**Pause point:** Near the end of the first 90 days, before treating the initial plan as the working basis for candidature.
+
+**Prevents:** Quietly carrying weak assumptions, unclear roles or an unworkable project into the next phase.
+
+**Use:** Do-confirm.
+
+## Critical checks
+
+- [ ] Supervisory roles, meeting cadence, decision records and feedback expectations are working in practice.
+- [ ] The next formal milestone and its evidence requirements have been confirmed from a current official source.
+- [ ] The research problem, provisional question and intended contribution can be stated plainly and are not being confused with a broad topic.
+- [ ] The main feasibility assumptions have been tested rather than merely asserted.
+- [ ] The literature-search approach is broad enough to find relevant concepts, methods and contrary evidence, and its limits are recorded.
+- [ ] File storage, decision records, data planning and backup recovery have been tested.
+- [ ] Ethics, governance, access, safety, skills and specialist-support dependencies have named owners and realistic lead times.
+- [ ] The next 90 days are expressed as a small set of outcomes with evidence of completion, not a long activity list.
+- [ ] Unresolved risks and disagreements have an owner, next action and review date.
+
+## Stop condition
+
+Pause any major commitment if the central question, feasibility, necessary access or approval pathway remains materially unclear.
+
+## Evidence to retain
+
+Keep the reviewed project statement, feasibility notes, search record, decision log, risk register, next-phase outcomes and supervisor comments or approval.
+
+::: {.callout-warning title="Check locally"}
+This review complements, but does not replace, formal confirmation or progress milestones.
+:::

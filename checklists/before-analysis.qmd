@@ -1,0 +1,34 @@
+---
+title: "Before analysis"
+---
+
+**Pause point:** Before running the analysis that will support an interpretable result or research claim.
+
+**Prevents:** Analysing the wrong data, changing decisions invisibly, using a method that cannot answer the question, or losing the provenance of results.
+
+**Use:** Do-confirm.
+
+## Critical checks
+
+- [ ] The research question, outcome or interpretive purpose is explicit enough to guide the analysis.
+- [ ] The authorised input data are identified, versioned and separated from derived data and outputs.
+- [ ] Inclusion, exclusion, cleaning, transformation, coding and missing-data decisions are recorded.
+- [ ] The method fits the design, data and intended inference, and its important assumptions can be examined.
+- [ ] Planned, amended, sensitivity and exploratory analyses are distinguished rather than retrospectively presented as one plan.
+- [ ] Code, software versions, packages, settings and dependencies are recorded well enough to recover the analysis.
+- [ ] A second check is planned for critical inputs, calculations, code or interpretations.
+- [ ] Confidential or identifiable data will not be exposed through working files, logs, outputs or sharing.
+- [ ] Deviations from the approved protocol or analysis plan have been authorised and recorded where required.
+- [ ] Outputs have a stable location and an auditable link to the inputs and code that produced them.
+
+## Stop condition
+
+Pause if the input dataset is unstable, exclusions cannot be explained, or the method cannot be linked defensibly to the question and design.
+
+## Evidence to retain
+
+Keep the frozen input reference, analysis plan, data decisions, scripts or commands, environment record, quality checks, deviations and final output manifest.
+
+::: {.callout-warning title="Check locally"}
+Specialist methods, sensitive data and regulated analyses may require formal review, validation or controlled computing environments.
+:::

@@ -2,72 +2,27 @@
 title: "Practical resources"
 ---
 
-The handbook tracks 53 checklists and templates. Each resource is linked to an explanatory chapter and is being tested against a realistic situation. Priority resources include a blank form and a completed example.
+The original brief specifies 53 checklists and templates. They remain tracked in the requirements register, but most are not yet substantive enough to publish as finished resources. They are no longer presented here as if they were ready.
 
-## Starting candidature
+The first usable release is a set of checklists organised around **consequential pause points**: moments when a short check can still prevent avoidable harm, rework or an indefensible decision.
 
-- [Day one](checklists/day-one.qmd)
-- [First week](checklists/first-week.qmd)
-- [First 30 days](checklists/first-30-days.qmd)
-- [First 90 days](checklists/first-90-days.qmd)
+## Phase checkpoints
 
-## Supervision and decisions
+- [Starting candidature](checklists/starting-candidature.qmd)
+- [First 90-day review](checklists/first-90-day-review.qmd)
+- [Before committing to each study](checklists/before-study-commitment.qmd)
+- [Before ethics or governance submission](checklists/before-ethics-submission.qmd)
+- [Before data collection](checklists/before-data-collection.qmd)
+- [Before analysis](checklists/before-analysis.qmd)
+- [Before writing up a study](checklists/before-study-write-up.qmd)
+- [Before manuscript submission](checklists/before-manuscript-submission.qmd)
+- [Before thesis submission](checklists/before-thesis-submission.qmd)
+- [Before project closure and handover](checklists/project-closure-handover.qmd)
 
-- [Supervisor expectations](templates/supervisor-expectations.qmd)
-- [Supervision agreement](templates/supervision-agreement.qmd)
-- [Meeting agenda](templates/meeting-agenda.qmd)
-- [Meeting record](templates/meeting-record.qmd)
-- [Matters arising](templates/matters-arising.qmd)
-- [Action register](templates/action-register.qmd)
-- [Decision log](templates/decision-log.qmd)
-- [Unresolved questions](templates/unresolved-questions.qmd)
-- [Risk and issues register](templates/risk-issues-register.qmd)
+Read [how these checklists work](checklists/index.qmd) before using them.
 
-## Topic, evidence and design
+## Still to be completed
 
-- [Topic due diligence](templates/topic-due-diligence.qmd)
-- [Topic case](templates/topic-case.qmd)
-- [Research-question stress test](checklists/research-question-stress-test.qmd)
-- [Feasibility check](checklists/feasibility.qmd)
-- [Contribution statement](templates/contribution-statement.qmd)
-- [Search ladder](checklists/search-ladder.qmd)
-- [Search concepts](templates/search-concepts.qmd)
-- [Search log](templates/search-log.qmd)
-- [Citation chaining](templates/citation-chaining.qmd)
-- [Paper triage and extraction](templates/paper-triage-extraction.qmd)
-- [Evidence matrix](templates/evidence-matrix.qmd)
-- [Synthesis and argument map](templates/synthesis-argument-map.qmd)
-- [Method options](templates/method-options.qmd)
-- [Method decision](templates/method-decision.qmd)
-- [Pilot readiness](checklists/pilot-readiness.qmd)
-- [Ethics readiness](checklists/ethics-readiness.qmd)
-- [Protocol deviation](templates/protocol-deviation.qmd)
+The remaining resource families include supervision records, topic and question due diligence, literature searching and synthesis, methods and piloting, data management and reproducibility, Git and responsible AI use, feedback and authorship, journal and reviewer work, escalation, examination, and handover.
 
-## Data, code and technology
-
-- [Data management plan](templates/data-management-plan.qmd)
-- [Folder and file naming](templates/folder-file-naming.qmd)
-- [Backup and restore](checklists/backup-restore.qmd)
-- [Data dictionary](templates/data-dictionary.qmd)
-- [Reproducibility](checklists/reproducibility.qmd)
-- [Git and GitHub starter](checklists/git-github-starter.qmd)
-- [Repository README](templates/repository-readme.qmd)
-- [AI-use decision](checklists/ai-use-decision.qmd)
-- [AI-use log](templates/ai-use-log.qmd)
-- [Privacy preflight](checklists/privacy-preflight.qmd)
-
-## Writing, publishing and completion
-
-- [Supervisor review cover note](templates/supervisor-review-cover-note.qmd)
-- [Feedback response](templates/feedback-response.qmd)
-- [Manuscript readiness](checklists/manuscript-readiness.qmd)
-- [Authorship conversation](templates/authorship-conversation.qmd)
-- [Journal due diligence](templates/journal-due-diligence.qmd)
-- [Reviewer response](templates/reviewer-response.qmd)
-- [Good-enough rubric](checklists/good-enough-rubric.qmd)
-- [Pivot, continue or stop](checklists/pivot-continue-stop.qmd)
-- [Escalation message](templates/escalation-message.qmd)
-- [Thesis contribution map](templates/thesis-contribution-map.qmd)
-- [Examination readiness](checklists/examination-readiness.qmd)
-- [Project closure and handover](checklists/project-closure-handover.qmd)
-
+The public repository keeps the row-by-row status in [`planning/requirements-checklist.csv`](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/blob/main/planning/requirements-checklist.csv) and the current corrective audit in [`planning/incomplete-work-audit-2026-08-28.md`](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/blob/main/planning/incomplete-work-audit-2026-08-28.md).

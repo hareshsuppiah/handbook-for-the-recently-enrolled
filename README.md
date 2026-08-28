@@ -9,7 +9,8 @@ This repository is the early public build of an institution-neutral, evidence-in
 
 - The canonical source has been preserved privately and verified.
 - The full PRD and 223-row requirements ledger are in `planning/`.
-- The Quarto book, evidence registers, contribution system, and broad-beta content are being built in documented checkpoints.
+- The website shell, ten phase-gated checklists and reader-feedback workflow now exist.
+- The 36 chapters, 33 templates, evidence base, stuck pathways and most quality gates are still incomplete; this is not yet the promised broad beta.
 - Remaining work is recorded openly rather than hidden behind empty completion claims.
 
 ## Preview locally
@@ -26,7 +27,7 @@ Build the complete HTML book with:
 quarto render
 ```
 
-The rendered site is written to `_book/`.
+The rendered site is written to `_site/`.
 
 ## Project map
 
@@ -37,7 +38,7 @@ The rendered site is written to `_book/`.
 - `examples/`: completed examples for priority resources.
 - `research/`: questions, coverage, sources, community requests, decisions, and audit records.
 - `planning/`: authoritative requirements, decisions, roadmap, style, and maintenance plans.
-- `contribute/`: plain-language routes for suggesting improvements.
+- `contributions/`: plain-language routes for sharing feedback and understanding the editorial workflow.
 
 ## Contributing
 
@@ -50,4 +51,3 @@ Factual and instructional claims must be traceable to verified sources in `resea
 ## Licence
 
 Prose and reusable non-code content are licensed under CC BY 4.0. Code, configuration, and scripts are licensed under MIT. See `LICENSE-CONTENT.md` and `LICENSE-CODE`.
-

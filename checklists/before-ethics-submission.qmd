@@ -1,0 +1,34 @@
+---
+title: "Before ethics or governance submission"
+---
+
+**Pause point:** Immediately before submitting an ethics, governance, site-authorisation or amendment package.
+
+**Prevents:** Contradictory documents, unmanaged participant or community risks, unclear data flows, and delays caused by avoidable omissions.
+
+**Use:** Read-do.
+
+## Critical checks
+
+- [ ] I am using the current local form, policy, templates and submission route.
+- [ ] The protocol, application, recruitment material, participant information, consent process, instruments and data plan describe the same study.
+- [ ] Recruitment is fair, feasible and appropriate to power relationships, vulnerability, inclusion and exclusion.
+- [ ] Participant experience is clear from first contact through consent, participation, withdrawal, follow-up and results communication.
+- [ ] Risks, burdens, benefits and safeguards are proportionate and described without minimising uncertainty.
+- [ ] Every data movement, storage location, access role, linkage, sharing arrangement, retention period and disposal action has been mapped.
+- [ ] Anonymity, de-identification, confidentiality and privacy are distinguished accurately.
+- [ ] Payments, withdrawal, complaints, distress, adverse events, incidental findings and protocol deviations are addressed where relevant.
+- [ ] Team roles, training, conflicts of interest, site permissions and external agreements are documented.
+- [ ] Every document has a controlled version and date, and a second person has checked the complete package for contradictions.
+
+## Stop condition
+
+Do not submit while documents materially contradict one another, a data flow is unexplained, or a foreseeable material risk has no proportionate response.
+
+## Evidence to retain
+
+Keep the exact submitted package, version register, data-flow map, permissions, training records, submission receipt, review correspondence and final approval conditions.
+
+::: {.callout-warning title="Check locally"}
+Only the responsible ethics, governance or review body can determine whether the submission is complete or approve the work.
+:::

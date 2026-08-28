@@ -2,25 +2,27 @@
 
 ## Approved direction
 
-Haresh approved cover concept C, the research crossroads, on 28 August 2026. The visual system is an original, worn institutional operating manual: distressed chocolate and oxblood surfaces, warm cream paper, dusty-pink highlights, restrained rules, and small painterly moments. It may recall the broad category of an uncanny manual but must not reproduce the *Beetlejuice* prop, its illustration, layout, lettering, figures, or distinctive details.
+The website uses the reading structure Haresh identified in *R for the Rest of Us*: cover and search in the left sidebar, a clear central reading column, and a sticky “On this page” index on the right. The interface is white, black and quiet grey. It does not reproduce the older cream, oxblood and serif styling.
+
+The cover remains a distinct illustrative asset. Haresh approved concept C, the research crossroads, on 28 August 2026. It may recall the broad category of an uncanny manual but must not reproduce the *Beetlejuice* prop, its illustration, layout, lettering, figures or distinctive details.
 
 ## Reading contract
 
-The book is for sustained reading and practical use. The cover supplies atmosphere; chapter pages prioritise clarity. The left rail is a 340 px contents cabinet with cover and local search. The main text is approximately 760 px. The 250 px right rail is a sticky local index titled “On this page”. On mobile, navigation and search remain available without forcing a desktop layout.
+The book is for sustained reading and practical use. The interface should disappear behind the content. The left rail is approximately 320 px with the cover and local search. The main text is approximately 760 px. The right rail is approximately 250 px and provides a sticky local index titled “On this page”. On mobile, the sidebars collapse into navigation controls and the reading column uses the available width without horizontal clipping.
+
+The sidebar contains no social, repository or reader-mode icon row. Reader feedback is reached through a clearly labelled page in the book.
 
 ## Tokens
 
-- Ground: warm paper `#f4efe5`
-- Page: pale cream `#fbf8f1`
-- Ink: brown-black `#2a1b18`
-- Muted ink: `#6e5b52`
-- Oxblood: `#4b171b`
-- Dusty rose: `#c58d96`
-- Rule: `#cdbdad`
-- Link: `#6b232a`
-- Focus: `#9d4652`
+- Page and sidebar: `#ffffff`
+- Ink: `#171717`
+- Muted ink: `#666666`
+- Quiet surface: `#f7f7f7`
+- Rule: `#dedede`
+- Link: `#111111`
+- Focus: `#111111`
 
-Headings use a bookish serif. Interface labels and body copy use a highly legible humanist sans. Shadows are soft and rare. Corners are slightly rounded, never pill-shaped. Decorative marks must never compete with instructions.
+Headings, body copy and interface labels use the native system sans-serif stack. Headings are bold with restrained negative tracking. Links are black with visible grey underlines. Shadows are absent. Rules are neutral grey. Corners are modest and never pill-shaped. The illustrated cover is the only deliberately atmospheric element.
 
 ## Cover assets
 

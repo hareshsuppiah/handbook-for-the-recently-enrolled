@@ -1,0 +1,47 @@
+---
+title: "How the checklists work"
+---
+
+A useful checklist is not a miniature textbook, a calendar reminder or a substitute for professional judgement. It protects a **consequential pause point**: a moment when several conditions must be true before work proceeds and an omission could cause harm, invalid evidence, wasted effort or an avoidable governance failure.
+
+This approach draws on the central argument of *The Checklist Manifesto* and the World Health Organization's checklist implementation guidance: expertise still matters, but a short, well-timed check can help people reliably complete critical steps in complex work [@gawande2010checklist; @who2009checklist].
+
+## Two ways to use a checklist
+
+**Read-do** means reading an item and completing it before moving to the next. Use it when the order matters, the process is unfamiliar or the consequences of omission are high.
+
+**Do-confirm** means completing the work, pausing at a defined point, and then confirming that every critical condition is satisfied. Use it when skilled work cannot sensibly be reduced to a fixed sequence.
+
+Each handbook checklist therefore states:
+
+1. the exact pause point;
+2. the failure it is intended to prevent;
+3. whether it is read-do or do-confirm;
+4. the critical checks only;
+5. a stop condition;
+6. the evidence to retain;
+7. what must be confirmed locally; and
+8. when the checklist should be revised for the project.
+
+## The phase system
+
+| Pause point | Primary purpose | Format |
+|---|---|---|
+| [Starting candidature](starting-candidature.qmd) | Establish the minimum conditions for safe, organised work | Read-do |
+| [First 90-day review](first-90-day-review.qmd) | Test whether the initial working system and direction are viable | Do-confirm |
+| [Before committing to each study](before-study-commitment.qmd) | Prevent commitment to an incoherent or infeasible study | Do-confirm |
+| [Before ethics or governance submission](before-ethics-submission.qmd) | Find contradictions and unmanaged risks before formal review | Read-do |
+| [Before data collection](before-data-collection.qmd) | Confirm that permission, materials, people and data systems are ready | Do-confirm |
+| [Before analysis](before-analysis.qmd) | Protect the link between the question, data, method and claim | Do-confirm |
+| [Before writing up a study](before-study-write-up.qmd) | Reconcile the planned study with what actually happened | Do-confirm |
+| [Before manuscript submission](before-manuscript-submission.qmd) | Prevent avoidable authorship, reporting and submission failures | Do-confirm |
+| [Before thesis submission](before-thesis-submission.qmd) | Verify the exact final thesis and its formal requirements | Do-confirm |
+| [Before project closure and handover](project-closure-handover.qmd) | Leave a recoverable, lawful and intelligible research record | Do-confirm |
+
+## Adapt without weakening
+
+Projects can add discipline-specific items, but the checklist should remain short enough to use at the named pause point. If it becomes a long explanation, move that material into guidance and keep only the critical check here.
+
+::: {.callout-warning title="Check locally"}
+These checklists do not replace institutional policy, ethics or governance approval, safety procedures, legal advice, cultural protocols, professional standards, or case-specific direction from qualified people.
+:::

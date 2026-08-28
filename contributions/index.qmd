@@ -1,40 +1,38 @@
 ---
-title: "Suggest an improvement"
+title: "Share feedback"
 ---
 
-You do not need to edit the handbook. Tell us what a graduate researcher might ask, what is missing or unclear, or what could cause an avoidable mistake.
+Tell Haresh what you were trying to find, what was missing or unclear, or what could cause an avoidable mistake. You do not need to edit the handbook, propose replacement wording or understand GitHub.
 
-[Choose a suggestion form](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/issues/new/choose){.btn .btn-primary}
+[Share feedback](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/issues/new?template=share-feedback.yml){.btn .btn-primary}
 
-A no-GitHub form will be added when Haresh approves its URL. Until then, the GitHub form is the public submission route. You need a free GitHub account, but you do not need to fork the repository, use the command line or write code.
+A no-GitHub form will be added when Haresh approves its URL. Until then, the form is hosted by GitHub and requires a free GitHub account. GitHub may display its own platform heading above the form.
 
 ## Before submitting
 
 Do not include identifiable personal information, participant data, private correspondence, complaints casework, confidential research, unpublished results you cannot share, credentials or security-sensitive details. Describe the general problem and redact specifics.
 
-## What you can suggest
+## Useful feedback includes
 
-- [Missing question or content](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/issues/new?template=content-suggestion.yml): a student question, situation, checklist, template, example or decision aid the handbook does not cover;
-- [Correction or unclear passage](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/issues/new?template=correction.yml): something inaccurate, unclear, broken or potentially misleading;
-- [Source or evidence](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/issues/new?template=source-suggestion.yml): an authoritative source relevant to a handbook claim;
-- [Accessibility or technical problem](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/issues/new?template=accessibility-or-technical.yml): a problem using, reading or navigating the site;
-- [Local adaptation](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/issues/new?template=local-adaptation.yml): a practice that applies only to a particular institution, jurisdiction, discipline or method.
+- a graduate-research question or situation the handbook does not answer;
+- an inaccurate, unclear or potentially misleading passage;
+- a missing checklist, template, example or decision aid;
+- an authoritative source relevant to a handbook claim;
+- a problem reading, navigating or using the website;
+- a local rule or practice that needs a clearer boundary.
 
-Submit one issue for each distinct suggestion. You may describe the problem without proposing the wording that should replace it.
+Submit one feedback record for each distinct problem. Describe the problem without trying to rewrite the page yourself.
 
 ## What happens next
 
-1. The issue is checked for private information, duplicates and existing coverage.
-2. Evidence and scope are checked. The issue may be labelled `needs evidence` or `awaiting owner decision`.
-3. Haresh records the decision by commenting `/approve` or applying `decision: approved`. Only either owner action authorises work.
-4. An assigned agent or maintainer researches and drafts the change in a pull request.
-5. Haresh reviews the pull request. He may request changes, merge it or stop the work.
-6. Merging to `main` publishes the change through the handbook's release process.
+1. The feedback is checked for private information, duplicates and existing coverage.
+2. The evidence, scope, likely consequence and local-policy boundaries are reviewed.
+3. Haresh decides whether the suggestion is approved, needs more evidence, is deferred, duplicates existing work or is outside the handbook's scope.
+4. Approved improvements are researched, drafted and tested.
+5. Haresh reviews the actual change before deciding whether to publish it.
 
-Approval does not mean automatic publication. The issue records the suggestion and decision; the pull request records the proposed change and review.
-
-See [the editorial and agent workflow](editorial-workflow.qmd) for the exact approval rule.
+Sending feedback does not approve an automatic change. Haresh remains responsible for the editorial decision and final publication.
 
 ## Credit
 
-You may request named credit, organisational credit, pseudonymous credit or no public credit. Submitting an issue does not automatically make someone an author of the handbook.
+You may request named credit, organisational credit, pseudonymous credit or no public credit. Sending feedback does not automatically make someone an author of the handbook.

@@ -157,17 +157,17 @@ For the initial edition run up to five full passes. At least two student-phase p
 
 ## 11. Public contribution and editorial system
 
-Provide an owner-approved no-GitHub form when its URL is available and five structured GitHub suggestion forms: missing content, correction, source, accessibility or technical problem, and local adaptation. Ordinary readers are not asked to edit files, fork the repository, use a command line or prepare a pull request. The founding editor may use Discussions internally if they reduce administrative work, but Discussions are not required for public intake.
+Provide an owner-approved no-GitHub form when its URL is available and one plain-language public feedback form. The form must classify missing content, corrections, sources, accessibility or technical problems, and local adaptations without making readers choose between software-development templates. Ordinary readers are not asked to edit files, fork the repository, use a command line or prepare a pull request. The founding editor may use Discussions internally if they reduce administrative work, but Discussions are not required for public intake.
 
 Only Haresh Suppiah can approve implementation. Posting `/approve` on the issue or applying `decision: approved` records that decision and prepares the issue for assignment to an agent or maintainer. The workflow ignores approval commands from other users. The assignee returns a linked pull request for Haresh's review. Approval does not authorise merge or publication.
 
 All routes feed: submission, privacy check, duplicate/coverage check, triage, evidence review, accepted/needs evidence/local adaptation/declined/duplicate, drafting, review, release, and contributor notification.
 
-The public contribution page, issue forms, governance, support policy, contributor credit, privacy warnings, labels, status model, and maintainer close-the-loop duties must satisfy Source Sections 2.11, 4.3, 4.6, 4.7, and 11.1.
+The public feedback page and form, governance, support policy, contributor credit, privacy warnings, labels, status model, and maintainer close-the-loop duties must satisfy Source Sections 2.11, 4.3, 4.6, 4.7, and 11.1.
 
 ## 12. Quarto and reading experience
 
-Build an accessible HTML Quarto book modelled structurally on *R for the Rest of Us*: portrait cover and local full-text search in a roughly 340 px left sidebar, collapsible Parts, roughly 760 px reading column, roughly 250 px sticky right-side `On this page` contents, page-level repository actions, and previous/next navigation.
+Build an accessible HTML Quarto book modelled structurally on *R for the Rest of Us*: portrait cover and local full-text search in a roughly 320 px left sidebar, collapsible Parts, roughly 760 px reading column, roughly 250 px sticky right-side `On this page` contents, a clearly labelled reader-feedback page, and previous/next navigation. The reading interface uses black text, a white background, quiet grey rules and modern sans-serif typography. It does not show social, repository or reader-mode icon tools in the sidebar.
 
 Use citations, cross-references, responsive navigation, print-friendly resources, descriptive alt text, high contrast, original styling, safe execution defaults, local reproducible build, GitHub Pages deployment, link checking, and a visible contribution route. Mobile must retain access to search, navigation, and page contents.
 
@@ -179,7 +179,7 @@ Generate the illustration without lettering and compose the exact typography det
 
 ## 14. Repository and governance
 
-Create the public repository `hareshsuppiah/handbook-for-the-recently-enrolled`, main branch, README, Quarto configuration, chapters, stuck system, resources, examples, research registers, planning records, contribution pages, issue forms, workflows, governance, support, contributors, code of conduct, citation metadata, changelog, and separate licence notices.
+Create the public repository `hareshsuppiah/handbook-for-the-recently-enrolled`, main branch, README, Quarto configuration, chapters, stuck system, resources, examples, research registers, planning records, feedback pages and form, workflows, governance, support, contributors, code of conduct, citation metadata, changelog, and separate licence notices.
 
 The raw source remains private and Git-ignored until Haresh approves release. Prose and non-code material use CC BY 4.0; code/configuration/scripts use MIT. Contributor terms must state the applicable inbound licence.
 

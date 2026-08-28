@@ -9,11 +9,6 @@ book:
   date: last-modified
   favicon: assets/favicon.svg
   site-url: https://hareshsuppiah.github.io/handbook-for-the-recently-enrolled/
-  repo-url: https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled
-  issue-url: https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/issues/new/choose
-  repo-actions: [source, issue]
-  sharing: [linkedin]
-  reader-mode: true
   page-navigation: true
   search:
     location: sidebar
@@ -25,6 +20,7 @@ book:
     collapse-level: 1
   chapters:
     - index.qmd
+    - status.qmd
     - part: "I. Recently enrolled"
       chapters:
         - chapters/part-01/01-phd-and-good-enough.qmd
@@ -88,11 +84,20 @@ book:
     - part: "Practical resources"
       chapters:
         - resources.qmd
+        - checklists/index.qmd
+        - checklists/starting-candidature.qmd
+        - checklists/first-90-day-review.qmd
+        - checklists/before-study-commitment.qmd
+        - checklists/before-ethics-submission.qmd
+        - checklists/before-data-collection.qmd
+        - checklists/before-analysis.qmd
+        - checklists/before-study-write-up.qmd
+        - checklists/before-manuscript-submission.qmd
+        - checklists/before-thesis-submission.qmd
+        - checklists/project-closure-handover.qmd
         - stuck/index.qmd
         - support.qmd
-        - contributing.qmd
         - contributions/index.qmd
-        - contributions/editorial-workflow.qmd
     - references.qmd
 
 bibliography: references.bib

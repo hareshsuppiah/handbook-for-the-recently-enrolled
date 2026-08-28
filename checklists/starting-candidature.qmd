@@ -1,0 +1,32 @@
+---
+title: "Starting candidature"
+---
+
+**Pause point:** Before beginning substantive research work.
+
+**Prevents:** Starting without clear supervision, required access, a recoverable working system or awareness of local obligations.
+
+**Use:** Read-do.
+
+## Critical checks
+
+- [ ] I have confirmed my official start date, enrolment status and next formal milestone in the institution's current system.
+- [ ] I know who is formally on my supervisory team and have a first meeting booked.
+- [ ] We have discussed responsibilities, contact expectations, feedback, meeting records and how decisions will be documented.
+- [ ] I have identified required induction, research-integrity, safety, methods, ethics, data and professional-development training.
+- [ ] I have an approved location for research files plus a separate action register and decision log.
+- [ ] I can access the systems, rooms, software, equipment, data or services needed for the first phase.
+- [ ] I know where to seek local help for candidature, wellbeing, integrity, ethics, data, safety and supervision concerns.
+- [ ] I have agreed what must be achieved before the first 90-day review and what evidence will show it is done.
+
+## Stop condition
+
+Do not begin participant contact, data collection, access to restricted data, or hazardous work until the required approvals, training and supervision are in place.
+
+## Evidence to retain
+
+Keep the enrolment or milestone confirmation, induction record, supervision notes, training record, access confirmations, first action register and first decision-log entry.
+
+::: {.callout-warning title="Check locally"}
+Names, deadlines, mandatory training, record systems and escalation routes vary by institution and project.
+:::

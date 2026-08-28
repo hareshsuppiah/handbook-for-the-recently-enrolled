@@ -6,7 +6,7 @@ description: "A practical, evidence-informed operating manual for graduate resea
 ---
 
 ::: {.manual-status}
-**Broad beta in active development.** This public build is designed to be useful early and honest about unfinished work. Institution-specific rules must always be checked locally.
+**Structural prototype, not yet the broad beta.** Of 223 tracked requirements, 201 remain open: 188 planned, 12 in progress and one blocked. Read [exactly what remains unfinished](status.qmd). Institution-specific rules must always be checked locally.
 :::
 
 Graduate research rarely fails because nobody can find another definition of methodology. It becomes difficult when several reasonable actions are available, the evidence is incomplete, the rules vary by institution, and the next useful move is unclear.

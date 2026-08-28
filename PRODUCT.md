@@ -33,7 +33,7 @@ Readers use the book throughout candidature: before meetings, while choosing top
 - Institution-neutral core with explicit method, discipline, institution, and jurisdiction variation.
 - Thirty-six navigation chapters covering all 82 source topics.
 - Fifty-three tracked checklists and templates.
-- Full-book search, collapsible Parts, per-page contents, reader mode, and page-level contribution actions.
+- Full-book search, collapsible Parts, per-page contents, and a direct reader-feedback route.
 - Verified references; no fabricated citations or universalised local policy.
 - Public repository from first pushed commit, while the raw source conversation remains private until approved.
 - CC BY 4.0 content and MIT code/configuration.
@@ -45,7 +45,7 @@ Exact title: **The Handbook for the Recently Enrolled**.
 Subtitle: **An Operating Manual for Graduate Researchers**.  
 Founding author and editor: **Haresh Suppiah**.
 
-The visual identity is an original uncanny academic field manual: distressed dark-brown or oxblood cover, cream block title, dusty-pink italic `Recently Enrolled`, and a lower painterly research vignette. It may acknowledge the general idea of a mysterious manual but must not copy Beetlejuice artwork, typography, logos, composition, or branded details.
+The cover is an original uncanny academic field manual: distressed dark-brown surfaces, cream block title, dusty-pink italic `Recently Enrolled`, and a lower painterly research vignette. The reading interface is deliberately separate: modern black text, a white background, restrained grey rules and sans-serif typography modelled on the structural clarity of *R for the Rest of Us*. The cover may acknowledge the general idea of a mysterious manual but must not copy *Beetlejuice* artwork, typography, logos, composition or branded details.
 
 ## Evidence on Hand
 
@@ -66,4 +66,3 @@ The visual identity is an original uncanny academic field manual: distressed dar
 ## Accessibility & Inclusion
 
 The book must support keyboard use, responsive layouts, clear headings, high contrast, descriptive alternative text, readable print output, plain-language contribution routes, and variation across study mode, experience, discipline, method, institution, and jurisdiction.
-

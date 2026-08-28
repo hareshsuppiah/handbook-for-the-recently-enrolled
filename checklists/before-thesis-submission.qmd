@@ -1,0 +1,35 @@
+---
+title: "Before thesis submission"
+---
+
+**Pause point:** Before uploading or formally submitting the thesis for examination.
+
+**Prevents:** Submitting the wrong file, missing a formal requirement, obscuring contributions, or leaving unresolved permissions, confidentiality or integrity problems.
+
+**Use:** Do-confirm.
+
+## Critical checks
+
+- [ ] Current official submission, notice-of-intention, format and examination requirements have been checked.
+- [ ] The thesis states its overall problem, contribution and the relationship between its studies or chapters.
+- [ ] Claims, terminology, methods, results, tables, figures and conclusions are internally consistent.
+- [ ] Publications, co-authored work and individual contributions are declared as required.
+- [ ] Ethics, governance, data, conflict, funding and research-integrity statements are accurate and complete.
+- [ ] Copyright, permissions, third-party material and licence conditions have been checked.
+- [ ] The final rendered file has been checked page by page for missing content, broken cross-references, unreadable figures, comments and tracked changes.
+- [ ] Accessibility, file format, size and upload requirements have been tested using the exact intended file.
+- [ ] Confidentiality, embargo and sensitive-material arrangements are confirmed in writing where required.
+- [ ] Source files, the final submitted copy and supporting records are stored in an approved, recoverable location.
+- [ ] I understand the examination, correction, appeal, publication and repository steps that follow submission.
+
+## Stop condition
+
+Do not submit an unchecked file or while authorship, permissions, confidentiality, required declarations or formal eligibility remain unresolved.
+
+## Evidence to retain
+
+Keep the exact submitted thesis, upload receipt, final source archive, permissions, declarations, approval evidence and submission checklist.
+
+::: {.callout-warning title="Check locally"}
+Only the institution can confirm candidature eligibility, submission requirements, examination procedures and repository obligations.
+:::

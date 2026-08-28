@@ -1,0 +1,52 @@
+---
+title: "What remains unfinished"
+---
+
+This public site is a **structural prototype**. It demonstrates the book layout, search, navigation, contribution workflow and first phase-based checklists. It is not yet the broad beta promised in the project brief.
+
+## Current requirement status
+
+The authoritative requirements register contains 223 rows.
+
+| Status | Count | Meaning |
+|---|---:|---|
+| Complete | 20 | Implemented and supported by the recorded acceptance evidence |
+| In progress | 12 | Substantive work exists, but required evidence or testing remains |
+| Planned | 188 | Tracked, with a destination, but not yet implemented |
+| Blocked | 1 | Waiting for an owner-approved no-GitHub feedback-form URL |
+| Superseded | 2 | Replaced by later explicit decisions |
+
+This means **201 requirements remain open**. “Open” includes planned, in-progress and blocked work.
+
+## Open work by group
+
+| Group | Open | What is not done |
+|---|---:|---|
+| Original handbook topics | 82 | All topics have destinations, but the 36 current chapter shells do not yet meet the chapter content standard. |
+| Practical resources | 53 | Ten phase checklists now have substantive drafts; they still need specialist and scenario testing. The 33 templates remain placeholders, and the other resource work remains planned. |
+| Quality gates | 23 | Chapter depth, evidence, completed examples, accessibility, print, link, citation and release checks remain open. |
+| Technical requirements | 20 | The site renders and key navigation works, but the full clean-build, accessibility, print, citation, link and asset evidence has not all been recorded. |
+| Editorial and writing principles | 12 | Decision support, supervisor prompts, variation, evidence, stuck pathways, progression and maintenance standards are not fully implemented. |
+| Coverage loops | 8 | Student phase, student variation, stakeholder, failure mode, usability, coherence, external discovery and continuous maintenance passes remain to be run and recorded. |
+| Contribution and support | 2 | The no-GitHub route awaits an approved URL, and the support/private-escalation system is incomplete. |
+| Source authority | 1 | The authority order still needs to be applied consistently through the substantive build. |
+
+## Direct evidence behind this assessment
+
+- The repository contains all 36 planned navigation chapters, but they are short shells and contain no citations.
+- Three generic chapter passages recur 108 times across the book.
+- The 33 templates have identical generic bodies rather than resource-specific fields and examples.
+- The question bank contains 20 seeded questions, and all eight coverage loops remain planned.
+- The source register contains 12 foundation sources rather than the complete evidence base needed for 36 substantive chapters.
+- The “I’m stuck” area remains one general page rather than the required set of diagnostic pathways.
+
+## What is usable now
+
+- the white, black and grey Quarto reading structure;
+- cover, search, collapsible Parts and page-level contents;
+- ten phase-based research checklists as **in-progress drafts**;
+- one plain-language reader feedback form;
+- the owner-approval and editorial record behind submitted feedback;
+- the public requirements register and corrective audit.
+
+The row-by-row status is available in the public repository's [`planning/requirements-checklist.csv`](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/blob/main/planning/requirements-checklist.csv). The detailed corrective audit is [`planning/incomplete-work-audit-2026-08-28.md`](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/blob/main/planning/incomplete-work-audit-2026-08-28.md).

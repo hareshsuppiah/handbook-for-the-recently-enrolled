@@ -1,5 +1,25 @@
 # Content audit
 
+## Corrective audit: scaffold mistaken for content
+
+Date: 28 August 2026
+
+The initial audit overstated implementation. Creating a route, filename or generic shell did not satisfy the source requirement.
+
+Direct inspection found:
+
+- 36 short chapter shells with no citation keys and extensive repeated generic prose;
+- 19 checklist files with identical bodies;
+- 33 template files with identical bodies;
+- no implemented distinction between read-do and do-confirm checklists;
+- no Atul Gawande source in the bibliography or source register;
+- all 82 topic requirements and all 53 resource requirements still marked planned;
+- all eight coverage-loop requirements still marked planned.
+
+The earlier Pass 1 and External-discovery Pass 1 entries record preliminary scaffolding only. They do not count as completed coverage passes. Future passes must record the questions tested, gaps found, files changed, evidence added and acceptance checks completed.
+
+See `planning/incomplete-work-audit-2026-08-28.md` for the counted repository audit.
+
 ## Initial state
 
 Date: 28 August 2026

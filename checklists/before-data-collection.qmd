@@ -1,0 +1,34 @@
+---
+title: "Before data collection"
+---
+
+**Pause point:** Immediately before the first participant, observation, specimen, device recording, field visit or restricted-data transfer.
+
+**Prevents:** Beginning without valid permission, approved materials, trained people, safe procedures or recoverable data systems.
+
+**Use:** Do-confirm.
+
+## Critical checks
+
+- [ ] Written ethics, governance, site, data-access and safety approvals are current and cover the work about to begin.
+- [ ] The team is using the approved and current protocol, recruitment, consent and collection materials.
+- [ ] Everyone performing the work has the required training, role clarity and escalation contacts.
+- [ ] Recruitment, consent, withdrawal, distress, adverse-event and protocol-deviation procedures can be followed in practice.
+- [ ] Instruments, surveys, interview guides, devices, code and transfer steps have been tested using realistic inputs.
+- [ ] Participant identifiers and research data will be separated and protected as approved.
+- [ ] Storage, access controls, naming, transfer, backup and recovery have been tested rather than assumed.
+- [ ] Units, labels, metadata, file versions and data-entry conventions are defined before the first record is created.
+- [ ] Early quality checks have a named owner and a scheduled review point soon enough to correct problems.
+- [ ] Stop and escalation criteria are understood by everyone involved.
+
+## Stop condition
+
+Do not begin if approval, current materials, site permission, safety arrangements, secure storage or recoverability is unresolved.
+
+## Evidence to retain
+
+Keep approvals, approved versions, training and delegation records, test results, access lists, backup-recovery evidence, collection logs, incidents and deviations.
+
+::: {.callout-warning title="Check locally"}
+Required approvals and safety controls vary with the participants, setting, data, methods, jurisdiction and institution.
+:::

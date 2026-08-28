@@ -1,8 +1,8 @@
-# Suggesting an improvement
+# Sharing feedback
 
 You do not need to know Git, GitHub, or coding to help improve this handbook.
 
-Readers suggest changes through a public GitHub issue. Readers are not asked to edit the handbook, fork the repository, use the command line, or prepare a pull request.
+Readers share feedback through one public form. GitHub calls the resulting public record an "issue", but readers are not asked to edit the handbook, fork the repository, use the command line or prepare a pull request.
 
 You can report:
 
@@ -20,7 +20,7 @@ GitHub issues and discussions are public. Do not include participant data, confi
 ## How to submit a suggestion
 
 1. **Without GitHub:** an owner-approved feedback form will be linked when available.
-2. **With GitHub:** choose the relevant [plain-language suggestion form](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/issues/new/choose). One issue should describe one question, problem or proposed improvement.
+2. **With GitHub:** open the [reader feedback form](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/issues/new?template=share-feedback.yml). One submission should describe one question or problem.
 
 Unsolicited pull requests are not the public contribution route. A pull request is created only after Haresh approves an issue and assigns the work to an agent or maintainer.
 

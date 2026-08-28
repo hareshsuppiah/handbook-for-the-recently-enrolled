@@ -1,0 +1,34 @@
+---
+title: "Before writing up a study"
+---
+
+**Pause point:** After the study and its main analyses, before drafting the account that others will rely on.
+
+**Prevents:** Writing from memory, smoothing over deviations, overstating ambiguous results, or losing the connection between the research record and the reported claim.
+
+**Use:** Do-confirm.
+
+## Critical checks
+
+- [ ] The study's actual question, evidence and contribution can be stated without relying on the preferred conclusion.
+- [ ] The design, data, analysis and proposed claims are aligned at the same level of inference.
+- [ ] Confirmatory, amended, exploratory, null, ambiguous, unexpected and sensitivity results are distinguished accurately.
+- [ ] The final protocol, approvals, input-data reference, analysis record and deviations are available while writing.
+- [ ] A suitable reporting guideline or disciplinary standard has been identified where one exists.
+- [ ] Material limitations, missingness, uncertainty and contradictory evidence have been identified before drafting the discussion.
+- [ ] Tables, figures, quotations and numerical results can be traced back to checked source material.
+- [ ] The relationship between this study and other thesis studies is explicit, including overlap and dependence.
+- [ ] Authorship, contributor roles and review responsibilities have been discussed before the draft becomes difficult to disentangle.
+- [ ] Scope boundaries are recorded: what the study shows, what it does not show and what remains unresolved.
+
+## Stop condition
+
+Pause if the preferred account cannot be reconciled with the study record, material deviations or contradictory findings.
+
+## Evidence to retain
+
+Keep the reporting checklist, claim-evidence map, verified tables and figures, deviation record, contributor discussion and the version used for substantive review.
+
+::: {.callout-warning title="Check locally"}
+Reporting, authorship and thesis-inclusion requirements vary by discipline, outlet, institution and contributor agreement.
+:::

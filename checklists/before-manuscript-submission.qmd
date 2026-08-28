@@ -1,0 +1,35 @@
+---
+title: "Before manuscript submission"
+---
+
+**Pause point:** Before submitting a manuscript to a journal, conference or edited collection.
+
+**Prevents:** Submitting to an unsuitable outlet, bypassing author approval, creating inconsistent files, or making claims and disclosures the record cannot support.
+
+**Use:** Do-confirm.
+
+## Critical checks
+
+- [ ] The outlet's scope, audience, legitimacy, fees, timelines and current author instructions have been checked.
+- [ ] Every listed author has approved the exact submission version, order and contribution statement.
+- [ ] Ethics approval, registration, protocol, data description and reported methods are consistent.
+- [ ] The appropriate reporting guideline has been completed where one exists.
+- [ ] Claims, title and abstract match the design, evidence, uncertainty and limitations.
+- [ ] References, data, quotations, tables, figures, statistics, supplements and cross-references have been checked.
+- [ ] Copyright permissions, licences, funding, acknowledgements and conflicts of interest are complete.
+- [ ] Data, code and materials availability statements are accurate and do not breach consent, approval or agreements.
+- [ ] Any required disclosure of AI-assisted work is accurate and consistent with authorship and outlet rules.
+- [ ] The cover letter, manuscript, title page, figures and supplements all belong to the same approved version.
+- [ ] A recoverable copy of the exact submitted package and submission receipt will be retained.
+
+## Stop condition
+
+Do not submit without every author's approval or while the manuscript, supporting files and disclosure record materially disagree.
+
+## Evidence to retain
+
+Keep the outlet check, author approvals, reporting checklist, permission records, exact submission package, receipt and all editorial correspondence.
+
+::: {.callout-warning title="Check locally"}
+Outlet policies change. Recheck the current author instructions and institutional authorship, integrity and open-research requirements at submission.
+:::
