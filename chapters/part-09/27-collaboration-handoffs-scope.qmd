@@ -219,3 +219,12 @@ Verify thesis format and examination rules, partner and funding agreements, inte
 ## Related practical resources
 
 Use the [repository README template](../../templates/repository-readme.qmd), [data-management plan](../../templates/data-management-plan.qmd), [data dictionary](../../templates/data-dictionary.qmd), [decision log](../../templates/decision-log.qmd), [action register](../../templates/action-register.qmd), [authorship conversation record](../../templates/authorship-conversation.qmd) and [project closure and handover checklist](../../checklists/project-closure-handover.qmd).
+
+## Source note
+
+The interface-contract and handoff structure is editorial synthesis. Its contribution, accountability, research-record and reproducibility boundaries draw on the Australian Code, CRediT and reproducibility guidance without treating any one as a universal project-management standard [@australian-code-2018; @credit-taxonomy; @nasem-reproducibility-2019].
+
+## References
+
+::: {#refs}
+:::

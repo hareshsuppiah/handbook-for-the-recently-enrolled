@@ -141,3 +141,12 @@ Access, ethics, privacy, safety, cultural governance, legal obligations, special
 - [Before committing to each study](../../checklists/before-study-commitment.qmd)
 - [Contribution statement](../../templates/contribution-statement.qmd)
 - [I’m stuck](../../stuck/index.qmd)
+
+## Source note
+
+The due-diligence canvas is an editorial synthesis. Its challenge to gap-only justification is informed by research on gap-spotting and problematisation, with the stated discipline limitations [@alvesson-sandberg-2011; @sandberg-alvesson-2011].
+
+## References
+
+::: {#refs}
+:::

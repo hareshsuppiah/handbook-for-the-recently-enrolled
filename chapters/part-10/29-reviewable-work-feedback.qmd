@@ -202,3 +202,12 @@ Confirm supervision expectations, normal review times, milestone responsibilitie
 ## Related practical resources
 
 Use the [supervisor review cover note](../../templates/supervisor-review-cover-note.qmd), [feedback response matrix](../../templates/feedback-response.qmd), [decision log](../../templates/decision-log.qmd), [meeting agenda](../../templates/meeting-agenda.qmd) and [authorship conversation record](../../templates/authorship-conversation.qmd).
+
+## Source note
+
+The review-level and response-matrix system is an editorial workflow. The distinction among goals, current performance and actionable next steps is informed by broader educational feedback research, whose effects are heterogeneous and not doctorate-specific [@hattie-timperley-2007; @wisniewski2020feedback].
+
+## References
+
+::: {#refs}
+:::

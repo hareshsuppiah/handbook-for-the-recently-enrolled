@@ -188,3 +188,12 @@ Confirm supervisory escalation, graduate research coordination, research integri
 ## Related practical resources
 
 Start at the [I’m stuck diagnostic](../../stuck/index.qmd), then use the [pivot, continue or stop decision aid](../../checklists/pivot-continue-stop.qmd), [good-enough rubric](../../checklists/good-enough-rubric.qmd), [risk register](../../templates/risk-issues-register.qmd), [decision log](../../templates/decision-log.qmd) or [escalation message builder](../../templates/escalation-message.qmd).
+
+## Source note
+
+The nine-class diagnostic is an editorial decision aid rather than a clinical or institutional escalation protocol. The candidate, supervisor and organisational responsibility boundaries are consistent with current doctoral-training guidance but must be replaced by the applicable local routes [@ukri-expectations-2024].
+
+## References
+
+::: {#refs}
+:::

@@ -12,4 +12,5 @@ jobs:
       - uses: quarto-dev/quarto-actions/setup@v2
       - name: Render from a clean checkout
         run: quarto render --to html
-
+      - name: Verify chapters, resources, citations and links
+        run: python3 scripts/verify_book.py

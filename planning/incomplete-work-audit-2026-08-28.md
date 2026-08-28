@@ -1,5 +1,7 @@
 # Incomplete-work audit
 
+> **Historical corrective audit.** This document records the state of the earlier structural prototype. Its readiness conclusion has been superseded by the completed [broad-beta release verification](release-verification-2026-08-28.md); it is retained so the project does not conceal what was previously missing.
+
 **Audit date:** 28 August 2026  
 **Source of status:** `planning/requirements-checklist.csv`  
 **Repository state audited:** corrective working tree following commit `5509d38`

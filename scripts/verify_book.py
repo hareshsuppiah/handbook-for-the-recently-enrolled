@@ -61,6 +61,8 @@ def main() -> int:
                 fail(f"chapter missing {label}: {path.relative_to(ROOT)}", failures)
         if "last-reviewed:" not in text:
             fail(f"chapter missing last-reviewed metadata: {path.relative_to(ROOT)}", failures)
+        if not re.search(r"\[@[^\]]+\]", text):
+            fail(f"chapter has no explicit source citation: {path.relative_to(ROOT)}", failures)
 
     resources = []
     with (ROOT / "planning/requirements-checklist.csv").open(newline="", encoding="utf-8") as handle:

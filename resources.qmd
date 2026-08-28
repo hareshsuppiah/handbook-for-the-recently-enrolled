@@ -2,7 +2,7 @@
 title: "Practical resources"
 ---
 
-The original brief specifies 53 checklists and templates. They remain tracked in the requirements register, but most are not yet substantive enough to publish as finished resources. They are no longer presented here as if they were ready.
+The original brief specifies 53 checklists, decision aids and templates. All 53 are now substantive book pages, linked to the decisions and pause points where they are useful.
 
 The first usable release is a set of checklists organised around **consequential pause points**: moments when a short check can still prevent avoidable harm, rework or an indefensible decision.
 
@@ -21,8 +21,21 @@ The first usable release is a set of checklists organised around **consequential
 
 Read [how these checklists work](checklists/index.qmd) before using them.
 
-## Still to be completed
+## Decision aids
 
-The remaining resource families include supervision records, topic and question due diligence, literature searching and synthesis, methods and piloting, data management and reproducibility, Git and responsible AI use, feedback and authorship, journal and reviewer work, escalation, examination, and handover.
+- [Research-question stress test](checklists/research-question-stress-test.qmd)
+- [Search ladder](checklists/search-ladder.qmd)
+- [Pilot readiness](checklists/pilot-readiness.qmd)
+- [Backup and restore test](checklists/backup-restore.qmd)
+- [Git and GitHub starter](checklists/git-github-starter.qmd)
+- [Responsible AI-use decision](checklists/ai-use-decision.qmd)
+- [Good-enough rubric](checklists/good-enough-rubric.qmd)
+- [Pivot, continue or stop](checklists/pivot-continue-stop.qmd)
 
-The public repository keeps the row-by-row status in [`planning/requirements-checklist.csv`](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/blob/main/planning/requirements-checklist.csv) and the current corrective audit in [`planning/incomplete-work-audit-2026-08-28.md`](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/blob/main/planning/incomplete-work-audit-2026-08-28.md).
+## Templates
+
+The 33 templates cover supervision agreements and records; topic, question and contribution due diligence; searching and synthesis; method decisions and deviations; data, file and repository documentation; AI-use records; feedback, authorship and journal decisions; reviewer responses; escalation; and thesis contribution mapping. Browse them in the left book contents under **Practical resources: Templates**.
+
+Priority templates show both a blank structure and a completed example. Each resource explains when to use it, what a defensible entry looks like, and what it cannot decide for you.
+
+The public repository keeps the row-by-row status in [`planning/requirements-checklist.csv`](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/blob/main/planning/requirements-checklist.csv).

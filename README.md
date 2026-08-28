@@ -3,15 +3,16 @@
 **An Operating Manual for Graduate Researchers**  
 **Founding author and editor: Haresh Suppiah**
 
-This repository is the early public build of an institution-neutral, evidence-informed Quarto handbook for graduate researchers. It is under active development and must not yet be treated as complete institutional, legal, ethical, medical, counselling, or emergency guidance.
+This repository contains the broad-beta edition of an institution-neutral, evidence-informed Quarto handbook for graduate researchers. It is a maintained decision-support resource, not institutional, legal, ethical, medical, counselling, or emergency guidance.
 
 ## Current status
 
 - The canonical source has been preserved privately and verified.
 - The full PRD and 223-row requirements ledger are in `planning/`.
-- The website shell, ten phase-gated checklists and reader-feedback workflow now exist.
-- The 36 chapters, 33 templates, evidence base, stuck pathways and most quality gates are still incomplete; this is not yet the promised broad beta.
-- Remaining work is recorded openly rather than hidden behind empty completion claims.
+- All 36 chapters contain substantive, sourced guidance covering the 82 original topics.
+- All 53 practical resources and 11 situation-based “I’m stuck” pathways are rendered in the book.
+- Five coverage passes, two external-discovery passes and automated content/link/render checks are recorded.
+- One owner-dependent item remains: an approved no-GitHub feedback-form URL.
 
 ## Preview locally
 

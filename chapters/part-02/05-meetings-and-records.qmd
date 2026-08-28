@@ -154,3 +154,12 @@ Creative practice, fieldwork, laboratory, clinical, community and industry proje
 - [Decision log](../../templates/decision-log.qmd)
 - [Unresolved-questions log](../../templates/unresolved-questions.qmd)
 - [I’m stuck](../../stuck/index.qmd)
+
+## Source note
+
+The five-record meeting system is an editorial workflow, not a universal supervision rule. It operationalises transparent decisions and responsibilities within the broader doctoral-training role expectations described by UKRI [@ukri-expectations-2024].
+
+## References
+
+::: {#refs}
+:::

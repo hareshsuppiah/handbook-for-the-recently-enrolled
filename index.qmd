@@ -6,7 +6,7 @@ description: "A practical, evidence-informed operating manual for graduate resea
 ---
 
 ::: {.manual-status}
-**Structural prototype, not yet the broad beta.** Of 223 tracked requirements, 201 remain open: 188 planned, 12 in progress and one blocked. Read [exactly what remains unfinished](status.qmd). Institution-specific rules must always be checked locally.
+**Broad-beta release candidate.** The complete 36-chapter handbook, 53 practical resources and situation-based “I’m stuck” pathways are now available. The only owner-dependent item is a future feedback route for readers who do not use GitHub; the current suggestion route remains available. Institution-specific rules must always be checked locally.
 :::
 
 Graduate research rarely fails because nobody can find another definition of methodology. It becomes difficult when several reasonable actions are available, the evidence is incomplete, the rules vary by institution, and the next useful move is unclear.

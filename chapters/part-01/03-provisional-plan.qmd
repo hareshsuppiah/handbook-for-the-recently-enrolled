@@ -159,3 +159,12 @@ Laboratory, fieldwork, archival, computational, qualitative, creative and partic
 - [First 90-day review](../../checklists/first-90-day-review.qmd)
 - [Topic due diligence](../../templates/topic-due-diligence.qmd)
 - [I’m stuck](../../stuck/index.qmd)
+
+## Source note
+
+The provisional-plan workflow is an editorial decision aid. Its separation of candidate, supervisor, organisation and collaborator responsibilities is consistent with—but not dictated by—the UKRI doctoral-training expectations; local candidature rules govern [@ukri-expectations-2024].
+
+## References
+
+::: {#refs}
+:::
