@@ -1,0 +1,34 @@
+---
+title: "Method paralysis"
+status: "broad-beta pathway"
+last-reviewed: "2026-08-28"
+---
+
+## Diagnose
+
+Start from the inference, not the familiar technique. Which claim must the evidence support, under what assumptions?
+
+## Do now
+
+1. Map question → evidence → design → sample/material → measure → analysis → claim.
+2. Compare two or three feasible method families.
+3. List decisive assumptions, access, expertise, burden, risk and time.
+4. Test the cheapest fragile assumption.
+5. Seek method-specific advice with the completed comparison.
+6. Record a provisional choice and review trigger.
+
+## Before asking
+
+Bring the inference target, options table, decisive test results, remaining uncertainty and recommendation.
+
+## Stop or escalate
+
+Pause when no option meets approval, safety or minimal inference requirements. Do not select a method because software is available or a paper used it.
+
+## Evidence of unstuck
+
+One provisional method is selected for stated reasons, with assumptions, authority, pilot and stop conditions visible.
+
+Use the [method-options table](../templates/method-options.qmd) and [method decision record](../templates/method-decision.qmd).
+
+[Return to I’m stuck](index.qmd)

@@ -1,0 +1,34 @@
+---
+title: "Waiting for feedback, approval, access, equipment or data"
+status: "broad-beta pathway"
+last-reviewed: "2026-08-28"
+---
+
+## Diagnose
+
+Is work waiting on a named external action, or is the current route unable to produce the required outcome? Record submitted, received, under review, approved and rejected as different states.
+
+## Do now
+
+1. Name the required decision and its owner.
+2. Record request, receipt, agreed response and latest feasible decision dates.
+3. Identify work that can proceed safely.
+4. Prepare a realistic fallback.
+5. Follow up at the agreed threshold.
+6. Escalate before the protected buffer is exhausted.
+
+## Before asking
+
+Bring the dated record, milestone impact, safe interim work, alternatives and one requested decision.
+
+## Stop or escalate
+
+No response is not permission. Do not begin affected work before required approval or use informal access, credentials or storage.
+
+## Evidence of unstuck
+
+The authorised decision exists or a documented alternative/formal schedule change is active. Another follow-up message alone is not resolution.
+
+Use the [risk register](../templates/risk-issues-register.qmd) and [escalation builder](../templates/escalation-message.qmd).
+
+[Return to I’m stuck](index.qmd)

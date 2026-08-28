@@ -1,0 +1,34 @@
+---
+title: "Supervision, authorship or collaboration problem"
+status: "broad-beta pathway"
+last-reviewed: "2026-08-28"
+---
+
+## Diagnose
+
+Separate unclear expectations, ordinary disagreement, repeated non-performance, contribution dispute, power/coercion and unsafe conduct.
+
+## Do now
+
+1. Preserve factual dated records and relevant agreements.
+2. Identify the decision, role and applicable standard.
+3. State each position faithfully.
+4. Propose a bounded resolution and review date.
+5. Seek independent advice when authority or power makes direct resolution unsafe.
+6. Keep sensitive details in the authorised confidential process.
+
+## Before asking
+
+Bring the output-specific contribution record, relevant messages/decisions, impact, attempted resolution and requested protection or decision.
+
+## Stop or escalate
+
+Use independent formal routes for bullying, harassment, discrimination, retaliation, authorship coercion, suspected misconduct or conflicts of interest. Do not rely only on a person implicated in the concern.
+
+## Evidence of unstuck
+
+Roles, decision and actions are recorded; required protection or review is active; downstream authorship/project records are updated.
+
+Use the [authorship record](../templates/authorship-conversation.qmd) and [escalation builder](../templates/escalation-message.qmd).
+
+[Return to I’m stuck](index.qmd)

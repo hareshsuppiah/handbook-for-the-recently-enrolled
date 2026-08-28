@@ -1,0 +1,29 @@
+---
+title: "Workload, wellbeing, safety or conduct"
+status: "broad-beta pathway"
+last-reviewed: "2026-08-28"
+---
+
+## First response
+
+If there is imminent danger or urgent health need, contact local emergency or health services now. This page cannot assess urgency or provide clinical, legal or investigative support.
+
+## Choose the authorised route
+
+Use appropriate local services for serious distress, illness or disability support, unsafe workload, participant harm, laboratory/field safety, bullying or harassment, discrimination, privacy/data breach, suspected misconduct, legal threat or pressure to breach an approval.
+
+## Preserve only what is safe
+
+Record factual dates, events, impacts and relevant communications in an authorised confidential location. Do not investigate beyond your role, confront someone when unsafe, or circulate sensitive allegations through ordinary project tools.
+
+## Ask for a concrete protection or decision
+
+Examples: immediate safety action; confidential advice; workload adjustment; leave/candidature variation; independent supervision contact; incident or integrity assessment; preservation of access and records.
+
+## Evidence of next state
+
+The appropriate service has accepted the matter, immediate protections are in place, and the next responsible contact/time is known. An email sent without acknowledgement may not be sufficient for urgent risk.
+
+Use the [escalation builder](../templates/escalation-message.qmd) only when it is safe and appropriate.
+
+[Return to I’m stuck](index.qmd)

@@ -1,48 +1,71 @@
 ---
-title: "Escalation Message"
-status: "beta resource"
+title: "Escalation message builder"
+status: "broad-beta resource"
 last-reviewed: "2026-08-28"
 ---
 
-::: {.manual-status}
-**Resource status:** Usable beta. Adapt it to the method and check local requirements. Do not place confidential or identifiable information in a public copy.
-:::
+Use this to request a decision, protection or intervention when the ordinary route has not resolved the issue or is inappropriate. Use emergency or specialist reporting routes directly when urgent.
 
-## When to use it
+## Privacy screen
 
-Use this template when the relevant reasoning needs to remain visible after the conversation or task has ended. Replace the prompts; do not leave bracketed instructions in a final record.
+- [ ] I am contacting the correct authorised recipient.
+- [ ] I have included only information needed for this decision.
+- [ ] Sensitive evidence is stored in an approved location, not broadly attached.
+- [ ] I have avoided speculation about motives or diagnoses.
+- [ ] I have named any immediate safety, participant, privacy or integrity concern clearly.
 
-## Blank template
+## Blank message
 
-**Purpose or decision:** [What is this record for?]  
-**Context:** [What has happened, and what stage is the work at?]  
-**Known facts and evidence:** [Cite or link the authoritative record.]  
-**Assumptions:** [What is believed but not yet verified?]  
-**Constraints and local requirements:** [What limits the available choices?]  
-**Options considered:** [Include realistic alternatives.]  
-**Provisional recommendation:** [What should happen, and why?]  
-**Owner and next action:** [Name the person and action.]  
-**Evidence of done:** [What observable result will close this item?]  
-**Review or escalation date:** [When will this be reconsidered?]
+**Subject:** Decision/support needed by [date]: [specific issue]
+
+Hello [name/role],
+
+I am requesting [the exact decision, protection, review or action].
+
+The current position is [two or three factual sentences: expected state, observed state and relevant dates]. The immediate impact is [milestone, work, participant, safety or other consequence].
+
+I have already [actions and results]. The relevant record is [authorised location or concise reference].
+
+The feasible options I can see are:
+
+1. [option and main consequence];
+2. [option and main consequence]; and
+3. [option and main consequence].
+
+My provisional recommendation is [option] because [bounded reason]. I need [decision/action] by [date] because [trigger or consequence]. Please let me know if this should instead use [known formal route].
+
+Regards,
+
+[name]
 
 ## Completed example
 
-**Purpose or decision:** choose the next reversible project step.  
-**Context:** the preferred activity depends on an approval that has not yet been confirmed.  
-**Known facts and evidence:** the submitted request and current approved protocol are linked in the project record.  
-**Assumptions:** approval may arrive this week; this is not treated as confirmed.  
-**Constraints and local requirements:** no participant-facing activity may begin before written approval.  
-**Options considered:** wait; prepare non-participant materials; redesign the sequence.  
-**Provisional recommendation:** complete reversible preparation only.  
-**Owner and next action:** researcher prepares materials and checks status on Friday.  
-**Evidence of done:** materials saved in the approved project location and status recorded.  
-**Review or escalation date:** Friday, or earlier if the milestone is threatened.
+**Subject:** Supervision review decision needed by 22 September: ethics submission dependency
 
-## What this prevents
+Hello Graduate Research Coordinator,
 
-This resource reduces decisions being lost, assumptions being mistaken for facts, and actions being marked complete without evidence.
+I am requesting help to secure or reassign the review needed before my ethics submission can proceed.
+
+My recruitment flow and three review questions were sent to my principal supervisor on 2 September under our agreed two-week review window. I followed up on 17 September and have not received a response. The ethics package requires five working days after this decision and is due on 30 September.
+
+I have completed the other package checks and asked my co-supervisor whether they can review it. The dated requests and current package are in the approved supervision record.
+
+The feasible options are: agree a review time this week; authorise the co-supervisor to complete this review; or revise the milestone through the formal process. I recommend confirming the co-supervisor review by 22 September while retaining principal-supervisor visibility.
+
+Could you advise or decide the appropriate route by 22 September? No participant-facing work will begin before written approval.
+
+Regards,
+
+[name]
+
+## Scenario test
+
+If the supervisor is implicated in bullying or retaliation, do not send this message to them as the only route. Use an independent complaints, safety, advocacy or graduate research contact. Keep sensitive evidence out of an ordinary shared supervision folder.
+
+## Evidence of done
+
+Record the response, decision, owner, due date and resulting changes. “Message sent” does not prove the issue was resolved.
 
 ## Related guidance
 
-Return to the [handbook contents](../index.qmd), browse the [resource library](../resources.qmd), or use [I’m stuck](../stuck/index.qmd).
-
+Use [Decide, pivot and get unstuck](../chapters/part-11/33-decide-and-stuck.qmd) and the relevant [I’m stuck pathway](../stuck/index.qmd).

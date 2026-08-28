@@ -81,21 +81,79 @@ book:
         - chapters/part-12/34-independence-contribution.qmd
         - chapters/part-12/35-examination-corrections.qmd
         - chapters/part-12/36-closure-transition.qmd
-    - part: "Practical resources"
+    - part: "Practical resources: Checklists and decision aids"
       chapters:
         - resources.qmd
         - checklists/index.qmd
         - checklists/starting-candidature.qmd
         - checklists/first-90-day-review.qmd
         - checklists/before-study-commitment.qmd
+        - checklists/research-question-stress-test.qmd
+        - checklists/search-ladder.qmd
+        - checklists/pilot-readiness.qmd
         - checklists/before-ethics-submission.qmd
         - checklists/before-data-collection.qmd
+        - checklists/backup-restore.qmd
         - checklists/before-analysis.qmd
+        - checklists/git-github-starter.qmd
+        - checklists/ai-use-decision.qmd
         - checklists/before-study-write-up.qmd
         - checklists/before-manuscript-submission.qmd
+        - checklists/good-enough-rubric.qmd
+        - checklists/pivot-continue-stop.qmd
         - checklists/before-thesis-submission.qmd
         - checklists/project-closure-handover.qmd
+    - part: "Practical resources: Templates"
+      chapters:
+        - templates/supervisor-expectations.qmd
+        - templates/supervision-agreement.qmd
+        - templates/meeting-agenda.qmd
+        - templates/meeting-record.qmd
+        - templates/matters-arising.qmd
+        - templates/action-register.qmd
+        - templates/decision-log.qmd
+        - templates/unresolved-questions.qmd
+        - templates/risk-issues-register.qmd
+        - templates/topic-due-diligence.qmd
+        - templates/topic-case.qmd
+        - templates/contribution-statement.qmd
+        - templates/search-concepts.qmd
+        - templates/search-log.qmd
+        - templates/citation-chaining.qmd
+        - templates/paper-triage-extraction.qmd
+        - templates/evidence-matrix.qmd
+        - templates/synthesis-argument-map.qmd
+        - templates/method-options.qmd
+        - templates/method-decision.qmd
+        - templates/protocol-deviation.qmd
+        - templates/data-management-plan.qmd
+        - templates/folder-file-naming.qmd
+        - templates/data-dictionary.qmd
+        - templates/repository-readme.qmd
+        - templates/ai-use-log.qmd
+        - templates/supervisor-review-cover-note.qmd
+        - templates/feedback-response.qmd
+        - templates/authorship-conversation.qmd
+        - templates/journal-due-diligence.qmd
+        - templates/reviewer-response.qmd
+        - templates/escalation-message.qmd
+        - templates/thesis-contribution-map.qmd
+    - part: "I’m stuck pathways"
+      chapters:
         - stuck/index.qmd
+        - stuck/starting-or-expectations.qmd
+        - stuck/topic-or-question.qmd
+        - stuck/endless-searching.qmd
+        - stuck/method-paralysis.qmd
+        - stuck/waiting-or-blocked.qmd
+        - stuck/study-failure.qmd
+        - stuck/technical-failure.qmd
+        - stuck/writing-or-perfectionism.qmd
+        - stuck/relationship-or-authorship.qmd
+        - stuck/good-enough.qmd
+        - stuck/wellbeing-or-safety.qmd
+    - part: "Support and contributions"
+      chapters:
         - support.qmd
         - contributions/index.qmd
     - references.qmd

@@ -1,42 +1,47 @@
 ---
 title: "I’m stuck"
+status: "broad-beta resource"
+last-reviewed: "2026-08-28"
 ---
 
-This page is a five-minute triage point, not a diagnosis of you or your ability.
+This is a five-minute triage point, not a diagnosis of you or your ability.
 
-## The five-minute diagnostic
+## First: is this urgent or unsafe?
 
-1. Write the outcome you are trying to produce in one sentence.
+Use appropriate local help now for imminent danger, serious distress, participant harm, bullying or harassment, discrimination, suspected misconduct, privacy or data breach, legal threat, or pressure to act outside an approval. Do not wait to complete this diagnostic. The handbook cannot provide emergency response, investigate a case or guarantee confidentiality.
+
+## Five-minute diagnostic
+
+1. Write the observable outcome you are trying to produce.
 2. Name the smallest decision preventing movement.
-3. Classify the blockage: **clarity, evidence, decision, permission, access, skill, capacity, relationship, or risk**.
-4. Record what you have already checked.
-5. Choose one action that either resolves the blockage or produces better evidence about it.
-
-## Smallest useful next action
+3. Separate what is known, assumed and missing.
+4. Classify the blockage: clarity, evidence, skill, access, permission, capacity, relationship, technical state or risk.
+5. Name who can act or decide.
+6. Choose one safe action that resolves the blockage or produces decisive evidence.
+7. Set the date at which you will change route or escalate.
 
 ::: {.decision-card}
-If you cannot identify the decision, write a two-column list: “what is known” and “what remains uncertain”. Circle the uncertainty that changes what you would do next. That is the issue to investigate or take to a supervisor.
+If the next action still reads “work on thesis”, make it smaller: verb + object + location/context + evidence of done.
 :::
 
-## Common pathways
+## Choose your pathway
 
-- Starting point or unclear expectations
-- Topic too broad, too narrow, or not consequential
-- Endless searching or inability to synthesise
-- Method paralysis
-- Waiting for feedback, approval, access, equipment or data
-- Recruitment, study or analysis failure
-- Writing blockage, perfectionism or endless revision
-- Lost versions or irreproducible work
-- Supervisor disagreement, authorship, integrity or governance concern
-- Workload, wellbeing or safety concern
-- Uncertainty about whether the work is good enough
+- [My starting point or expectations are unclear](starting-or-expectations.qmd)
+- [My topic or question is not defensible yet](topic-or-question.qmd)
+- [I cannot stop searching or synthesise what I have](endless-searching.qmd)
+- [I cannot choose a method](method-paralysis.qmd)
+- [I am waiting for feedback, approval, access, equipment or data](waiting-or-blocked.qmd)
+- [Recruitment, the study or the findings have failed](study-failure.qmd)
+- [My analysis, code or files do not work](technical-failure.qmd)
+- [I cannot start or stop revising the writing](writing-or-perfectionism.qmd)
+- [There is a supervision, authorship or collaboration problem](relationship-or-authorship.qmd)
+- [I am unsure whether the work is good enough](good-enough.qmd)
+- [Workload, wellbeing, safety or conduct needs a different route](wellbeing-or-safety.qmd)
 
-## What to bring to a supervisor
+## What to bring when asking for help
 
-Bring the problem, the decision you think is required, checks already completed, evidence or constraints, two or three feasible options, your provisional recommendation, and one precise request.
+Bring the outcome, blocked decision, evidence checked, constraints, options, provisional recommendation, deadline/risk and one precise request. Use the [escalation message builder](../templates/escalation-message.qmd) if an agreed route has failed or direct resolution is inappropriate.
 
-## Escalate now
+## Evidence that you are unstuck
 
-Use formal local help promptly when the issue involves safety, serious distress, bullying or harassment, discrimination, suspected research misconduct, a privacy or data breach, participant harm, legal threats, or pressure to act against an approval or policy. The handbook cannot manage these cases.
-
+The next action has begun or the authorised decision has been made; its result is recorded; downstream work is updated; and a review threshold exists. A message sent or meeting booked is progress, but not necessarily resolution.

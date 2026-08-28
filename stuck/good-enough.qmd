@@ -1,0 +1,34 @@
+---
+title: "Unsure whether the work is good enough"
+status: "broad-beta pathway"
+last-reviewed: "2026-08-28"
+---
+
+## Diagnose
+
+Name the stage: explore, decide, review, submit/act, or archive/handover. Quality without a purpose or gate cannot be tested.
+
+## Do now
+
+1. State the audience, decision and authority.
+2. Run the stage rubric.
+3. Separate critical failures from optional improvements.
+4. Fix safety, integrity, approval, evidence and reproducibility failures first.
+5. Defer work that addresses no failed test or requirement.
+6. Obtain the named review decision.
+
+## Before asking
+
+Bring the stage, acceptance criteria, evidence for each test, failed checks, optional refinements and one decision request.
+
+## Stop or change route
+
+Do not proceed because of deadline alone when a critical check fails. Do not delay because an unrequested improvement remains imaginable.
+
+## Evidence of unstuck
+
+Every critical test passes or has an authorised disposition, and the next gate is recorded.
+
+Use the [good-enough rubric](../checklists/good-enough-rubric.qmd) and the relevant phase checklist.
+
+[Return to I’m stuck](index.qmd)

@@ -1,0 +1,34 @@
+---
+title: "Analysis, code or files do not work"
+status: "broad-beta pathway"
+last-reviewed: "2026-08-28"
+---
+
+## Diagnose
+
+Preserve the exact command, error, inputs, revision, environment, expected result, actual result and last working state.
+
+## Do now
+
+1. Reproduce the failure.
+2. Build the smallest safe example.
+3. Classify input, environment, configuration, logic, state, dependency, resource or output.
+4. Test one controlled hypothesis.
+5. Record result and next branch.
+6. After repair, run cleanly from authoritative inputs and compare consequential outputs.
+
+## Before asking
+
+Bring reproduction steps, full error, non-sensitive inputs, environment, attempts and one precise question. Never share credentials or protected data.
+
+## Stop or escalate
+
+Escalate irreproducible reported results, possible data loss, security incident or governance control. Do not “fix” permissions by bypassing them.
+
+## Evidence of unstuck
+
+A clean run produces verified outputs and another authorised person can reproduce the route.
+
+Use [Technical failure](../chapters/part-11/32-technical-failure-perfectionism.qmd) and the [before-analysis checklist](../checklists/before-analysis.qmd).
+
+[Return to I’m stuck](index.qmd)

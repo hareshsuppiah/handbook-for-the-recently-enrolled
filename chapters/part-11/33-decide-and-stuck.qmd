@@ -1,55 +1,190 @@
 ---
 title: "Decide, pivot and get unstuck"
-status: "broad-beta baseline"
+status: "broad-beta draft"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta baseline. Evidence verification and worked examples are being expanded; local requirements must be checked before acting.
+**Content status:** Broad-beta draft. Urgent safety, serious distress, participant harm, misconduct, privacy breach, harassment, discrimination and legal concerns require the appropriate local service—not ordinary project troubleshooting.
 :::
+
+## The questions students are usually asking
+
+- Why am I busy but not moving?
+- Is the problem unclear work, missing evidence, permission, skill, capacity or a relationship?
+- Should I persist, simplify, redesign, pivot, pause, stop or escalate?
+- What can I do before asking my supervisor?
+- What if my supervisor is part of the problem?
+- How do I ask for help without sending a long history nobody can act on?
+- How do I know the blockage is actually resolved?
 
 ## The direct answer
 
-Being stuck is often an unclassified blockage. Name the decision, constraint or risk before choosing a response.
+Being stuck is a state of the work, not a diagnosis of the researcher. Name the outcome, identify the smallest blocked decision, classify the constraint and take one evidence-producing action. If the issue exceeds your control or authority, escalate with a concise factual record and a precise request.
 
-## The decision in front of you
+Do not default to “work harder”. Different blockage classes require different interventions.
 
-Should the next move be to persist, simplify, redesign, pivot, pause, stop or escalate?
+## Run the five-minute diagnostic
+
+1. **Outcome:** What observable state are you trying to create?
+2. **Decision:** What choice, judgement or approval currently prevents it?
+3. **Evidence:** What is known, assumed and missing?
+4. **Class:** Is the blockage clarity, evidence, skill, access, permission, capacity, relationship, technical state or risk?
+5. **Control:** Who can act or decide?
+6. **Next test:** What smallest safe action would resolve it or produce decisive evidence?
+7. **Threshold:** When will you change route or escalate?
 
 ::: {.decision-card}
-**Smallest useful next action:** Use the five-minute stuck diagnostic and choose one evidence-producing action.
+**Smallest useful next action:** Write two columns—“known” and “uncertain”. Circle the uncertainty that would change what you do next, then assign one test, owner and decision date.
 :::
 
-## A defensible way to proceed
+## Route by blockage class
 
-1. State the outcome or decision in plain language.
-2. Separate known facts, assumptions, constraints and unresolved questions.
-3. Check the evidence and any applicable local requirement.
-4. Compare realistic options, including doing less, waiting or stopping.
-5. Record the choice, reasons, owner, next review point and evidence of completion.
+| Class | Diagnostic question | Useful first move |
+|---|---|---|
+| Clarity | Is the required outcome or standard undefined? | obtain an example, criterion or explicit decision |
+| Evidence | Is a consequential claim or option unsupported? | run a bounded search, extraction or cheap test |
+| Skill | Is the task understood but capability missing? | seek targeted training or expert review using a worked example |
+| Access | Does another person/system control a required input? | document request, follow-up, fallback and escalation date |
+| Permission | Is authority or approval absent? | stop affected work and use the authorised process |
+| Capacity | Is available time, health, attention or resource insufficient? | reduce load, change scope or use formal support/variation |
+| Relationship | Are expectations, feedback, power or conflict preventing action? | clarify roles or seek independent support |
+| Technical | Can the failure be reproduced and classified? | preserve state and build a smallest safe example |
+| Risk | Could action cause harm, breach or irreversible loss? | contain, seek specialist authority and do not improvise |
+
+Choose the matching [I’m stuck pathway](../../stuck/index.qmd) for the full route.
+
+## Decide the response
+
+### Persist
+
+Use when the outcome remains valuable, the route remains defensible and the problem is a bounded obstacle with a credible test. Set a review trigger; persistence without one becomes drift.
+
+### Simplify
+
+Use when the core contribution remains intact but the implementation, scope or output exceeds what is necessary. Remove components while preserving the essential inference and requirements.
+
+### Redesign
+
+Use when the question remains but the current method cannot answer it. Compare alternatives and reassess approvals, feasibility and thesis coherence.
+
+### Pivot
+
+Use when a different question or evidence route can preserve a worthwhile contribution. Make the change explicit; do not retrospectively claim the new direction was always intended.
+
+### Pause
+
+Use when a temporary constraint, approval, safety, health or dependency must be resolved before affected work continues. Define what can proceed safely and when the pause will be reviewed.
+
+### Stop
+
+Use when no important, feasible and responsible contribution remains or continuing would cause disproportionate harm, burden or displacement. Close records and obligations properly.
+
+### Escalate
+
+Use when the decision, authority, risk or relationship exceeds the current working group; an agreed response is overdue; or direct resolution is unsafe.
+
+## Compare routes without sunk-cost bias
+
+For each realistic route, compare:
+
+- contribution preserved or lost;
+- evidence and assumptions;
+- safety, integrity and approval effects;
+- time, effort, money and participant burden;
+- reversibility;
+- dependencies and probability of resolution;
+- downstream thesis and output effects;
+- opportunity cost; and
+- decision authority.
+
+Previous investment matters only when it changes the future cost or value. It is not a reason by itself to continue.
+
+## Escalate a decision-ready problem
+
+A useful escalation contains:
+
+1. requested decision or protection;
+2. brief factual context and current state;
+3. immediate risk or deadline;
+4. evidence and actions already taken;
+5. options considered and provisional recommendation;
+6. authority or local process involved;
+7. response needed and by when; and
+8. a safe contact route.
+
+Leave out speculation, motive and unnecessary sensitive detail. Preserve supporting records in the authorised location rather than attaching them indiscriminately.
+
+## Worked example: waiting for supervisor feedback
+
+**Outcome:** Submit the ethics application by 30 September.
+
+**Blocked decision:** Whether the recruitment route is ready for privacy review.
+
+**Evidence:** Draft and bounded questions sent on 2 September; two-week review window agreed; follow-up sent 17 September; no response. The application needs five working days after this decision.
+
+**Classification:** External dependency now threatens a milestone. This is waiting approaching blocked, not a writing-skill problem.
+
+**Options:** Agree an immediate review time; obtain review from the co-supervisor; move the milestone through the formal process; or revise sequence while preserving the approval boundary.
+
+**Escalation:** Send a concise decision request stating the deadline, prior agreement, impact, options and preferred resolution. If ordinary supervision cannot resolve the repeated delay, use the graduate research support route.
+
+**Evidence of done:** A recorded decision or formally revised milestone—not merely another message sent.
+
+## Worked example: method paralysis
+
+Three plausible methods remain. The student has read for six weeks without defining what would choose among them.
+
+**Blocked decision:** Which design can support the required inference within access and time constraints?
+
+**Next test:** Complete the method-options table using inference, assumptions, data, feasibility, risks and stop conditions. Test the two cheapest decisive assumptions: written data access and measurement availability. Take a provisional recommendation to a methodologist.
+
+More general reading is deferred unless one of those tests exposes a specific evidence gap.
+
+## When not to route through a supervisor
+
+Use independent or formal support when the supervisor is implicated in bullying, harassment, discrimination, retaliation, unsafe conduct, authorship coercion, suspected misconduct or an unresolved conflict of interest. For imminent danger or urgent health needs, use emergency or health services. The handbook cannot assess urgency or guarantee confidentiality.
 
 ## Common failure modes
 
-- treating an early plan as permanently fixed;
-- collecting information without naming the decision it should inform;
-- copying a method or workflow without checking fit;
-- waiting for perfect certainty when a reversible next step is available;
-- relying on private memory instead of a recoverable project record;
-- presenting an institutional rule or one disciplinary convention as universal.
+- calling yourself stuck without naming the blocked outcome;
+- solving a clarity problem with more effort;
+- solving an authority problem with private workarounds;
+- solving a capacity problem by adding productivity tools;
+- reading indefinitely without a decision criterion;
+- escalating a full chronology without a request;
+- waiting until the deadline is already lost;
+- treating a sent escalation as resolved;
+- persisting because of sunk effort;
+- pivoting toward attractive results after seeing them;
+- stopping without closing obligations; and
+- routing a safety or misconduct concern only through ordinary supervision.
 
 ## Good enough for now
 
-Good enough means the work is proportionate to its current purpose, major risks are controlled, important assumptions are visible, and the next decision can be defended. It does not mean that every uncertainty has disappeared.
+You are unstuck when the next action can be started, its owner and authority are known, it produces observable evidence, and a review or escalation threshold exists. Feeling more hopeful can help, but it is not the completion test.
 
-## Before you ask your supervisor
+## Before you ask for help
 
-Bring a concise problem statement, the checks you completed, the strongest relevant evidence, feasible options, your provisional recommendation and one precise request. If risk, approval, participant welfare, integrity or safety is involved, seek the appropriate specialist or formal local process rather than relying only on an ordinary supervision meeting.
+Bring the outcome, blocked decision, classification, facts and assumptions, checks already completed, realistic options, recommendation, risk/deadline and one precise request. Use the [escalation message builder](../../templates/escalation-message.qmd) when the ordinary route has failed or is inappropriate.
+
+## Pause-point checklist
+
+- [ ] The required outcome is observable.
+- [ ] The smallest blocked decision is named.
+- [ ] Facts, assumptions and missing evidence are separated.
+- [ ] The blockage class matches the proposed response.
+- [ ] Control and authority are explicit.
+- [ ] At least two feasible routes are considered where consequential.
+- [ ] Sunk effort is excluded from the forward-value decision.
+- [ ] The next action produces evidence and has an owner.
+- [ ] Review and escalation thresholds are dated.
+- [ ] Urgent or unsafe matters use an independent authorised route.
 
 ## Check locally
 
-Milestones, approvals, systems, storage, authorship processes, examination requirements and support routes vary. Verify the current rule with the responsible office or official documentation.
+Confirm supervisory escalation, graduate research coordination, research integrity, ethics, privacy, safety, complaints, disability support, counselling, leave, candidature variation, ombuds or advocacy, emergency and after-hours processes.
 
 ## Related practical resources
 
-Use the [practical resource library](../../resources.qmd) and the [I’m stuck pathway](../../stuck/index.qmd) to turn this guidance into a documented action.
-
+Start at the [I’m stuck diagnostic](../../stuck/index.qmd), then use the [pivot, continue or stop decision aid](../../checklists/pivot-continue-stop.qmd), [good-enough rubric](../../checklists/good-enough-rubric.qmd), [risk register](../../templates/risk-issues-register.qmd), [decision log](../../templates/decision-log.qmd) or [escalation message builder](../../templates/escalation-message.qmd).

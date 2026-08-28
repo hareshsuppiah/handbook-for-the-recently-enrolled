@@ -1,0 +1,34 @@
+---
+title: "Recruitment, study or findings have failed"
+status: "broad-beta pathway"
+last-reviewed: "2026-08-28"
+---
+
+## Diagnose
+
+Freeze the record and name what failed: access, recruitment, implementation, measurement, analysis, governance, prediction or planned precision.
+
+## Do now
+
+1. Preserve protocol, approvals, data, code, deviations and trigger evidence.
+2. Trace the affected inference chain.
+3. Separate observation from explanation.
+4. State which claims remain defensible.
+5. Compare repair, narrow, redesign, report and stop.
+6. obtain required amendment or authority before changed work.
+
+## Before asking
+
+Bring the expected-versus-observed account, failure evidence, remaining value, options, burden, approval effects and recommendation.
+
+## Stop or escalate
+
+Use urgent processes for participant harm, breach or unsafe work. Do not redefine planned aims after seeing favourable outcomes.
+
+## Evidence of unstuck
+
+A dated authorised decision preserves the original record and updates question, method, approvals, analysis, contribution and closure obligations.
+
+Use [When studies fail](../chapters/part-11/31-failed-studies.qmd) and the [pivot aid](../checklists/pivot-continue-stop.qmd).
+
+[Return to I’m stuck](index.qmd)

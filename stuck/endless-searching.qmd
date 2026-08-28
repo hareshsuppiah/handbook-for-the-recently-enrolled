@@ -1,0 +1,34 @@
+---
+title: "Endless searching or no synthesis"
+status: "broad-beta pathway"
+last-reviewed: "2026-08-28"
+---
+
+## Diagnose
+
+Name whether the problem is orientation, terminology, retrieval, inclusion, extraction, comparison or argument. “More literature” is not yet a search purpose.
+
+## Do now
+
+1. State the decision or claim the search must support.
+2. Choose the correct search-ladder level.
+3. Define concepts, sources, dates and stopping evidence.
+4. Triage before full extraction.
+5. Compare studies in an evidence matrix.
+6. Draft a bounded claim, contrary evidence, warrant and boundary.
+
+## Before asking
+
+Bring the question, search level, exact strings/databases, results by step, inclusion rule, stopping rule and the claim you still cannot support.
+
+## Stop or change route
+
+Stop repeating near-identical searches when new runs add no decision-relevant concept or source. Seek librarian help when translation, indexing or coverage is the issue.
+
+## Evidence of unstuck
+
+The search has a purpose and reproducible record; the next action is extraction, synthesis or a specific targeted search—not “keep looking”.
+
+Use the [search ladder](../checklists/search-ladder.qmd) and [synthesis map](../templates/synthesis-argument-map.qmd).
+
+[Return to I’m stuck](index.qmd)

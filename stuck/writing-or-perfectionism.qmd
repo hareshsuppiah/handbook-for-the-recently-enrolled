@@ -1,0 +1,34 @@
+---
+title: "Writing blockage or endless revision"
+status: "broad-beta pathway"
+last-reviewed: "2026-08-28"
+---
+
+## Diagnose
+
+Is the blockage question, argument, evidence, structure, feedback, sentence production or an undefined standard?
+
+## Do now
+
+1. Name the reader's question.
+2. Write the bounded claim, evidence, warrant and boundary.
+3. Create paragraph-function headings before prose.
+4. Label gaps rather than inventing content.
+5. Choose the review stage and acceptance tests.
+6. Freeze optional refinements after the gate.
+
+## Before asking
+
+Bring the draft state, argument map, known gaps, checks completed and one to three review questions.
+
+## Stop or change route
+
+Stop copy editing when the argument is unstable. Stop reopening design when submission checks pass and no material defect is recorded.
+
+## Evidence of unstuck
+
+A bounded section or review package exists, passes the stage rubric and has a clear next reviewer or gate.
+
+Use the [argument map](../templates/synthesis-argument-map.qmd), [review cover note](../templates/supervisor-review-cover-note.qmd) and [good-enough rubric](../checklists/good-enough-rubric.qmd).
+
+[Return to I’m stuck](index.qmd)

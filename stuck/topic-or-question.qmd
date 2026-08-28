@@ -1,0 +1,33 @@
+---
+title: "Topic or question is not defensible yet"
+status: "broad-beta pathway"
+last-reviewed: "2026-08-28"
+---
+
+## Diagnose
+
+Identify the weakest link: consequential problem, gap, question, access, method, feasible evidence or contribution.
+
+## Do now
+
+1. State the problem and affected people without claiming a solution.
+2. Write the question using a verb that signals the intended inference.
+3. Map required evidence and the method capable of producing it.
+4. Test access, sample, measurement and approval assumptions cheaply.
+5. Compare continue, narrow, pivot, pause and stop.
+
+Use the [topic due-diligence canvas](../templates/topic-due-diligence.qmd) and [research-question stress test](../checklists/research-question-stress-test.qmd).
+
+## Before asking
+
+Bring the one-page topic case, failed assumptions, two feasible alternatives and a provisional recommendation.
+
+## Stop or escalate
+
+Do not commit major resources while essential access is only informal, the question cannot be answered by the proposed evidence, or the work creates uncontrolled harm.
+
+## Evidence of unstuck
+
+A provisional question, evidence route, boundary, cheap next test and stop condition are recorded.
+
+[Return to I’m stuck](index.qmd)
