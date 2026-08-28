@@ -1,0 +1,52 @@
+---
+title: "Pivot, continue or stop decision aid"
+status: "broad-beta resource"
+last-reviewed: "2026-08-28"
+---
+
+**Pause point:** When consequential new evidence, failure or constraint challenges the current project direction.
+
+**Prevents:** Continuing because of sunk effort, pivoting toward attractive results, or stopping before testing a repairable dependency.
+
+## Five-minute diagnostic
+
+1. What changed, and what evidence proves it?
+2. Which link in problem → question → evidence → inference → contribution is affected?
+3. Is the issue temporary, repairable, structural or unsafe?
+4. What realistic options exist, including doing less or stopping?
+5. Which decision belongs to the student, supervisors or a formal authority?
+
+## Decision matrix
+
+| Condition | Default response |
+|---|---|
+| Alignment intact; risk controlled | Continue and record review trigger |
+| Central problem intact; scope excessive | Narrow |
+| Different question or evidence can preserve a worthwhile contribution | Pivot |
+| Required access, approval, safety or wellbeing issue may be resolved | Pause affected work |
+| No important, feasible and responsible contribution remains | Stop or redesign at project level |
+
+## Do-confirm checks
+
+- [ ] The decision is based on current evidence, not only discomfort or sunk cost.
+- [ ] Contrary evidence and realistic alternatives were considered.
+- [ ] The proposed path remains ethical, feasible and aligned.
+- [ ] Effects on approvals, registrations, partners, milestones and resources are known.
+- [ ] Previous decisions and the reason for change remain visible.
+- [ ] The next action, owner, evidence of done and review date are recorded.
+
+## Stop conditions
+
+Pause affected work immediately if continuing would breach approval, safety, integrity, consent, privacy, cultural governance or legal requirements. Use the appropriate formal or specialist route.
+
+## Worked scenario
+
+Recruitment reaches 20% of the minimum viable pool after the agreed feasibility window. Options are an additional authorised site, a narrower qualitative question, extended recruitment or stopping the study. The team compares contribution, approval, time and burden; it does not extend recruitment automatically because six months have already been invested.
+
+## What to bring to supervision
+
+The trigger evidence, affected decision chain, options, costs, approval effects, recommendation and exact decision needed.
+
+## Related guidance
+
+[Questions, aims and pivots](../chapters/part-03/09-questions-and-pivots.qmd) and [Failed studies](../chapters/part-11/31-failed-studies.qmd).
