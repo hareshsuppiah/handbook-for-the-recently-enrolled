@@ -1,55 +1,222 @@
 ---
 title: "Examination and corrections"
-status: "broad-beta baseline"
+status: "broad-beta draft"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta baseline. Evidence verification and worked examples are being expanded; local requirements must be checked before acting.
+**Content status:** Broad-beta draft. Notice, eligibility, examiner nomination, thesis format, oral examination, result categories, correction authority, appeals and deadlines vary substantially. Only the awarding institution can define the applicable process.
 :::
+
+## The questions students are usually asking
+
+- How do I know the thesis is ready for examination?
+- What will examiners actually test?
+- How should I prepare for a viva or oral defence?
+- What if I notice an error after submission?
+- How do I respond to vague or conflicting corrections?
+- Can I improve other parts while making required corrections?
+- What evidence proves the corrected thesis is complete?
 
 ## The direct answer
 
-Prepare for examination by making the contribution, evidence chain, limitations and decision record easy to inspect.
+Submit when the thesis makes a coherent, bounded contribution and the exact package passes scholarly, integrity, permission and formal checks—not when every sentence feels immune to criticism. Prepare by tracing contribution, methods, evidence, decisions and limitations to exact thesis locations and rehearsing sceptical questions.
 
-## The decision in front of you
+For corrections, preserve the examination record, translate every requirement into a testable item, identify the authorised decision-maker, implement only the appropriate scope and verify the complete corrected package.
 
-Can you explain what the thesis contributes, why the methods are defensible and where the boundaries lie?
+## Build an examination case
+
+Prepare a concise map of:
+
+- the consequential problem;
+- the whole-thesis question;
+- the original contribution and why it matters;
+- the role of each chapter, study or artefact;
+- the strongest evidence supporting each contribution claim;
+- the key methodological decisions and alternatives rejected;
+- the most important limitations and non-claims;
+- candidate and collaborator contributions;
+- deviations, unexpected findings and corrections; and
+- the future work genuinely implied by the evidence.
+
+Do not memorise a performance script that is disconnected from the submitted thesis. The map should point to exact pages, tables, figures or artefacts.
+
+## Run a sceptical-examiner audit
+
+Ask at least:
+
+1. What is original here, at the scope claimed?
+2. Why is the problem consequential rather than merely under-studied?
+3. Why could this design answer the question?
+4. Which assumption most threatens the inference?
+5. What evidence contradicts or qualifies the preferred account?
+6. Why were these methods or data chosen over feasible alternatives?
+7. How did deviations and missingness affect the result?
+8. Which claims are study-level and which arise only from integration?
+9. What did collaborators contribute, and what did the candidate lead?
+10. What cannot be concluded?
+11. Could another authorised researcher recover the evidence chain?
+12. What would change the interpretation?
+
+For each response, link the thesis location and identify any repair needed. A strong answer can acknowledge a limitation while explaining why the bounded contribution survives.
+
+## Audit internal consistency
+
+Trace consequential statements across:
+
+`title → abstract → aims/questions → methods → results → discussion → conclusion → contribution declaration`
+
+Check that:
+
+- the same construct uses consistent terminology;
+- sample sizes, exclusions and time points reconcile;
+- tables, figures and text report the same values;
+- methods describe the analysis actually used;
+- exploratory work is labelled;
+- limitations bound every affected claim;
+- co-authored and published material is declared; and
+- the final conclusion does not exceed component evidence.
+
+Use automated searches and checks where useful, then inspect the rendered thesis page by page. A successful build does not prove that a figure is legible or the right file was uploaded.
+
+## Verify the exact submission package
+
+Record the checksum or otherwise stable identity of the intended final file. Check:
+
+- current official instructions and eligibility;
+- required notices, forms, declarations and approvals;
+- file type, size, naming and upload behaviour;
+- embedded fonts, searchable text and accessible reading order where required;
+- page numbering, contents, cross-references and hyperlinks;
+- figures, tables, equations and appendices at final size;
+- tracked changes, comments, annotations and hidden content;
+- copyright, permissions, confidentiality and embargo arrangements;
+- author/co-author and supervisor certifications where applicable; and
+- approved storage of source and final submitted copies.
+
+After upload, retain the receipt and confirm the system identifies the same file. “Selected in the file picker” is not submission evidence.
 
 ::: {.decision-card}
-**Smallest useful next action:** Draft ten sceptical examiner questions and answer each with a thesis location.
+**Smallest useful next action:** Choose one contribution claim and answer a sceptical examiner using an exact thesis location, methodological warrant, limitation and non-claim.
 :::
 
-## A defensible way to proceed
+## Prepare for an oral examination
 
-1. State the outcome or decision in plain language.
-2. Separate known facts, assumptions, constraints and unresolved questions.
-3. Check the evidence and any applicable local requirement.
-4. Compare realistic options, including doing less, waiting or stopping.
-5. Record the choice, reasons, owner, next review point and evidence of completion.
+If an oral defence is used, practise explaining rather than reciting:
+
+- a two-minute and ten-minute thesis account;
+- the contribution chain;
+- one difficult design decision;
+- the strongest limitation;
+- one unexpected finding;
+- how your view changed during candidature;
+- candidate versus collaborator work; and
+- what you would do differently now.
+
+Listen to the whole question, clarify ambiguous terms and take time to reason. It is legitimate to say that you do not know, then explain how you would investigate. Do not invent evidence or agree with a premise that misstates the thesis.
+
+Mock examination should test reasoning under challenge, not reward polished speeches. Include a reviewer outside the immediate supervisory assumptions where feasible.
+
+## If you discover an error after submission
+
+Preserve the submitted version and establish:
+
+1. exact error and affected locations;
+2. whether results, inference, participant safety, confidentiality, integrity or permissions are affected;
+3. authoritative source and correct value/account;
+4. whether publications or other outputs share the error; and
+5. the institution's notification and correction route.
+
+Do not silently replace files or wait for examiners to notice a material problem. Seek advice through the formal process. Minor typography and material analytical errors require different responses, but both should be described accurately.
+
+## Convert examination requirements into a corrections matrix
+
+| ID | Exact requirement | Underlying issue | Required/optional scope | Proposed response | Thesis location | Evidence/check | Authority/status |
+|---|---|---|---|---|---|---|---|
+| C-01 | [quote or faithful summary] | [ ] | required / clarification / optional | [ ] | [ ] | [ ] | open / accepted |
+
+Preserve the examiner wording. If a requirement is ambiguous, ask the authorised contact before implementing a broad interpretation. Separate required corrections from optional improvements you would personally like to make.
+
+## Control correction scope
+
+For each correction:
+
+1. diagnose the underlying issue;
+2. identify affected locations across the thesis;
+3. propose the smallest complete response;
+4. check whether new analysis, ethics, authorship or publication consequences arise;
+5. implement from authoritative sources;
+6. regenerate affected tables, figures and references;
+7. verify linked sections and the full render; and
+8. obtain acceptance from the person authorised to approve corrections.
+
+Do not create new unexamined claims under the banner of correction. If a requested change would be methodologically invalid, impossible, unsafe or outside the permitted scope, explain the problem with evidence and seek a ruling. The candidate should not privately decide to ignore it.
+
+## Worked example: an examiner asks for “more analysis”
+
+**Requirement:** “Provide further analysis to account for site differences.”
+
+**Ambiguity:** This could mean describe site composition, adjust the model, test heterogeneity or acknowledge that the design cannot separate site from other factors.
+
+**Diagnosis:** Site is confounded with delivery period and sample composition. A complex site-effect model would not identify an independent site effect.
+
+**Proposed response:** Add a site-by-period descriptive table, conduct a prespecified feasible sensitivity analysis, clarify the confounding limitation and narrow the generalisation. Ask the authorised examiner/graduate research contact whether this satisfies the requirement instead of presenting an uninterpretable model.
+
+**Verification:** Regenerate values from the analysis workflow; update methods, results, discussion, abstract and supplement; run consistency checks; record exact pages in the corrections matrix.
+
+## Reconcile corrections across outputs
+
+Examination changes may affect manuscripts, repository records, data/code releases, partner reports or public summaries. Determine which outputs require correction, notification or version update. The accepted corrected thesis does not automatically update a published article.
 
 ## Common failure modes
 
-- treating an early plan as permanently fixed;
-- collecting information without naming the decision it should inform;
-- copying a method or workflow without checking fit;
-- waiting for perfect certainty when a reversible next step is available;
-- relying on private memory instead of a recoverable project record;
-- presenting an institutional rule or one disciplinary convention as universal.
+- submitting because the planned date arrived despite failed critical checks;
+- preparing only a rehearsed summary rather than the evidence chain;
+- hiding limitations in anticipation of examiner criticism;
+- treating a render as a page-by-page inspection;
+- uploading a different file from the one checked;
+- silently replacing a submitted thesis;
+- paraphrasing corrections until their required meaning changes;
+- treating every suggestion as mandatory or every ambiguity as optional;
+- adding unrequested novelty during corrections;
+- changing a number without updating linked claims;
+- marking corrections complete before authorised acceptance; and
+- assuming thesis corrections automatically repair other outputs.
 
 ## Good enough for now
 
-Good enough means the work is proportionate to its current purpose, major risks are controlled, important assumptions are visible, and the next decision can be defended. It does not mean that every uncertainty has disappeared.
+The thesis is ready to submit when the contribution and evidence chain are coherent and bounded; critical scholarly and formal checks pass; permissions and declarations are complete; the final package is inspected; and the exact upload is evidenced. Corrections are complete only when every requirement is traceable to a verified response and accepted by the authorised process.
 
-## Before you ask your supervisor
+## Before you ask your supervisors or graduate research office
 
-Bring a concise problem statement, the checks you completed, the strongest relevant evidence, feasible options, your provisional recommendation and one precise request. If risk, approval, participant welfare, integrity or safety is involved, seek the appropriate specialist or formal local process rather than relying only on an ordinary supervision meeting.
+Bring the contribution map, sceptical-question audit, failed readiness checks, exact package identity, unresolved permissions/declarations, current official instructions and one specific readiness or process question. For corrections, bring the examiner wording, matrix, proposed interpretation and evidence.
+
+## Pause-point checklist
+
+- [ ] Contribution, evidence, decisions and limits map to exact thesis locations.
+- [ ] Sceptical examiner questions have been tested.
+- [ ] Internal consistency checks pass.
+- [ ] Current formal requirements and eligibility are confirmed.
+- [ ] The exact final render is inspected page by page.
+- [ ] Permissions, declarations, confidentiality and embargoes are resolved.
+- [ ] Upload receipt identifies the intended file.
+- [ ] Post-submission errors use the formal route.
+- [ ] Every correction preserves the exact requirement and verification.
+- [ ] Acceptance—not merely revision—closes the corrections record.
 
 ## Check locally
 
-Milestones, approvals, systems, storage, authorship processes, examination requirements and support routes vary. Verify the current rule with the responsible office or official documentation.
+Confirm notice and submission deadlines, eligibility, examiner nomination and conflicts, thesis format, oral examination, permitted support, result categories, correction scope/deadlines, resubmission, appeal, repository deposit, embargo and award conferral.
 
 ## Related practical resources
 
-Use the [practical resource library](../../resources.qmd) and the [I’m stuck pathway](../../stuck/index.qmd) to turn this guidance into a documented action.
+Use the [before thesis submission checklist](../../checklists/before-thesis-submission.qmd), [thesis contribution map](../../templates/thesis-contribution-map.qmd), [authorship conversation record](../../templates/authorship-conversation.qmd), [decision log](../../templates/decision-log.qmd) and [project closure and handover checklist](../../checklists/project-closure-handover.qmd).
 
+## Source note
+
+The broad account of doctoral contribution and varied assessment forms is informed by current AQF and QAA qualification descriptions; the institution's rules control the actual examination [@aqf-doctoral; @qaa-doctoral].
+
+## References
+
+::: {#refs}
+:::

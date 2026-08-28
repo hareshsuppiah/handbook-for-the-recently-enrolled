@@ -1,5 +1,7 @@
 ---
 title: "Before thesis submission"
+status: "broad-beta resource"
+last-reviewed: "2026-08-28"
 ---
 
 **Pause point:** Before uploading or formally submitting the thesis for examination.
@@ -29,6 +31,14 @@ Do not submit an unchecked file or while authorship, permissions, confidentialit
 ## Evidence to retain
 
 Keep the exact submitted thesis, upload receipt, final source archive, permissions, declarations, approval evidence and submission checklist.
+
+## Completed scenario
+
+The final PDF renders and the filename says `final`, but page inspection finds a missing appendix, one unresolved cross-reference and comments embedded in the PDF. The checklist fails. Regenerate from the authoritative source, inspect every page, test the upload copy, record its stable identity and submit only that verified file. A successful render alone was not the submission gate.
+
+## Sceptical-reader test
+
+Ask another person to locate the overall contribution, candidate contribution declaration, primary method justification, strongest limitation and one reported result using only the final file. Repair navigation or explanation that prevents recovery.
 
 ::: {.callout-warning title="Check locally"}
 Only the institution can confirm candidature eligibility, submission requirements, examination procedures and repository obligations.
