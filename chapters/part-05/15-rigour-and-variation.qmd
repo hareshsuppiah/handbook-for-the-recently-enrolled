@@ -1,55 +1,218 @@
 ---
 title: "Rigour, bias and methodological variation"
-status: "broad-beta baseline"
+status: "broad-beta draft"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta baseline. Evidence verification and worked examples are being expanded; local requirements must be checked before acting.
+**Content status:** Broad-beta draft. There is no discipline-free definition of quality. Select and cite standards appropriate to the question, evidence, research tradition and intended claim; verify any binding local protocol, reporting or governance requirement.
 :::
+
+## The questions students are usually asking
+
+- What makes this study rigorous?
+- Which biases should I discuss?
+- Do validity, reliability, credibility and trustworthiness mean the same thing?
+- How many sensitivity or robustness checks are enough?
+- Can I change the method when reality differs from the protocol?
+- How do I justify a method when different disciplines use different standards?
 
 ## The direct answer
 
-Rigour is not one universal checklist. It means using criteria appropriate to the research tradition and being transparent about limitations.
+Rigour means designing, conducting and reporting the work so that the intended inference can survive the most relevant credible challenges. The challenges and responses depend on the research tradition.
 
-## The decision in front of you
+Do not collect quality labels. Identify the claim, the threat, the design response, the evidence that the response worked, and the uncertainty that remains.
 
-Which threats matter for this design, and which checks would actually change confidence?
+The Australian Code requires methods appropriate to the aims, conclusions justified by results and clear, accurate, secure and complete research records [@australian-code-2018]. Those principles support transparency; they do not tell every discipline which validity framework, appraisal tool or analytic standard to use.
 
-::: {.decision-card}
-**Smallest useful next action:** Name the three most consequential threats and the evidence that would reduce each one.
-:::
+## Build a threat-to-inference register
 
-## A defensible way to proceed
+For each important claim, ask:
 
-1. State the outcome or decision in plain language.
-2. Separate known facts, assumptions, constraints and unresolved questions.
-3. Check the evidence and any applicable local requirement.
-4. Compare realistic options, including doing less, waiting or stopping.
-5. Record the choice, reasons, owner, next review point and evidence of completion.
+1. What observation or reasoning supports it?
+2. What else could produce that observation?
+3. What process could distort selection, generation, measurement, analysis, interpretation or reporting?
+4. Which challenge is plausible enough to matter?
+5. What design feature, check or additional evidence would reduce it?
+6. What uncertainty remains even after that response?
+
+| Threat family | Examples | Possible responses |
+|---|---|---|
+| Selection and coverage | inaccessible groups, archive gaps, non-response, survivorship | alternative recruitment/source routes, comparison of included and excluded material, bounded claims |
+| Measurement and observation | construct mismatch, instrument drift, reactivity, inconsistent coding | calibration, cognitive testing, training, multiple indicators, audit trail |
+| Confounding and alternatives | common causes, history, maturation, contextual differences | design controls, comparison, temporal logic, negative controls, rival explanations |
+| Analysis and interpretation | model dependence, coding drift, researcher positioning, multiplicity | prespecification, diagnostics, reflexive record, independent or collaborative checking, alternative specifications |
+| Missingness and attrition | incomplete records, withdrawal, lost follow-up, unusable files | prevention, pattern analysis, sensitivity analysis, transparent flow and boundaries |
+| Reporting and availability | selective outcomes, hidden exclusions, unreported deviations | protocol/version record, complete reporting, deviation log, retained outputs |
+
+Use only responses that make sense for the design. Blinding, member reflection, triangulation, intercoder comparison, preregistration and sensitivity analysis solve different problems; none is a universal badge of quality.
+
+## Keep quality vocabularies in their traditions
+
+Terms such as internal validity, transferability, authenticity, reliability, reflexivity, dependability, model calibration, provenance and source criticism arise from different methodological conversations.
+
+When writing the justification:
+
+- name the research tradition or design family;
+- define the quality criterion as used in that tradition;
+- cite the relevant methodological authority;
+- explain the concrete practice used in this project;
+- show evidence that the practice occurred; and
+- state what it cannot guarantee.
+
+Do not translate every qualitative criterion into a quantitative analogue or vice versa. Do not use “triangulation” to mean that several weak sources automatically create truth.
+
+## Distinguish planned checks from result-driven repair
+
+Planned analyses and procedures should be identifiable. Changes can be legitimate, but their timing and reason matter.
+
+Classify work as:
+
+- **prespecified:** committed before the relevant data or outcome was examined;
+- **planned but refined:** implementation detail changed without altering the substantive decision;
+- **responsive:** changed because feasibility, safety, governance or data quality required it;
+- **exploratory:** generated after observing patterns; or
+- **post hoc verification:** performed to challenge an observed result.
+
+Exploratory work is not inferior by definition. The integrity failure is presenting it as though it were prespecified or allowing an attractive result to erase the path that produced it.
+
+## Record deviations without criminalising adaptation
+
+A deviation is a difference between the approved, registered, agreed or current planned procedure and what occurred. It may be:
+
+- harmless administrative variation;
+- a correct response to an unforeseen condition;
+- a threat to participant welfare, data integrity or inference;
+- a change requiring prior approval; or
+- evidence that the study should pause.
+
+When a difference is detected:
+
+1. protect people, animals, communities, data and safety first;
+2. stop affected work if required;
+3. preserve the facts and versions;
+4. identify which authority and protocol applies;
+5. assess effect on prior and future evidence;
+6. obtain review, notification or amendment where required;
+7. implement and verify corrective action; and
+8. report the deviation and its consequences transparently.
+
+Never rewrite the protocol or overwrite a file to make the deviation disappear.
+
+## Worked example: an unexpected exclusion
+
+**Plan:** analyse wearable-device data when participants have at least four valid days, based on the prespecified rule.
+
+**Discovery:** a firmware update changed timestamp handling for one device batch. Applying the rule would classify affected days as invalid and disproportionately exclude one recruitment site.
+
+**Bad responses:** quietly change the threshold until the sample looks balanced; ignore the firmware issue; or delete the original analysis and present the repaired version as planned.
+
+**Defensible response:** pause the affected analysis; preserve the original outputs; identify devices, dates and participants affected; verify the time-conversion repair on known records; assess whether the protocol and approvals permit reprocessing; run planned and corrected analyses where meaningful; record the deviation and decision; state whether conclusions change.
+
+The correction may improve the evidence. Transparency about the change is part of rigour, not an admission that adaptation is forbidden.
+
+## Use robustness checks to test a claim
+
+A robustness check should correspond to a plausible challenge.
+
+Examples include:
+
+- alternative defensible inclusion rules;
+- different operational definitions;
+- missing-data assumptions;
+- model specifications or priors;
+- influential cases or sources;
+- alternative coding interpretations;
+- negative or falsification tests;
+- chronological or source-provenance checks; and
+- deliberately seeking disconfirming cases or interpretations.
+
+Before running one, write:
+
+- the threat being tested;
+- the result pattern that would weaken confidence;
+- which part of the claim could change; and
+- what decision follows.
+
+Running many arbitrary analyses and highlighting the reassuring ones is not robustness.
+
+## Separate universal, method, discipline and local guidance
+
+Use four labels in your notes and writing:
+
+| Level | Example | How to present it |
+|---|---|---|
+| General research principle | conclusions should not exceed evidence | state broadly with an authoritative source |
+| Method-specific standard | reporting items for a randomised pilot trial | apply only when the design is in scope |
+| Disciplinary convention | acceptable source criticism or analytic form | name the field and justify relevance |
+| Local requirement | institutional approval or thesis formatting rule | identify the current responsible authority |
+
+If two standards conflict, do not silently combine them. Determine which governs the work, which is advisory, and whether the conflict changes the design or claim.
+
+## Method and discipline pathway
+
+Before finalising the rigour plan:
+
+1. identify the design family precisely;
+2. find its current reporting guideline or methodological standard where one exists;
+3. find discipline-specific examples of strong work;
+4. consult a methodologist, statistician, librarian, archivist, technician, community adviser or other specialist as relevant;
+5. identify institutional, funder, legal, cultural and site requirements;
+6. translate each applicable standard into a project action and retained record; and
+7. record standards considered but judged out of scope.
+
+Reporting guidelines can reveal missing design details, but completing a checklist after the study cannot repair a weak or inappropriate design.
 
 ## Common failure modes
 
-- treating an early plan as permanently fixed;
-- collecting information without naming the decision it should inform;
-- copying a method or workflow without checking fit;
-- waiting for perfect certainty when a reversible next step is available;
-- relying on private memory instead of a recoverable project record;
-- presenting an institutional rule or one disciplinary convention as universal.
+- using “rigorous” as an adjective without naming a threat or response;
+- applying one discipline's checklist as a universal hierarchy;
+- treating sample size as the only quality question;
+- adding every fashionable quality term without a concrete practice;
+- performing checks only after an unfavourable result;
+- confusing agreement between coders or measures with truth;
+- claiming triangulation because several sources were used;
+- hiding deviations, exclusions or failed analyses;
+- equating a null, messy or contradictory result with study failure;
+- claiming generalisability, transferability or causality beyond the design.
 
 ## Good enough for now
 
-Good enough means the work is proportionate to its current purpose, major risks are controlled, important assumptions are visible, and the next decision can be defended. It does not mean that every uncertainty has disappeared.
+A rigour plan is ready for substantive review when:
 
-## Before you ask your supervisor
+- each intended claim has its major plausible threats listed;
+- every selected quality criterion is defined within an appropriate tradition;
+- planned checks have a decision purpose;
+- exploratory work will be labelled;
+- deviations and versions have a recoverable record;
+- a credible contrary result or interpretation has been considered;
+- applicable method, disciplinary and local standards are distinguished; and
+- remaining uncertainty is reflected in the planned claim boundary.
 
-Bring a concise problem statement, the checks you completed, the strongest relevant evidence, feasible options, your provisional recommendation and one precise request. If risk, approval, participant welfare, integrity or safety is involved, seek the appropriate specialist or formal local process rather than relying only on an ordinary supervision meeting.
+## Before you ask your supervisor or specialist
 
-## Check locally
+Bring:
 
-Milestones, approvals, systems, storage, authorship processes, examination requirements and support routes vary. Verify the current rule with the responsible office or official documentation.
+- the three most consequential threats;
+- the evidence-to-claim link each threatens;
+- the proposed response and what it cannot resolve;
+- one alternative analysis or interpretation;
+- the current [methodological decision record](../../templates/method-decision.qmd);
+- any [protocol-deviation record](../../templates/protocol-deviation.qmd); and
+- the method-specific standards you believe apply, with their scope.
+
+## Pause-point checklist
+
+- [ ] Rigour is connected to named claims and threats.
+- [ ] Criteria are defined in the relevant methodological tradition.
+- [ ] Checks have prespecified interpretations or decision consequences.
+- [ ] Planned, refined, responsive, exploratory and post hoc work can be distinguished.
+- [ ] Deviations preserve the original plan, facts, versions and approvals.
+- [ ] Robustness checks address plausible challenges rather than produce volume.
+- [ ] General, method, disciplinary and local requirements are labelled.
+- [ ] Contrary evidence and interpretations are actively considered.
+- [ ] Final claim boundaries reflect unresolved threats.
 
 ## Related practical resources
 
-Use the [practical resource library](../../resources.qmd) and the [I’m stuck pathway](../../stuck/index.qmd) to turn this guidance into a documented action.
-
+Use the [methodological decision record](../../templates/method-decision.qmd), [protocol-deviation log](../../templates/protocol-deviation.qmd), [pilot-readiness checklist](../../checklists/pilot-readiness.qmd) and [before-analysis checklist](../../checklists/before-analysis.qmd). If no quality criterion seems to fit, use [I’m stuck](../../stuck/index.qmd) and seek method-specific advice.
