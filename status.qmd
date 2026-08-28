@@ -2,7 +2,7 @@
 title: "Broad-beta status"
 ---
 
-This edition is the **broad-beta release candidate** promised in the project brief. It contains 36 substantive chapters across the 12 original Parts, covers all 82 source topics, publishes all 53 practical resources, and provides 11 situation-based “I’m stuck” pathways.
+This edition is the **broad beta** promised in the project brief. It contains 36 substantive chapters across the 12 original Parts, covers all 82 source topics, publishes all 53 practical resources, and provides 11 situation-based “I’m stuck” pathways.
 
 ## What has been completed
 

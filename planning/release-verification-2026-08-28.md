@@ -1,7 +1,7 @@
 # Broad-beta release verification
 
 Date: 28 August 2026  
-Release target: `v0.1.0-beta`
+Release: `v0.1.0-beta`
 
 This record supersedes the readiness conclusions in `incomplete-work-audit-2026-08-28.md`. That earlier audit correctly identified the incomplete structural prototype and is retained as corrective history. The findings below apply to the subsequent complete broad-beta build.
 
