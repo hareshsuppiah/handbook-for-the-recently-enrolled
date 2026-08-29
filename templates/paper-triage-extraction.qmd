@@ -3,9 +3,7 @@ title: "Paper triage and extraction"
 last-reviewed: "2026-08-28"
 ---
 
-::: {.manual-status}
-**Use with local requirements:** Adapt the fields to the evidence type and selected review method. Do not store copyrighted, confidential, identifiable or culturally restricted material in an inappropriate location.
-:::
+Adapt the fields to the evidence type and selected review method. Do not store copyrighted, confidential, identifiable or culturally restricted material in an inappropriate location.
 
 ## Use this at two different moments
 

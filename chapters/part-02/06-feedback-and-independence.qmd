@@ -3,10 +3,6 @@ title: "How do you use feedback and handle disagreement?"
 last-reviewed: "2026-08-28"
 ---
 
-::: {.manual-status}
-**Check locally:** Feedback practice is evidence-informed; formal dispute, supervision-change and complaints processes must be checked locally.
-:::
-
 A draft comes back covered in comments. Some are precise, some say only “be more critical,” and two supervisors appear to want different things. It is tempting either to obey every comment or to defend the draft as it stands. Neither response builds independence. Feedback is evidence about how a reader encountered the work. Your task is to work out what problem each comment points to, decide what change is justified and make disagreement visible before it turns into silent rework.
 
 ## Turn comments into decisions you can explain
@@ -147,10 +143,6 @@ Bring what you checked, the strongest evidence, realistic options, your recommen
 - contradictory instructions cannot be resolved and a formal milestone is at risk;
 - authorship, intellectual property or partner power creates a conflict requiring independent advice;
 - health or wellbeing requires specialist or urgent support.
-
-## Check locally
-
-Verify feedback expectations, progress and complaints procedures, supervisor-change processes, authorship and intellectual-property policies, ombuds or adviser roles, and emergency or wellbeing support. Ask how confidentiality, procedural fairness and records operate before lodging sensitive material.
 
 ## Related resources
 

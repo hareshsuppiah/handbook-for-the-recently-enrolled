@@ -38,7 +38,3 @@ The final PDF renders and the filename says `final`, but page inspection finds a
 ## Sceptical-reader test
 
 Ask another person to locate the overall contribution, candidate contribution declaration, primary method justification, strongest limitation and one reported result using only the final file. Repair navigation or explanation that prevents recovery.
-
-::: {.callout-warning title="Check locally"}
-Only the institution can confirm candidature eligibility, submission requirements, examination procedures and repository obligations.
-:::

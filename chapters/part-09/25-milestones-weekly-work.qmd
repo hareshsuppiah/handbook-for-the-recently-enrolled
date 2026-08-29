@@ -3,10 +3,6 @@ title: "What evidence shows your project is moving?"
 last-reviewed: "2026-08-28"
 ---
 
-::: {.manual-status}
-**Check locally:** Formal milestones, leave, progress review, candidature variation and reporting requirements are institution-specific. Verify the current local process and distinguish internal planning from authorised deadline changes.
-:::
-
 A full week can produce no visible progress, while a quiet decision about access or analysis can unlock months of work. Milestones become useful when they name the evidence that must exist, the dependencies that come first and the smallest action that changes the project’s state. “Work on chapter” is not a plan. “Draft the claim map so the supervisor can decide whether the section structure is sound” is. Weekly planning should make uncertainty visible rather than rewarding a reassuring percentage complete.
 
 ## Plan around evidence, dependencies and decisions

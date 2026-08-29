@@ -3,9 +3,7 @@ title: "Authorship conversation record"
 last-reviewed: "2026-08-28"
 ---
 
-::: {.manual-status}
-**Use with local requirements:** Apply the current authorship standard governing the output. This record documents discussion; it does not override institutional, publisher, contractual, ethical, community or legal requirements.
-:::
+Apply the authorship standard governing the output. Use this record to document the discussion alongside institutional, publisher, contractual, ethical, community and legal requirements.
 
 ## Output and standard
 

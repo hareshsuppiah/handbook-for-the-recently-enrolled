@@ -3,10 +3,6 @@ title: "What should you expect from your supervisors?"
 last-reviewed: "2026-08-28"
 ---
 
-::: {.manual-status}
-**Check locally:** Supervision rules and formal responsibilities vary; confirm the current local framework and record any agreed adaptation.
-:::
-
 Many supervision problems begin without an argument. A student expects comments within a week; a supervisor assumes a month is normal. One person thinks the student should propose the method; another quietly expects the supervisor to choose it. Everyone may be acting reasonably, but from different rules. The remedy is not a perfect relationship contract. It is an explicit conversation about roles, response times, decision authority, boundaries and what happens when the usual arrangement stops working.
 
 ## Make the working relationship explicit

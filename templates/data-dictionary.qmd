@@ -3,9 +3,7 @@ title: "Data dictionary and codebook"
 last-reviewed: "2026-08-28"
 ---
 
-::: {.manual-status}
-**Use with local requirements:** Adapt this to tabular, qualitative, image, sensor, archival or other material. Keep sensitive variable descriptions and examples in an approved location.
-:::
+Adapt this to tabular, qualitative, image, sensor, archival or other material. Keep sensitive variable descriptions and examples in an approved location.
 
 ## Dataset or corpus header
 

@@ -3,9 +3,7 @@ title: "Is this pilot ready to run?"
 last-reviewed: "2026-08-28"
 ---
 
-::: {.manual-status}
-**Use with local requirements:** Apply this before a feasibility test, instrument test, workflow rehearsal or pilot study. It does not authorise participant, animal, field, clinical, restricted-data or culturally governed activity.
-:::
+Use this before a feasibility test, instrument test, workflow rehearsal or pilot study. Obtain any required authority before participant, animal, field, clinical, restricted-data or culturally governed activity begins.
 
 **Pause point:** Before the first pilot activity.
 

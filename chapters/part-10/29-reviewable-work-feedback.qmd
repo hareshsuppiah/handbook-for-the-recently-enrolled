@@ -3,10 +3,6 @@ title: "How do you make your work easier to review?"
 last-reviewed: "2026-08-28"
 ---
 
-::: {.manual-status}
-**Check locally:** Supervision agreements, expected review times, dispute routes and responsibilities vary. Agree the local working process rather than assuming one universal feedback model.
-:::
-
 Sending a document with “any thoughts?” makes the reviewer guess whether you want help with the argument, the method, the structure or the commas. The result is often late, contradictory or pitched at the wrong level. A review contract names the state of the work, the decision you need, the questions the reviewer should answer and the deadline. It also makes clear what is outside scope. Reviewable work is not necessarily polished; it is organised so another person can inspect the right thing.
 
 ## Tell the reviewer what decision the draft must support
@@ -185,10 +181,6 @@ Bring:
 - [ ] Every substantive comment has a reasoned disposition.
 - [ ] Conflicts have an owner and documented resolution path.
 - [ ] Completion is verified across linked sections and records.
-
-## Check locally
-
-Confirm supervision expectations, normal review times, milestone responsibilities, approved document systems, thesis authorship requirements, acceptable editorial assistance, attribution expectations and independent escalation routes.
 
 ## Related practical resources
 

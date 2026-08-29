@@ -29,7 +29,3 @@ Do not submit without every author's approval or while the manuscript, supportin
 ## Evidence to retain
 
 Keep the outlet check, author approvals, reporting checklist, permission records, exact submission package, receipt and all editorial correspondence.
-
-::: {.callout-warning title="Check locally"}
-Outlet policies change. Recheck the current author instructions and institutional authorship, integrity and open-research requirements at submission.
-:::

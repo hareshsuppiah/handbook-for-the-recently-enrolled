@@ -3,10 +3,6 @@ title: "Is this research topic worth pursuing?"
 last-reviewed: "2026-08-28"
 ---
 
-::: {.manual-status}
-**Check locally:** Feasibility and governance require method-, setting- and jurisdiction-specific evidence before commitment.
-:::
-
 A topic can be important, novel and still be a poor doctoral project. The required data may be unavailable, recruitment may depend on one fragile relationship, the method may need expertise the team does not have, or the promised contribution may already exist. Due diligence is how you find those problems while they are still cheap to change. It is not a hunt for certainty. It is a proportionate test of the assumptions that could make the project infeasible, unsafe or no longer worth the cost.
 
 ## Test the fragile assumptions first

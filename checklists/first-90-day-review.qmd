@@ -34,9 +34,6 @@ Keep the reviewed project statement, feasibility notes, search record, decision 
 
 **Result:** The project is not treated as fully viable. Access remains a named risk with an owner and decision date; the next phase includes reversible work and an alternative data route rather than silently assuming access.
 
-::: {.callout-warning title="Check locally"}
-This review complements, but does not replace, formal confirmation or progress milestones.
-:::
 
 ## Related guidance
 

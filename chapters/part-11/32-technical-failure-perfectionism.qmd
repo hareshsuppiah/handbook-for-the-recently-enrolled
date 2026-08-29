@@ -3,10 +3,6 @@ title: "Is this a technical problem, perfectionism or scope creep?"
 last-reviewed: "2026-08-28"
 ---
 
-::: {.manual-status}
-**Check locally:** Security, privacy, licensed systems, production infrastructure and wellbeing concerns may require specialist or formal support. Do not expose protected material while seeking technical help.
-:::
-
 An analysis stops running, so you update packages, rewrite code, redesign the figure and consider changing software. Hours later the original error is still there and the task has doubled in size. Technical failure, perfectionism and scope creep can look similar because all produce more work. Stabilise the evidence, define the intended output and reduce the problem to the smallest failing example. Then decide whether you are fixing a defect, improving a justified quality criterion or pursuing work the project never needed.
 
 ## Name the blockage before spending more effort
@@ -203,10 +199,6 @@ Bring the smallest safe failing example, exact steps and error, expected/actual 
 - [ ] Proposed refinements address an observable defect or requirement.
 - [ ] New scope includes cost and displacement.
 - [ ] Capacity, wellbeing and safety use appropriate support routes.
-
-## Check locally
-
-Verify approved environments, information-security reporting, data-access rules, software and licence support, high-performance computing processes, retention requirements, thesis formatting and accessibility, reasonable adjustments and candidature variation.
 
 ## Related practical resources
 

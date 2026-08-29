@@ -3,10 +3,6 @@ title: "How do you turn reading into an argument?"
 last-reviewed: "2026-08-28"
 ---
 
-::: {.manual-status}
-**Check locally:** The extraction and synthesis method must fit the review purpose, discipline and evidence type. Confirm local requirements for copyright, culturally restricted knowledge, reference software, retention and research integrity.
-:::
-
 Your reference library grows, your notes grow, and the literature review still feels like a sequence of summaries. That happens because collecting sources and building an argument are different jobs. Read with a question, extract the claim and its support, then compare sources on the point that matters to your own reasoning. A synthesis does not prove that you read everything. It shows where evidence agrees, conflicts or stops, and what that means for the decision your research must make.
 
 ## Organise the literature around claims, not authors

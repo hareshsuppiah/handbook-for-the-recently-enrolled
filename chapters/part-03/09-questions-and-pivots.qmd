@@ -3,10 +3,6 @@ title: "Is your research question ready?"
 last-reviewed: "2026-08-28"
 ---
 
-::: {.manual-status}
-**Check locally:** Question forms and when they may change vary by methodological tradition, approval and registration status.
-:::
-
 Research questions often become harder to read as a project develops. A promising idea accumulates a population, three outcomes, a mechanism, a comparison and an intervention until one sentence contains several theses. The cure is not endless polishing. Ask what evidence would answer the question and what claim that evidence could support. When those answers do not line up, narrow or change the question and record why. A well-judged pivot is evidence of learning, not a confession that the original plan failed.
 
 ## Make the question answerable by the planned evidence
@@ -145,10 +141,6 @@ Bring the old and revised chains side by side, the evidence that triggered chang
 ## When to escalate or seek specialist input
 
 Seek formal or specialist advice when the change affects approval, preregistration, data permissions, cultural governance, partner agreements, funding, intellectual property, formal milestones or the central candidature scope.
-
-## Check locally
-
-Confirm who can approve changes to candidature scope, ethics or governance, registration, data access, partner commitments and formal milestones before affected work proceeds.
 
 ## Related resources
 

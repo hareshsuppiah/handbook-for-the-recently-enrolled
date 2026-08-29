@@ -3,10 +3,6 @@ title: "Where should you publish—and how should you respond to review?"
 last-reviewed: "2026-08-28"
 ---
 
-::: {.manual-status}
-**Check locally:** Journal policies, fees, reporting requirements, AI rules and repository rights change. Recheck the official outlet pages immediately before submission.
-:::
-
 A journal’s name, ranking or invitation can feel like a shortcut to the publication decision. It is not. Choose an outlet by the audience, scope, article type, editorial practice, cost and credibility that matter for this paper, then verify those details at the source. Once reviews arrive, treat each comment as a decision to accept, adapt, explain or challenge. The response should show what changed and why; it should never promise an analysis that the design cannot support.
 
 ## Choose for fit, then make review traceable
@@ -200,10 +196,6 @@ Bring the completed outlet comparison, recent comparable articles, exact costs a
 - [ ] Reviewer concerns receive reasoned, location-specific responses.
 - [ ] Rejection triggers diagnosis before resubmission.
 - [ ] Non-academic communication preserves evidence boundaries and privacy.
-
-## Check locally
-
-Confirm thesis-by-publication rules, funder and institutional open-access obligations, repository agreements, publication costs, copyright authority, embargoes, partner review, Indigenous data and cultural protocols, sanctions/export controls where relevant, authorship disputes and media approval.
 
 ## Related practical resources
 

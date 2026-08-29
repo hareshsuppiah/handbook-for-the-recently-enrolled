@@ -3,10 +3,6 @@ title: "Are your sample, measures and pilot fit for purpose?"
 last-reviewed: "2026-08-28"
 ---
 
-::: {.manual-status}
-**Check locally:** Sampling adequacy, measurement quality and pilot design are method-specific. Use the reasoning framework here, then obtain the statistical, qualitative, technical, cultural, clinical or other expertise required by the actual design.
-:::
-
 Sample size, measurement and piloting are often handled as separate technical chores. In practice they answer one question: will the study produce evidence that can support the intended inference? A large sample does not rescue the wrong population, and a reliable instrument may still measure the wrong construct. A pilot is useful when it tests a decision, not when it merely proves that the survey link opens. Design these pieces together and make their limits visible before the main study becomes expensive to change.
 
 ## Test fitness for purpose before scale
@@ -186,10 +182,6 @@ Bring:
 - [ ] Progression, amendment and stop criteria are prespecified.
 - [ ] Approval, consent and protocol determine whether pilot data may be reused.
 - [ ] Pilot results and resulting decisions are retained.
-
-## Check locally
-
-Confirm method-specific adequacy standards, access and sampling authority, instrument licences and validation, pilot-data reuse, ethics amendments, safety and progression rules.
 
 ## Related practical resources
 

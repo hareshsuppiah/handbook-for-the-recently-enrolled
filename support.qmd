@@ -1,16 +1,30 @@
 ---
-title: "Support boundaries"
+title: "Before you rely on this handbook"
 ---
 
-The handbook provides general educational guidance. It does not provide emergency assistance, counselling, legal or medical advice, ethics approval, formal research-integrity findings, complaints investigation, or case management.
+Most of this handbook helps you think through a research decision, prepare useful work and ask better questions. You can use that guidance without treating every page as a warning label.
 
-## Seek local help promptly
+Some decisions belong to an institution, approval body, qualified specialist or emergency service. This page gathers those boundaries in one place.
 
-Contact the relevant emergency, health, safety, counselling, graduate research, integrity, ethics, privacy, human resources, student advocacy or complaints service when the situation involves immediate danger, serious distress, participant harm, bullying or harassment, discrimination, suspected misconduct, a privacy or security breach, legal threats, or pressure to act outside an approval.
+## Find the current rule before you act
 
-Do not submit sensitive case details to the public repository. Keep the public suggestion general and use confidential local channels for the case itself.
+Check the current official source, or ask the person with authority, when you are dealing with:
 
-## Method and policy boundaries
+- **candidature and supervision:** enrolment, milestones, leave, attendance, supervisor changes, complaints, thesis format, examination, corrections and appeals;
+- **a study involving people, communities, sites or regulated activity:** ethics, consent, governance, safety, cultural authority, site permission, protocol changes, incident reporting and professional requirements;
+- **methods and analysis:** whether a design, sample, measure, instrument or analysis is suitable for the actual question and data;
+- **data and technology:** approved storage and computing, privacy, security, access, retention, disposal, data sovereignty, software licences, AI use and breach reporting;
+- **collaboration and publication:** authorship, intellectual property, contracts, partner review, copyright, journal and funder rules, open access, repositories and embargoes; and
+- **project closure:** ownership, custody, handover, continuing access, account closure and obligations that continue after the degree.
 
-The handbook cannot determine whether a particular method is valid for a specific study or whether a local policy has been satisfied. Use qualified methodological supervision and the current official requirements for your institution, jurisdiction, funder, publisher and approval body.
+Record the source, version or date you checked when the answer could affect approval, safety, rights, a submission or an irreversible step. A qualification framework or general handbook can explain the principle; only the responsible body can approve the case.
 
+## Get help promptly when the problem is about people or harm
+
+Use the relevant emergency, health, counselling, safety, graduate research, integrity, ethics, privacy, human resources, student advocacy or complaints service for immediate danger, serious distress, participant harm, bullying or harassment, discrimination, suspected misconduct, a privacy or security breach, legal threats, or pressure to work outside an approval.
+
+Keep confidential case details out of the public suggestion system. Describe a general gap in the handbook publicly, but take the actual case through an appropriate private channel.
+
+## Use the handbook for preparation
+
+Use the handbook to prepare your reasoning. If you need permission or a case decision, use the current official process or ask the responsible person.

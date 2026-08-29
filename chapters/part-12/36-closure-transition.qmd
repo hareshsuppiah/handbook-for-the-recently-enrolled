@@ -3,10 +3,6 @@ title: "How do you close a project without losing its value?"
 last-reviewed: "2026-08-28"
 ---
 
-::: {.manual-status}
-**Check locally:** Retention, disposal, custody, intellectual property, repository deposit, account closure and continuing obligations are institution-, funder-, agreement-, community- and jurisdiction-specific. Obtain written authority.
-:::
-
 Projects often end administratively before they end intellectually. Accounts close, people move, data retention clocks start and unfinished outputs become difficult to recover. Closure is the deliberate transfer of evidence, custody and responsibility. Decide what must be retained, transferred, published, disposed of or carried forward; test that the archive can be recovered; and record who owns continuing obligations. A well-closed doctorate leaves the next authorised person able to understand what exists and what still needs attention.
 
 ## Transfer custody, evidence and unfinished obligations
@@ -221,10 +217,6 @@ Bring the inventory, proposed dispositions, relevant retention/ownership rules, 
 - [ ] Sensitive and culturally governed material retains its protections.
 - [ ] Verified outcomes are separated from applications and aspirations.
 - [ ] The next 90 days contain bounded outcomes and recovery time.
-
-## Check locally
-
-Confirm research-record and data retention, lawful disposal, institutional custody, intellectual property, consent and community governance, funder and partner terms, repository and embargo rules, account departure, export control, authorship/corresponding-author duties and post-award access.
 
 ## Related practical resources
 

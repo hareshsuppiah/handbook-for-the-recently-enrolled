@@ -3,10 +3,6 @@ title: "What should you do when work is blocked or plans change?"
 last-reviewed: "2026-08-28"
 ---
 
-::: {.manual-status}
-**Check locally:** Ethics, governance, safety, candidature and contractual changes can require formal approval before implementation. Use this chapter to prepare the decision, then verify the authorised local process.
-:::
-
 Not every delay is the same problem. Waiting for an approval, discovering an infeasible method and facing an uncertain risk require different responses. If you label all of them “blocked,” the next action stays vague. Classify what has happened, identify the decision-maker and record the smallest consequence that matters. Some work can continue around the blockage; some requires a formal change; some must stop until authority or safety is restored.
 
 ## Classify the problem before choosing the response
@@ -182,10 +178,6 @@ Bring:
 - [ ] Required authority is identified before affected work proceeds.
 - [ ] Accepted changes update all linked records.
 - [ ] Closure requires observable evidence.
-
-## Check locally
-
-Verify ethics and governance amendment rules, incident reporting, health and safety processes, data-breach procedures, contractual notifications, formal milestone variations, leave and suspension routes, and who has authority to approve each kind of change. General project advice cannot authorise work.
 
 ## Related practical resources
 

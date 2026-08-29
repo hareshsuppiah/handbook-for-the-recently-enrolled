@@ -3,10 +3,6 @@ title: "What can you do when a study fails?"
 last-reviewed: "2026-08-28"
 ---
 
-::: {.manual-status}
-**Check locally:** Participant safety, reportable incidents, protocol changes, trial registration, sponsor obligations and candidature variations require the current authorised local process.
-:::
-
 Recruitment stalls, the instrument behaves badly or access disappears. Calling the whole study a failure is understandable, but it is not yet a diagnosis. Freeze the record, identify which link broke and separate the study outcome from misconduct, breach or harm that needs immediate escalation. Some projects can be repaired; some can answer a narrower question; some should be reported as designed and some should stop. The defensible choice depends on what failed, what remains trustworthy and what change would alter the approved study.
 
 ## Diagnose the broken link before redesigning
@@ -179,10 +175,6 @@ Bring the frozen record, expected-versus-observed account, verified failure evid
 - [ ] Amendments and exploratory analyses are labelled.
 - [ ] Sunk effort does not determine the choice.
 - [ ] Closure and evidence of done are defined.
-
-## Check locally
-
-Verify adverse-event and incident reporting, protocol amendment, registration update, sponsor and partner notification, participant communication, data retention, thesis inclusion of incomplete studies, funding consequences and formal candidature variation.
 
 ## Related practical resources
 

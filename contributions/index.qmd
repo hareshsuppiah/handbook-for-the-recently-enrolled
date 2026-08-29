@@ -26,7 +26,7 @@ One submission should cover one distinct problem. This keeps the decision, evide
 
 GitHub submissions are public. Do not include identifiable personal information, participant data, private correspondence, complaints casework, confidential research, unpublished results you cannot share, credentials or security-sensitive details. Describe the general problem and remove identifying details.
 
-If the matter is private, urgent or case-specific, do not use the public form. Read the [support boundaries](../support.qmd) and use the appropriate local process. A separate no-GitHub feedback route is planned but is not active yet.
+If the matter is private, urgent or case-specific, do not use the public form. Read [Before you rely on this handbook](../support.qmd) and use the appropriate private process. A separate no-GitHub feedback route is planned but is not active yet.
 
 ## What happens next
 

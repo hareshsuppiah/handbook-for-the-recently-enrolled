@@ -3,9 +3,7 @@ title: "Folder and file-naming starter"
 last-reviewed: "2026-08-28"
 ---
 
-::: {.manual-status}
-**Use with local requirements:** Adapt the structure to approved storage, data sensitivity, method and team practice. Identifiable or restricted material may need a separate controlled system.
-:::
+Adapt the structure to approved storage, data sensitivity, method and team practice. Identifiable or restricted material may need a separate controlled system.
 
 ## Starter structure
 

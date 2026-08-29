@@ -3,9 +3,7 @@ title: "Method-options comparison"
 last-reviewed: "2026-08-28"
 ---
 
-::: {.manual-status}
-**Use with local requirements:** Compare serious design options before commitment. Obtain method-specific, governance and community advice where consequences are material.
-:::
+Compare serious design options before commitment. Obtain method-specific, governance and community advice where consequences are material.
 
 ## Decision frame
 

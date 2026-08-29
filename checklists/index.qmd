@@ -45,7 +45,3 @@ Each handbook checklist therefore states:
 ## Adapt without weakening
 
 Projects can add discipline-specific items, but the checklist should remain short enough to use at the named pause point. If it becomes a long explanation, move that material into guidance and keep only the critical check here.
-
-::: {.callout-warning title="Check locally"}
-These checklists do not replace institutional policy, ethics or governance approval, safety procedures, legal advice, cultural protocols, professional standards, or case-specific direction from qualified people.
-:::

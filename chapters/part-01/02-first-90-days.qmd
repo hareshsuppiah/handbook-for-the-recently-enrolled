@@ -3,10 +3,6 @@ title: "What should you do in your first 90 days?"
 last-reviewed: "2026-08-28"
 ---
 
-::: {.manual-status}
-**Check locally:** Use this sequence to orient yourself, then replace its local placeholders with your institution's current requirements.
-:::
-
 The first weeks can feel strangely busy. There are accounts to activate, people to meet, training modules to complete and a proposal that suddenly looks less settled than it did during admission. It is easy to respond by filling the calendar or redesigning the entire project. Neither tells you whether the doctorate is becoming workable. Your first 90 days are for building a small operating system: clear expectations, safe file storage, a record of decisions, an early map of the research problem and a short list of assumptions that need testing.
 
 ## Build the foundations before chasing momentum
@@ -145,10 +141,6 @@ Bring a one-page state report:
 - the project cannot meet a formal deadline and the delay needs institutional action.
 
 Use the responsible candidature, ethics, integrity, safety, accessibility, wellbeing or complaints route. A supervisor may help you navigate the route but is not always the decision-maker or appropriate sole recipient.
-
-## Check locally
-
-Confirm induction and training, milestone dates, leave and attendance rules, intellectual property and confidentiality terms, approved storage, safety responsibilities, ethics and governance, research costs, software and equipment access, accessibility support and escalation routes.
 
 ## Related resources
 

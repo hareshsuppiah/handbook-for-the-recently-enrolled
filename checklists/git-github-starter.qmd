@@ -3,9 +3,7 @@ title: "Is this project ready for Git and GitHub?"
 last-reviewed: "2026-08-28"
 ---
 
-::: {.manual-status}
-**Use with local requirements:** Practise with invented, non-sensitive files. Verify institutional approval, repository ownership and data rules before adding research material.
-:::
+Practise with invented, non-sensitive files. Verify institutional approval, repository ownership and data rules before adding research material.
 
 ## Before initialising
 

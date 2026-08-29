@@ -3,9 +3,7 @@ title: "Protocol-deviation log"
 last-reviewed: "2026-08-28"
 ---
 
-::: {.manual-status}
-**Use with local requirements:** Follow the current ethics, governance, safety, clinical, regulatory, site, cultural and institutional process that applies. This log does not replace required notification or urgent action.
-:::
+Follow the ethics, governance, safety, clinical, regulatory, site, cultural and institutional process that applies. Use this log alongside any required notification or urgent action.
 
 ## Immediate response
 

@@ -3,10 +3,6 @@ title: "Does your design support the claim you want to make?"
 last-reviewed: "2026-08-28"
 ---
 
-::: {.manual-status}
-**Check locally:** Methodological standards differ across research traditions. Use this chapter to expose alignment decisions, then verify them with method-specific expertise, community expectations, governance requirements and the relevant literature.
-:::
-
 A method can be sophisticated and still be wrong for the claim. You may have a large dataset, an elegant model and a clear result, yet the design only supports prediction while the discussion claims explanation. Begin with the inference you want a reader to accept. Then work backwards through the comparison, sample, measurement, data and analysis needed to support it. Design alignment is less about choosing the most impressive method than making every link in that chain honest.
 
 ## Start with the inference, then choose the design

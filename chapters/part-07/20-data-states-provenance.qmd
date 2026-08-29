@@ -3,10 +3,6 @@ title: "Can you trace where this dataset came from?"
 last-reviewed: "2026-08-28"
 ---
 
-::: {.manual-status}
-**Check locally:** “Raw”, “clean” and “analysis-ready” are project-defined states, not universal guarantees. Document the actual source, transformations, authority, exclusions and limitations for your method and data.
-:::
-
 A file called `final_clean_v7` tells you almost nothing. Which source did it come from? What changed between versions? Were exclusions planned, corrected or improvised? Provenance turns those questions into an inspectable chain from the earliest authoritative data through every transformation to the analysis-ready state. A codebook then explains what the variables mean at each point. Together they recover the numbers and the decisions that made those numbers possible.
 
 ## Make every data state and transformation explainable
@@ -205,10 +201,6 @@ Bring:
 - exclusion flow and reconciliation;
 - test results for a difficult record; and
 - the exact meaning, authority or analysis question you cannot resolve.
-
-## Check locally
-
-Confirm authoritative systems, record custody, identifiers, metadata standards, retention, release review, culturally governed data requirements and who may approve corrections to source records.
 
 ## Related practical resources
 

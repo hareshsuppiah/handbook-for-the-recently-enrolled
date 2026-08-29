@@ -3,10 +3,6 @@ title: "How do you turn a draft into an argument?"
 last-reviewed: "2026-08-28"
 ---
 
-::: {.manual-status}
-**Check locally:** Thesis forms, disciplinary genres, reporting standards and acceptable use of prior publications vary. Confirm the required structure and current rules locally.
-:::
-
 You can rewrite an introduction for weeks and still not know what the chapter is trying to prove. Start with the reader’s question, then write the shortest possible chain from claim to evidence to warrant. That skeleton may be ugly; its job is to expose the reasoning while change is cheap. Sources belong where they support a particular move in the argument, not where a paragraph needs decoration. Once the chain works, revise the prose in separate passes for structure, evidence and expression.
 
 ## Build the reasoning before polishing the sentences
@@ -208,10 +204,6 @@ Bring:
 - [ ] Section functions fit the relevant genre and reporting standard.
 - [ ] Substantive revision precedes sentence polishing.
 - [ ] Unresolved markers have owners and removal gates.
-
-## Check locally
-
-Confirm thesis structure, word limits, publication-in-thesis rules, co-authored material declarations, copyright permissions, acceptable editorial or AI assistance, reporting guidelines, accessibility requirements and repository or embargo conditions.
 
 ## Related practical resources
 

@@ -3,10 +3,6 @@ title: "How do you use Git, GitHub and AI safely?"
 last-reviewed: "2026-08-28"
 ---
 
-::: {.manual-status}
-**Check locally:** Repository hosting, AI tools, security features and organisational policies change. Review current Git/GitHub documentation and every applicable institution, ethics, data, funder, publisher and collaboration rule before use.
-:::
-
 Git can preserve a clear history of change; GitHub can make review visible; an AI agent can draft work quickly. None of them decides what is safe to expose or what counts as a correct change. Begin with non-sensitive material, learn the small commit-and-review loop and run a privacy check before anything reaches a remote service. When an agent is involved, treat its work as a proposed change: inspect the diff, test the result and keep publishing behind a human decision.
 
 ## Keep every change inspectable and reversible

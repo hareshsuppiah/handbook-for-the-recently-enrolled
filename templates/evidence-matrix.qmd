@@ -3,9 +3,7 @@ title: "Evidence matrix"
 last-reviewed: "2026-08-28"
 ---
 
-::: {.manual-status}
-**Use with local requirements:** Select columns that expose distinctions relevant to your question. A matrix supports comparison; it is not itself a quality appraisal or synthesis.
-:::
+Select columns that expose distinctions relevant to your question. Use separate methods for quality appraisal and synthesis.
 
 ## Blank matrix
 

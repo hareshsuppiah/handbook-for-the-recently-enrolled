@@ -3,10 +3,6 @@ title: "Could you recover your research data?"
 last-reviewed: "2026-08-28"
 ---
 
-::: {.manual-status}
-**Check locally:** Storage, access, retention, disposal, data sovereignty and security requirements vary by institution, jurisdiction, partner, community, funder, contract and data type. Use approved systems and current authoritative advice.
-:::
-
 “Everything is in Dropbox” can mean that files are synchronised. It does not tell you which copy is authoritative, whether an accidental deletion will spread, who can access sensitive material or whether recovery has ever been tested. Data management is the set of decisions that makes the project understandable and recoverable: what exists, where it belongs, who may use it, how it is backed up and what happens when the project ends. The test is not whether the files are somewhere. It is whether the right files can be found, restored and interpreted.
 
 ## Design for recovery, not just storage

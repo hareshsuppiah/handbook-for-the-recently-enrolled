@@ -3,10 +3,6 @@ title: "How will you test the rigour of your method?"
 last-reviewed: "2026-08-28"
 ---
 
-::: {.manual-status}
-**Check locally:** There is no discipline-free definition of quality. Select and cite standards appropriate to the question, evidence, research tradition and intended claim; verify any binding local protocol, reporting or governance requirement.
-:::
-
 “Make it more rigorous” sounds useful until you have to decide what to do. Different methods expose different threats, and their quality traditions do not use the same vocabulary or tests. Start by naming the inference that could be wrong and the process that could make it wrong. Then choose checks that fit the method and were planned for that purpose. Rigour is not a decoration added to the methods section. It is the visible work of finding, reducing and reporting plausible threats to the claim.
 
 ## Name the threat before choosing the quality check

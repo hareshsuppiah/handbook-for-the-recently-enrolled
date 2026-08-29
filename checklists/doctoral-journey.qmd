@@ -167,6 +167,6 @@ Repeat this checkpoint for every empirical study, secondary analysis, substantia
 
 **Use next:** [How do you close a project without losing its value?](../chapters/part-12/36-closure-transition.qmd)
 
-::: {.callout-warning title="Stop and check locally"}
-This journey checklist does not create approval, waive local requirements or replace specialist advice. Stop before participant contact, restricted-data access, hazardous work, consequential protocol changes, submission or disposal when the responsible authority has not confirmed that you may proceed.
-:::
+## Pause before irreversible steps
+
+Get confirmation from the responsible authority before participant contact, restricted-data access, hazardous work, consequential protocol changes, submission or disposal.

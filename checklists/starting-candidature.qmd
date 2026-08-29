@@ -33,9 +33,6 @@ Keep the enrolment or milestone confirmation, induction record, supervision note
 
 **Result:** The checklist stops participant or data-facing work. The safe next step is to confirm the supervisory and approval pathway, establish approved storage and complete the required training. Orientation searching and reversible planning may continue.
 
-::: {.callout-warning title="Check locally"}
-Names, deadlines, mandatory training, record systems and escalation routes vary by institution and project.
-:::
 
 ## Related guidance
 

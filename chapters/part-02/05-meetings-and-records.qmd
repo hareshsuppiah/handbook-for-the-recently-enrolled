@@ -3,10 +3,6 @@ title: "How do you make supervision meetings useful?"
 last-reviewed: "2026-08-28"
 ---
 
-::: {.manual-status}
-**Check locally:** Adapt record retention and formal reporting to current local requirements.
-:::
-
 A supervision meeting can be warm, intelligent and completely unhelpful. You discuss ethics, methods and a promising paper, then leave unsure what was decided or who will do what. The fix is simple enough to describe: use the meeting to make decisions, then keep a short record that survives everyone’s memory. The real skill is deciding what belongs on the agenda, what needs a decision and what can wait. A useful meeting changes the state of the project.
 
 ## Design the meeting around decisions

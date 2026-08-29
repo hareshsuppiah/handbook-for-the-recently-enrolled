@@ -46,9 +46,6 @@ The revision supports an interpretive study but cannot estimate prevalence or de
 
 Keep the question version, failed checks, revisions, design consequence, supervisor or specialist review, and the decision-log entry explaining why the question changed.
 
-::: {.callout-warning title="Check locally"}
-Proposal, confirmation, preregistration, ethics and examination requirements may demand a particular question format. Methodological traditions differ in when and how questions are fixed.
-:::
 
 ## Related guidance
 

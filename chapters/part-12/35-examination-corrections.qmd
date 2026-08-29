@@ -3,10 +3,6 @@ title: "How do you prepare for examination and corrections?"
 last-reviewed: "2026-08-28"
 ---
 
-::: {.manual-status}
-**Check locally:** Notice, eligibility, examiner nomination, thesis format, oral examination, result categories, correction authority, appeals and deadlines vary substantially. Only the awarding institution can define the applicable process.
-:::
-
 A thesis can always be improved, which makes “finished” a poor submission test. Examination asks a more useful question: does the thesis make a clear contribution through a coherent, transparent and defensible body of work that meets the local rules? Build that case explicitly, audit the chain from questions to conclusions and verify the exact submission package. If corrections follow, turn each requirement into a traceable decision and keep the work inside the examiner’s requested scope unless a wider change is genuinely necessary.
 
 ## Prepare an examination case, not a perfect document
@@ -194,10 +190,6 @@ Bring the contribution map, sceptical-question audit, failed readiness checks, e
 - [ ] Post-submission errors use the formal route.
 - [ ] Every correction preserves the exact requirement and verification.
 - [ ] Acceptance—not merely revision—closes the corrections record.
-
-## Check locally
-
-Confirm notice and submission deadlines, eligibility, examiner nomination and conflicts, thesis format, oral examination, permitted support, result categories, correction scope/deadlines, resubmission, appeal, repository deposit, embargo and award conferral.
 
 ## Related practical resources
 

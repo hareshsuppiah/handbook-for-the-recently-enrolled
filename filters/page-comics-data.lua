@@ -1463,7 +1463,7 @@ return {
     asset_path = "assets/xkcd/2368-bigger-problem.png",
     reason = "The handbook can acknowledge a problem without pretending it replaces the specialist services responsible for solving it.",
   },
-  ["title:Support boundaries"] = {
+  ["title:Before you rely on this handbook"] = {
     page_path = "support.qmd",
     comic_id = "2368",
     title = "Bigger Problem",

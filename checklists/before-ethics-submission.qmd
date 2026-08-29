@@ -3,9 +3,7 @@ title: "Is this application ready for ethics or governance review?"
 last-reviewed: "2026-08-28"
 ---
 
-::: {.manual-status}
-**Use with local requirements:** Use the current local forms, National Statement or equivalent framework, and responsible review body. This checklist cannot determine exemption or approve research.
-:::
+Use the current forms and governing framework. The responsible review body decides whether the work is exempt or approved.
 
 **Pause point:** Immediately before submitting an ethics, governance, site-authorisation or amendment package.
 
@@ -38,9 +36,6 @@ Keep the exact submitted package, version register, data-flow map, permissions, 
 
 An application describes anonymous survey responses, but the survey platform records email addresses for prize entry and exports IP addresses by default. The checklist fails because the participant information, consent language and data flow contradict the system. The team separates prize entry from research responses, disables or justifies metadata collection, tests the export, updates every document and has the complete package reviewed again before submission.
 
-::: {.callout-warning title="Check locally"}
-Only the responsible ethics, governance or review body can determine whether the submission is complete or approve the work.
-:::
 
 ## Related guidance
 

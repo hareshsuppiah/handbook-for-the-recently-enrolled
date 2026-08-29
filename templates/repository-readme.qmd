@@ -3,9 +3,7 @@ title: "Repository README template"
 last-reviewed: "2026-08-28"
 ---
 
-::: {.manual-status}
-**Use with local requirements:** Remove prompts from the final README. Do not disclose protected project details merely to make the repository appear complete.
-:::
+Remove prompts from the final README. Do not disclose protected project details merely to make the repository appear complete.
 
 ## Project title
 

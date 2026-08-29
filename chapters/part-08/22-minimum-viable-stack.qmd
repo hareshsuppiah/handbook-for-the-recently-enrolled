@@ -3,10 +3,6 @@ title: "Which research tools do you actually need?"
 last-reviewed: "2026-08-28"
 ---
 
-::: {.manual-status}
-**Check locally:** Software features, licences, terms, institutional approvals and security conditions change. Verify current authoritative documentation before adopting or connecting a tool, especially for protected research material.
-:::
-
 A new tool promises cleaner notes, smarter searching or effortless automation, and soon the research system needs more maintenance than the research. Start with the capabilities the project needs: secure storage, reference management, analysis, writing, review and recovery. Give each tool one declared job and prefer durable handoffs between them. The best stack is not the one with the most features. It is the smallest set your team can use safely, understand later and leave without losing the work.
 
 ## Choose capabilities before brands

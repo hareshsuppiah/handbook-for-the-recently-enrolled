@@ -8,7 +8,7 @@ Graduate research rarely fails because nobody can find another definition of met
 
 This handbook is built for those moments. It helps you identify the decision in front of you, do proportionate due diligence, record what you considered, take a defensible next step, and know when local or specialist help is required.
 
-This is a living public edition: it is ready to use now and will continue to be corrected and improved. Institution-specific rules must always be checked locally. [About this edition](status.qmd).
+This is a living public edition: it is ready to use now and will continue to be corrected and improved. [About this edition](status.qmd).
 
 ## Start from your situation
 
@@ -24,11 +24,7 @@ This is a living public edition: it is ready to use now and will continue to be 
 
 You do not need to read from cover to cover. Start with the problem you are facing now. Each chapter explains the decision, shows a workable next step and links to a checklist or template when one will help. It also tells you when “good enough” is genuinely enough—and when the issue needs local or specialist help.
 
-The handbook is institution-neutral by design. A box labelled **Check locally** means that policies, systems, approvals, services, or legal requirements can vary. General advice never overrides your institution’s formal requirements or a specialist’s case-specific direction.
-
-## What this handbook is not
-
-This is not a substitute for ethics approval, research-integrity advice, legal or medical advice, counselling, emergency help, formal complaints processes, or method-specific supervision. [Support boundaries](support.qmd) explain where the handbook stops.
+Most of the handbook can be used directly for thinking, planning and discussion. When a decision needs formal approval or case-specific expertise, [Before you rely on this handbook](support.qmd) shows where to check. The full explanation lives there so it does not interrupt every chapter.
 
 ## Help improve it
 

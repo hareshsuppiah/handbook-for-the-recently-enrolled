@@ -3,9 +3,7 @@ title: "Synthesis and argument map"
 last-reviewed: "2026-08-28"
 ---
 
-::: {.manual-status}
-**Use with local requirements:** Use one map per consequential paragraph, section claim or decision. Every cited source must still be opened and checked.
-:::
+Use one map per consequential paragraph, section claim or decision. Every cited source must still be opened and checked.
 
 ## Blank map
 

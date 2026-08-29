@@ -3,9 +3,7 @@ title: "Could I restore this work?"
 last-reviewed: "2026-08-28"
 ---
 
-::: {.manual-status}
-**Use with local requirements:** Restore protected data only into an approved test location. Coordinate with the responsible IT, security, data and records teams.
-:::
+Restore protected data only into an approved test location. Coordinate with the responsible IT, security, data and records teams.
 
 **Pause point:** Before collection, quarterly during active work, after material storage changes and before handover.
 

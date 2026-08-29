@@ -38,9 +38,6 @@ The approved protocol permits coded interview audio in institutional storage. A 
 
 The custodian authorises a restricted-data extract, but the project folder is still a personal synchronised drive. Written data access is not permission to use an unapproved storage route. Keep the transfer paused, establish and test the authorised environment, then retain approval and recovery evidence.
 
-::: {.callout-warning title="Check locally"}
-Required approvals and safety controls vary with the participants, setting, data, methods, jurisdiction and institution.
-:::
 
 ## Related guidance
 

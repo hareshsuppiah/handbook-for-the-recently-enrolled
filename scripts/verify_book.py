@@ -54,10 +54,9 @@ def main() -> int:
             re.M | re.I,
         ),
         "readiness or pause-point standard": re.compile(
-            r"good enough|^## .*\b(enough|ready|before|check|audit|test|pause|progress|dependable)\b",
+            r"good enough|^## .*\b(enough|ready|before|check|audit|test|pause|progress|dependable|follow|trace)\b",
             re.M | re.I,
         ),
-        "local boundary": re.compile(r"\blocal(?:ly)?\b|institution|jurisdiction|disciplin(?:e|ary)|vary substantially by field", re.M | re.I),
         "practical resources": re.compile(r"^## Related (practical )?resources|\.\./\.\./(templates|checklists|stuck)/", re.M | re.I),
     }
     word_counts: list[int] = []
@@ -74,6 +73,28 @@ def main() -> int:
             fail(f"chapter missing last-reviewed metadata: {path.relative_to(ROOT)}", failures)
         if not re.search(r"\[@[^\]]+\]", text):
             fail(f"chapter has no explicit source citation: {path.relative_to(ROOT)}", failures)
+
+    # Standing limits belong on support.qmd, not in a warning box repeated on
+    # every page. Specific stop conditions may remain where the risk occurs.
+    boundary_page = (ROOT / "support.qmd").read_text(encoding="utf-8")
+    if "Find the current rule before you act" not in boundary_page:
+        fail("support.qmd is missing the consolidated local-rule guidance", failures)
+    deprecated_boundary_patterns = {
+        "manual-status box": re.compile(r"^:::\s*\{\.manual-status\}", re.M),
+        "Check locally callout": re.compile(r'^:::\s*\{\.callout-warning title="(?:Stop and check locally|Check locally)"\}', re.M),
+        "Check locally heading": re.compile(r"^## Check locally$", re.M),
+        "Check locally label": re.compile(r"\*\*Check locally:\*\*"),
+        "generic substitute disclaimer": re.compile(r"This is not a substitute for", re.I),
+    }
+    reader_sources = [ROOT / "index.qmd", ROOT / "support.qmd"]
+    reader_sources.extend(sorted((ROOT / "chapters").rglob("*.qmd")))
+    reader_sources.extend(sorted((ROOT / "checklists").rglob("*.qmd")))
+    reader_sources.extend(sorted((ROOT / "templates").rglob("*.qmd")))
+    for source in reader_sources:
+        text = source.read_text(encoding="utf-8")
+        for label, pattern in deprecated_boundary_patterns.items():
+            if pattern.search(text):
+                fail(f"reader-facing source retains deprecated {label}: {source.relative_to(ROOT)}", failures)
 
     resources = []
     with (ROOT / "planning/requirements-checklist.csv").open(newline="", encoding="utf-8") as handle:

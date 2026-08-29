@@ -3,9 +3,7 @@ title: "Can I use AI for this task?"
 last-reviewed: "2026-08-28"
 ---
 
-::: {.manual-status}
-**Use with local requirements:** AI rules and tool practices change quickly. Recheck the current institution, funder, publisher, ethics, data, intellectual-property and contractual rules for every material use.
-:::
+AI rules and tool practices change quickly. Recheck the current institution, funder, publisher, ethics, data, intellectual-property and contractual rules for every material use.
 
 ## Start here
 

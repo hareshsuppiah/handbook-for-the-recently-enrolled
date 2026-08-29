@@ -35,9 +35,6 @@ Keep the study decision record, evidence summary, feasibility checks, design rat
 
 **Result:** The checklist stops full study commitment. The team may submit the access request and complete reversible preparation, but it must test a feasible alternative and set a decision date rather than calling access secured.
 
-::: {.callout-warning title="Check locally"}
-Required reviewers, approvals and study documents depend on the discipline, jurisdiction, data type, participants and host organisation.
-:::
 
 ## Related guidance
 

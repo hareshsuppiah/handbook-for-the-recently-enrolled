@@ -3,10 +3,6 @@ title: "Could someone else reproduce this work?"
 last-reviewed: "2026-08-28"
 ---
 
-::: {.manual-status}
-**Check locally:** Reproducibility terminology and standards vary across disciplines. This chapter emphasises computational and procedural recoverability while protecting data, cultural, legal and contractual restrictions.
-:::
-
 An analysis that runs only on your laptop is not yet a durable research workflow. Reproducibility does not always mean publishing every file: restricted data, proprietary tools and qualitative judgement can impose real limits. It does mean choosing a realistic target and testing whether another authorised person can understand the steps, recover the environment and obtain the expected result. The strongest evidence is a clean run outside the comfortable setup where the workflow was created.
 
 ## Choose a reproducibility target you can test

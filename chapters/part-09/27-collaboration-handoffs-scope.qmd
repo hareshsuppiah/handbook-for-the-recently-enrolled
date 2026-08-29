@@ -3,10 +3,6 @@ title: "How do you share work without losing control of scope?"
 last-reviewed: "2026-08-28"
 ---
 
-::: {.manual-status}
-**Check locally:** Agreements, intellectual property, data access, authorship, partner obligations and thesis structures vary. Confirm formal responsibilities and permissions locally.
-:::
-
 A collaborator sends a dataset, figure or analysis and everyone assumes someone else knows how it was produced. The work may be technically sound and still unusable because ownership, inputs, acceptance criteria and decision rights were never agreed. Good collaboration makes the interfaces visible. Define what will be handed over, in which form, who can approve it and what happens when the shared work changes. This protects the research argument as well as the relationship.
 
 ## Make ownership and handoffs explicit
@@ -202,10 +198,6 @@ Bring:
 - [ ] Candidature, study and collaboration scope boundaries are applied.
 - [ ] New work is accepted with displacement and resource consequences visible.
 - [ ] Sensitive disputes use an authorised independent route.
-
-## Check locally
-
-Verify thesis format and examination rules, partner and funding agreements, intellectual-property ownership, data-access and confidentiality conditions, research-record retention, repository access, software licences, authorship standards, staffing changes and formal dispute routes.
 
 ## Related practical resources
 

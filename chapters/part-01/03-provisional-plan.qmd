@@ -3,10 +3,6 @@ title: "How do you turn a proposal into a workable plan?"
 last-reviewed: "2026-08-28"
 ---
 
-::: {.manual-status}
-**Check locally:** The workflow is institution-neutral; formal milestone formats and approval processes must be checked locally.
-:::
-
 A proposal is written to show that a project could be worthwhile. Once you enrol, the job changes. You now have to find out whether its assumptions survive contact with real data access, recruitment, ethics, time and expertise. That does not mean the proposal was wrong or that changing it is failure. It means the proposal has become a set of claims to test. A workable plan records what is known, what is assumed, what could block the project and which decision must be made next.
 
 ## Treat the proposal as a starting hypothesis

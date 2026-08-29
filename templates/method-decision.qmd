@@ -3,9 +3,7 @@ title: "Methodological decision record"
 last-reviewed: "2026-08-28"
 ---
 
-::: {.manual-status}
-**Use with local requirements:** Record a provisional methodological commitment and its reconsideration conditions. This record does not replace a protocol, ethics application, preregistration or discipline-specific justification.
-:::
+Record a provisional methodological commitment and the conditions for reconsidering it. Keep the protocol, ethics application, preregistration and discipline-specific justification as separate records where they are needed.
 
 ## Blank record
 

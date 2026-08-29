@@ -3,10 +3,6 @@ title: "What problem is your research actually solving?"
 last-reviewed: "2026-08-28"
 ---
 
-::: {.manual-status}
-**Check locally:** Forms of contribution vary substantially by field, method and doctoral format; test the chapter's general distinctions against current disciplinary and institutional expectations.
-:::
-
 An interesting topic is not yet a research problem. “There is little research on this population” may be true, but it does not tell the reader what is misunderstood, what decision is impaired or why another study would help. Before promising a contribution, connect four things: the situation, the consequential problem, the gap in what is known or possible, and the change your work could make. If one link is vague, the project may still be promising. It simply is not ready to carry the claim yet.
 
 ## Build the chain before claiming the gap

@@ -3,10 +3,6 @@ title: "How much literature searching do you need?"
 last-reviewed: "2026-08-28"
 ---
 
-::: {.manual-status}
-**Check locally:** Review methods and reporting standards differ; consult an information specialist for consequential or unfamiliar evidence synthesis.
-:::
-
 One research question can produce forty open tabs and the uneasy feeling that the decisive paper is still out there. Searching becomes manageable when you decide what the search is for. A quick orientation, a defensible background claim and a systematic review require different effort and records. Climbing to the highest possible search level every time wastes months; stopping too early can make a claim indefensible. The search ladder helps you match the method, documentation and stopping rule to the decision in front of you.
 
 ## Match the search to the claim
@@ -124,10 +120,6 @@ Stop the chain according to the purpose. Orientation may stop when new records n
 ## Ask a librarian or supervisor a bounded question
 
 Bring the question, intended output, current concept table, databases considered, sample strategy, known relevant records, limits and the decision you need. Ask: “What evidence could this approach systematically miss, and does that matter for the claim?”
-
-## Check locally
-
-Database access, review protocols, language capability, information-specialist support and required reporting standards vary. Confirm the route appropriate to the intended review and field.
 
 ## Related resources
 

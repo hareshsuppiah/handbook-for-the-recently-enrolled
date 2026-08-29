@@ -3,9 +3,7 @@ title: "AI-use and verification log"
 last-reviewed: "2026-08-28"
 ---
 
-::: {.manual-status}
-**Use with local requirements:** Store protected prompts and outputs only in an approved environment. Never record credentials. Tailor disclosure to current local and publication requirements.
-:::
+Store protected prompts and outputs only in an approved environment. Never record credentials. Tailor disclosure to current local and publication requirements.
 
 ## Blank record
 

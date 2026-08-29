@@ -3,10 +3,6 @@ title: "How do you make a literature search reproducible?"
 last-reviewed: "2026-08-28"
 ---
 
-::: {.manual-status}
-**Check locally:** Search methods must follow the selected review methodology, databases and discipline; involve a librarian or information specialist where coverage is consequential.
-:::
-
 A search can look rigorous on the day it is run and be impossible to reconstruct six months later. Database syntax changes, saved histories disappear and a copied search string may behave differently in another platform. Reproducibility begins before the first search: define the question, the databases, the concepts, the translation rules and the evidence that will tell you the search is working. The goal is not ritual documentation. It is a record that lets another person understand, rerun and critique the choices you made.
 
 ## Preserve the reasoning as well as the search string

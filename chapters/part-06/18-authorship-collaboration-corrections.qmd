@@ -3,10 +3,6 @@ title: "Who should receive authorship—and what if something goes wrong?"
 last-reviewed: "2026-08-28"
 ---
 
-::: {.manual-status}
-**Check locally:** Authorship standards, author order, intellectual property, Indigenous knowledge governance, contractual duties and correction processes vary by discipline, institution, partner and venue. Check the standards governing the actual output.
-:::
-
 Authorship disputes often appear at submission but begin much earlier, when contribution, ownership and decision rights were left implicit. A person may expect authorship for access, supervision or analysis that never occurred; another may do substantial work that no one records. Discuss credit when roles are agreed, revisit it when the work changes and separate authorship from acknowledgement and intellectual property. If the scholarly record is wrong, the same principle applies: identify the error, its consequence and the proportionate correction.
 
 ## Agree credit while the work can still be redesigned

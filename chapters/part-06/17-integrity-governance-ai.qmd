@@ -3,10 +3,6 @@ title: "Can you use AI responsibly in this research?"
 last-reviewed: "2026-08-28"
 ---
 
-::: {.manual-status}
-**Check locally:** AI products, data practices and organisational rules change quickly. Check the current institution, funder, publisher, ethics, data, intellectual-property and contractual rules for the exact task and tool. The AI guidance here was reviewed on 28 August 2026.
-:::
-
 An AI tool can save time and still be the wrong tool for the task. The input may be confidential, the output may be impossible to verify, or the relevant policy may prohibit the use entirely. Before asking which model is best, classify what you want the system to do and what information it would receive. Then check permission, data handling, verification and disclosure. Responsible use is not achieved by adding an AI statement at the end. It begins with a decision that can be defended before the tool is used.
 
 ## Decide on the task before choosing the tool

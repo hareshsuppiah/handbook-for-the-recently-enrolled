@@ -3,10 +3,6 @@ title: "How should your analysis and writing tools work together?"
 last-reviewed: "2026-08-28"
 ---
 
-::: {.manual-status}
-**Check locally:** Software, packages, plugins, licences and supported formats change. Tool descriptions were reviewed on 28 August 2026; verify official documentation, institutional approval and method-specific requirements before adoption.
-:::
-
 Research often travels through several tools: data are cleaned in one place, analysed in another, pasted into a document and then revised by hand. Each handoff creates a chance for the result and its source to drift apart. A better workflow declares which tool is authoritative for data, references, analysis and prose, then uses durable outputs between them. Quarto can help connect analysis and publication, but only when the surrounding review process is clear and accessible to the people who must use it.
 
 ## Give each tool authority over one part of the work

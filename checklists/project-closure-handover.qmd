@@ -3,9 +3,7 @@ title: "Is this project ready to close or hand over?"
 last-reviewed: "2026-08-28"
 ---
 
-::: {.manual-status}
-**Use with local requirements:** Apply current retention, disposal, ownership, departure, repository and account-closure rules. Handover is not complete until the recipient demonstrates access and recovery.
-:::
+Apply current retention, disposal, ownership, departure, repository and account-closure rules. Handover is not complete until the recipient demonstrates access and recovery.
 
 **Pause point:** Before access ends, people leave, accounts close, records are archived or responsibility transfers.
 
@@ -38,9 +36,6 @@ Keep the closure decision, archive manifest, access record, disposal evidence, h
 
 A candidate provides a folder and says the analysis is reproducible. The recipient can open the report but cannot locate the approved input, restore the environment or identify which script created Figure 3. Handover fails. The candidate supplies the input manifest, release tag, environment file, one build command and output map; the recipient reruns Figure 3 and the backup restore before acknowledging transfer.
 
-::: {.callout-warning title="Check locally"}
-Retention, disposal, ownership, repository, departure and account-closure rules vary by institution, funder, agreement, jurisdiction and data type.
-:::
 
 ## Related guidance
 

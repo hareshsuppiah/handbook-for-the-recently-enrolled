@@ -28,7 +28,3 @@ Pause if the preferred account cannot be reconciled with the study record, mater
 ## Evidence to retain
 
 Keep the reporting checklist, claim-evidence map, verified tables and figures, deviation record, contributor discussion and the version used for substantive review.
-
-::: {.callout-warning title="Check locally"}
-Reporting, authorship and thesis-inclusion requirements vary by discipline, outlet, institution and contributor agreement.
-:::

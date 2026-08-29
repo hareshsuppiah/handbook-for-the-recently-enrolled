@@ -3,10 +3,6 @@ title: "Should you persist, pivot, pause or stop?"
 last-reviewed: "2026-08-28"
 ---
 
-::: {.manual-status}
-**Check locally:** Urgent safety, serious distress, participant harm, misconduct, privacy breach, harassment, discrimination and legal concerns require the appropriate local service—not ordinary project troubleshooting.
-:::
-
 Being busy is not the opposite of being stuck. You can read, polish and attend meetings while avoiding the one decision that would move the project. Start by naming the smallest blocked object: a question, permission, method, result, relationship or capacity problem. Then ask what evidence would change the choice between persisting, pivoting, pausing or stopping. The right route protects the project from sunk-cost thinking and sends the problem to the person who can actually decide it.
 
 ## Find the smallest blocked decision
@@ -171,10 +167,6 @@ Bring the outcome, blocked decision, classification, facts and assumptions, chec
 - [ ] The next action produces evidence and has an owner.
 - [ ] Review and escalation thresholds are dated.
 - [ ] Urgent or unsafe matters use an independent authorised route.
-
-## Check locally
-
-Confirm supervisory escalation, graduate research coordination, research integrity, ethics, privacy, safety, complaints, disability support, counselling, leave, candidature variation, ombuds or advocacy, emergency and after-hours processes.
 
 ## Related practical resources
 

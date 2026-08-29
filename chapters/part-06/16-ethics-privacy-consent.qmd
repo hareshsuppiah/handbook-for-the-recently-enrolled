@@ -3,10 +3,6 @@ title: "How do you protect people and their information?"
 last-reviewed: "2026-08-28"
 ---
 
-::: {.manual-status}
-**Check locally:** Ethics, privacy, consent and governance requirements depend on jurisdiction, institution, population, community, site, data and method. In Australia, the 2025 National Statement took effect on 23 June 2026 [@national-statement-2025]. Always use the current local process and obtain authoritative advice.
-:::
-
 Ethics approval is a formal decision, but ethical responsibility does not begin or end with the form. A change from audio to video, a new recruitment route or an apparently harmless data linkage can alter what participants experience and what could identify them. Map the project from the perspective of the people and communities involved. Ask what is collected, who can see it, what they were told, what could change and which authority must approve that change before it happens.
 
 ## Treat protection as a continuing design responsibility
