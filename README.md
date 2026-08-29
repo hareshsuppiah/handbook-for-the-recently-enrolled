@@ -40,6 +40,7 @@ The rendered site is written to `_site/`.
 - `examples/`: completed examples for priority resources.
 - `research/`: questions, coverage, sources, community requests, decisions, and audit records.
 - `research/visual-assets-register.csv`: image provenance, licence, credit, alternative text, and placement review.
+- `research/page-visuals.csv`: the comic selected for every rendered page and the editorial reason it belongs there.
 - `planning/`: authoritative requirements, decisions, roadmap, style, and maintenance plans.
 - `contributions/`: plain-language routes for sharing feedback and understanding the editorial workflow.
 

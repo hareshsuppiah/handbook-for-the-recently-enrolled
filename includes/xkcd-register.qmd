@@ -1,0 +1,52 @@
+## The xkcd comics used in this handbook
+
+Every embedded xkcd comic is by Randall Munroe and is reused from [xkcd](https://xkcd.com/) under the [Creative Commons Attribution–NonCommercial 2.5 licence](https://creativecommons.org/licenses/by-nc/2.5/). The comics are excluded from the handbook's CC BY 4.0 content licence. Each appearance links to the original comic and explains why it was selected for that page.
+
+| Comic | Used on |
+|---|---|
+| [xkcd #14: Copyright](https://xkcd.com/14/) | Visuals, humour and credit |
+| [xkcd #59: Graduation](https://xkcd.com/59/) | The Handbook for the Recently Enrolled; The whole doctorate: one checklist |
+| [xkcd #225: Open Source](https://xkcd.com/225/) | Repository README template |
+| [xkcd #263: Certainty](https://xkcd.com/263/) | How do you protect people and their information?; Is this application ready for ethics or governance review?; Method-options comparison; Protocol-deviation log |
+| [xkcd #303: Compiling](https://xkcd.com/303/) | I am waiting for feedback, approval, access, equipment or data |
+| [xkcd #349: Success](https://xkcd.com/349/) | What can you do when a study fails?; Recruitment, data or a study has failed |
+| [xkcd #371: Compiler Complaint](https://xkcd.com/371/) | Analysis, code or files do not work |
+| [xkcd #386: Duty Calls](https://xkcd.com/386/) | How much literature searching do you need?; How much searching does this decision need?; I keep searching but cannot build an argument |
+| [xkcd #397: Unscientific](https://xkcd.com/397/) | Is this study ready to collect data? |
+| [xkcd #451: Impostor](https://xkcd.com/451/) | What does research independence look like? |
+| [xkcd #481: Listen to Yourself](https://xkcd.com/481/) | How do you use feedback and handle disagreement?; Feedback response matrix |
+| [xkcd #552: Correlation](https://xkcd.com/552/) | Does your design support the claim you want to make?; Is this study ready for analysis? |
+| [xkcd #722: Computer Problems](https://xkcd.com/722/) | What should you do when work is blocked or plans change?; I’m stuck |
+| [xkcd #828: Positive Attitude](https://xkcd.com/828/) | Workload, wellbeing, safety or conduct is affecting the work |
+| [xkcd #882: Significant](https://xkcd.com/882/) | Are your sample, measures and pilot fit for purpose?; Is this pilot ready to run? |
+| [xkcd #910: Permanence](https://xkcd.com/910/) | About this edition; How do you close a project without losing its value?; Is this project ready to close or hand over?; Meeting record; Folder and file-naming starter |
+| [xkcd #927: Standards](https://xkcd.com/927/) | Which research tools do you actually need? |
+| [xkcd #974: The General Problem](https://xkcd.com/974/) | How do you turn a proposal into a workable plan?; Can this research question carry the study?; Is this good enough for its next use?; My topic or question is not defensible yet; Unsure whether the work is good enough |
+| [xkcd #979: Wisdom of the Ancients](https://xkcd.com/979/) | How do you make a literature search reproducible?; Search-concept table; Search log; Citation-chaining log |
+| [xkcd #1028: Communication](https://xkcd.com/1028/) | What should you expect from your supervisors?; Supervisor expectations conversation guide; Supervision agreement; Escalation message builder; A supervision, authorship or collaboration problem feels stuck |
+| [xkcd #1052: Every Major's Terrible](https://xkcd.com/1052/) | What does a doctorate actually ask of you? |
+| [xkcd #1060: Crowdsourcing](https://xkcd.com/1060/) | Suggest an improvement |
+| [xkcd #1172: Workflow](https://xkcd.com/1172/) | Could someone else reproduce this work? |
+| [xkcd #1205: Is It Worth the Time?](https://xkcd.com/1205/) | Is this research topic worth pursuing?; What evidence shows your project is moving?; What should I check after 90 days?; Is this study ready to commit to?; Topic due-diligence canvas |
+| [xkcd #1282: Monty Hall](https://xkcd.com/1282/) | Is your research question ready?; Should you persist, pivot, pause or stop?; Should I continue, pivot or stop?; Decision log; Methodological decision record; I cannot choose a method |
+| [xkcd #1319: Automation](https://xkcd.com/1319/) | How suggestions become handbook changes |
+| [xkcd #1425: Tasks](https://xkcd.com/1425/) | What should you do in your first 90 days?; What should I set up when candidature begins?; Action register; Starting point or expectations are unclear |
+| [xkcd #1447: Meta-Analysis](https://xkcd.com/1447/) | How do you turn reading into an argument?; Paper triage and extraction; Evidence matrix; Synthesis and argument map |
+| [xkcd #1478: P-Values](https://xkcd.com/1478/) | How will you test the rigour of your method? |
+| [xkcd #1597: Git](https://xkcd.com/1597/) | How do you use Git, GitHub and AI safely?; Is this project ready for Git and GitHub? |
+| [xkcd #1654: Universal Install Script](https://xkcd.com/1654/) | How should your analysis and writing tools work together? |
+| [xkcd #1691: Optimization](https://xkcd.com/1691/) | Is this a technical problem, perfectionism or scope creep?; I cannot start writing or stop revising |
+| [xkcd #1782: Team Chat](https://xkcd.com/1782/) | How do you share work without losing control of scope?; Matters-arising register |
+| [xkcd #1838: Machine Learning](https://xkcd.com/1838/) | Can you use AI responsibly in this research?; Can I use AI for this task?; AI-use and verification log |
+| [xkcd #1860: Communicating](https://xkcd.com/1860/) | How do you make supervision meetings useful?; Decision-oriented meeting agenda; Supervisor review cover note |
+| [xkcd #2025: Peer Review](https://xkcd.com/2025/) | Who should receive authorship—and what if something goes wrong?; How do you make your work easier to review?; How do you prepare for examination and corrections?; Is this manuscript ready to submit?; Authorship conversation record; Reviewer-response matrix |
+| [xkcd #2086: History Department](https://xkcd.com/2086/) | References |
+| [xkcd #2173: Trained a Neural Net](https://xkcd.com/2173/) | Human-led, AI-assisted |
+| [xkcd #2304: Preprint](https://xkcd.com/2304/) | Where should you publish—and how should you respond to review?; Journal selection due diligence |
+| [xkcd #2347: Dependency](https://xkcd.com/2347/) | Could you recover your research data?; Could I restore this work? |
+| [xkcd #2368: Bigger Problem](https://xkcd.com/2368/) | What problem is your research actually solving?; Unresolved-questions log; Risk and issues register; One-page case for a proposed topic; Support boundaries |
+| [xkcd #2456: Types of Scientific Paper](https://xkcd.com/2456/) | How do you turn a draft into an argument?; Is this study ready to write up?; Is this thesis ready to submit?; Contribution statement; Thesis contribution map |
+| [xkcd #2582: Data Trap](https://xkcd.com/2582/) | Can you trace where this dataset came from?; Living data-management plan; Data dictionary and codebook |
+| [xkcd #2601: Instructions](https://xkcd.com/2601/) | Practical resources; How the checklists work; How to suggest an improvement |
+
+The machine-readable page-by-page placement, relevance explanation and asset path are recorded in the [`page-visuals register`](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/blob/main/research/page-visuals.csv).

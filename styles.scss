@@ -366,3 +366,45 @@ a:hover {
   body { background: #ffffff; color: #000000; }
   a { color: #000000; }
 }
+
+.handbook-comic {
+  background: #fafafa;
+  border: 1px solid var(--rule);
+  border-radius: 8px;
+  margin: 2.25rem 0;
+  padding: 1.1rem 1.25rem 1rem;
+}
+
+.handbook-comic > p:first-child {
+  font-size: .82rem;
+  letter-spacing: .045em;
+  margin-bottom: .85rem;
+  text-transform: uppercase;
+}
+
+.handbook-comic img {
+  display: block;
+  height: auto;
+  margin: 0 auto;
+  max-height: 520px;
+  max-width: min(100%, 660px);
+  object-fit: contain;
+  width: auto;
+}
+
+.handbook-comic > p:nth-last-child(2) {
+  margin-top: 1rem;
+}
+
+.handbook-comic > p:last-child {
+  color: var(--muted);
+  font-size: .82rem;
+  margin-bottom: 0;
+}
+
+@media (max-width: 767px) {
+  .handbook-comic {
+    margin: 1.75rem 0;
+    padding: .9rem;
+  }
+}

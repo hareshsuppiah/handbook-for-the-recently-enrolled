@@ -167,6 +167,9 @@ book:
 
 bibliography: references.bib
 
+filters:
+  - filters/page-comics.lua
+
 format:
   html:
     page-layout: full
