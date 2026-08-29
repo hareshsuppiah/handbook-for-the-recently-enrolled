@@ -2,6 +2,7 @@
 /_site/
 /.quarto/
 /.DS_Store
+__pycache__/
 /planning/private/
 /tmp/
 /LOCAL-AGENT-HANDOFF/
