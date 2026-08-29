@@ -30,50 +30,6 @@ document.addEventListener("DOMContentLoaded", () => {
   mobile.addEventListener("change", updateBookNavigation);
   tablet.addEventListener("change", updateBookNavigation);
 
-  const updateCompactPageContents = () => {
-    const existing = document.querySelector(".compact-page-contents");
-    if (!tablet.matches) {
-      existing?.remove();
-      return;
-    }
-
-    if (existing) return;
-
-    const main = document.querySelector("#quarto-document-content");
-    if (!main) return;
-
-    const contents = document.createElement("aside");
-    contents.className = "compact-page-contents";
-    contents.setAttribute("aria-label", "On this page");
-
-    const navigation = document.createElement("nav");
-    const heading = document.createElement("div");
-    heading.id = "compact-toc-title";
-    heading.textContent = "On this page";
-    navigation.setAttribute("aria-labelledby", heading.id);
-    navigation.appendChild(heading);
-
-    const list = document.createElement("ul");
-    main.querySelectorAll("h2, h3").forEach((sectionHeading) => {
-      const section = sectionHeading.closest("section[id]");
-      const target = sectionHeading.id || section?.id;
-      if (!target) return;
-      const item = document.createElement("li");
-      const link = document.createElement("a");
-      link.href = `#${target}`;
-      link.textContent = sectionHeading.textContent.replace(/Anchor$/, "").trim();
-      item.appendChild(link);
-      list.appendChild(item);
-    });
-    navigation.appendChild(list);
-    contents.appendChild(navigation);
-
-    const title = main.querySelector("#title-block-header");
-    title?.insertAdjacentElement("afterend", contents);
-    if (!title) main.prepend(contents);
-  };
-
-  updateCompactPageContents();
-  tablet.addEventListener("change", updateCompactPageContents);
+  document.querySelector(".compact-page-contents")?.remove();
 });
 </script>
