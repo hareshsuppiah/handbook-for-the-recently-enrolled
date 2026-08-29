@@ -50,8 +50,13 @@ local function comic_block(entry, page_path)
 end
 
 function Pandoc(doc)
-  local page_path = normalise_input_path()
-  local entry = comic_data[page_path]
+  -- GitHub's Quarto runner may report a nested index page only as `index.qmd`.
+  -- Page titles are unique, so title lookup prevents those pages inheriting the
+  -- home-page mapping while path lookup remains a safe fallback.
+  local page_title = pandoc.utils.stringify(doc.meta.title or "")
+  local entry = comic_data["title:" .. page_title]
+  local page_path = entry and entry.page_path or normalise_input_path()
+  entry = entry or comic_data[page_path]
   if not entry then
     error("No page-comic mapping for " .. page_path)
   end
