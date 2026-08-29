@@ -2,7 +2,9 @@
 title: "How suggestions become handbook changes"
 ---
 
-The GitHub issue is the public editorial record. It holds the reader's suggestion, the evidence check, Haresh's decision, the implementation link and the final outcome.
+Readers do not need this page to submit a suggestion. Use the [step-by-step reader guide](how-to-help.qmd) if you only want to tell us what should change.
+
+For editors and contributors, the GitHub issue is the public editorial record. It holds the reader's suggestion, the evidence check, Haresh's decision, the implementation link and the final outcome.
 
 ## The approval rule
 

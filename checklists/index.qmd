@@ -6,6 +6,10 @@ A useful checklist is not a miniature textbook, a calendar reminder or a substit
 
 This approach draws on the central argument of *The Checklist Manifesto* and the World Health Organization's checklist implementation guidance: expertise still matters, but a short, well-timed check can help people reliably complete critical steps in complex work [@gawande2010checklist; @who2009checklist].
 
+::: {.callout-tip title="Want the entire journey in one place?"}
+Open [The whole doctorate: one checklist](doctoral-journey.qmd). It runs chronologically from the questions to ask before you start through study cycles, thesis submission, examination, closure and post-completion obligations. Each checkpoint links back to the detailed checklist or chapter for that moment.
+:::
+
 ## Two ways to use a checklist
 
 **Read-do** means reading an item and completing it before moving to the next. Use it when the order matters, the process is unfamiliar or the consequences of omission are high.

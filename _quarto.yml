@@ -87,6 +87,7 @@ book:
       chapters:
         - resources.qmd
         - checklists/index.qmd
+        - checklists/doctoral-journey.qmd
         - checklists/starting-candidature.qmd
         - checklists/first-90-day-review.qmd
         - checklists/before-study-commitment.qmd
@@ -159,7 +160,9 @@ book:
         - support.qmd
         - contributions/index.qmd
         - contributions/how-to-help.qmd
+        - contributions/editorial-workflow.qmd
         - contributions/ai-and-editorial-practice.qmd
+        - contributions/visuals-and-credit.qmd
     - references.qmd
 
 bibliography: references.bib

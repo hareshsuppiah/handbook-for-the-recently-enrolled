@@ -8,6 +8,7 @@ The first usable release is a set of checklists organised around **consequential
 
 ## Phase checkpoints
 
+- [The whole doctorate: one chronological checklist](checklists/doctoral-journey.qmd)
 - [Starting candidature](checklists/starting-candidature.qmd)
 - [First 90-day review](checklists/first-90-day-review.qmd)
 - [Before committing to each study](checklists/before-study-commitment.qmd)

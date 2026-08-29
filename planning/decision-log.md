@@ -26,9 +26,11 @@
 | DEC-026 | 2026-08-28 | Describe the publication as **human-led and AI-assisted**. | Human contributors supply questions, experience, evidence, judgement and editorial decisions. AI may assist with collection, drafting, editing and production, but does not independently determine truth, authorship or publication. | Settled |
 | DEC-027 | 2026-08-28 | Use one plain-language **Suggest an improvement** route for readers. | The route covers missing material, corrections, proposed removals, sources, contextual boundaries and barriers to reading or access. It does not describe the handbook merely as a website. | Settled |
 | DEC-028 | 2026-08-28 | Build a separate owner-facing editorial dashboard over the GitHub record. | Haresh should be able to approve, decline, defer or request evidence without navigating developer-oriented repository screens. Approval prepares and, when securely authorised, assigns the issue to GitHub Copilot; publication remains a separate human decision. | Settled |
+| DEC-029 | 2026-08-29 | Add one chronological whole-doctorate checklist. | The existing pause-point checklists remain authoritative for their moments. The new single-page route starts before candidature, repeats the study cycle where necessary, and continues through examination, handover and post-completion obligations. | Settled |
+| DEC-030 | 2026-08-29 | Keep one reader-facing GitHub form and add a field-by-field tutorial. | Readers need one visible route, worked examples, an explicit public-privacy warning and a clear explanation of what happens after submission. Direct pull requests, Discussions, blank issues and the private dashboard are not competing reader intake routes. | Settled |
+| DEC-031 | 2026-08-29 | Use original visual humour by default and register every embedded content image. | Openly licensed or public-domain material may be used only after item-level rights and attribution checks. Unclear meme or comic rights result in a link rather than copied media. AI-assisted originals are disclosed and credited through the visual-assets register. | Settled |
 
 ## Pending owner-supplied settings
 
 - Approved no-GitHub feedback-form URL.
 - No-GitHub contribution form URL, pending owner approval.
-- GitHub authentication renewal before public repository creation and push.

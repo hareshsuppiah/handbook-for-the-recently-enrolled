@@ -2,7 +2,7 @@
 title: "How to contribute"
 ---
 
-Use the [plain-language suggestion page](contributions/index.qmd). Readers submit a question, problem or proposed improvement. They are not expected to edit files or prepare a pull request.
+Use the [plain-language suggestion page](contributions/index.qmd). Readers submit one question, problem or proposed improvement through a structured public form. They are not expected to edit files or prepare a pull request. The [step-by-step guide](contributions/how-to-help.qmd) explains every field and shows the form after sign-in.
 
 ## What makes a useful contribution
 

@@ -29,6 +29,7 @@ body:
     attributes:
       label: What were you trying to find out or do?
       description: Write the question or task in the words a graduate researcher might use.
+      placeholder: "Example: Do I need to repeat a pilot after changing how participants will be recruited?"
     validations:
       required: true
   - type: textarea
@@ -36,6 +37,7 @@ body:
     attributes:
       label: What should be added, corrected, reconsidered or removed?
       description: Include a page link or section heading if you have one. You do not need to propose replacement wording.
+      placeholder: "Name the page or section, then explain what is missing, unclear, wrong, repeated or no longer useful."
     validations:
       required: true
   - type: textarea
@@ -43,6 +45,7 @@ body:
     attributes:
       label: What could happen if the handbook does not address this?
       description: Describe likely confusion, wasted effort, error or harm. Say "minor" if the feedback is low risk.
+      placeholder: "Example: A student may proceed without checking whether the changed recruitment plan affects feasibility or ethics approval."
     validations:
       required: true
   - type: dropdown
@@ -69,6 +72,7 @@ body:
     attributes:
       label: Optional source or example
       description: Link material you are allowed to share, explain why it is relevant, and say whether it applies generally or only in a particular context. Do not paste confidential or copyrighted material.
+      placeholder: "Link the source, name the claim it supports and note any country, institution, discipline or method limit."
   - type: dropdown
     id: credit
     attributes:
@@ -90,4 +94,6 @@ body:
       label: Public submission check
       options:
         - label: I have removed personal, confidential, security-sensitive and unpublished material that I cannot share publicly.
+          required: true
+        - label: I understand that this suggestion and my GitHub username will be visible publicly.
           required: true

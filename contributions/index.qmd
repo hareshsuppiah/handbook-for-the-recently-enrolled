@@ -2,40 +2,47 @@
 title: "Suggest an improvement"
 ---
 
-You may notice a question we have missed, advice that needs correcting, a section that no longer earns its place, or a source that would make the handbook stronger. You do not need to edit the handbook or arrive with finished wording. Tell us what a graduate researcher needs and why it matters.
+You do not need to edit the handbook, understand GitHub or arrive with finished wording. Tell us about one reader question or one thing that should be added, corrected, reconsidered or removed. The editorial process takes responsibility for investigating and drafting any change.
 
-[Suggest an improvement](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/issues/new?template=share-feedback.yml){.btn .btn-primary}
+[Open the reader suggestion form](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/issues/new?template=share-feedback.yml){.btn .btn-primary}
 
-The current form is hosted by GitHub and requires a free GitHub account. GitHub calls a suggestion an “issue”, but you are not reporting a software bug and you will not be asked to change the book yourself. A simpler form without a GitHub login is planned.
+The current form is hosted by GitHub and requires a free account. GitHub calls the public suggestion an **issue**. In this project, that means an editorial record, not a software bug. You will not be asked to edit files, use Git or prepare a pull request.
 
-Not sure what to write? Read the [short guide with worked examples](how-to-help.qmd).
+## Choose the closest kind of suggestion
 
-## Before submitting
+| You noticed | Choose in the form | What helps the editor |
+|---|---|---|
+| A student question or situation is missing | **A question or situation is missing** | The question in a student's words, when it arises and why the answer matters |
+| Advice seems unclear, wrong or too confident | **Something is unclear, wrong or potentially misleading** | A page link, the disputed claim and a source or counterexample if available |
+| A passage repeats itself or no longer earns its place | **Something should be shortened, combined, replaced or removed** | What the reader loses time on and what must be preserved if it changes |
+| A practical aid is absent | **A checklist, template or example is missing** | The exact decision or pause point the resource should support |
+| You found stronger evidence | **I found a useful source or piece of evidence** | A direct link, the claim it supports and any country, discipline or method limit |
+| Reading or navigation created a barrier | **The handbook was difficult to read, navigate or access** | The page, device or assistive technology and what you expected to happen |
+| Advice needs a clearer local boundary | **A local rule or practice needs clearer boundaries** | Where the practice applies and what should not be presented as universal |
 
-Do not include identifiable personal information, participant data, private correspondence, complaints casework, confidential research, unpublished results you cannot share, credentials or security-sensitive details. Describe the general problem and redact specifics.
+One submission should cover one distinct problem. This keeps the decision, evidence, proposed change and final outcome traceable.
 
-## Useful feedback includes
+## Before you open the form
 
-- a graduate-research question or situation the handbook does not answer;
-- an inaccurate, unclear or potentially misleading passage;
-- a section that should be shortened, combined, replaced or removed;
-- a missing checklist, template, example or decision aid;
-- an authoritative source relevant to a handbook claim;
-- a barrier that makes the handbook difficult to read, navigate or access;
-- a local rule or practice that needs a clearer boundary.
+GitHub submissions are public. Do not include identifiable personal information, participant data, private correspondence, complaints casework, confidential research, unpublished results you cannot share, credentials or security-sensitive details. Describe the general problem and remove identifying details.
 
-Submit one feedback record for each distinct problem. Describe the problem without trying to rewrite the page yourself.
+If the matter is private, urgent or case-specific, do not use the public form. Read the [support boundaries](../support.qmd) and use the appropriate local process. A separate no-GitHub feedback route is planned but is not active yet.
 
 ## What happens next
 
-1. The feedback is checked for private information, duplicates and existing coverage.
-2. The evidence, scope, likely consequence and local-policy boundaries are reviewed.
-3. Haresh, as project lead and founding editor, decides whether the suggestion is approved, needs more evidence, is deferred, duplicates existing work or is outside the handbook's scope.
-4. Approved improvements are researched, drafted and tested.
-5. Haresh reviews the actual change before deciding whether to publish it.
+1. The suggestion is checked for privacy, duplication and existing coverage.
+2. Its evidence, scope, likely consequence and local-policy boundaries are reviewed.
+3. Haresh, as project lead and founding editor, approves it for drafting, requests evidence, defers it or declines it.
+4. An approved suggestion may be assigned to a human contributor or AI agent to prepare a proposed change.
+5. The proposed wording, evidence and tests return for human review.
+6. Haresh separately decides whether to publish, request another revision or reject the proposed change.
 
-Approval authorises an AI agent or maintainer to prepare a proposed change. It does not publish that change. Haresh reviews the actual wording and evidence before anything is released.
+The first approval allows investigation and drafting. It never publishes the change.
+
+## Need help completing the form?
+
+Use the [step-by-step guide with worked examples](how-to-help.qmd). You can also read [how suggestions become handbook changes](editorial-workflow.qmd), [how AI assistance is governed](ai-and-editorial-practice.qmd) and [how visuals and contributor credit are handled](visuals-and-credit.qmd).
 
 ## Credit
 
-You may request named credit, organisational credit, pseudonymous credit or no public credit. Sending feedback does not automatically make someone an author of the handbook.
+The form lets you request credit using your GitHub name, an organisation, a pseudonym or no public name. A contribution may be credited even when the final wording differs from the suggestion. A suggestion does not automatically make someone an author of the handbook.
