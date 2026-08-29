@@ -1,6 +1,5 @@
 ---
 title: "Starting point or expectations are unclear"
-status: "broad-beta pathway"
 last-reviewed: "2026-08-28"
 ---
 

@@ -1,11 +1,10 @@
 ---
 title: "Synthesis and argument map"
-status: "broad-beta resource"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Resource status:** Usable broad-beta. Use one map per consequential paragraph, section claim or decision. Every cited source must still be opened and checked.
+**Use with local requirements:** Use one map per consequential paragraph, section claim or decision. Every cited source must still be opened and checked.
 :::
 
 ## Blank map

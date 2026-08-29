@@ -1,11 +1,10 @@
 ---
 title: "AI-use and verification log"
-status: "broad-beta resource"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Resource status:** Usable broad-beta. Store protected prompts and outputs only in an approved environment. Never record credentials. Tailor disclosure to current local and publication requirements.
+**Use with local requirements:** Store protected prompts and outputs only in an approved environment. Never record credentials. Tailor disclosure to current local and publication requirements.
 :::
 
 ## Blank record

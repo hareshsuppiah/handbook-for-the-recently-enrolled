@@ -1,24 +1,15 @@
 ---
-title: "Milestones, dependencies and weekly evidence"
-status: "broad-beta draft"
+title: "What evidence shows your project is moving?"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta draft. Formal milestones, leave, progress review, candidature variation and reporting requirements are institution-specific. Verify the current local process and distinguish internal planning from authorised deadline changes.
+**Check locally:** Formal milestones, leave, progress review, candidature variation and reporting requirements are institution-specific. Verify the current local process and distinguish internal planning from authorised deadline changes.
 :::
 
-## The questions students are usually asking
+A full week can produce no visible progress, while a quiet decision about access or analysis can unlock months of work. Milestones become useful when they name the evidence that must exist, the dependencies that come first and the smallest action that changes the project’s state. “Work on chapter” is not a plan. “Draft the claim map so the supervisor can decide whether the section structure is sound” is. Weekly planning should make uncertainty visible rather than rewarding a reassuring percentage complete.
 
-- How do I turn a three-year plan into work for this week?
-- What does “70% complete” actually mean?
-- How much contingency should I allow?
-- How do I plan when approvals or collaborators control the timing?
-- What counts as visible progress during reading, thinking or troubleshooting?
-- How do I use milestones without pretending the plan will not change?
-- When should delay be escalated?
-
-## The direct answer
+## Plan around evidence, dependencies and decisions
 
 Define milestones by evidence and decisions, then work backwards through dependencies to the next observable action. Track states such as not started, active, waiting, blocked, under review and accepted—not invented percentages.
 
@@ -187,7 +178,7 @@ Define a trigger such as:
 
 Bring evidence, impact, options and a recommended decision. Formal candidature changes require the authorised local process; a personal revised spreadsheet does not change the official deadline.
 
-## Common failure modes
+## Why busy weeks still leave the project stuck
 
 - defining milestones by activity rather than evidence;
 - estimating progress by words written or time spent alone;
@@ -200,7 +191,7 @@ Bring evidence, impact, options and a recommended decision. Formal candidature c
 - recording every task but no decisions or evidence;
 - waiting until a milestone fails before escalating.
 
-## Good enough for now
+## What honest weekly progress looks like
 
 A project plan is usable when:
 
@@ -213,7 +204,7 @@ A project plan is usable when:
 - waiting, blocked, review and accepted states are honest; and
 - the plan changes when evidence changes.
 
-## Before you ask your supervisor or graduate research coordinator
+## Escalate the dependency before the milestone is lost
 
 Bring:
 
@@ -225,7 +216,7 @@ Bring:
 - the earliest escalation trigger reached; and
 - a precise decision request with feasible options.
 
-## Pause-point checklist
+## Review the evidence before rolling the plan forward
 
 - [ ] Every milestone is a decision with evidence and acceptance criteria.
 - [ ] Dependencies and reviewers have named owners.

@@ -1,6 +1,5 @@
 ---
 title: "Reviewer-response matrix"
-status: "broad-beta resource"
 last-reviewed: "2026-08-28"
 ---
 

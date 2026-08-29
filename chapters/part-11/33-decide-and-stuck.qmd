@@ -1,24 +1,15 @@
 ---
-title: "Decide, pivot and get unstuck"
-status: "broad-beta draft"
+title: "Should you persist, pivot, pause or stop?"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta draft. Urgent safety, serious distress, participant harm, misconduct, privacy breach, harassment, discrimination and legal concerns require the appropriate local service—not ordinary project troubleshooting.
+**Check locally:** Urgent safety, serious distress, participant harm, misconduct, privacy breach, harassment, discrimination and legal concerns require the appropriate local service—not ordinary project troubleshooting.
 :::
 
-## The questions students are usually asking
+Being busy is not the opposite of being stuck. You can read, polish and attend meetings while avoiding the one decision that would move the project. Start by naming the smallest blocked object: a question, permission, method, result, relationship or capacity problem. Then ask what evidence would change the choice between persisting, pivoting, pausing or stopping. The right route protects the project from sunk-cost thinking and sends the problem to the person who can actually decide it.
 
-- Why am I busy but not moving?
-- Is the problem unclear work, missing evidence, permission, skill, capacity or a relationship?
-- Should I persist, simplify, redesign, pivot, pause, stop or escalate?
-- What can I do before asking my supervisor?
-- What if my supervisor is part of the problem?
-- How do I ask for help without sending a long history nobody can act on?
-- How do I know the blockage is actually resolved?
-
-## The direct answer
+## Find the smallest blocked decision
 
 Being stuck is a state of the work, not a diagnosis of the researcher. Name the outcome, identify the smallest blocked decision, classify the constraint and take one evidence-producing action. If the issue exceeds your control or authority, escalate with a concise factual record and a precise request.
 
@@ -145,7 +136,7 @@ More general reading is deferred unless one of those tests exposes a specific ev
 
 Use independent or formal support when the supervisor is implicated in bullying, harassment, discrimination, retaliation, unsafe conduct, authorship coercion, suspected misconduct or an unresolved conflict of interest. For imminent danger or urgent health needs, use emergency or health services. The handbook cannot assess urgency or guarantee confidentiality.
 
-## Common failure modes
+## Ways of staying busy while remaining stuck
 
 - calling yourself stuck without naming the blocked outcome;
 - solving a clarity problem with more effort;
@@ -160,15 +151,15 @@ Use independent or formal support when the supervisor is implicated in bullying,
 - stopping without closing obligations; and
 - routing a safety or misconduct concern only through ordinary supervision.
 
-## Good enough for now
+## When you have enough evidence to choose a route
 
 You are unstuck when the next action can be started, its owner and authority are known, it produces observable evidence, and a review or escalation threshold exists. Feeling more hopeful can help, but it is not the completion test.
 
-## Before you ask for help
+## Escalate the decision, evidence and deadline
 
 Bring the outcome, blocked decision, classification, facts and assumptions, checks already completed, realistic options, recommendation, risk/deadline and one precise request. Use the [escalation message builder](../../templates/escalation-message.qmd) when the ordinary route has failed or is inappropriate.
 
-## Pause-point checklist
+## Run the five-minute diagnostic
 
 - [ ] The required outcome is observable.
 - [ ] The smallest blocked decision is named.

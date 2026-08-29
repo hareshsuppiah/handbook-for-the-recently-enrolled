@@ -1,24 +1,15 @@
 ---
-title: "Analysis, review tools and Quarto"
-status: "broad-beta draft"
+title: "How should your analysis and writing tools work together?"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta draft. Software, packages, plugins, licences and supported formats change. Tool descriptions were reviewed on 28 August 2026; verify official documentation, institutional approval and method-specific requirements before adoption.
+**Check locally:** Software, packages, plugins, licences and supported formats change. Tool descriptions were reviewed on 28 August 2026; verify official documentation, institutional approval and method-specific requirements before adoption.
 :::
 
-## The questions students are usually asking
+Research often travels through several tools: data are cleaned in one place, analysed in another, pasted into a document and then revised by hand. Each handoff creates a chance for the result and its source to drift apart. A better workflow declares which tool is authoritative for data, references, analysis and prose, then uses durable outputs between them. Quarto can help connect analysis and publication, but only when the surrounding review process is clear and accessible to the people who must use it.
 
-- Should I learn R, Python or use a graphical statistics tool?
-- Can I combine graphical and scripted analysis?
-- Which review or screening platform should I choose?
-- How should a reference manager fit into the writing workflow?
-- What problem does Quarto solve?
-- Does a reproducible document make the analysis correct?
-- How do collaborators review work when they do not use the same tools?
-
-## The direct answer
+## Give each tool authority over one part of the work
 
 Choose the analysis and review route that supports the required method, governance, inspection and handover. Prototype one representative task—including import, analysis, verification, export and rerun—before committing the entire project.
 
@@ -180,7 +171,7 @@ Not every supervisor or collaborator will review source code. Provide:
 
 Do not force all feedback into code-platform terminology. Preserve the review decision and connect it back to the source.
 
-## Common failure modes
+## Handoffs that quietly break the evidence chain
 
 - choosing R, Python or another tool for prestige rather than task fit;
 - assuming graphical analysis cannot be reproducible or code must be reproducible;
@@ -193,7 +184,7 @@ Do not force all feedback into code-platform terminology. Preserve the review de
 - treating a successful Quarto render as scientific verification;
 - creating a sophisticated document no collaborator can review.
 
-## Good enough for now
+## When the publishing pipeline is dependable
 
 The workflow is ready for substantive work when:
 
@@ -207,7 +198,7 @@ The workflow is ready for substantive work when:
 - the environment and project build are recoverable; and
 - tool versions and policies have review dates.
 
-## Before you ask your supervisor, librarian or analyst
+## Show where the current handoff fails
 
 Bring:
 
@@ -220,7 +211,7 @@ Bring:
 - governance and licensing constraints; and
 - one precise method, platform, document or migration question.
 
-## Pause-point checklist
+## Prototype the whole route with one real example
 
 - [ ] Method and review needs determine the tool.
 - [ ] The full workflow—not a toy feature—has been prototyped.

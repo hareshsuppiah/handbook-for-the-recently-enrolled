@@ -1,23 +1,15 @@
 ---
-title: "Design alignment: from question to defensible inference"
-status: "broad-beta draft"
+title: "Does your design support the claim you want to make?"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta draft. Methodological standards differ across research traditions. Use this chapter to expose alignment decisions, then verify them with method-specific expertise, community expectations, governance requirements and the relevant literature.
+**Check locally:** Methodological standards differ across research traditions. Use this chapter to expose alignment decisions, then verify them with method-specific expertise, community expectations, governance requirements and the relevant literature.
 :::
 
-## The questions students are usually asking
+A method can be sophisticated and still be wrong for the claim. You may have a large dataset, an elegant model and a clear result, yet the design only supports prediction while the discussion claims explanation. Begin with the inference you want a reader to accept. Then work backwards through the comparison, sample, measurement, data and analysis needed to support it. Design alignment is less about choosing the most impressive method than making every link in that chain honest.
 
-- Which method should I use?
-- Can I use the method I already know?
-- Do I need qualitative, quantitative, mixed, computational, archival or practice-based work?
-- Is a convenient dataset enough?
-- What does it mean for a design to “answer” a question?
-- How do I justify the trade-offs without pretending the design is perfect?
-
-## The direct answer
+## Start with the inference, then choose the design
 
 Choose a design by working backwards from the inference the project must support—not forwards from a fashionable method, available dataset or familiar technique.
 
@@ -142,7 +134,7 @@ Record each constraint as:
 
 Do not optimise a design around an unverified constraint.
 
-## Common failure modes
+## Where the question-to-claim chain breaks
 
 - selecting a method before stating the inference;
 - letting available data redefine the question without acknowledging the change;
@@ -155,7 +147,7 @@ Do not optimise a design around an unverified constraint.
 - ignoring community authority, cultural safety or the distribution of burden;
 - preserving broad claims after feasibility forces a narrow design.
 
-## Good enough for now
+## When the design is defensible enough to proceed
 
 At proposal stage, the design is good enough to progress when:
 
@@ -169,7 +161,7 @@ At proposal stage, the design is good enough to progress when:
 
 This is permission to test and refine—not proof that the final design is valid.
 
-## Before you ask your supervisor or methodologist
+## Show the methodologist the claim you need to support
 
 Bring:
 
@@ -183,7 +175,7 @@ Bring:
 
 Seek specialist advice early when the project depends on causal identification, complex sampling, specialist instrumentation, Indigenous data or knowledge governance, high-risk participants, advanced modelling, translation, inaccessible populations or unfamiliar interpretive traditions.
 
-## Pause-point checklist
+## Audit the weakest link before data collection
 
 - [ ] The intended claim is written before the method justification.
 - [ ] The unit and target of inference are explicit.

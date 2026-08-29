@@ -1,11 +1,10 @@
 ---
 title: "Authorship conversation record"
-status: "broad-beta resource"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Resource status:** Usable broad-beta. Apply the current authorship standard governing the output. This record documents discussion; it does not override institutional, publisher, contractual, ethical, community or legal requirements.
+**Use with local requirements:** Apply the current authorship standard governing the output. This record documents discussion; it does not override institutional, publisher, contractual, ethical, community or legal requirements.
 :::
 
 ## Output and standard

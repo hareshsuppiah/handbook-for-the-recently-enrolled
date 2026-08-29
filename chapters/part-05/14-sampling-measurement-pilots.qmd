@@ -1,24 +1,15 @@
 ---
-title: "Sampling, measurement and pilots"
-status: "broad-beta draft"
+title: "Are your sample, measures and pilot fit for purpose?"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta draft. Sampling adequacy, measurement quality and pilot design are method-specific. Use the reasoning framework here, then obtain the statistical, qualitative, technical, cultural, clinical or other expertise required by the actual design.
+**Check locally:** Sampling adequacy, measurement quality and pilot design are method-specific. Use the reasoning framework here, then obtain the statistical, qualitative, technical, cultural, clinical or other expertise required by the actual design.
 :::
 
-## The questions students are usually asking
+Sample size, measurement and piloting are often handled as separate technical chores. In practice they answer one question: will the study produce evidence that can support the intended inference? A large sample does not rescue the wrong population, and a reliable instrument may still measure the wrong construct. A pilot is useful when it tests a decision, not when it merely proves that the survey link opens. Design these pieces together and make their limits visible before the main study becomes expensive to change.
 
-- How many participants, cases, documents or observations do I need?
-- Is my sample representative?
-- Can I use an existing questionnaire or dataset?
-- How do I know whether a measure captures the construct?
-- What exactly should a pilot test?
-- Can pilot results be included in the main study?
-- When should a failed pilot make me redesign or stop?
-
-## The direct answer
+## Test fitness for purpose before scale
 
 Sampling is a reasoned connection between the evidence observed and the target of the claim. Measurement is a reasoned connection between a construct and what becomes recorded. A pilot should reduce a named uncertainty and trigger a pre-agreed decision.
 
@@ -145,7 +136,7 @@ Before collection, determine:
 
 Do not decide to reuse pilot data after seeing attractive results. If material changes occur, treat the pilot as development evidence unless the relevant methodology and approvals clearly support integration.
 
-## Common failure modes
+## Adequacy checks that create false confidence
 
 - quoting a universal sample-size rule without an inference-specific justification;
 - confusing convenience, diversity and representativeness;
@@ -158,7 +149,7 @@ Do not decide to reuse pilot data after seeing attractive results. If material c
 - hiding feasibility failures to protect the original plan;
 - beginning recruitment or restricted-data work before written authority.
 
-## Good enough for now
+## When the study is ready to leave the pilot stage
 
 Before main data generation, good enough means:
 
@@ -171,7 +162,7 @@ Before main data generation, good enough means:
 - approvals cover what will happen; and
 - pilot learning has been converted into documented decisions.
 
-## Before you ask your supervisor, methodologist or statistician
+## Bring the inference, not only the calculation
 
 Bring:
 
@@ -184,7 +175,7 @@ Bring:
 - progression, amendment and stop criteria; and
 - one result that would make you change the design.
 
-## Pause-point checklist
+## Before committing the full sample
 
 - [ ] Target, sampling frame, observed sample and analytic sample are defined.
 - [ ] Adequacy follows the selected design rather than a universal rule.

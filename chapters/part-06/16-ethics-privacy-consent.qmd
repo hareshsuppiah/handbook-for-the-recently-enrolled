@@ -1,24 +1,15 @@
 ---
-title: "Ethics, privacy and consent across the project"
-status: "broad-beta draft"
+title: "How do you protect people and their information?"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta draft. Ethics, privacy, consent and governance requirements depend on jurisdiction, institution, population, community, site, data and method. In Australia, the 2025 National Statement took effect on 23 June 2026 [@national-statement-2025]. Always use the current local process and obtain authoritative advice.
+**Check locally:** Ethics, privacy, consent and governance requirements depend on jurisdiction, institution, population, community, site, data and method. In Australia, the 2025 National Statement took effect on 23 June 2026 [@national-statement-2025]. Always use the current local process and obtain authoritative advice.
 :::
 
-## The questions students are usually asking
+Ethics approval is a formal decision, but ethical responsibility does not begin or end with the form. A change from audio to video, a new recruitment route or an apparently harmless data linkage can alter what participants experience and what could identify them. Map the project from the perspective of the people and communities involved. Ask what is collected, who can see it, what they were told, what could change and which authority must approve that change before it happens.
 
-- Do I need ethics review for this project or dataset?
-- Can I start while the application is being reviewed?
-- Is a signed form enough for consent?
-- Can participants really be anonymous?
-- May I reuse data collected for another purpose?
-- What happens when the protocol changes?
-- Is public information automatically ethical to collect and publish?
-
-## The direct answer
+## Treat protection as a continuing design responsibility
 
 Ethics is the continuing work of making the project respectful, justifiable and accountable—not a form completed before research begins. Formal approval authorises only the work and versions within its scope and conditions.
 
@@ -149,7 +140,7 @@ Set review triggers for:
 
 When triggered, pause affected work if necessary, preserve facts and versions, consult the responsible body and use the [protocol-deviation log](../../templates/protocol-deviation.qmd). Do not decide privately that a change is too small to report when the governing process reserves that judgement.
 
-## Common failure modes
+## Where formal approval stops matching the real study
 
 - treating approval as retrospective permission;
 - submitting inconsistent protocols, forms, scripts and data plans;
@@ -162,7 +153,7 @@ When triggered, pause affected work if necessary, preserve facts and versions, c
 - changing recruitment or procedure without an amendment decision;
 - concealing a deviation because no obvious harm occurred.
 
-## Good enough for now
+## When the next activity is ethically ready
 
 Before governed activity begins:
 
@@ -176,7 +167,7 @@ Before governed activity begins:
 - incidents, deviations and amendment triggers have owners; and
 - the team knows when to stop and whom to contact.
 
-## Before you ask your supervisor or ethics/governance contact
+## Give the ethics contact the exact proposed change
 
 Bring:
 
@@ -188,7 +179,7 @@ Bring:
 - your risk assessment and proposed control; and
 - a precise question about review, amendment, consent, privacy, governance or safety.
 
-## Pause-point checklist
+## Stop and check before involving people or their data
 
 - [ ] Current local forms, standards and submission routes have been checked.
 - [ ] Ethics, governance, site, data and community authorities are separated.

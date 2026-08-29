@@ -1,24 +1,15 @@
 ---
-title: "Examination and corrections"
-status: "broad-beta draft"
+title: "How do you prepare for examination and corrections?"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta draft. Notice, eligibility, examiner nomination, thesis format, oral examination, result categories, correction authority, appeals and deadlines vary substantially. Only the awarding institution can define the applicable process.
+**Check locally:** Notice, eligibility, examiner nomination, thesis format, oral examination, result categories, correction authority, appeals and deadlines vary substantially. Only the awarding institution can define the applicable process.
 :::
 
-## The questions students are usually asking
+A thesis can always be improved, which makes “finished” a poor submission test. Examination asks a more useful question: does the thesis make a clear contribution through a coherent, transparent and defensible body of work that meets the local rules? Build that case explicitly, audit the chain from questions to conclusions and verify the exact submission package. If corrections follow, turn each requirement into a traceable decision and keep the work inside the examiner’s requested scope unless a wider change is genuinely necessary.
 
-- How do I know the thesis is ready for examination?
-- What will examiners actually test?
-- How should I prepare for a viva or oral defence?
-- What if I notice an error after submission?
-- How do I respond to vague or conflicting corrections?
-- Can I improve other parts while making required corrections?
-- What evidence proves the corrected thesis is complete?
-
-## The direct answer
+## Prepare an examination case, not a perfect document
 
 Submit when the thesis makes a coherent, bounded contribution and the exact package passes scholarly, integrity, permission and formal checks—not when every sentence feels immune to criticism. Prepare by tracing contribution, methods, evidence, decisions and limitations to exact thesis locations and rehearsing sceptical questions.
 
@@ -168,7 +159,7 @@ Do not create new unexamined claims under the banner of correction. If a request
 
 Examination changes may affect manuscripts, repository records, data/code releases, partner reports or public summaries. Determine which outputs require correction, notification or version update. The accepted corrected thesis does not automatically update a published article.
 
-## Common failure modes
+## How submission and correction work loses control
 
 - submitting because the planned date arrived despite failed critical checks;
 - preparing only a rehearsed summary rather than the evidence chain;
@@ -183,15 +174,15 @@ Examination changes may affect manuscripts, repository records, data/code releas
 - marking corrections complete before authorised acceptance; and
 - assuming thesis corrections automatically repair other outputs.
 
-## Good enough for now
+## When the thesis or correction is ready
 
 The thesis is ready to submit when the contribution and evidence chain are coherent and bounded; critical scholarly and formal checks pass; permissions and declarations are complete; the final package is inspected; and the exact upload is evidenced. Corrections are complete only when every requirement is traceable to a verified response and accepted by the authorised process.
 
-## Before you ask your supervisors or graduate research office
+## Ask reviewers to test the examination case
 
 Bring the contribution map, sceptical-question audit, failed readiness checks, exact package identity, unresolved permissions/declarations, current official instructions and one specific readiness or process question. For corrections, bring the examiner wording, matrix, proposed interpretation and evidence.
 
-## Pause-point checklist
+## Run the final consistency and package checks
 
 - [ ] Contribution, evidence, decisions and limits map to exact thesis locations.
 - [ ] Sceptical examiner questions have been tested.

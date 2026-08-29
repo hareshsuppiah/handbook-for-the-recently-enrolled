@@ -2,7 +2,7 @@
 
 ## Editorial authority
 
-Haresh Suppiah is the project lead, founding editor, and final decision-maker for the broad beta. Editorial decisions must remain traceable to a question, evidence, requirement, or documented product decision.
+Haresh Suppiah is the project lead, founding editor, and final decision-maker for the handbook. Editorial decisions must remain traceable to a question, evidence, requirement, or documented product decision.
 
 ## Review expectations
 

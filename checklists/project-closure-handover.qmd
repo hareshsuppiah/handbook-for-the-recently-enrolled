@@ -1,11 +1,10 @@
 ---
 title: "Is this project ready to close or hand over?"
-status: "broad-beta resource"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Resource status:** Usable broad-beta. Apply current retention, disposal, ownership, departure, repository and account-closure rules. Handover is not complete until the recipient demonstrates access and recovery.
+**Use with local requirements:** Apply current retention, disposal, ownership, departure, repository and account-closure rules. Handover is not complete until the recipient demonstrates access and recovery.
 :::
 
 **Pause point:** Before access ends, people leave, accounts close, records are archived or responsibility transfers.

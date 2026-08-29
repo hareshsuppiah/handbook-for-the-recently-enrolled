@@ -1,22 +1,15 @@
 ---
-title: "What a doctorate asks you to do"
-status: "broad-beta draft"
+title: "What does a doctorate actually ask of you?"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta draft. The general principles are evidence-informed; your award rules, milestones and examination criteria must be checked locally.
+**Check locally:** The general principles are evidence-informed; your award rules, milestones and examination criteria must be checked locally.
 :::
 
-## The questions students are usually asking
+You may be only weeks into the doctorate and already comparing a rough note with the polished thesis you hope to submit years from now. That comparison makes almost any early work look inadequate. The useful question is smaller: what does this piece of work need to do now? A private thinking note, a draft for supervision, an ethics application and a thesis claim do not need the same finish. This chapter helps you choose the right standard, expose the important uncertainty and take the next defensible step without pretending the work is complete.
 
-- What am I actually meant to produce?
-- How original does the work need to be?
-- How do I know whether something is good enough to show my supervisor?
-- Am I supposed to know how to do this already?
-- How can I make progress when the final thesis is years away?
-
-## The direct answer
+## Judge the work by its current job
 
 A doctorate asks you to make and defend an original contribution through research. It does not ask you to begin as an independent expert or to produce a flawless version of the thesis in your first year.
 
@@ -97,7 +90,7 @@ Proceed when the threshold is met. Escalate when the uncertainty concerns approv
 
 This is good enough for the conversation because it exposes the consequential uncertainty. It is not good enough for study approval or data collection.
 
-## Common failure modes
+## Traps that make the doctorate feel impossible
 
 - **Trying to prove the whole thesis at once.** Convert the distant outcome into the next reviewable object.
 - **Mistaking polish for readiness.** Test the reasoning and risk before formatting.
@@ -108,7 +101,7 @@ This is good enough for the conversation because it exposes the consequential un
 - **Using local convention as universal truth.** Label the source and jurisdiction of every formal requirement.
 - **Waiting for confidence.** Seek enough evidence for a reversible next step, not a feeling of certainty.
 
-## Pause-point checklist: before calling work “good enough”
+## A quick check before you call it ready
 
 Use this as a **do-confirm** check at a handover, submission or decision point. It adapts the handbook’s checklist design principles from Gawande and the WHO implementation guidance: few critical checks, a defined pause point, and local adaptation rather than an exhaustive task list [@gawande2010checklist; @who2009checklist].
 
@@ -121,7 +114,7 @@ Use this as a **do-confirm** check at a handover, submission or decision point. 
 
 **Stop condition:** Do not proceed merely because a deadline is close if approval, participant welfare, integrity, safety or irreversible loss remains unresolved.
 
-## Before you ask your supervisor
+## Bring a decision, not a plea for reassurance
 
 Bring:
 

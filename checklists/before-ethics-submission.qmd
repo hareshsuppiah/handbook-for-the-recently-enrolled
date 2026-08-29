@@ -1,11 +1,10 @@
 ---
 title: "Is this application ready for ethics or governance review?"
-status: "broad-beta resource"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Resource status:** Usable broad-beta. Use the current local forms, National Statement or equivalent framework, and responsible review body. This checklist cannot determine exemption or approve research.
+**Use with local requirements:** Use the current local forms, National Statement or equivalent framework, and responsible review body. This checklist cannot determine exemption or approve research.
 :::
 
 **Pause point:** Immediately before submitting an ethics, governance, site-authorisation or amendment package.

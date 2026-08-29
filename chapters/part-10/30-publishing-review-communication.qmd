@@ -1,24 +1,15 @@
 ---
-title: "Publishing, review and communication"
-status: "broad-beta draft"
+title: "Where should you publish—and how should you respond to review?"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta draft. Journal policies, fees, reporting requirements, AI rules and repository rights change. Recheck the official outlet pages immediately before submission.
+**Check locally:** Journal policies, fees, reporting requirements, AI rules and repository rights change. Recheck the official outlet pages immediately before submission.
 :::
 
-## The questions students are usually asking
+A journal’s name, ranking or invitation can feel like a shortcut to the publication decision. It is not. Choose an outlet by the audience, scope, article type, editorial practice, cost and credibility that matter for this paper, then verify those details at the source. Once reviews arrive, treat each comment as a decision to accept, adapt, explain or challenge. The response should show what changed and why; it should never promise an analysis that the design cannot support.
 
-- Which journal is right for this paper?
-- How can I tell whether an invitation or outlet is legitimate?
-- Should journal ranking decide where I submit?
-- What must be agreed about authorship before submission?
-- How do I respond to reviewers without accepting every suggestion?
-- What should I do after rejection?
-- How do I communicate the work beyond an academic paper without overstating it?
-
-## The direct answer
+## Choose for fit, then make review traceable
 
 Choose an outlet by fit among contribution, readers, article type, editorial practice, reporting duties, access, rights, cost, timing and risk. Verify claims on official pages and preserve the decision. Before submission, reconcile the manuscript, approvals, contribution record, reporting checklist, data/code statements and author agreement.
 
@@ -174,7 +165,7 @@ Avoid causal or universal language that the study cannot support. Report null, a
 
 **If rejected:** Separate fit from manuscript concerns, revise valid issues, update the due-diligence comparison and obtain author approval before the next submission.
 
-## Common failure modes
+## Publishing shortcuts that create avoidable trouble
 
 - choosing by metric or supervisor habit without checking the paper's readers;
 - treating an invitation as evidence of legitimacy;
@@ -189,15 +180,15 @@ Avoid causal or universal language that the study cannot support. Report null, a
 - translating findings into recommendations stronger than the evidence; and
 - treating publication as the end of correction, archiving or communication duties.
 
-## Good enough for now
+## When the submission or response is ready
 
 A submission decision is ready when audience and contribution fit are evidenced; policies, rights, cost and integrity signals are checked on current official pages; reporting and authorship requirements are reconciled; the package passes independent verification; and the team has a documented fallback.
 
-## Before you ask your supervisors or co-authors
+## Bring a shortlist with reasons, not a single favourite
 
 Bring the completed outlet comparison, recent comparable articles, exact costs and rights, reporting requirements, current author/contribution record, remaining manuscript gaps, timing dependency, preferred outlet and fallback, and one precise approval request.
 
-## Pause-point checklist
+## Verify the outlet and author group before submission
 
 - [ ] The intended reader and publication purpose are explicit.
 - [ ] At least two realistic outlets have been compared.

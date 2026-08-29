@@ -1,24 +1,15 @@
 ---
-title: "When studies fail"
-status: "broad-beta draft"
+title: "What can you do when a study fails?"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta draft. Participant safety, reportable incidents, protocol changes, trial registration, sponsor obligations and candidature variations require the current authorised local process.
+**Check locally:** Participant safety, reportable incidents, protocol changes, trial registration, sponsor obligations and candidature variations require the current authorised local process.
 :::
 
-## The questions students are usually asking
+Recruitment stalls, the instrument behaves badly or access disappears. Calling the whole study a failure is understandable, but it is not yet a diagnosis. Freeze the record, identify which link broke and separate the study outcome from misconduct, breach or harm that needs immediate escalation. Some projects can be repaired; some can answer a narrower question; some should be reported as designed and some should stop. The defensible choice depends on what failed, what remains trustworthy and what change would alter the approved study.
 
-- Does a null result mean the study failed?
-- What if recruitment, access, equipment or the intervention fails?
-- Can I change the question after seeing the results?
-- Is an underpowered or incomplete study still usable?
-- How do I explain a broken study in the thesis?
-- When should I repair, redesign, narrow, stop or report the failure itself?
-- How do I avoid wasting what participants and collaborators contributed?
-
-## The direct answer
+## Diagnose the broken link before redesigning
 
 A disappointing result is not automatically a failed study, and a completed protocol is not automatically successful research. Freeze the record, protect people and evidence, classify what failed, identify which inferences remain defensible and decide among repair, bounded analysis, redesign, transparent reporting or stopping.
 
@@ -153,7 +144,7 @@ A partner withdraws access before transfer. The preferred dataset never became p
 
 Stop affected work, protect participants and evidence, and use the authorised incident, safety, privacy, ethics or research-integrity route. Do not delay formal reporting while trying to establish fault. Do not place identifying details in an ordinary project register or investigate people beyond your role.
 
-## Common failure modes
+## Responses that make a failed study harder to learn from
 
 - treating a null result as proof of no effect;
 - calling any unwanted result a failed study;
@@ -168,15 +159,15 @@ Stop affected work, protect participants and evidence, and use the authorised in
 - continuing because participants or time have already been invested; and
 - abandoning the record when the preferred claim disappears.
 
-## Good enough for now
+## When the recovery decision is defensible
 
 A failure response is defensible when the original record is preserved; the failed link and downstream inference are explicit; safety and authority are addressed; remaining claims are bounded; recovery options are compared without hindsight; and the decision includes approval, reporting, closure and review consequences.
 
-## Before you ask your supervisor or specialist
+## Bring the diagnosis and realistic recovery routes
 
 Bring the frozen record, expected-versus-observed account, verified failure evidence, affected inference chain, immediate protections, realistic options, remaining time/resources, required authorities, provisional recommendation and one decision request.
 
-## Pause-point checklist
+## Preserve the record before changing the study
 
 - [ ] The original protocol, data and analysis state are frozen.
 - [ ] The failure is named at a specific link in the chain.

@@ -1,22 +1,15 @@
 ---
-title: "Topic due diligence"
-status: "broad-beta draft"
+title: "Is this research topic worth pursuing?"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta draft. Feasibility and governance require method-, setting- and jurisdiction-specific evidence before commitment.
+**Check locally:** Feasibility and governance require method-, setting- and jurisdiction-specific evidence before commitment.
 :::
 
-## The questions students are usually asking
+A topic can be important, novel and still be a poor doctoral project. The required data may be unavailable, recruitment may depend on one fragile relationship, the method may need expertise the team does not have, or the promised contribution may already exist. Due diligence is how you find those problems while they are still cheap to change. It is not a hunt for certainty. It is a proportionate test of the assumptions that could make the project infeasible, unsafe or no longer worth the cost.
 
-- Is this topic suitable for a doctorate?
-- What must I check before committing to a study?
-- How can I test access, recruitment or data assumptions?
-- When is a project too broad?
-- How do I decide whether to proceed, narrow, redesign, pause or stop?
-
-## The direct answer
+## Test the fragile assumptions first
 
 A defensible topic is important enough, answerable enough, feasible enough and appropriately bounded for the candidature. Due diligence is the deliberate search for evidence that could change the decision to proceed.
 
@@ -101,7 +94,7 @@ The decision is not simply “wait for access”. The team records two designs, 
 | Central evidence cannot support intended inference | Redesign or change the question |
 | Stakeholder or community framing is not legitimate | Reopen problem definition and governance |
 
-## Common failure modes
+## How enthusiasm hides avoidable risk
 
 - accepting informal enthusiasm as authorised access;
 - estimating only the successful path;
@@ -112,7 +105,7 @@ The decision is not simply “wait for access”. The team records two designs, 
 - calling a project feasible because each task is individually possible;
 - continuing solely because time has already been invested.
 
-## Pause-point checklist: before committing
+## Run these checks before committing
 
 Use the full [Before committing to each study](../../checklists/before-study-commitment.qmd) check. At minimum:
 
@@ -125,7 +118,7 @@ Use the full [Before committing to each study](../../checklists/before-study-com
 - [ ] a realistic alternative has been considered;
 - [ ] the decision and assumptions are recorded.
 
-## Before you ask your supervisor
+## Bring evidence for the go-or-change decision
 
 Bring the one-page topic case, completed canvas, strongest contrary evidence, main dependency, one alternative and your recommendation. Ask which assumption would most damage the project if wrong and how cheaply it can be tested.
 

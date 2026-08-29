@@ -1,18 +1,17 @@
 ---
 title: "Repository README template"
-status: "broad-beta resource"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Resource status:** Usable broad-beta. Remove prompts from the final README. Do not disclose protected project details merely to make the repository appear complete.
+**Use with local requirements:** Remove prompts from the final README. Do not disclose protected project details merely to make the repository appear complete.
 :::
 
 ## Project title
 
 **Purpose:** [What question, output or workflow does this repository support?]
 
-**Status:** [planning / active development / broad beta / stable / archived]
+**Status:** [planning / active development / living public edition / stable / archived]
 
 **Owner and contact:** [role-based contact where possible]
 

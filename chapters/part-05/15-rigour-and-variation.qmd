@@ -1,23 +1,15 @@
 ---
-title: "Rigour, bias and methodological variation"
-status: "broad-beta draft"
+title: "How will you test the rigour of your method?"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta draft. There is no discipline-free definition of quality. Select and cite standards appropriate to the question, evidence, research tradition and intended claim; verify any binding local protocol, reporting or governance requirement.
+**Check locally:** There is no discipline-free definition of quality. Select and cite standards appropriate to the question, evidence, research tradition and intended claim; verify any binding local protocol, reporting or governance requirement.
 :::
 
-## The questions students are usually asking
+“Make it more rigorous” sounds useful until you have to decide what to do. Different methods expose different threats, and their quality traditions do not use the same vocabulary or tests. Start by naming the inference that could be wrong and the process that could make it wrong. Then choose checks that fit the method and were planned for that purpose. Rigour is not a decoration added to the methods section. It is the visible work of finding, reducing and reporting plausible threats to the claim.
 
-- What makes this study rigorous?
-- Which biases should I discuss?
-- Do validity, reliability, credibility and trustworthiness mean the same thing?
-- How many sensitivity or robustness checks are enough?
-- Can I change the method when reality differs from the protocol?
-- How do I justify a method when different disciplines use different standards?
-
-## The direct answer
+## Name the threat before choosing the quality check
 
 Rigour means designing, conducting and reporting the work so that the intended inference can survive the most relevant credible challenges. The challenges and responses depend on the research tradition.
 
@@ -163,7 +155,7 @@ Before finalising the rigour plan:
 
 Reporting guidelines can reveal missing design details, but completing a checklist after the study cannot repair a weak or inappropriate design.
 
-## Common failure modes
+## Rigour language that hides weak decisions
 
 - using “rigorous” as an adjective without naming a threat or response;
 - applying one discipline's checklist as a universal hierarchy;
@@ -176,7 +168,7 @@ Reporting guidelines can reveal missing design details, but completing a checkli
 - equating a null, messy or contradictory result with study failure;
 - claiming generalisability, transferability or causality beyond the design.
 
-## Good enough for now
+## When the quality case is proportionate and visible
 
 A rigour plan is ready for substantive review when:
 
@@ -189,7 +181,7 @@ A rigour plan is ready for substantive review when:
 - applicable method, disciplinary and local standards are distinguished; and
 - remaining uncertainty is reflected in the planned claim boundary.
 
-## Before you ask your supervisor or specialist
+## Ask the specialist about a named threat
 
 Bring:
 
@@ -201,7 +193,7 @@ Bring:
 - any [protocol-deviation record](../../templates/protocol-deviation.qmd); and
 - the method-specific standards you believe apply, with their scope.
 
-## Pause-point checklist
+## Check the planned safeguards before analysis
 
 - [ ] Rigour is connected to named claims and threats.
 - [ ] Criteria are defined in the relevant methodological tradition.

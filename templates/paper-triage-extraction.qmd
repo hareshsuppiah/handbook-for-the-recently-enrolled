@@ -1,11 +1,10 @@
 ---
 title: "Paper triage and extraction"
-status: "broad-beta resource"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Resource status:** Usable broad-beta. Adapt the fields to the evidence type and selected review method. Do not store copyrighted, confidential, identifiable or culturally restricted material in an inappropriate location.
+**Use with local requirements:** Adapt the fields to the evidence type and selected review method. Do not store copyrighted, confidential, identifiable or culturally restricted material in an inappropriate location.
 :::
 
 ## Use this at two different moments

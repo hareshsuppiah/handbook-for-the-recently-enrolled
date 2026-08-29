@@ -1,25 +1,15 @@
 ---
-title: "Living data management, storage and recovery"
-status: "broad-beta draft"
+title: "Could you recover your research data?"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta draft. Storage, access, retention, disposal, data sovereignty and security requirements vary by institution, jurisdiction, partner, community, funder, contract and data type. Use approved systems and current authoritative advice.
+**Check locally:** Storage, access, retention, disposal, data sovereignty and security requirements vary by institution, jurisdiction, partner, community, funder, contract and data type. Use approved systems and current authoritative advice.
 :::
 
-## The questions students are usually asking
+“Everything is in Dropbox” can mean that files are synchronised. It does not tell you which copy is authoritative, whether an accidental deletion will spread, who can access sensitive material or whether recovery has ever been tested. Data management is the set of decisions that makes the project understandable and recoverable: what exists, where it belongs, who may use it, how it is backed up and what happens when the project ends. The test is not whether the files are somewhere. It is whether the right files can be found, restored and interpreted.
 
-- What counts as research data in my project?
-- Where should files live?
-- Is cloud synchronisation a backup?
-- How should folders and files be named?
-- Who should have access, and what happens when they leave?
-- How long must data be retained?
-- How do I prove that recovery actually works?
-- When should the data-management plan be updated?
-
-## The direct answer
+## Design for recovery, not just storage
 
 A data-management plan is a living map of research materials, authority, movement, responsibility and end state. Storage is not safe merely because it is convenient or synchronised. Backup is proven only by a successful, recorded restore.
 
@@ -205,7 +195,7 @@ At closure decide, with authority:
 
 The Australian Code requires clear, accurate, secure and complete research records [@australian-code-2018]. A final clean dataset without the decisions and provenance needed to understand it may not meet that purpose.
 
-## Common failure modes
+## Storage arrangements that look safer than they are
 
 - storing the only copy on a laptop, portable drive or departing account;
 - treating sync, version history and backup as identical;
@@ -218,7 +208,7 @@ The Australian Code requires clear, accurate, secure and complete research recor
 - scheduling backups without restore tests;
 - promising deletion or long-term sharing the system cannot deliver.
 
-## Good enough for now
+## When the data system is recoverable
 
 Before collection or restricted-data access:
 
@@ -232,7 +222,7 @@ Before collection or restricted-data access:
 - one realistic restore has passed; and
 - retention, disposal, archive and handover decisions have identified authorities.
 
-## Before you ask your supervisor, data steward or IT/security adviser
+## Show the data steward the real storage map
 
 Bring:
 

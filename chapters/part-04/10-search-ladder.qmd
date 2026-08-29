@@ -1,23 +1,15 @@
 ---
-title: "The search ladder"
-status: "broad-beta draft"
+title: "How much literature searching do you need?"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta draft. Review methods and reporting standards differ; consult an information specialist for consequential or unfamiliar evidence synthesis.
+**Check locally:** Review methods and reporting standards differ; consult an information specialist for consequential or unfamiliar evidence synthesis.
 :::
 
-## The questions students are usually asking
+One research question can produce forty open tabs and the uneasy feeling that the decisive paper is still out there. Searching becomes manageable when you decide what the search is for. A quick orientation, a defensible background claim and a systematic review require different effort and records. Climbing to the highest possible search level every time wastes months; stopping too early can make a claim indefensible. The search ladder helps you match the method, documentation and stopping rule to the decision in front of you.
 
-- Where should I search first?
-- Is Google Scholar enough?
-- When should I follow references from a key paper?
-- Do I need a systematic or scoping review?
-- How do I avoid pretending that an orientation search is complete?
-- When can I stop?
-
-## The direct answer
+## Match the search to the claim
 
 Use the least intensive search that can answer the present purpose, then increase structure when the decision, claim or review method requires more defensible coverage and reproducibility.
 
@@ -107,7 +99,7 @@ Choose seeds because they are relevant, not merely highly cited. Record:
 
 Stop the chain according to the purpose. Orientation may stop when new records no longer change the concept map. A systematic review must follow its protocol and report the method; “I stopped seeing new papers” is not enough.
 
-## Common failure modes
+## Searching habits that waste effort or weaken claims
 
 - using one tool because it is convenient rather than fit for purpose;
 - equating ranked search results with the full literature;
@@ -119,7 +111,7 @@ Stop the chain according to the purpose. Orientation may stop when new records n
 - hiding language, date, database or access limitations;
 - allowing an AI system to invent, select or summarise citations without source verification.
 
-## Pause-point checklist: before reporting search findings
+## Before you report what the literature shows
 
 - [ ] The search purpose and ladder level are stated.
 - [ ] Sources, platforms, dates, terms and limits are recorded at the required level.
@@ -129,7 +121,7 @@ Stop the chain according to the purpose. Orientation may stop when new records n
 - [ ] Limitations are visible and the claim does not imply stronger coverage.
 - [ ] Every cited record has been verified.
 
-## Before you ask your supervisor or librarian
+## Ask a librarian or supervisor a bounded question
 
 Bring the question, intended output, current concept table, databases considered, sample strategy, known relevant records, limits and the decision you need. Ask: “What evidence could this approach systematically miss, and does that matter for the claim?”
 

@@ -1,11 +1,10 @@
 ---
 title: "Can I use AI for this task?"
-status: "broad-beta resource"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Resource status:** Usable broad-beta. AI rules and tool practices change quickly. Recheck the current institution, funder, publisher, ethics, data, intellectual-property and contractual rules for every material use.
+**Use with local requirements:** AI rules and tool practices change quickly. Recheck the current institution, funder, publisher, ethics, data, intellectual-property and contractual rules for every material use.
 :::
 
 ## Start here

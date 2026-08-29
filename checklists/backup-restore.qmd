@@ -1,11 +1,10 @@
 ---
 title: "Could I restore this work?"
-status: "broad-beta resource"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Resource status:** Usable broad-beta. Restore protected data only into an approved test location. Coordinate with the responsible IT, security, data and records teams.
+**Use with local requirements:** Restore protected data only into an approved test location. Coordinate with the responsible IT, security, data and records teams.
 :::
 
 **Pause point:** Before collection, quarterly during active work, after material storage changes and before handover.

@@ -1,23 +1,15 @@
 ---
-title: "Reproducible and proportionate searching"
-status: "broad-beta draft"
+title: "How do you make a literature search reproducible?"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta draft. Search methods must follow the selected review methodology, databases and discipline; involve a librarian or information specialist where coverage is consequential.
+**Check locally:** Search methods must follow the selected review methodology, databases and discipline; involve a librarian or information specialist where coverage is consequential.
 :::
 
-## The questions students are usually asking
+A search can look rigorous on the day it is run and be impossible to reconstruct six months later. Database syntax changes, saved histories disappear and a copied search string may behave differently in another platform. Reproducibility begins before the first search: define the question, the databases, the concepts, the translation rules and the evidence that will tell you the search is working. The goal is not ritual documentation. It is a record that lets another person understand, rerun and critique the choices you made.
 
-- How do I turn a question into search concepts?
-- Why does the same search fail in another database?
-- What exactly must go in a search log?
-- How do I refine a search without cherry-picking?
-- How do I know when to stop?
-- What makes a search reproducible?
-
-## The direct answer
+## Preserve the reasoning as well as the search string
 
 A reproducible search preserves enough information for another person to understand what was searched, where, when, how and with what result. A proportionate search records what the present purpose requires without claiming a stronger level of coverage.
 
@@ -119,7 +111,7 @@ Stopping depends on the purpose:
 
 Never use “I had enough papers” as the sole rule for a completeness-sensitive search.
 
-## Common failure modes
+## How searches become unrecoverable
 
 - copying one database's syntax into another;
 - adding every question element and losing relevant records;
@@ -131,7 +123,7 @@ Never use “I had enough papers” as the sole rule for a completeness-sensitiv
 - allowing reference-manager or AI output to substitute for checking the actual record;
 - applying one review standard to a different review type.
 
-## Pause-point checklist: before screening
+## Check the search before screening begins
 
 - [ ] Question, eligibility and intended output are explicit.
 - [ ] Search concepts and controlled vocabulary are justified.
@@ -143,7 +135,7 @@ Never use “I had enough papers” as the sole rule for a completeness-sensitiv
 - [ ] Stopping and update rules match the review purpose.
 - [ ] Limitations and information-specialist input are recorded.
 
-## Before you ask a librarian or supervisor
+## Give the librarian something concrete to test
 
 Bring the question, eligibility logic, concept table, draft strategies, known records, planned sources, required output, deadline and the specific uncertainty. Ask what the approach could systematically miss and which change would most improve retrieval.
 

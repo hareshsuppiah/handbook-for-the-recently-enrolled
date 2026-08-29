@@ -1,24 +1,15 @@
 ---
-title: "Research integrity, governance and responsible AI use"
-status: "broad-beta draft"
+title: "Can you use AI responsibly in this research?"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta draft. AI products, data practices and organisational rules change quickly. Check the current institution, funder, publisher, ethics, data, intellectual-property and contractual rules for the exact task and tool. The AI guidance here was reviewed on 28 August 2026.
+**Check locally:** AI products, data practices and organisational rules change quickly. Check the current institution, funder, publisher, ethics, data, intellectual-property and contractual rules for the exact task and tool. The AI guidance here was reviewed on 28 August 2026.
 :::
 
-## The questions students are usually asking
+An AI tool can save time and still be the wrong tool for the task. The input may be confidential, the output may be impossible to verify, or the relevant policy may prohibit the use entirely. Before asking which model is best, classify what you want the system to do and what information it would receive. Then check permission, data handling, verification and disclosure. Responsible use is not achieved by adding an AI statement at the end. It begins with a decision that can be defended before the tool is used.
 
-- What counts as a research-integrity problem?
-- Who is accountable when software or AI produces an error?
-- Can I put research text, code or data into an AI tool?
-- Do I need to disclose AI-assisted work?
-- How do I verify generated citations, summaries, code or analysis?
-- Is a tool permitted because my institution provides an account?
-- What record should I keep without saving sensitive prompts?
-
-## The direct answer
+## Decide on the task before choosing the tool
 
 You remain accountable for the research decisions, evidence, claims and disclosures made in your name. A tool can assist a task; it cannot accept responsibility, consent, authorship or professional accountability.
 
@@ -165,7 +156,7 @@ A disclosure should let the relevant reader understand how the tool affected the
 
 Follow the exact journal, thesis, funder or institutional rule. Disclosure does not cure prohibited, unsafe, unverified or misleading use.
 
-## Common failure modes
+## AI shortcuts that create hidden research risk
 
 - assuming an institutional licence authorises every data type and research use;
 - pasting unpublished, participant, reviewer or collaborator material into a public tool;
@@ -178,9 +169,9 @@ Follow the exact journal, thesis, funder or institutional rule. Disclosure does 
 - using AI-detection scores as proof of misconduct;
 - allowing automated action to send, publish, delete or alter records without explicit authority and review.
 
-## Good enough for now
+## When an AI-assisted task is safe to begin
 
-An AI-assisted task is ready to proceed only when:
+Proceed only when:
 
 - the exact task and consequence are defined;
 - the use is permitted by all applicable authorities;
@@ -193,7 +184,7 @@ An AI-assisted task is ready to proceed only when:
 
 If any critical condition is unknown, choose a lower-risk route or pause.
 
-## Before you ask your supervisor, integrity adviser or data steward
+## Describe the task, data and proposed safeguard
 
 Bring:
 
@@ -205,7 +196,7 @@ Bring:
 - the verification and disclosure plan; and
 - one precise authority or risk question.
 
-## Pause-point checklist
+## Run the stop-first screen before uploading anything
 
 - [ ] The tool role and consequence are classified.
 - [ ] Current institution, funder, publisher, ethics and contractual rules are checked.

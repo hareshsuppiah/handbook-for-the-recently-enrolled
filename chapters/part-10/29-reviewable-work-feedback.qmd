@@ -1,24 +1,15 @@
 ---
-title: "Reviewable work and feedback"
-status: "broad-beta draft"
+title: "How do you make your work easier to review?"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta draft. Supervision agreements, expected review times, dispute routes and responsibilities vary. Agree the local working process rather than assuming one universal feedback model.
+**Check locally:** Supervision agreements, expected review times, dispute routes and responsibilities vary. Agree the local working process rather than assuming one universal feedback model.
 :::
 
-## The questions students are usually asking
+Sending a document with “any thoughts?” makes the reviewer guess whether you want help with the argument, the method, the structure or the commas. The result is often late, contradictory or pitched at the wrong level. A review contract names the state of the work, the decision you need, the questions the reviewer should answer and the deadline. It also makes clear what is outside scope. Reviewable work is not necessarily polished; it is organised so another person can inspect the right thing.
 
-- When is a draft ready to send?
-- Why do I receive sentence edits when I need help with the argument?
-- How much material is reasonable to ask somebody to review?
-- What do I do with vague, contradictory or overwhelming comments?
-- Must I accept every supervisor suggestion?
-- How do I show that I have responded without losing my own judgement?
-- When does delayed feedback need escalation?
-
-## The direct answer
+## Tell the reviewer what decision the draft must support
 
 Make the work reviewable for a named decision. State the purpose, audience, maturity, checks already completed, known gaps, feedback requested, material that is deliberately unfinished and the agreed response window. After review, translate comments into underlying issues and record a reasoned disposition.
 
@@ -151,7 +142,7 @@ Record the agreed review window, its dependency and the decision date. Follow up
 
 Do not describe a document as approved because no response arrived. Silence is not acceptance.
 
-## Common failure modes
+## Why feedback arrives late or misses the point
 
 - sending an unlabeled file with “thoughts?”;
 - requesting conceptual, methodological and copy feedback at once;
@@ -166,11 +157,11 @@ Do not describe a document as approved because no response arrived. Silence is n
 - repeatedly sending unreconciled drafts; and
 - treating silence as approval.
 
-## Good enough for now
+## When the work is ready to send for review
 
 Work is reviewable when the reviewer can identify its purpose, state and decision; central evidence is inspectable; gaps are visible; the request fits the agreed time; and there is one authoritative response record. A developmental draft need not be polished, but it must be coherent enough for the requested judgement.
 
-## Before you ask your supervisor or reviewer
+## Make one precise request of the reviewer
 
 Bring:
 
@@ -182,7 +173,7 @@ Bring:
 - the dependency and decision date; and
 - the location of the response matrix and authoritative draft.
 
-## Pause-point checklist
+## Check the review contract before sharing
 
 - [ ] The requested review level matches the draft state.
 - [ ] The exact version and authoritative location are clear.

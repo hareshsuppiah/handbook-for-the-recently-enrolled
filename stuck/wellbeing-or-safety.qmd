@@ -1,6 +1,5 @@
 ---
 title: "Workload, wellbeing, safety or conduct is affecting the work"
-status: "broad-beta pathway"
 last-reviewed: "2026-08-28"
 ---
 

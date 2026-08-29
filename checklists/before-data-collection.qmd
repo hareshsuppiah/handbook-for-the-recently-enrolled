@@ -1,6 +1,5 @@
 ---
 title: "Is this study ready to collect data?"
-status: "broad-beta resource"
 last-reviewed: "2026-08-28"
 ---
 

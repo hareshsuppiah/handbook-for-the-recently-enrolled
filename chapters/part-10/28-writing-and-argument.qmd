@@ -1,24 +1,15 @@
 ---
-title: "Writing and argument"
-status: "broad-beta draft"
+title: "How do you turn a draft into an argument?"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta draft. Thesis forms, disciplinary genres, reporting standards and acceptable use of prior publications vary. Confirm the required structure and current rules locally.
+**Check locally:** Thesis forms, disciplinary genres, reporting standards and acceptable use of prior publications vary. Confirm the required structure and current rules locally.
 :::
 
-## The questions students are usually asking
+You can rewrite an introduction for weeks and still not know what the chapter is trying to prove. Start with the reader’s question, then write the shortest possible chain from claim to evidence to warrant. That skeleton may be ugly; its job is to expose the reasoning while change is cheap. Sources belong where they support a particular move in the argument, not where a paragraph needs decoration. Once the chain works, revise the prose in separate passes for structure, evidence and expression.
 
-- Should I wait until the reading or analysis is finished before writing?
-- How do I move from notes and citations to an argument?
-- What belongs in an introduction, literature review, methods, results or discussion?
-- How do I write when the findings are incomplete or ambiguous?
-- What is a draft good enough to show somebody?
-- How do I stop rewriting the opening and make progress on the whole chapter?
-- How do I avoid overstating what the study shows?
-
-## The direct answer
+## Build the reasoning before polishing the sentences
 
 Write as soon as writing can test the reasoning. Begin with the question, bounded claim, evidence, warrant and limits—not polished opening sentences. Label the state of the text so provisional reasoning cannot be mistaken for a finished account.
 
@@ -174,7 +165,7 @@ Then inspect the sequence. Repeated functions reveal duplication. Paragraphs wit
 
 Do not line-edit a structure you expect to discard. Do not use copy editing to postpone a conceptual decision.
 
-## Common failure modes
+## Writing habits that hide the missing argument
 
 - waiting for complete certainty before writing anything;
 - presenting exploratory notes as settled findings;
@@ -189,11 +180,11 @@ Do not line-edit a structure you expect to discard. Do not use copy editing to p
 - requesting “general feedback” on an unlabeled draft; and
 - applying a generic section formula where the discipline requires another genre.
 
-## Good enough for now
+## When a draft is ready for the next kind of review
 
 A developmental chapter is ready for substantive review when its question and intended contribution are explicit; every section has a job; the main reasoning chain can be followed; central evidence is anchored; important gaps and provisional claims are visible; and the author asks for a bounded decision. It need not have final wording.
 
-## Before you ask your supervisor or another reader
+## Tell the reader which level of feedback you need
 
 Bring:
 
@@ -205,7 +196,7 @@ Bring:
 - checks already completed; and
 - a precise request such as “Does the evidence in Sections 2–3 justify this bounded claim?”
 
-## Pause-point checklist
+## Reverse-outline the draft before another rewrite
 
 - [ ] The draft state and requested review are labelled.
 - [ ] Every major section answers a reader question.

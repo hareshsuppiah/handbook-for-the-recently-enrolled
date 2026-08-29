@@ -1,25 +1,15 @@
 ---
-title: "Git, GitHub and AI-assisted research workflows"
-status: "broad-beta draft"
+title: "How do you use Git, GitHub and AI safely?"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta draft. Repository hosting, AI tools, security features and organisational policies change. Review current Git/GitHub documentation and every applicable institution, ethics, data, funder, publisher and collaboration rule before use.
+**Check locally:** Repository hosting, AI tools, security features and organisational policies change. Review current Git/GitHub documentation and every applicable institution, ethics, data, funder, publisher and collaboration rule before use.
 :::
 
-## The questions students are usually asking
+Git can preserve a clear history of change; GitHub can make review visible; an AI agent can draft work quickly. None of them decides what is safe to expose or what counts as a correct change. Begin with non-sensitive material, learn the small commit-and-review loop and run a privacy check before anything reaches a remote service. When an agent is involved, treat its work as a proposed change: inspect the diff, test the result and keep publishing behind a human decision.
 
-- What is the difference between Git and GitHub?
-- What belongs in a research repository?
-- Should the repository be public or private?
-- How often should I commit, and what makes a useful commit?
-- What are branches, issues and pull requests for?
-- Can AI or an agent edit the repository for me?
-- What if I accidentally commit a password or sensitive file?
-- How does a non-coder review the work?
-
-## The direct answer
+## Keep every change inspectable and reversible
 
 Git records recoverable changes to suitable files. GitHub is one possible hosted collaboration service around Git. Neither is an approved research-data store by default.
 
@@ -198,7 +188,7 @@ The README should identify:
 
 Test the README in a fresh clone.
 
-## Common failure modes
+## Fast workflows that bypass judgement
 
 - putting data into Git because code and data belong to the same project;
 - relying on private visibility as the only security control;
@@ -211,7 +201,7 @@ Test the README in a fresh clone.
 - trusting green automation that does not test the claimed requirement;
 - using GitHub as the only backup or long-term archive.
 
-## Good enough for now
+## When a repository change is ready for review
 
 A repository workflow is ready when:
 
@@ -225,7 +215,7 @@ A repository workflow is ready when:
 - remote, backup and archive roles are distinguished; and
 - incident, release and maintenance owners are known.
 
-## Before you ask your supervisor, collaborator or research software specialist
+## Bring the diff and the risk, not a vague tool question
 
 Bring:
 

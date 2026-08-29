@@ -1,11 +1,10 @@
 ---
 title: "Living data-management plan"
-status: "broad-beta resource"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Resource status:** Usable broad-beta. Reconcile this plan with current institutional, ethics, legal, contractual, funder, community and data-custodian requirements. Keep protected details in an approved location.
+**Use with local requirements:** Reconcile this plan with current institutional, ethics, legal, contractual, funder, community and data-custodian requirements. Keep protected details in an approved location.
 :::
 
 ## Project and governance

@@ -1,11 +1,10 @@
 ---
 title: "Protocol-deviation log"
-status: "broad-beta resource"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Resource status:** Usable broad-beta. Follow the current ethics, governance, safety, clinical, regulatory, site, cultural and institutional process that applies. This log does not replace required notification or urgent action.
+**Use with local requirements:** Follow the current ethics, governance, safety, clinical, regulatory, site, cultural and institutional process that applies. This log does not replace required notification or urgent action.
 :::
 
 ## Immediate response

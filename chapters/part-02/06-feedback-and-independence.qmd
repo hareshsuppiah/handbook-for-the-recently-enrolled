@@ -1,23 +1,15 @@
 ---
-title: "Feedback, disagreement and independence"
-status: "broad-beta draft"
+title: "How do you use feedback and handle disagreement?"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta draft. Feedback practice is evidence-informed; formal dispute, supervision-change and complaints processes must be checked locally.
+**Check locally:** Feedback practice is evidence-informed; formal dispute, supervision-change and complaints processes must be checked locally.
 :::
 
-## The questions students are usually asking
+A draft comes back covered in comments. Some are precise, some say only “be more critical,” and two supervisors appear to want different things. It is tempting either to obey every comment or to defend the draft as it stands. Neither response builds independence. Feedback is evidence about how a reader encountered the work. Your task is to work out what problem each comment points to, decide what change is justified and make disagreement visible before it turns into silent rework.
 
-- Have I done enough before asking my supervisor?
-- How do I get feedback that I can actually use?
-- What do I do with contradictory comments?
-- May I disagree with my supervisor?
-- How long should I wait for feedback?
-- How do I become independent without becoming isolated?
-
-## The direct answer
+## Turn comments into decisions you can explain
 
 Independence grows through prepared judgement. Show the question, evidence and your provisional reasoning; invite challenge; decide what changes; and keep a record. Independence is not the absence of feedback. It is the ability to seek, interpret and use feedback without outsourcing the decision.
 
@@ -121,7 +113,7 @@ Do not use this ladder to delay immediate safety, welfare or integrity action.
 
 Independence is domain-specific. You may be highly independent in analysis and appropriately dependent on cultural governance, specialist safety advice or access controlled by others.
 
-## Common failure modes
+## Feedback habits that create more confusion
 
 - requesting review before identifying the decision;
 - confusing a polished draft with a reviewable argument;
@@ -133,7 +125,7 @@ Independence is domain-specific. You may be highly independent in analysis and a
 - using independence as a reason not to disclose a serious risk;
 - asking one relationship to supply every form of expertise and support.
 
-## Pause-point checklist: after responding to feedback
+## Check your response before returning the draft
 
 - [ ] Every consequential comment has an explicit disposition.
 - [ ] The underlying issue, not only the proposed wording, was addressed.
@@ -143,7 +135,7 @@ Independence is domain-specific. You may be highly independent in analysis and a
 - [ ] The revised work is linked to the response record.
 - [ ] Any decision or escalation has an owner and review date.
 
-## Before you ask your supervisor
+## Ask for feedback at the right level
 
 Bring what you checked, the strongest evidence, realistic options, your recommendation and one precise request. Use: “I recommend option B because… The main limitation is… Please challenge the inference and tell me what evidence would change the decision.”
 

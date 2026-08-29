@@ -1,24 +1,15 @@
 ---
-title: "Data states, codebooks and provenance"
-status: "broad-beta draft"
+title: "Can you trace where this dataset came from?"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta draft. “Raw”, “clean” and “analysis-ready” are project-defined states, not universal guarantees. Document the actual source, transformations, authority, exclusions and limitations for your method and data.
+**Check locally:** “Raw”, “clean” and “analysis-ready” are project-defined states, not universal guarantees. Document the actual source, transformations, authority, exclusions and limitations for your method and data.
 :::
 
-## The questions students are usually asking
+A file called `final_clean_v7` tells you almost nothing. Which source did it come from? What changed between versions? Were exclusions planned, corrected or improvised? Provenance turns those questions into an inspectable chain from the earliest authoritative data through every transformation to the analysis-ready state. A codebook then explains what the variables mean at each point. Together they recover the numbers and the decisions that made those numbers possible.
 
-- What is the difference between raw, clean, derived and analysis-ready data?
-- Should raw data ever be changed?
-- How do I document manual corrections?
-- What belongs in a data dictionary or codebook?
-- How can another person trace a result back to its source?
-- What if a collaborator sends a new version with the same filename?
-- How do provenance principles apply to qualitative, archival or image data?
-
-## The direct answer
+## Make every data state and transformation explainable
 
 Define data states by what has happened to the material and what it is authorised to support. Preserve the earliest authoritative source state, create later states through inspectable transformations, and keep enough provenance to trace every consequential result backwards.
 
@@ -175,7 +166,7 @@ When a collaborator sends `dataset_final.xlsx` again:
 
 Do not assume the latest attachment supersedes the prior research record.
 
-## Common failure modes
+## How datasets lose their history
 
 - calling data raw after undocumented export or manual processing;
 - editing the only source file to “fix” errors;
@@ -188,7 +179,7 @@ Do not assume the latest attachment supersedes the prior research record.
 - publishing a de-identified dataset without a separate release review;
 - retaining a final table without the code, inputs and decisions that produced it.
 
-## Good enough for now
+## When another person can follow the provenance chain
 
 Before substantive analysis:
 
@@ -202,7 +193,7 @@ Before substantive analysis:
 - the analysis-ready input is fixed for the named analysis; and
 - outputs can be traced back to authority and source.
 
-## Before you ask your supervisor, analyst or data steward
+## Bring the disputed transformation, not the whole folder
 
 Bring:
 

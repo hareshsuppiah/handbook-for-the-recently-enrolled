@@ -1,24 +1,15 @@
 ---
-title: "Reproducible workflows and clean-run evidence"
-status: "broad-beta draft"
+title: "Could someone else reproduce this work?"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta draft. Reproducibility terminology and standards vary across disciplines. This chapter emphasises computational and procedural recoverability while protecting data, cultural, legal and contractual restrictions.
+**Check locally:** Reproducibility terminology and standards vary across disciplines. This chapter emphasises computational and procedural recoverability while protecting data, cultural, legal and contractual restrictions.
 :::
 
-## The questions students are usually asking
+An analysis that runs only on your laptop is not yet a durable research workflow. Reproducibility does not always mean publishing every file: restricted data, proprietary tools and qualitative judgement can impose real limits. It does mean choosing a realistic target and testing whether another authorised person can understand the steps, recover the environment and obtain the expected result. The strongest evidence is a clean run outside the comfortable setup where the workflow was created.
 
-- What does reproducible mean for my project?
-- Is sharing code enough?
-- How do I capture software and package versions?
-- What should be automated, and what should remain a documented judgement?
-- How can I test a workflow without publishing restricted data?
-- What counts as a clean run?
-- How do qualitative or non-computational projects apply these ideas?
-
-## The direct answer
+## Choose a reproducibility target you can test
 
 A reproducible workflow preserves the inputs, decisions, procedures, environment and outputs needed for a competent authorised person to understand and rerun the relevant process. The strongest evidence is a recorded run from a clean starting point—not the fact that the workflow still works on the researcher's own configured computer.
 
@@ -171,7 +162,7 @@ For qualitative, archival, practice-based and non-computational research, preser
 
 The objective may be auditability and transparency rather than identical output. Name the standard honestly.
 
-## Common failure modes
+## Workflows that succeed once and cannot be recovered
 
 - sharing code without inputs, environment or execution order;
 - relying on a long notebook that must be run manually in a secret order;
@@ -184,7 +175,7 @@ The objective may be auditability and transparency rather than identical output.
 - automating interpretive decisions without preserving accountability;
 - treating test success as evidence that scientific conclusions are valid.
 
-## Good enough for now
+## When the clean-run evidence matches the claim
 
 Before relying on an analysis or interpretive workflow:
 
@@ -198,7 +189,7 @@ Before relying on an analysis or interpretive workflow:
 - a clean run has been completed by an appropriate person; and
 - limitations and inaccessible materials are documented.
 
-## Before you ask your supervisor, analyst or research software specialist
+## Ask someone to test a defined recovery target
 
 Bring:
 

@@ -1,11 +1,10 @@
 ---
 title: "Is this study ready for analysis?"
-status: "broad-beta resource"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Resource status:** Usable broad-beta. Adapt checks to the method and authorised compute environment. Passing this checklist does not establish scientific validity.
+**Use with local requirements:** Adapt checks to the method and authorised compute environment. Passing this checklist does not establish scientific validity.
 :::
 
 **Pause point:** Before running the analysis that will support an interpretable result or research claim.

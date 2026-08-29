@@ -1,6 +1,5 @@
 ---
 title: "Supervisor expectations conversation guide"
-status: "broad-beta resource"
 last-reviewed: "2026-08-28"
 ---
 

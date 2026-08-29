@@ -1,7 +1,7 @@
 # Reader-focused editorial audit
 
-**Date:** 28 August 2026  
-**Branch:** `editorial/reader-rewrite`  
+**Planned:** 28 August 2026  
+**Applied and verified:** 30 August 2026 on `main`  
 **Scope:** all 36 handbook chapters and their connected checklists, templates and stuck pathways
 
 ## Preservation rule
@@ -29,7 +29,7 @@ For each chapter, the protected inventory is recoverable from the pre-rewrite Gi
 
 ## Chapter title map
 
-| Chapter | Current title | Proposed title | Decision protected |
+| Chapter | Previous title | Applied reader-facing title | Decision protected |
 |---:|---|---|---|
 | 1 | What a doctorate asks you to do | What does a doctorate actually ask of you? | Set a stage-appropriate standard for the next piece of work. |
 | 2 | Day one to day 90 | What should you do in your first 90 days? | Prioritise safe, useful early-candidature work. |
@@ -70,7 +70,7 @@ For each chapter, the protected inventory is recoverable from the pre-rewrite Gi
 
 ## Major-section title system
 
-The following complete repeated-heading map applies wherever the source heading occurs. Topic-specific headings remain when they already name a clear reader task; otherwise they are revised in the chapter pass.
+The table below was the initial structural guide. During implementation, each chapter received a topic-specific opening and topic-specific headings rather than repeating one replacement label throughout the book.
 
 | Current heading pattern | Proposed reader-facing pattern |
 |---|---|

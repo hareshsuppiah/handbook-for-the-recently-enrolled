@@ -1,23 +1,15 @@
 ---
-title: "Reading, synthesis and citation integrity"
-status: "broad-beta draft"
+title: "How do you turn reading into an argument?"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta draft. The extraction and synthesis method must fit the review purpose, discipline and evidence type. Confirm local requirements for copyright, culturally restricted knowledge, reference software, retention and research integrity.
+**Check locally:** The extraction and synthesis method must fit the review purpose, discipline and evidence type. Confirm local requirements for copyright, culturally restricted knowledge, reference software, retention and research integrity.
 :::
 
-## The questions students are usually asking
+Your reference library grows, your notes grow, and the literature review still feels like a sequence of summaries. That happens because collecting sources and building an argument are different jobs. Read with a question, extract the claim and its support, then compare sources on the point that matters to your own reasoning. A synthesis does not prove that you read everything. It shows where evidence agrees, conflicts or stops, and what that means for the decision your research must make.
 
-- Do I need to read every paper from beginning to end?
-- What should I record while I read?
-- How do I stop my literature review becoming one paragraph per author?
-- How do I compare unlike studies without flattening their differences?
-- How do I know whether a citation really supports my sentence?
-- What should be stored in a reference manager and what belongs in my own notes?
-
-## The direct answer
+## Organise the literature around claims, not authors
 
 Read for a declared purpose, extract only what that purpose requires, and synthesise across sources in relation to a claim or question. A reference manager stores and retrieves records; it does not perform source evaluation or argument construction for you.
 
@@ -129,7 +121,7 @@ A defensible record normally keeps:
 
 Automated metadata imports are a starting point. Check names, title capitalisation, dates, publication status, DOI and version against the source. Preprints, accepted manuscripts and versions of record are not interchangeable.
 
-## Common failure modes
+## Reading practices that never become synthesis
 
 - reading every item linearly before deciding relevance;
 - highlighting extensively without recording why a passage matters;
@@ -142,7 +134,7 @@ Automated metadata imports are a starting point. Check names, title capitalisati
 - allowing a reference manager's incorrect metadata to enter the thesis unchanged;
 - storing copyrighted or culturally restricted material in an inappropriate shared location.
 
-## Good enough for now
+## When the synthesis can support your next claim
 
 For an orientation review, good enough may be a verified core set, a small comparison matrix and explicit search limits. For a confirmation document, thesis chapter or review intended to support strong completeness claims, the extraction, appraisal, synthesis and update rules need to follow the selected methodology.
 
@@ -155,7 +147,7 @@ Stop reading and start writing a provisional synthesis when you can state:
 
 Writing is a diagnostic. If the claim cannot be supported without vague wording or citation clusters, return to the matrix and source locations.
 
-## Before you ask your supervisor or librarian
+## Ask for feedback on the reasoning, not the reading count
 
 Bring:
 
@@ -168,7 +160,7 @@ Bring:
 
 Escalate suspected fabrication, plagiarism, systematic misrepresentation, unlawful sharing or culturally unsafe handling through the appropriate local integrity, library, governance or community process.
 
-## Pause-point checklist
+## Check the argument before adding more sources
 
 Before treating a literature section as ready for review, confirm:
 

@@ -1,22 +1,15 @@
 ---
-title: "Day one to day 90"
-status: "broad-beta draft"
+title: "What should you do in your first 90 days?"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta draft. Use this sequence to orient yourself, then replace its local placeholders with your institution's current requirements.
+**Check locally:** Use this sequence to orient yourself, then replace its local placeholders with your institution's current requirements.
 :::
 
-## The questions students are usually asking
+The first weeks can feel strangely busy. There are accounts to activate, people to meet, training modules to complete and a proposal that suddenly looks less settled than it did during admission. It is easy to respond by filling the calendar or redesigning the entire project. Neither tells you whether the doctorate is becoming workable. Your first 90 days are for building a small operating system: clear expectations, safe file storage, a record of decisions, an early map of the research problem and a short list of assumptions that need testing.
 
-- Where do I start?
-- What should I have done by the end of the first week, month and 90 days?
-- Should I begin reading, writing, collecting data or learning methods?
-- What should I ask in the first supervision meeting?
-- Which systems and training are essential now, and which can wait?
-
-## The direct answer
+## Build the foundations before chasing momentum
 
 The first 90 days are for building a working research environment, a functioning supervisory relationship and a provisional direction. They are not for proving the thesis or locking every study into place.
 
@@ -111,7 +104,7 @@ The weak response is to begin selecting models and assume access will be resolve
 
 At the 30-day review, Sam has not “failed to start the analysis”. Sam has discovered that the original plan contained a critical assumption. The useful outputs are the access record, risk entry, alternative options and a decision date.
 
-## Common failure modes
+## Early activity that does not create progress
 
 - **Starting with visible activity rather than consequential uncertainty.** Test access, approval and feasibility early.
 - **Reading without recording the question the reading serves.** Use an orientation map and search log.
@@ -132,7 +125,7 @@ At the 30-day review, Sam has not “failed to start the analysis”. Sam has di
 | Planning | Copies the proposal into a timeline | Identifies dependencies and review points | Replans when evidence changes while preserving rationale |
 | Records | Relies on memory and email | Uses actions and decision logs | Maintains a recoverable project record others can follow |
 
-## Before you ask your supervisor
+## Use supervision to settle the next decision
 
 Bring a one-page state report:
 

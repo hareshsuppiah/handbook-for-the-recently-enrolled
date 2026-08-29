@@ -1,11 +1,10 @@
 ---
 title: "Is this project ready for Git and GitHub?"
-status: "broad-beta resource"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Resource status:** Usable broad-beta. Practise with invented, non-sensitive files. Verify institutional approval, repository ownership and data rules before adding research material.
+**Use with local requirements:** Practise with invented, non-sensitive files. Verify institutional approval, repository ownership and data rules before adding research material.
 :::
 
 ## Before initialising

@@ -1,24 +1,15 @@
 ---
-title: "Collaboration, handoffs and scope"
-status: "broad-beta draft"
+title: "How do you share work without losing control of scope?"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta draft. Agreements, intellectual property, data access, authorship, partner obligations and thesis structures vary. Confirm formal responsibilities and permissions locally.
+**Check locally:** Agreements, intellectual property, data access, authorship, partner obligations and thesis structures vary. Confirm formal responsibilities and permissions locally.
 :::
 
-## The questions students are usually asking
+A collaborator sends a dataset, figure or analysis and everyone assumes someone else knows how it was produced. The work may be technically sound and still unusable because ownership, inputs, acceptance criteria and decision rights were never agreed. Good collaboration makes the interfaces visible. Define what will be handed over, in which form, who can approve it and what happens when the shared work changes. This protects the research argument as well as the relationship.
 
-- How do several studies fit into one thesis rather than becoming separate projects?
-- Who owns a shared task, and who can decide that it is complete?
-- What should I hand over to a collaborator, analyst or incoming student?
-- How do I avoid losing the project when somebody leaves?
-- What belongs inside my candidature and what is partner or team work?
-- How do I challenge unclear or expanding expectations?
-- What if a collaborator delivers something that cannot be understood or reproduced?
-
-## The direct answer
+## Make ownership and handoffs explicit
 
 Design collaboration around interfaces, not goodwill alone. Each shared unit of work needs an outcome, inputs, owner, decision rights, constraints, expected output, acceptance test and recoverable record. A handoff is complete when the recipient can verify and use the output—not when a file or message is sent.
 
@@ -168,7 +159,7 @@ Seek independent advice when there is coercion, retaliation, discriminatory cond
 
 Preserve factual records in an authorised secure location. Do not put sensitive allegations into a broadly shared project register. Ordinary project tools cannot replace institutional support, research-integrity, safety, complaints or emergency processes.
 
-## Common failure modes
+## Where collaborative work falls between roles
 
 - treating a list of studies as a coherent research programme;
 - making every study depend on one uncertain approval or person;
@@ -183,11 +174,11 @@ Preserve factual records in an authorised secure location. Do not put sensitive 
 - duplicating project state across unlabelled “final” files; and
 - making a departing person responsible for approving their own handoff.
 
-## Good enough for now
+## When a handoff can be accepted with confidence
 
 A collaboration is workable when each consequential deliverable has an owner, authority path, interface and acceptance test; project memory can be recovered without one person's private knowledge; shared dependencies and fallbacks are visible; studies have distinct roles in the overall argument; and new work cannot enter unnoticed.
 
-## Before you ask your supervisor or collaborator
+## Put the boundary and acceptance test in writing
 
 Bring:
 
@@ -199,7 +190,7 @@ Bring:
 - the scope impact of the request; and
 - one precise decision, handoff or resource request.
 
-## Pause-point checklist
+## Verify the interface before transferring the work
 
 - [ ] Each study has a distinct role in the whole-project argument.
 - [ ] Hard, soft, shared and conceptual dependencies are visible.

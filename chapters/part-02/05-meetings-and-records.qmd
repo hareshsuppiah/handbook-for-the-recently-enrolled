@@ -1,22 +1,15 @@
 ---
-title: "Meetings, decisions and actions"
-status: "broad-beta draft"
+title: "How do you make supervision meetings useful?"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta draft. Adapt record retention and formal reporting to current local requirements.
+**Check locally:** Adapt record retention and formal reporting to current local requirements.
 :::
 
-## The questions students are usually asking
+A supervision meeting can be warm, intelligent and completely unhelpful. You discuss ethics, methods and a promising paper, then leave unsure what was decided or who will do what. The fix is simple enough to describe: use the meeting to make decisions, then keep a short record that survives everyone’s memory. The real skill is deciding what belongs on the agenda, what needs a decision and what can wait. A useful meeting changes the state of the project.
 
-- What should go on a supervision agenda?
-- How do I stop meetings becoming status updates?
-- What exactly should I record afterwards?
-- What is the difference between an action, decision, matter arising and unresolved question?
-- How do I follow up without sounding difficult?
-
-## The direct answer
+## Design the meeting around decisions
 
 A useful supervision meeting changes the state of the project. It resolves or sharpens a decision, tests reasoning, assigns an action, exposes a dependency or identifies an escalation. Prepare around those changes, not a list of topics.
 
@@ -112,7 +105,7 @@ Cadence should respond to the work:
 
 Frequency alone does not establish quality. A weekly meeting can waste time; a monthly meeting can be unsafe if critical uncertainty is accumulating.
 
-## Common failure modes
+## Why good conversations produce no movement
 
 - agendas that list domains rather than decisions;
 - papers sent too late or without a review question;
@@ -124,7 +117,7 @@ Frequency alone does not establish quality. A weekly meeting can waste time; a m
 - sensitive details placed in broadly shared records;
 - every meeting becoming a report to supervisors rather than a place to test judgement.
 
-## Pause-point checklist: before ending the meeting
+## Before anyone leaves the meeting
 
 - [ ] Every major item has a decision, next check or explicit deferral.
 - [ ] Each action has one owner, a date and evidence of done.
@@ -133,7 +126,7 @@ Frequency alone does not establish quality. A weekly meeting can waste time; a m
 - [ ] Risks and disagreements are recorded without pretending consensus.
 - [ ] The next meeting or review trigger is clear.
 
-## Before you ask your supervisors
+## Send an agenda that invites decisions
 
 Bring an agenda, linked material, your recommendation and the state of earlier actions. If an item is blocked, show what you attempted, the dependency, consequence and proposed escalation.
 

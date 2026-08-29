@@ -1,24 +1,15 @@
 ---
-title: "A minimum viable research technology stack"
-status: "broad-beta draft"
+title: "Which research tools do you actually need?"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta draft. Software features, licences, terms, institutional approvals and security conditions change. Verify current authoritative documentation before adopting or connecting a tool, especially for protected research material.
+**Check locally:** Software features, licences, terms, institutional approvals and security conditions change. Verify current authoritative documentation before adopting or connecting a tool, especially for protected research material.
 :::
 
-## The questions students are usually asking
+A new tool promises cleaner notes, smarter searching or effortless automation, and soon the research system needs more maintenance than the research. Start with the capabilities the project needs: secure storage, reference management, analysis, writing, review and recovery. Give each tool one declared job and prefer durable handoffs between them. The best stack is not the one with the most features. It is the smallest set your team can use safely, understand later and leave without losing the work.
 
-- Which software should I use for my doctorate?
-- Do I need to learn R, Python, Git, Quarto or a reference manager immediately?
-- Is an all-in-one platform better than several small tools?
-- How do I stop spending time rebuilding my system?
-- Can I use personal cloud, note-taking or AI accounts?
-- What happens if a service closes, changes price or locks my files in?
-- How do collaborators know which copy is authoritative?
-
-## The direct answer
+## Choose capabilities before brands
 
 Choose the smallest set of approved tools that supports the required research capabilities and produces recoverable, transferable records. Add a tool only when it solves a named problem better than the current workflow and its governance, integration, learning and exit costs are acceptable.
 
@@ -169,7 +160,7 @@ Good adoption moments include:
 
 Avoid introducing a major system immediately before a deadline unless it is required to control an urgent risk.
 
-## Common failure modes
+## When the tool stack becomes another project
 
 - using a tool because other researchers appear to use it;
 - placing research evidence inside task comments or chat history;
@@ -182,9 +173,9 @@ Avoid introducing a major system immediately before a deadline unless it is requ
 - failing to export before leaving an account or institution;
 - repeatedly rebuilding the stack instead of doing the research.
 
-## Good enough for now
+## What a minimum viable stack must do
 
-A minimum viable stack is ready when:
+The stack is ready when:
 
 - every required capability has an owner and approved route;
 - each tool has one declared job;
@@ -196,7 +187,7 @@ A minimum viable stack is ready when:
 - redundant tools have been removed or made non-authoritative; and
 - review and exit dates are scheduled.
 
-## Before you ask your supervisor, librarian, analyst or IT adviser
+## Ask about the missing capability, not the fashionable app
 
 Bring:
 
@@ -209,7 +200,7 @@ Bring:
 - cost and exit constraints; and
 - one precise adoption, integration or governance question.
 
-## Pause-point checklist
+## Test the workflow before adopting another tool
 
 - [ ] The research problem precedes the product choice.
 - [ ] Each tool has a declared job and authoritative outputs.

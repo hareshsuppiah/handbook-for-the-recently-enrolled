@@ -1,24 +1,17 @@
 ---
-title: "From proposal to provisional plan"
-status: "broad-beta draft"
+title: "How do you turn a proposal into a workable plan?"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta draft. The workflow is institution-neutral; formal milestone formats and approval processes must be checked locally.
+**Check locally:** The workflow is institution-neutral; formal milestone formats and approval processes must be checked locally.
 :::
 
-## The questions students are usually asking
+A proposal is written to show that a project could be worthwhile. Once you enrol, the job changes. You now have to find out whether its assumptions survive contact with real data access, recruitment, ethics, time and expertise. That does not mean the proposal was wrong or that changing it is failure. It means the proposal has become a set of claims to test. A workable plan records what is known, what is assumed, what could block the project and which decision must be made next.
 
-- Am I still expected to do exactly what was in my application?
-- How do I turn a proposal into work I can actually manage?
-- What needs to be decided now, and what should remain provisional?
-- What records do I need besides a timeline?
-- Which tools should I set up before the project becomes complicated?
+## Treat the proposal as a starting hypothesis
 
-## The direct answer
-
-Treat the proposal as an opening argument, not a contract with the future. Convert it into a provisional plan that separates commitments, evidence, assumptions, options and unknowns. Add dependencies and review points so the plan can change without losing its history.
+Use the proposal as an opening argument rather than a contract with the future. Convert it into a provisional plan that separates commitments, evidence, assumptions, options and unknowns. Add dependencies and review points so the plan can change without losing its history.
 
 A useful plan does not predict every future task. It makes the next consequential decisions visible, states what evidence would support them and shows what could block them.
 
@@ -114,7 +107,7 @@ The plan becomes more honest before it becomes more detailed.
 - **No longer supports the research question:** remove or redesign it even if work has already been invested.
 - **Cannot be completed inside constraints:** narrow scope, change sequence or escalate; do not hide the conflict in an optimistic timeline.
 
-## Common failure modes
+## How provisional plans become fictional
 
 - copying proposal headings into a Gantt chart without testing assumptions;
 - treating every date as equally certain;
@@ -126,7 +119,7 @@ The plan becomes more honest before it becomes more detailed.
 - adding tools instead of maintaining the minimum records;
 - interpreting sunk effort as evidence that the original path remains sound.
 
-## Pause-point checklist: before adopting the provisional plan
+## Test the plan before adopting it
 
 - [ ] Formal constraints are linked to current authoritative sources.
 - [ ] Commitments, decisions, assumptions, options and unknowns are distinguished.
@@ -138,7 +131,7 @@ The plan becomes more honest before it becomes more detailed.
 
 **Stop condition:** Do not call the plan viable while essential access, approval, safety or resource assumptions remain invisible or ownerless.
 
-## Before you ask your supervisor
+## Show the assumptions that need a decision
 
 Bring the one-page project statement, annotated assumptions, the two most consequential decision gates, the main risk and your proposed next 90-day outcomes. Ask: “Which assumption would you test first, and what evidence would change our present direction?”
 

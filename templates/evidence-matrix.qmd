@@ -1,11 +1,10 @@
 ---
 title: "Evidence matrix"
-status: "broad-beta resource"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Resource status:** Usable broad-beta. Select columns that expose distinctions relevant to your question. A matrix supports comparison; it is not itself a quality appraisal or synthesis.
+**Use with local requirements:** Select columns that expose distinctions relevant to your question. A matrix supports comparison; it is not itself a quality appraisal or synthesis.
 :::
 
 ## Blank matrix

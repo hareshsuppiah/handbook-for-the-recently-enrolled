@@ -1,11 +1,10 @@
 ---
 title: "Data dictionary and codebook"
-status: "broad-beta resource"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Resource status:** Usable broad-beta. Adapt this to tabular, qualitative, image, sensor, archival or other material. Keep sensitive variable descriptions and examples in an approved location.
+**Use with local requirements:** Adapt this to tabular, qualitative, image, sensor, archival or other material. Keep sensitive variable descriptions and examples in an approved location.
 :::
 
 ## Dataset or corpus header

@@ -1,11 +1,10 @@
 ---
 title: "Is this pilot ready to run?"
-status: "broad-beta resource"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Resource status:** Usable broad-beta. Apply this before a feasibility test, instrument test, workflow rehearsal or pilot study. It does not authorise participant, animal, field, clinical, restricted-data or culturally governed activity.
+**Use with local requirements:** Apply this before a feasibility test, instrument test, workflow rehearsal or pilot study. It does not authorise participant, animal, field, clinical, restricted-data or culturally governed activity.
 :::
 
 **Pause point:** Before the first pilot activity.

@@ -1,24 +1,15 @@
 ---
-title: "Closure, archiving and transition"
-status: "broad-beta draft"
+title: "How do you close a project without losing its value?"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta draft. Retention, disposal, custody, intellectual property, repository deposit, account closure and continuing obligations are institution-, funder-, agreement-, community- and jurisdiction-specific. Obtain written authority.
+**Check locally:** Retention, disposal, custody, intellectual property, repository deposit, account closure and continuing obligations are institution-, funder-, agreement-, community- and jurisdiction-specific. Obtain written authority.
 :::
 
-## The questions students are usually asking
+Projects often end administratively before they end intellectually. Accounts close, people move, data retention clocks start and unfinished outputs become difficult to recover. Closure is the deliberate transfer of evidence, custody and responsibility. Decide what must be retained, transferred, published, disposed of or carried forward; test that the archive can be recovered; and record who owns continuing obligations. A well-closed doctorate leaves the next authorised person able to understand what exists and what still needs attention.
 
-- When is a research project actually closed?
-- What must be retained, archived, transferred, published or destroyed?
-- Who owns or controls the data and code after I leave?
-- How do I hand over a project so another person can use it?
-- What happens to GitHub, cloud, email and institutional accounts?
-- Which unfinished publications or commitments continue after graduation?
-- How do I turn the doctorate into a coherent next programme rather than a pile of outputs?
-
-## The direct answer
+## Transfer custody, evidence and unfinished obligations
 
 A project is closed only when every material record, asset, permission, responsibility, unresolved issue and continuing obligation has an authorised destination. Handover is complete when the recipient demonstrates access, recovery and understanding—not when files are sent.
 
@@ -193,7 +184,7 @@ Choose a small set of outcomes:
 
 The plan should distinguish accepted position, submitted application, invited discussion and aspiration. Completion of a doctorate changes capability and credentials; it does not make uncertain opportunities confirmed.
 
-## Common failure modes
+## How valuable work becomes stranded after candidature
 
 - treating thesis submission or graduation as project closure;
 - retaining everything without authority;
@@ -208,17 +199,17 @@ The plan should distinguish accepted position, submitted application, invited di
 - carrying every unfinished idea forward; and
 - treating exhaustion after completion as a personal planning failure.
 
-## Good enough for now
+## When the project can be safely handed over
 
 Closure is complete when every material item has an authorised disposition; archives pass integrity and recovery tests; custody and access are accepted; accounts and obligations have owners; restrictions and disposal are scheduled; and the project no longer depends on the departing candidate's private knowledge or credentials.
 
 Transition is actionable when verified contributions and capabilities inform a bounded next programme, relationships and authority are renegotiated, and the first 90 days have evidence-defined outcomes rather than an undifferentiated list of opportunities.
 
-## Before you ask your supervisor, custodian or research office
+## Settle ownership before the final handover
 
 Bring the inventory, proposed dispositions, relevant retention/ownership rules, archive manifest, recipient test result, continuing-obligations register, account/access plan, unresolved risks and exact approvals or ownership decisions needed.
 
-## Pause-point checklist
+## Test the archive before access disappears
 
 - [ ] Every material record, asset and obligation is inventoried.
 - [ ] Each item has retain, archive, share, transfer, continue, dispose or restrict status.

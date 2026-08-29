@@ -1,23 +1,15 @@
 ---
-title: "Risks, blocked work and change"
-status: "broad-beta draft"
+title: "What should you do when work is blocked or plans change?"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta draft. Ethics, governance, safety, candidature and contractual changes can require formal approval before implementation. Use this chapter to prepare the decision, then verify the authorised local process.
+**Check locally:** Ethics, governance, safety, candidature and contractual changes can require formal approval before implementation. Use this chapter to prepare the decision, then verify the authorised local process.
 :::
 
-## The questions students are usually asking
+Not every delay is the same problem. Waiting for an approval, discovering an infeasible method and facing an uncertain risk require different responses. If you label all of them “blocked,” the next action stays vague. Classify what has happened, identify the decision-maker and record the smallest consequence that matters. Some work can continue around the blockage; some requires a formal change; some must stop until authority or safety is restored.
 
-- Is this a risk, a current issue, something I am waiting for or a genuine blocker?
-- When should I keep following up, escalate, activate an alternative or change the study?
-- How do I discuss a problem without sounding as though I have failed?
-- What must be reconsidered when the project changes?
-- Can I start the revised work while an amendment is being reviewed?
-- How do I prevent a temporary workaround from silently becoming the new protocol?
-
-## The direct answer
+## Classify the problem before choosing the response
 
 Name the state accurately, record its consequence and give it an owner, trigger and next decision. A risk needs prevention and contingency. An issue needs response. Waiting needs a follow-up threshold. Blocked work needs another route or escalation. A material change needs an impact review and the required approval before affected work proceeds.
 
@@ -146,7 +138,7 @@ Small reversible adjustments do not need elaborate paperwork. The record should 
 
 **Evidence of completion:** A dated decision, any required approval, revised question and method records, updated milestones and risk status, and a reproducible record showing which dataset and analysis route became authoritative.
 
-## Failure modes
+## How waiting turns into unmanaged drift
 
 - keeping risks in someone's memory rather than a shared recoverable record;
 - listing a risk without a trigger, owner or contingency;
@@ -161,11 +153,11 @@ Small reversible adjustments do not need elaborate paperwork. The record should 
 - treating sunk effort as a reason to continue an untenable route; and
 - hiding bad news until no feasible alternative remains.
 
-## Good enough for now
+## When the response is proportionate to the risk
 
 Risk and change control are usable when consequential uncertainties and current problems are distinguished; every live item has an owner and next decision point; waiting has a follow-up threshold; blockers identify the affected outcome and alternatives; material changes have an impact analysis and authority path; and closure is supported by evidence rather than disappearance from a list.
 
-## Before you ask your supervisor or another decision-maker
+## Escalate a decision-ready description
 
 Bring:
 
@@ -178,7 +170,7 @@ Bring:
 - approvals or specialist advice that may be required; and
 - one precise decision request with a date.
 
-## Pause-point checklist
+## Check the consequence before changing course
 
 - [ ] The item is classified as risk, issue, waiting, blocked, incident or proposed change.
 - [ ] The affected outcome and consequence are explicit.

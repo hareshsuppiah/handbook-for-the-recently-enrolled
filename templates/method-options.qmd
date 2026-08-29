@@ -1,11 +1,10 @@
 ---
 title: "Method-options comparison"
-status: "broad-beta resource"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Resource status:** Usable broad-beta. Compare serious design options before commitment. Obtain method-specific, governance and community advice where consequences are material.
+**Use with local requirements:** Compare serious design options before commitment. Obtain method-specific, governance and community advice where consequences are material.
 :::
 
 ## Decision frame

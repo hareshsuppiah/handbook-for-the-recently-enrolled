@@ -1,6 +1,5 @@
 ---
 title: "Analysis, code or files do not work"
-status: "broad-beta pathway"
 last-reviewed: "2026-08-28"
 ---
 

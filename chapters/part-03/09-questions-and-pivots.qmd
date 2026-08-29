@@ -1,23 +1,15 @@
 ---
-title: "Questions, aims and pivots"
-status: "broad-beta draft"
+title: "Is your research question ready?"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta draft. Question forms and when they may change vary by methodological tradition, approval and registration status.
+**Check locally:** Question forms and when they may change vary by methodological tradition, approval and registration status.
 :::
 
-## The questions students are usually asking
+Research questions often become harder to read as a project develops. A promising idea accumulates a population, three outcomes, a mechanism, a comparison and an intervention until one sentence contains several theses. The cure is not endless polishing. Ask what evidence would answer the question and what claim that evidence could support. When those answers do not line up, narrow or change the question and record why. A well-judged pivot is evidence of learning, not a confession that the original plan failed.
 
-- What is the difference between a problem, purpose, aim, objective and research question?
-- Does every thesis need hypotheses?
-- Is my question too broad or too narrow?
-- Can I change the question after starting?
-- When should I narrow, pivot, pause or stop?
-- How do I explain a change without making the project look weak?
-
-## The direct answer
+## Make the question answerable by the planned evidence
 
 A research question specifies the uncertainty the study can credibly reduce. The aim states the overall intended inquiry; objectives name the work needed to answer it; hypotheses state specified expectations where the design and tradition require them. None should promise more than the feasible evidence can support.
 
@@ -124,7 +116,7 @@ The pivot record states:
 
 The change is auditable, not disguised.
 
-## Common failure modes
+## How questions become overloaded or evasive
 
 - writing a question that merely names a topic;
 - using “and” to join several independently consequential questions;
@@ -136,7 +128,7 @@ The change is auditable, not disguised.
 - preserving an infeasible design because it was in the proposal;
 - calling any change a pivot without documenting its consequences.
 
-## Pause-point checklist: after changing the question
+## Check the alignment after every material change
 
 - [ ] The problem and consequence still matter.
 - [ ] The revised question can be answered by feasible evidence.
@@ -146,7 +138,7 @@ The change is auditable, not disguised.
 - [ ] The change does not conceal outcome-driven reinterpretation.
 - [ ] A decision owner and next review trigger are recorded.
 
-## Before you ask your supervisor
+## Put the choice between questions on the table
 
 Bring the old and revised chains side by side, the evidence that triggered change, realistic options, effects on approvals and timing, and your recommendation. Ask: “Does the revised question preserve the important problem while making a claim this evidence can defend?”
 

@@ -1,24 +1,15 @@
 ---
-title: "Independence and contribution"
-status: "broad-beta draft"
+title: "What does research independence look like?"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta draft. The examination standard, thesis form and required declarations are defined by the awarding institution and discipline. Qualification frameworks provide broad orientation, not an individual examination decision.
+**Check locally:** The examination standard, thesis form and required declarations are defined by the awarding institution and discipline. Qualification frameworks provide broad orientation, not an individual examination decision.
 :::
 
-## The questions students are usually asking
+Independence does not mean doing everything alone or no longer needing advice. It appears in the quality of your decisions: you can frame the problem, compare options, seek the right expertise, explain your choice and recognise when authority belongs elsewhere. The same evidence helps define your contribution. In a team project, the thesis contribution, the team’s contribution and your own contribution may overlap without being identical. Make those boundaries visible rather than relying on a feeling that you have finally become independent.
 
-- What does “independent researcher” mean when research is collaborative?
-- How much supervisor help is too much?
-- What exactly is my original contribution?
-- Can the contribution be methodological, empirical, theoretical, practical or negative?
-- How do several studies combine into one doctoral contribution?
-- How do I distinguish my contribution from the team's?
-- What evidence would convince a sceptical examiner?
-
-## The direct answer
+## Show independence through decisions and evidence
 
 Independence is not working alone. It is the increasing ability to frame consequential questions, make and record defensible decisions, recognise limits, seek appropriate expertise, integrate feedback and remain accountable for the resulting claims.
 
@@ -141,7 +132,7 @@ Attach an example decision or artefact. This converts “be more independent” 
 **Smallest useful next action:** Complete one row of the thesis contribution map using an exact claim, thesis evidence, candidate role, boundary and sceptical challenge.
 :::
 
-## Common failure modes
+## Myths that make independence impossible to demonstrate
 
 - equating independence with isolation;
 - hiding specialist or supervisor contributions;
@@ -154,15 +145,15 @@ Attach an example decision or artefact. This converts “be more independent” 
 - waiting until the conclusion to discover the thesis argument; and
 - treating uncertainty or correction as evidence of dependence.
 
-## Good enough for now
+## When the independence case is credible
 
 The contribution is examination-ready when a defined audience, prior state, evidence, warranted change and boundary can be traced across the thesis; study roles integrate; candidate and collaborator contributions are transparent; and the candidate can defend major decisions while identifying where specialist authority remains necessary.
 
-## Before you ask your supervisors
+## Ask which decisions you should now lead
 
 Bring the completed contribution map, whole-thesis claim, study-role matrix, candidate contribution evidence, three sceptical challenges, unresolved boundaries and one request: for example, “Which link in this contribution chain is least supported by the submitted thesis?”
 
-## Pause-point checklist
+## Audit the evidence rather than your confidence
 
 - [ ] Independence is evidenced across decisions, not equated with working alone.
 - [ ] The contribution names audience, change, evidence and boundary.

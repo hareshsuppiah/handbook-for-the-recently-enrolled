@@ -1,6 +1,5 @@
 ---
 title: "How much searching does this decision need?"
-status: "broad-beta resource"
 last-reviewed: "2026-08-28"
 ---
 

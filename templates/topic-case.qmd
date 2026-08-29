@@ -1,6 +1,5 @@
 ---
 title: "One-page case for a proposed topic"
-status: "broad-beta resource"
 last-reviewed: "2026-08-28"
 ---
 

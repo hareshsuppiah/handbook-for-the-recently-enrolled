@@ -1,24 +1,15 @@
 ---
-title: "Technical failure, perfectionism and scope creep"
-status: "broad-beta draft"
+title: "Is this a technical problem, perfectionism or scope creep?"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta draft. Security, privacy, licensed systems, production infrastructure and wellbeing concerns may require specialist or formal support. Do not expose protected material while seeking technical help.
+**Check locally:** Security, privacy, licensed systems, production infrastructure and wellbeing concerns may require specialist or formal support. Do not expose protected material while seeking technical help.
 :::
 
-## The questions students are usually asking
+An analysis stops running, so you update packages, rewrite code, redesign the figure and consider changing software. Hours later the original error is still there and the task has doubled in size. Technical failure, perfectionism and scope creep can look similar because all produce more work. Stabilise the evidence, define the intended output and reduce the problem to the smallest failing example. Then decide whether you are fixing a defect, improving a justified quality criterion or pursuing work the project never needed.
 
-- Why did the analysis or book work yesterday but fail today?
-- What information does someone need to help debug it?
-- How do I recover an analysis I can no longer reproduce?
-- Is more checking improving quality or postponing submission?
-- How do I decide what is good enough at this stage?
-- Why does every “small improvement” expand the project?
-- When should I stop troubleshooting and choose another route?
-
-## The direct answer
+## Name the blockage before spending more effort
 
 For technical failure, preserve the evidence, reproduce the smallest failing case, compare it with the last known working state and change one controlled factor at a time. For perfectionism and scope creep, define the decision, acceptance criteria, stop conditions and excluded work before continuing.
 
@@ -177,7 +168,7 @@ This is not lowering the scholarly standard. It redirects effort from unbounded 
 
 Difficulty concentrating, persistent distress, illness, disability, caring demands or unsafe workload should not be disguised as a productivity defect. Reduce immediate risk, use appropriate health or support services, and discuss workload, leave, adjustments or candidature variation through the authorised route. The handbook does not diagnose or replace professional help.
 
-## Common failure modes
+## How a small fault becomes uncontrolled rework
 
 - changing several variables before reproducing the failure;
 - seeking help with confidential data or credentials attached;
@@ -192,15 +183,15 @@ Difficulty concentrating, persistent distress, illness, disability, caring deman
 - using perfectionism language to dismiss a real quality concern; and
 - treating health or unsafe workload as a technical optimisation problem.
 
-## Good enough for now
+## When the fix has done its job
 
 A technical repair is complete when the cause or bounded workaround is recorded, the workflow runs from authoritative inputs in a clean state, consequential outputs pass defined checks and another person can reproduce the route. A research output is sufficient for its stage when the named purpose, critical requirements, evidence and risks pass—while optional refinements remain explicitly deferred.
 
-## Before you ask for technical or supervisory help
+## Bring the smallest failing example
 
 Bring the smallest safe failing example, exact steps and error, expected/actual result, inputs and environment, last working state, tests attempted, suspected class, relevant deadline, acceptance test and one precise request. For scope, bring the proposed addition, defect it addresses, full downstream cost and what it would replace.
 
-## Pause-point checklist
+## Return to the defined target before continuing
 
 - [ ] Failure evidence is preserved before changes.
 - [ ] A smallest safe reproduction exists.

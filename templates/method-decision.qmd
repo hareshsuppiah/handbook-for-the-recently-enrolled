@@ -1,11 +1,10 @@
 ---
 title: "Methodological decision record"
-status: "broad-beta resource"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Resource status:** Usable broad-beta. Record a provisional methodological commitment and its reconsideration conditions. This record does not replace a protocol, ethics application, preregistration or discipline-specific justification.
+**Use with local requirements:** Record a provisional methodological commitment and its reconsideration conditions. This record does not replace a protocol, ethics application, preregistration or discipline-specific justification.
 :::
 
 ## Blank record

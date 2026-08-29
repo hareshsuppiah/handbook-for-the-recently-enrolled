@@ -1,23 +1,15 @@
 ---
-title: "Problem, gap and contribution"
-status: "broad-beta draft"
+title: "What problem is your research actually solving?"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta draft. Forms of contribution vary substantially by field, method and doctoral format; test the chapter's general distinctions against current disciplinary and institutional expectations.
+**Check locally:** Forms of contribution vary substantially by field, method and doctoral format; test the chapter's general distinctions against current disciplinary and institutional expectations.
 :::
 
-## The questions students are usually asking
+An interesting topic is not yet a research problem. “There is little research on this population” may be true, but it does not tell the reader what is misunderstood, what decision is impaired or why another study would help. Before promising a contribution, connect four things: the situation, the consequential problem, the gap in what is known or possible, and the change your work could make. If one link is vague, the project may still be promising. It simply is not ready to carry the claim yet.
 
-- How do I turn an interest into a research problem?
-- Is “nobody has studied this exact combination” a research gap?
-- Does the gap need to be completely new?
-- Who must care about the problem?
-- What evidence would persuade a sceptical researcher, examiner or stakeholder?
-- How can I describe a contribution before I know the findings?
-
-## The direct answer
+## Build the chain before claiming the gap
 
 A topic names an area. A problem identifies something consequential that is not adequately understood or resolved. A gap describes the specific limitation in present knowledge, practice, method or representation that matters to that problem. A contribution states what the research may add or change.
 
@@ -120,7 +112,7 @@ The revised problem is consequential and testable. The contribution becomes a bo
 - **The gap disappears after searching:** record the result and redirect; the search has prevented waste.
 - **Several plausible contributions exist:** rank them by importance, feasibility and alignment, then choose one central claim.
 
-## Common failure modes
+## Gap claims that collapse under scrutiny
 
 - treating “under-researched” as self-evidently important;
 - using the last paragraph of one paper as the project justification;
@@ -132,7 +124,7 @@ The revised problem is consequential and testable. The contribution becomes a bo
 - choosing a familiar method before the problem and inference are clear;
 - hiding contrary evidence because it weakens the proposal.
 
-## Pause-point checklist: before claiming a gap
+## Stress-test the gap before you rely on it
 
 - [ ] The topic, problem, gap and contribution are distinct and linked.
 - [ ] The consequence of the unresolved gap is explicit.
@@ -143,7 +135,7 @@ The revised problem is consequential and testable. The contribution becomes a bo
 - [ ] Novelty claims are bounded and supported.
 - [ ] Discipline, cultural-governance and local expectations are identified.
 
-## Before you ask your supervisor
+## Invite criticism of the weakest link
 
 Bring the four-statement chain, the strongest evidence for and against it, two plausible contribution types and the audience whose judgement matters. Ask: “Which link is least defensible, and what evidence would change your view?”
 

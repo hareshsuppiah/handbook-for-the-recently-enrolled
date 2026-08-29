@@ -22,7 +22,7 @@ This is a living public edition: it is ready to use now and will continue to be 
 
 ## How to use the handbook
 
-Each chapter is organised around student questions and decisions. It gives a direct answer, a smallest useful next action, common failure modes, a test for what is good enough for now, practical resources, and signs that the issue should be escalated.
+You do not need to read from cover to cover. Start with the problem you are facing now. Each chapter explains the decision, shows a workable next step and links to a checklist or template when one will help. It also tells you when “good enough” is genuinely enough—and when the issue needs local or specialist help.
 
 The handbook is institution-neutral by design. A box labelled **Check locally** means that policies, systems, approvals, services, or legal requirements can vary. General advice never overrides your institution’s formal requirements or a specialist’s case-specific direction.
 

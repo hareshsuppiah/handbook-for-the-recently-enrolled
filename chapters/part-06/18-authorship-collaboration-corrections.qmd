@@ -1,24 +1,15 @@
 ---
-title: "Authorship, collaboration and correcting the record"
-status: "broad-beta draft"
+title: "Who should receive authorship—and what if something goes wrong?"
 last-reviewed: "2026-08-28"
 ---
 
 ::: {.manual-status}
-**Content status:** Broad-beta draft. Authorship standards, author order, intellectual property, Indigenous knowledge governance, contractual duties and correction processes vary by discipline, institution, partner and venue. Check the standards governing the actual output.
+**Check locally:** Authorship standards, author order, intellectual property, Indigenous knowledge governance, contractual duties and correction processes vary by discipline, institution, partner and venue. Check the standards governing the actual output.
 :::
 
-## The questions students are usually asking
+Authorship disputes often appear at submission but begin much earlier, when contribution, ownership and decision rights were left implicit. A person may expect authorship for access, supervision or analysis that never occurred; another may do substantial work that no one records. Discuss credit when roles are agreed, revisit it when the work changes and separate authorship from acknowledgement and intellectual property. If the scholarly record is wrong, the same principle applies: identify the error, its consequence and the proportionate correction.
 
-- Who should be an author, and in what order?
-- Does supervision, funding, data ownership or seniority guarantee authorship?
-- When should authorship be discussed?
-- How do industry and community partners change the workflow?
-- What if a contributor does not complete the work expected?
-- What do I do if I find an error after submission or publication?
-- How can a student raise a concern safely when power is unequal?
-
-## The direct answer
+## Agree credit while the work can still be redesigned
 
 Discuss contributions before substantial work begins, record provisional expectations, revisit them when work changes, and apply the authorship standard governing the output. Authorship is not a reward for status, access, supervision, funding or goodwill alone.
 
@@ -159,7 +150,7 @@ A disclosure should identify:
 
 Avoid both minimisation (“just a minor issue”) and unsupported accusation. If participant safety, confidentiality, illegal conduct or immediate harm is possible, use the urgent local route.
 
-## Common failure modes
+## How vague roles become authorship conflict
 
 - assigning authorship at the end from hierarchy or politics;
 - treating supervision, funding, editing or data ownership as automatic authorship;
@@ -172,7 +163,7 @@ Avoid both minimisation (“just a minor issue”) and unsupported accusation. I
 - delaying disclosure until every cause and consequence is known;
 - using public accusation before confidential evidence-preserving advice.
 
-## Good enough for now
+## When the contribution record is ready for the next stage
 
 Before an output advances:
 
@@ -185,7 +176,7 @@ Before an output advances:
 - conflict and escalation routes are known; and
 - errors, changes and unresolved disagreement remain visible.
 
-## Before you ask your supervisor, collaborator or integrity adviser
+## Bring the contribution record into the conversation
 
 Bring:
 
@@ -198,7 +189,7 @@ Bring:
 - any contract, data, ethics or community constraint; and
 - a precise request for agreement, independent advice or formal process.
 
-## Pause-point checklist
+## Revisit credit at every major handover
 
 - [ ] Contribution, authorship, acknowledgement, ownership and access are separated.
 - [ ] The governing standard is current and identified.

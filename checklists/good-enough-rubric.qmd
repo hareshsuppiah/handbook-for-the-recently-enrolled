@@ -1,6 +1,5 @@
 ---
 title: "Is this good enough for its next use?"
-status: "broad-beta resource"
 last-reviewed: "2026-08-28"
 ---
 
