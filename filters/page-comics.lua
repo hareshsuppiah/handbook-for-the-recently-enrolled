@@ -1,4 +1,4 @@
--- Insert the editorially selected, locally stored xkcd comic on every page.
+-- Insert an editorially selected, rights-cleared visual when a page has one.
 
 local function project_root()
   local source = debug.getinfo(1, "S").source:gsub("^@", "")
@@ -41,7 +41,7 @@ local function comic_block(entry, page_path)
       pandoc.Link({pandoc.Str("CC BY-NC 2.5")}, license),
       pandoc.Str(" and excluded from the handbook’s CC BY 4.0 licence."),
     }),
-  }, pandoc.Attr("", {"handbook-comic"}))
+  }, pandoc.Attr("", {"handbook-visual", "handbook-comic"}))
 end
 
 function Pandoc(doc)
@@ -53,7 +53,7 @@ function Pandoc(doc)
   local page_path = entry and entry.page_path or normalise_input_path()
   entry = entry or comic_data[page_path]
   if not entry then
-    error("No page-comic mapping for " .. page_path)
+    return doc
   end
 
   local insertion = #doc.blocks + 1

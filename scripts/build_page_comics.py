@@ -17,8 +17,9 @@ ROOT = Path(__file__).resolve().parents[1]
 ASSET_DIR = ROOT / "assets/xkcd"
 META_DIR = ROOT / "research/xkcd-source-metadata"
 
-# Every rendered source page receives an editorially selected comic. The
-# selection rationales are editorial notes kept outside the public repository.
+# Pages listed here receive an editorially selected xkcd comic. A page may be
+# deliberately absent when another cleared visual is planned or no visual adds
+# enough teaching value. Selection notes stay outside the public repository.
 ASSIGNMENTS: dict[str, int] = {
     "index.qmd": 59,
     "status.qmd": 910,
@@ -259,10 +260,9 @@ def main() -> None:
     args = parser.parse_args()
 
     pages = book_pages()
-    missing = sorted(set(pages) - set(ASSIGNMENTS))
     extra = sorted(set(ASSIGNMENTS) - set(pages))
-    if missing or extra:
-        raise SystemExit(f"Mapping mismatch. Missing={missing}; extra={extra}")
+    if extra:
+        raise SystemExit(f"Mapping contains pages outside the Quarto book: {extra}")
 
     metadata: dict[int, dict[str, object]] = {}
     assets: dict[int, str] = {}
@@ -279,6 +279,8 @@ def main() -> None:
 
     rows: list[dict[str, str]] = []
     for page in pages:
+        if page not in ASSIGNMENTS:
+            continue
         comic_id = ASSIGNMENTS[page]
         source = (ROOT / page).read_text()
         title_match = re.search(r'^title:\s*["\']?(.*?)["\']?\s*$', source, re.M)

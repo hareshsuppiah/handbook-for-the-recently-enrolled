@@ -21,15 +21,15 @@ class PageParser(HTMLParser):
         self.links: list[str] = []
         self.images: list[tuple[str, str | None]] = []
         self.ids: set[str] = set()
-        self.comic_divs = 0
+        self.visual_divs = 0
         self.text_parts: list[str] = []
 
     def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
         values = dict(attrs)
         if values.get("id"):
             self.ids.add(values["id"] or "")
-        if tag == "div" and "handbook-comic" in (values.get("class") or "").split():
-            self.comic_divs += 1
+        if tag == "div" and "handbook-visual" in (values.get("class") or "").split():
+            self.visual_divs += 1
         if tag == "a" and values.get("href"):
             self.links.append(values["href"] or "")
         if tag == "img":
@@ -116,14 +116,11 @@ def main() -> int:
     with (ROOT / "research/page-visuals.csv").open(newline="", encoding="utf-8") as handle:
         visual_rows = list(csv.DictReader(handle))
     mapped_pages = [row["page_path"] for row in visual_rows]
-    if len(visual_rows) != 111:
-        fail(f"expected 111 page-visual mappings; found {len(visual_rows)}", failures)
     if len(set(mapped_pages)) != len(mapped_pages):
         fail("page-visual register contains duplicate page mappings", failures)
-    missing_visual_sources = sorted(str(path.relative_to(ROOT)) for path in chapters if str(path.relative_to(ROOT)) not in mapped_pages)
-    if missing_visual_sources:
-        fail(f"chapters missing page-visual mapping: {', '.join(missing_visual_sources)}", failures)
     for row in visual_rows:
+        if not (ROOT / row["page_path"]).exists():
+            fail(f"page-visual source missing: {row['page_path']}", failures)
         if not (ROOT / row["asset_path"]).exists():
             fail(f"page-visual asset missing: {row['page_path']} -> {row['asset_path']}", failures)
     if "relevance_reason" in (visual_rows[0] if visual_rows else {}):
@@ -146,8 +143,8 @@ def main() -> int:
         parsed[page] = parser
         if "Why it fits" in " ".join(parser.text_parts):
             fail(f"internal visual rationale leaked into rendered page: {page.relative_to(SITE)}", failures)
-        if parser.comic_divs != 1:
-            fail(f"expected one credited comic on rendered page: {page.relative_to(SITE)}; found {parser.comic_divs}", failures)
+        if parser.visual_divs > 1:
+            fail(f"rendered page contains more than one registered page visual: {page.relative_to(SITE)}; found {parser.visual_divs}", failures)
         for src, alt in parser.images:
             # Quarto emits the repeated sidebar logo with alt="" because it is
             # decorative navigation chrome. Content images require text.

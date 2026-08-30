@@ -5,6 +5,8 @@ last-reviewed: "2026-08-29"
 
 The handbook can be serious without sounding solemn on every page. A well-placed cartoon, visual analogy or familiar research frustration can help a reader remember an idea. The joke must serve the teaching point, not turn the handbook into a gallery of borrowed internet culture.
 
+There is no image quota. A page can use an original illustration, a properly cleared third-party work, a link to an external work, or no visual at all. If an image does not sharpen the lesson, the page is better without it.
+
 ## What we can embed
 
 The preferred order is:
@@ -25,6 +27,8 @@ Wikimedia Commons notes that files can carry different reuse and attribution con
 - an image that relies on stereotypes, humiliation or inaccessible text to make its point.
 
 Giving credit does not cure a missing licence. Attribution and permission are separate checks.
+
+For example, [PHD Comics asks people to obtain permission before reproducing its comics](https://phdcomics.com/about.php). We will identify a useful strip first, request permission for that exact use and wait for written approval before embedding it. Until then, a link is the most the handbook will provide.
 
 ## The credit line
 

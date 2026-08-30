@@ -357,7 +357,7 @@ a:hover {
   a { color: #000000; }
 }
 
-.handbook-comic {
+.handbook-visual {
   background: #fafafa;
   border: 1px solid var(--rule);
   border-radius: 8px;
@@ -365,14 +365,14 @@ a:hover {
   padding: 1.1rem 1.25rem 1rem;
 }
 
-.handbook-comic > p:first-child {
+.handbook-visual > p:first-child {
   font-size: .82rem;
   letter-spacing: .045em;
   margin-bottom: .85rem;
   text-transform: uppercase;
 }
 
-.handbook-comic img {
+.handbook-visual img {
   display: block;
   height: auto;
   margin: 0 auto;
@@ -382,18 +382,18 @@ a:hover {
   width: auto;
 }
 
-.handbook-comic > p:nth-last-child(2) {
+.handbook-visual > p:nth-last-child(2) {
   margin-top: 1rem;
 }
 
-.handbook-comic > p:last-child {
+.handbook-visual > p:last-child {
   color: var(--muted);
   font-size: .82rem;
   margin-bottom: 0;
 }
 
 @media (max-width: 767px) {
-  .handbook-comic {
+  .handbook-visual {
     margin: 1.75rem 0;
     padding: .9rem;
   }
