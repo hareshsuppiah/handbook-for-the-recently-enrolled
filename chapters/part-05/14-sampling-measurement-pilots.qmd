@@ -7,7 +7,7 @@ Sample size, measurement and piloting are often handled as separate technical ch
 
 ## Test fitness for purpose before scale
 
-Sampling is a reasoned connection between the evidence observed and the target of the claim. Measurement is a reasoned connection between a construct and what becomes recorded. A pilot should reduce a named uncertainty and trigger a pre-agreed decision.
+Your sampling choices determine which observations can support a claim about the target; your measurement choices determine what the recorded values can mean. A pilot should reduce a named uncertainty and trigger a pre-agreed decision.
 
 None of these is solved by a magic number. “Thirty participants”, “ten interviews”, “one case per variable”, “data saturation” or a conventional power threshold may be relevant in a particular design, but none is a universal adequacy rule.
 

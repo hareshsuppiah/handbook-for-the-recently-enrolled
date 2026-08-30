@@ -101,7 +101,7 @@ For every consequential sentence, test:
 5. **Accuracy:** do author, title, year, version, DOI or URL and page details match the source?
 6. **Representation:** are contrary or qualifying sources being omitted in a way that misleads?
 
-Do not cite an abstract for a detail available only in the full text. Do not cite a review as though it conducted every study it summarises. Do not copy a citation from another paper without opening and checking the cited source. If the original cannot be accessed, say what you actually consulted and follow the relevant citation convention.
+Cite an abstract only for information it contains. A review supports its own synthesis, not every study it summarises. Open and check a cited paper before adding it to your own reference list. If the original cannot be accessed, say what you actually consulted and follow the relevant citation convention.
 
 ## Use reference software as infrastructure
 

@@ -1,6 +1,6 @@
 ## The xkcd comics used in this handbook
 
-Every embedded xkcd comic is by Randall Munroe and is reused from [xkcd](https://xkcd.com/) under the [Creative Commons Attribution–NonCommercial 2.5 licence](https://creativecommons.org/licenses/by-nc/2.5/). The comics are excluded from the handbook's CC BY 4.0 content licence. Each appearance links to the original comic and explains why it was selected for that page.
+Every embedded xkcd comic is by Randall Munroe and is reused from [xkcd](https://xkcd.com/) under the [Creative Commons Attribution–NonCommercial 2.5 licence](https://creativecommons.org/licenses/by-nc/2.5/). The comics are excluded from the handbook's CC BY 4.0 content licence. Each appearance links to the original comic and transcript.
 
 | Comic | Used on |
 |---|---|
@@ -49,4 +49,4 @@ Every embedded xkcd comic is by Randall Munroe and is reused from [xkcd](https:/
 | [xkcd #2582: Data Trap](https://xkcd.com/2582/) | Can you trace where this dataset came from?; Living data-management plan; Data dictionary and codebook |
 | [xkcd #2601: Instructions](https://xkcd.com/2601/) | Practical resources; How the checklists work; How to suggest an improvement |
 
-The machine-readable page-by-page placement, relevance explanation and asset path are recorded in the [`page-visuals register`](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/blob/main/research/page-visuals.csv).
+The machine-readable page-by-page placement and asset path are recorded in the [`page-visuals register`](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/blob/main/research/page-visuals.csv).

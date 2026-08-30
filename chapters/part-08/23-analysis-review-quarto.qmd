@@ -44,7 +44,7 @@ Ask:
 - do required diagnostics and methods exist?
 - can a reviewer identify defaults and options?
 
-Using menus is not inherently unreproducible; undocumented clicks and overwritten outputs are.
+Menus can support a reproducible workflow when the clicks are documented and the outputs are preserved.
 
 ### Specialist software
 

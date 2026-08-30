@@ -33,12 +33,7 @@ local function comic_block(entry, page_path)
   local linked_image = pandoc.Link({image}, original, "Open the original xkcd comic and transcript")
 
   return pandoc.Div({
-    pandoc.Para({pandoc.Strong({pandoc.Str("A useful pause")})}),
     pandoc.Para({linked_image}),
-    pandoc.Para({
-      pandoc.Strong({pandoc.Str("Why it fits: ")}),
-      pandoc.Str(entry.reason),
-    }),
     pandoc.Para({
       pandoc.Str("“" .. entry.title .. "” (xkcd #" .. entry.comic_id .. ") by Randall Munroe. "),
       pandoc.Link({pandoc.Str("Original comic and transcript")}, original),

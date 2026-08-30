@@ -22,6 +22,7 @@ class PageParser(HTMLParser):
         self.images: list[tuple[str, str | None]] = []
         self.ids: set[str] = set()
         self.comic_divs = 0
+        self.text_parts: list[str] = []
 
     def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
         values = dict(attrs)
@@ -33,6 +34,9 @@ class PageParser(HTMLParser):
             self.links.append(values["href"] or "")
         if tag == "img":
             self.images.append((values.get("src") or "", values.get("alt")))
+
+    def handle_data(self, data: str) -> None:
+        self.text_parts.append(data)
 
 
 def fail(message: str, failures: list[str]) -> None:
@@ -122,8 +126,8 @@ def main() -> int:
     for row in visual_rows:
         if not (ROOT / row["asset_path"]).exists():
             fail(f"page-visual asset missing: {row['page_path']} -> {row['asset_path']}", failures)
-        if not row["relevance_reason"].strip():
-            fail(f"page-visual relevance reason missing: {row['page_path']}", failures)
+    if "relevance_reason" in (visual_rows[0] if visual_rows else {}):
+        fail("public page-visual register contains private editorial rationales", failures)
 
     required_paths = sorted((ROOT / "checklists").glob("*.qmd")) + sorted((ROOT / "templates").glob("*.qmd")) + sorted((ROOT / "stuck").glob("*.qmd"))
     for source in required_paths:
@@ -140,6 +144,8 @@ def main() -> int:
         parser = PageParser()
         parser.feed(page.read_text(encoding="utf-8", errors="replace"))
         parsed[page] = parser
+        if "Why it fits" in " ".join(parser.text_parts):
+            fail(f"internal visual rationale leaked into rendered page: {page.relative_to(SITE)}", failures)
         if parser.comic_divs != 1:
             fail(f"expected one credited comic on rendered page: {page.relative_to(SITE)}; found {parser.comic_divs}", failures)
         for src, alt in parser.images:

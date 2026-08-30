@@ -91,7 +91,7 @@ A useful handoff includes:
 **Smallest useful next action:** Ask the intended recipient to recover one input, reproduce one consequential output and explain one decision using only the handoff package. Repair what fails.
 :::
 
-Sending is not acceptance. A ZIP file is not a handoff if nobody knows which script to run. A meeting is not a handoff if the new state remains only in participants' memories.
+Sending is not acceptance. A ZIP file without execution instructions leaves the recipient stranded. So does a meeting whose decisions remain only in participants' memories.
 
 ## Maintain project memory while work is active
 

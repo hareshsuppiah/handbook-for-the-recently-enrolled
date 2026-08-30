@@ -79,7 +79,7 @@ Begin with five recoverable records:
 
 These records may live in a spreadsheet, database, plain-text files or an approved project platform. The tool matters less than recoverability, access control and consistent use.
 
-Use calendar entries for time-specific commitments. Use an action register for work state. Use a decision log for reasoning. Email is evidence of communication, not a complete project-management system.
+Put time-specific commitments in the calendar, current work states in the action register, and reasoning in the decision log. Email is evidence of communication, not a complete project-management system.
 
 ## Worked example: recruitment was never tested
 
