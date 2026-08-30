@@ -3,7 +3,7 @@ title: "Choosing a research toolkit"
 last-reviewed: "2026-08-28"
 ---
 
-A new tool promises cleaner notes, smarter searching or effortless automation, and soon the research system needs more maintenance than the research. Start with the capabilities the project needs: secure storage, reference management, analysis, writing, review and recovery. Give each tool one declared job and prefer durable handoffs between them. The best stack is not the one with the most features. It is the smallest set your team can use safely, understand later and leave without losing the work.
+A new tool promises cleaner notes, smarter searching or effortless automation, and soon the research system needs more maintenance than the research. Start with what the project must support. Most projects need secure storage, reference management, analysis, writing, review and recovery. Give each tool one declared job and prefer durable handoffs between them. A small, well-understood toolkit is easier to maintain and leave without losing the work.
 
 ## Choose capabilities before brands
 

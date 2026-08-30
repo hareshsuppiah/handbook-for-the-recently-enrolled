@@ -7,7 +7,7 @@ A supervision meeting can be warm, intelligent and completely unhelpful. You dis
 
 ## Design the meeting around decisions
 
-A useful supervision meeting changes the state of the project. It resolves or sharpens a decision, tests reasoning, assigns an action, exposes a dependency or identifies an escalation. Prepare around those changes, not a list of topics.
+Build the agenda around a change you need from the meeting. It may resolve or sharpen a decision, test reasoning, assign an action, expose a dependency or identify an escalation. A list of topics rarely does that by itself.
 
 The meeting record should be brief enough to maintain and precise enough to answer: what was decided, why, who does what, by when, what evidence will show completion and what remains unresolved.
 

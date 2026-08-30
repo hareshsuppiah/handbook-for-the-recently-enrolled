@@ -3,11 +3,11 @@ title: "I am waiting for feedback, approval, access, equipment or data"
 last-reviewed: "2026-08-28"
 ---
 
-## Diagnose
+## Name the decision and its owner
 
 Is work waiting on a named external action, or is the current route unable to produce the required outcome? Record submitted, received, under review, approved and rejected as different states.
 
-## Do now
+## Try this now
 
 1. Name the required decision and its owner.
 2. Record request, receipt, agreed response and latest feasible decision dates.
@@ -16,7 +16,7 @@ Is work waiting on a named external action, or is the current route unable to pr
 5. Follow up at the agreed threshold.
 6. Escalate before the protected buffer is exhausted.
 
-## Before asking
+## What to take when asking
 
 Bring the dated record, milestone impact, safe interim work, alternatives and one requested decision.
 
@@ -24,7 +24,7 @@ Bring the dated record, milestone impact, safe interim work, alternatives and on
 
 No response is not permission. Do not begin affected work before required approval or use informal access, credentials or storage.
 
-## Evidence of unstuck
+## You are moving again when
 
 The authorised decision exists or a documented alternative/formal schedule change is active. Another follow-up message alone is not resolution.
 

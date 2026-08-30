@@ -7,7 +7,7 @@ An analysis that runs only on your laptop is not yet a durable research workflow
 
 ## Choose a reproducibility target you can test
 
-A reproducible workflow preserves the inputs, decisions, procedures, environment and outputs needed for a competent authorised person to understand and rerun the relevant process. The strongest evidence is a recorded run from a clean starting point—not the fact that the workflow still works on the researcher's own configured computer.
+A reproducible workflow preserves the inputs, decisions, procedures, environment and outputs needed for a competent authorised person to understand and rerun the relevant process. The strongest evidence is a recorded run from a clean starting point. A workflow that still runs only on the researcher's configured computer has not passed that test.
 
 The National Academies uses “reproducibility” for obtaining consistent computational results with the same data, steps, methods, code and analysis conditions, while noting that terminology differs across fields [@nasem-reproducibility-2019]. State the meaning you use rather than policing vocabulary.
 
@@ -55,7 +55,7 @@ Provide example configuration and documented secret setup without real credentia
 
 ## Record the software environment
 
-At minimum record:
+Record at least the following.
 
 - operating system and relevant architecture;
 - language, application and runtime versions;
@@ -67,7 +67,7 @@ At minimum record:
 - remote APIs, databases or models with dates/versions; and
 - installation or environment restoration steps.
 
-Options include lockfiles, package managers, environment manifests, containers or virtual machines. A container is not automatically reproducible: it may rely on unavailable images, external data, mutable tags or hidden credentials.
+You can use lockfiles, package managers, environment manifests, containers or virtual machines. A container may still depend on unavailable images, external data, mutable tags or hidden credentials, so using one does not guarantee reproducibility.
 
 The Turing Way emphasises capturing computational environments because operating systems, software and libraries differ across machines [@turing-way-environments]. Select the lightest method that can recreate the material conditions of the workflow.
 
@@ -200,4 +200,4 @@ Bring:
 
 ## Try these resources
 
-Use [Before analysis](../../checklists/before-analysis.qmd), [Before project closure and handover](../../checklists/project-closure-handover.qmd), the [backup and restore audit](../../checklists/backup-restore.qmd) and [data dictionary](../../templates/data-dictionary.qmd). The technology chapters show how Quarto and version control can support—not replace—this reasoning.
+Use [Before analysis](../../checklists/before-analysis.qmd), [Before project closure and handover](../../checklists/project-closure-handover.qmd), the [backup and restore audit](../../checklists/backup-restore.qmd) and [data dictionary](../../templates/data-dictionary.qmd). The technology chapters show how Quarto and version control can support this reasoning without replacing it.

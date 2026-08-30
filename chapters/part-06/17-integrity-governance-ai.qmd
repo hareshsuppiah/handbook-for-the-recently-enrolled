@@ -141,7 +141,7 @@ Do not create a second confidentiality breach by copying sensitive prompts or ou
 
 ## Disclosure should be useful
 
-A disclosure should let the relevant reader understand how the tool affected the work. Depending on the context, identify:
+A disclosure should let the relevant reader understand how the tool affected the work. The details below are often useful.
 
 - the task performed;
 - the tool and date/version where material;

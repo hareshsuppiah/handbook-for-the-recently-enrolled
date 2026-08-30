@@ -35,8 +35,6 @@
 | DEC-035 | 2026-08-30 | Do not name handbook examples after actual students. | A named example can appear directed at, or disclose information about, a real student even when the scenario is generic. Reader-facing examples therefore use anonymous doctoral researchers or clearly non-identifiable composites unless a contributor has explicitly authorised a named case. | Settled |
 | DEC-036 | 2026-08-30 | Keep the full book contents and the current-page contents visible on every non-mobile screen. | Quarto's saved reader-mode setting and automatic overlap handling can replace both sidebars with dropdown bars while scrolling. The handbook clears the saved setting and prevents this roll-up from 768 px upwards; the compact navigation remains only for mobile screens. | Settled |
 | DEC-037 | 2026-08-30 | Use short, topic-led Part and chapter titles. | The repeated question-title pattern sounded generated and made the contents harder to scan. Titles and recurring section labels are now plain noun phrases or direct descriptions, reviewed with the no-AI-slop rules and the local LLM-cliche highlighter. | Settled |
-
-## Pending owner-supplied settings
-
-- Approved no-GitHub feedback-form URL.
-- No-GitHub contribution form URL, pending owner approval.
+| DEC-038 | 2026-08-31 | Use GitHub Issues as the active public route for reader suggestions. | One structured form and a first-time GitHub guide replace competing intake routes. The private editorial dashboard remains an editor tool rather than a reader submission site. | Settled |
+| DEC-039 | 2026-08-31 | Keep a prospective methods record in a private, Git-ignored `methods/` folder. | The record documents how the handbook is produced for possible later scientific reporting without publishing prompts, operational records or material that may require ethics review. | Settled |
+| DEC-040 | 2026-08-31 | Treat contingency plans as testable decision records. | A useful contingency names the protected outcome, trigger, feasible fallback, decision owner, required authority, prerequisites, review date and evidence that the fallback works. | Settled |

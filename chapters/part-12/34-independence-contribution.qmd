@@ -9,7 +9,7 @@ Independence does not mean doing everything alone or no longer needing advice. I
 
 Independence is not working alone. It is the increasing ability to frame consequential questions, make and record defensible decisions, recognise limits, seek appropriate expertise, integrate feedback and remain accountable for the resulting claims.
 
-A thesis contribution is a bounded change in what a defined audience can know, explain, do, examine or build on, supported by the thesis evidence. Map it at three levels: the whole thesis, each study or component, and your own accountable contribution.
+A thesis contribution is a bounded change in what a defined audience can know, explain, do, examine or build on, supported by the thesis evidence. Map the whole thesis, each study or component, and your own accountable contribution separately.
 
 ## Use an evidence-based independence profile
 
@@ -100,11 +100,11 @@ Use output-specific contribution records and required thesis declarations. Do no
 
 **Problem:** Athlete-reported recovery data are collected frequently, but interpretation varies across settings and workflows are difficult to audit.
 
-**Study 1 role:** defines practitioner decision needs and current variation.
-
-**Study 2 role:** evaluates measurement behaviour and identifies conditions under which within-athlete change is interpretable.
-
-**Study 3 role:** implements a reproducible reporting workflow and tests whether another analyst can recover the decision record.
+| Component | Role in the thesis |
+|---|---|
+| Study 1 | Defines practitioner decision needs and current variation. |
+| Study 2 | Evaluates measurement behaviour and identifies the conditions under which within-athlete change is interpretable. |
+| Study 3 | Implements a reproducible reporting workflow and tests whether another analyst can recover the decision record. |
 
 **Weak contribution claim:** “This thesis revolutionises athlete monitoring.”
 

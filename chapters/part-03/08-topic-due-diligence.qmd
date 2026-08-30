@@ -19,15 +19,15 @@ What problem is addressed, who cares, what present limitation matters and what b
 
 ### Prior evidence
 
-What has been tried? What failed or produced inconsistent results? Which assumptions, measures, datasets and populations dominate? What contrary evidence exists?
+Find what has been tried and where results conflict. Note the assumptions, measures, datasets and populations that dominate the evidence, along with any credible contrary findings.
 
 ### Question and inference
 
-Is the question answerable with evidence that can actually be obtained? Does the wording promise causation, prevalence, representation, prediction or transfer beyond the proposed design?
+Check that the question can be answered with evidence you can obtain. Remove promises about causation, prevalence, representation, prediction or transfer that the proposed design cannot support.
 
 ### Access and recruitment
 
-Who controls the participants, sites, archives, data, equipment or communities? Is access documented by someone with authority? What response, exclusion, attrition or downtime is plausible?
+Identify who controls the participants, sites, archives, data, equipment or community relationships. Ask someone with authority to document access, then estimate plausible response, exclusion, attrition and downtime.
 
 ### Method and capability
 
@@ -35,7 +35,7 @@ Which designs are credible, what expertise is required, and can the team obtain 
 
 ### Ethics, governance and relationships
 
-What approvals, consent, privacy, cultural governance, safety, partner or legal processes apply? Who decides? What lead times and ongoing obligations follow?
+List the approval, consent, privacy, cultural governance, safety, partner and legal processes that apply. Record who decides, how long the process may take and which obligations continue after approval.
 
 ### Resources and time
 
@@ -43,7 +43,7 @@ Include training, licences, equipment, transcription, travel, participant reimbu
 
 ### Dependencies and alternatives
 
-Which assumptions could stop the project? What smaller, safer or more accessible route addresses the same problem?
+Identify the assumptions that could stop the project. Develop a smaller, safer or more accessible route to the same problem before you need it.
 
 ::: {.decision-card}
 **Smallest useful next action:** Complete the [Topic due-diligence canvas](../../templates/topic-due-diligence.qmd) using evidence rather than aspirations. Mark every unsupported statement as an assumption with an owner and test date.

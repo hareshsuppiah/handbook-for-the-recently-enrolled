@@ -7,7 +7,7 @@ A thesis can always be improved, which makes “finished” a poor submission te
 
 ## Make the thesis easy to examine
 
-Submit when the thesis makes a coherent, bounded contribution and the exact package passes scholarly, integrity, permission and formal checks—not when every sentence feels immune to criticism. Prepare by tracing contribution, methods, evidence, decisions and limitations to exact thesis locations and rehearsing sceptical questions.
+Submit when the thesis makes a coherent, bounded contribution and the exact package passes scholarly, integrity, permission and formal checks. Do not wait until every sentence feels immune to criticism. Prepare by tracing contribution, methods, evidence, decisions and limitations to exact thesis locations and rehearsing sceptical questions.
 
 For corrections, preserve the examination record, translate every requirement into a testable item, identify the authorised decision-maker, implement only the appropriate scope and verify the complete corrected package.
 
@@ -189,7 +189,7 @@ Bring the contribution map, sceptical-question audit, failed readiness checks, e
 - [ ] Upload receipt identifies the intended file.
 - [ ] Post-submission errors use the formal route.
 - [ ] Every correction preserves the exact requirement and verification.
-- [ ] Acceptance—not merely revision—closes the corrections record.
+- [ ] The corrections record closes only after acceptance, not after revision alone.
 
 ## Try these resources
 

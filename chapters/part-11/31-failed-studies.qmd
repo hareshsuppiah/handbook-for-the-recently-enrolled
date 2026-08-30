@@ -25,7 +25,7 @@ Do not redefine the original question after seeing favourable results. Preserve 
 | Analysis failure | the planned analysis cannot run or its assumptions are untenable | is the issue technical, statistical or conceptual? |
 | Governance failure | work occurred outside approval, consent, agreement or required control | what immediate containment and formal reporting are required? |
 
-Failure is always failure **of something**: a prediction, assumption, dependency, procedure, measure, analysis, timeline or governance control. Name it precisely.
+A study can fail at a prediction, assumption, dependency, procedure, measure, analysis, timeline or governance control. Name the failed part precisely.
 
 ## Freeze the record before redesigning
 

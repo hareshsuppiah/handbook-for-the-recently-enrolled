@@ -3,11 +3,11 @@ title: "My topic or question is not defensible yet"
 last-reviewed: "2026-08-28"
 ---
 
-## Diagnose
+## Find the weakest link
 
-Identify the weakest link: consequential problem, gap, question, access, method, feasible evidence or contribution.
+Identify the weakest link. Check the consequential problem, gap, question, access, method, feasible evidence and contribution.
 
-## Do now
+## Try this now
 
 1. State the problem and affected people without claiming a solution.
 2. Write the question using a verb that signals the intended inference.
@@ -17,7 +17,7 @@ Identify the weakest link: consequential problem, gap, question, access, method,
 
 Use the [topic due-diligence canvas](../templates/topic-due-diligence.qmd) and [research-question stress test](../checklists/research-question-stress-test.qmd).
 
-## Before asking
+## What to take when asking
 
 Bring the one-page topic case, failed assumptions, two feasible alternatives and a provisional recommendation.
 
@@ -25,7 +25,7 @@ Bring the one-page topic case, failed assumptions, two feasible alternatives and
 
 Do not commit major resources while essential access is only informal, the question cannot be answered by the proposed evidence, or the work creates uncontrolled harm.
 
-## Evidence of unstuck
+## You are moving again when
 
 A provisional question, evidence route, boundary, cheap next test and stop condition are recorded.
 

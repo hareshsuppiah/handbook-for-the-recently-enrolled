@@ -9,6 +9,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Verify the editorial approval workflow
+        run: python3 scripts/verify_editorial_workflow.py
       - uses: quarto-dev/quarto-actions/setup@v2
       - name: Render from a clean checkout
         run: quarto render --to html

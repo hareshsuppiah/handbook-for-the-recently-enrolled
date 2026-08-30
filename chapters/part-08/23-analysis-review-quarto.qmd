@@ -7,7 +7,7 @@ Research often travels through several tools: data are cleaned in one place, ana
 
 ## Give each tool authority over one part of the work
 
-Choose the analysis and review route that supports the required method, governance, inspection and handover. Prototype one representative task—including import, analysis, verification, export and rerun—before committing the entire project.
+Choose the analysis and review route that supports the required method, governance, inspection and handover. Before committing the entire project, prototype one representative task that covers import, analysis, verification, export and rerun.
 
 Quarto can connect narrative, citations, code and generated outputs in one source, but it does not choose a defensible method, verify data, or make a hidden workflow reproducible.
 
@@ -48,7 +48,7 @@ Menus can support a reproducible workflow when the clicks are documented and the
 
 ### Specialist software
 
-Qualitative analysis, geographic information systems, computer-assisted review, laboratory instruments, simulation, symbolic mathematics, imaging or discipline-specific platforms may be essential. Evaluate them using the same standards: method fit, data authority, provenance, versioning, export, validation, collaboration, recovery and exit.
+Qualitative analysis, geographic information systems, computer-assisted review, laboratory instruments, simulation, symbolic mathematics, imaging or discipline-specific platforms may be essential. Apply the same standards to every option. Check its method fit, data authority, provenance, versioning, export, validation, collaboration, recovery and exit route.
 
 ## Combine tools through declared handoffs
 
@@ -64,7 +64,7 @@ For each handoff specify the authoritative input, export format, version, checks
 
 ## Select a review platform by protocol needs
 
-For literature screening, evidence extraction or other structured review tasks, test:
+For literature screening, evidence extraction or other structured review tasks, test each candidate against the following cases.
 
 - support for the selected review method;
 - import/export fidelity and stable identifiers;
@@ -139,7 +139,7 @@ The improvement is not “using Quarto”. It is removing an undocumented manual
 
 ## Build a representative prototype
 
-Before tool commitment, choose one difficult, realistic task:
+Before committing to a tool, choose one difficult, realistic task.
 
 1. import an approved or synthetic input;
 2. apply one meaningful transformation;
@@ -152,7 +152,7 @@ Before tool commitment, choose one difficult, realistic task:
 9. reproduce from a clean environment; and
 10. export or migrate the complete record.
 
-Score the workflow on correctness, inspectability, burden, governance, collaboration and recovery—not visual polish alone.
+Score the workflow on correctness, inspectability, burden, governance, collaboration and recovery. Visual polish alone is a poor test.
 
 ## Make review accessible
 
@@ -210,7 +210,7 @@ Bring:
 ## Prototype the whole route with one real example
 
 - [ ] Method and review needs determine the tool.
-- [ ] The full workflow—not a toy feature—has been prototyped.
+- [ ] The prototype covers the full workflow from import through verification and rerun.
 - [ ] Defaults, versions and dependencies are visible.
 - [ ] Graphical, scripted and specialist handoffs are auditable.
 - [ ] Reference records and citation claims are independently verified.

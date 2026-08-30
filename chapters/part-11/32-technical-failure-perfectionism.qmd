@@ -38,7 +38,7 @@ Remove irrelevant data, code, document sections or steps while keeping the failu
 5. full error or discrepancy; and
 6. what has already been tested.
 
-A screenshot of “Error” is rarely enough. A reproducible case allows another person—or your future self—to test a hypothesis rather than guess.
+A screenshot of “Error” is rarely enough. A reproducible case allows another person, including your future self, to test a hypothesis rather than guess.
 
 ## Classify the technical failure
 
@@ -67,7 +67,7 @@ For each test record:
 - interpretation; and
 - next branch.
 
-Prefer comparisons: known-good versus failing input, clean versus cached environment, current versus last working revision. Automated tests and version-control diffs reduce memory-based diagnosis. After repair, rerun from the authoritative inputs in a clean environment and verify consequential outputs—not only that the error message disappeared.
+Compare a known-good input with the failing input, a clean environment with the cached one, and the current revision with the last working version. Automated tests and version-control diffs reduce memory-based diagnosis. After repair, rerun from the authoritative inputs in a clean environment and verify the consequential outputs. The disappearance of the error message is not enough.
 
 ::: {.decision-card}
 **Smallest useful next action:** Save the exact failure and current state, then reproduce it with the smallest safe input before changing the environment.
@@ -139,7 +139,7 @@ Use the [good-enough-for-this-stage rubric](../../checklists/good-enough-rubric.
 
 ## Control scope creep
 
-New work enters only with a classification:
+Classify every proposed addition before accepting it into the current scope.
 
 - required to satisfy the accepted outcome;
 - repair of a demonstrated defect;
@@ -156,7 +156,7 @@ Set a scope freeze before consequential review or submission. After the freeze, 
 
 **Failure:** The student can reproduce Table 3 only in an old interactive session. A clean run fails because an object called `analysis_data_final` is absent.
 
-**Preserve:** Repository revision, session information, notebook, reported table, source-data checksum and full error.
+**Preserve:** Keep the repository revision and session information. Also retain the notebook, reported table, source-data checksum and full error.
 
 **Diagnosis:** Hidden state. The object was created by manually running cells from another notebook and was never written by the documented pipeline.
 
@@ -197,7 +197,7 @@ Difficulty concentrating, persistent distress, illness, disability, caring deman
 
 ## When the fix has done its job
 
-A technical repair is complete when the cause or bounded workaround is recorded, the workflow runs from authoritative inputs in a clean state, consequential outputs pass defined checks and another person can reproduce the route. A research output is sufficient for its stage when the named purpose, critical requirements, evidence and risks pass—while optional refinements remain explicitly deferred.
+A technical repair is complete when the cause or bounded workaround is recorded, the workflow runs from authoritative inputs in a clean state, consequential outputs pass defined checks and another person can reproduce the route. A research output is sufficient for its stage when the named purpose, critical requirements, evidence and risks pass. Optional refinements can remain explicitly deferred.
 
 ## Bring the smallest failing example
 
@@ -210,7 +210,7 @@ Bring the smallest safe failing example, exact steps and error, expected/actual 
 - [ ] Input, environment, configuration, logic, state and dependency causes are separated.
 - [ ] Each test changes one controlled factor.
 - [ ] Repair is verified from authoritative inputs in a clean state.
-- [ ] Consequential outputs—not only execution—are checked.
+- [ ] Consequential outputs are checked as well as successful execution.
 - [ ] The stage and acceptance criteria are explicit.
 - [ ] Proposed refinements address an observable defect or requirement.
 - [ ] New scope includes cost and displacement.

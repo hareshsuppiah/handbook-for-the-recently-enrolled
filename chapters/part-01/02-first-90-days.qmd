@@ -3,11 +3,11 @@ title: "Your first 90 days"
 last-reviewed: "2026-08-28"
 ---
 
-The first weeks can feel strangely busy. There are accounts to activate, people to meet, training modules to complete and a proposal that suddenly looks less settled than it did during admission. It is easy to respond by filling the calendar or redesigning the entire project. Neither tells you whether the doctorate is becoming workable. Your first 90 days are for building a small operating system: clear expectations, safe file storage, a record of decisions, an early map of the research problem and a short list of assumptions that need testing.
+The first weeks can feel strangely busy. There are accounts to activate, people to meet, training modules to complete and a proposal that suddenly looks less settled than it did during admission. It is easy to respond by filling the calendar or redesigning the entire project. Neither tells you whether the doctorate is becoming workable. Use this period to establish clear expectations, safe file storage, a decision record, an early map of the research problem and a short list of assumptions to test.
 
 ## Build the foundations before chasing momentum
 
-The first 90 days are for building a working research environment, a functioning supervisory relationship and a provisional direction. They are not for proving the thesis or locking every study into place.
+By the end of 90 days, you need a research environment that works, a functioning supervisory relationship and a provisional direction. You do not need to prove the thesis or lock every study into place.
 
 Doctoral training is broader than producing a thesis. Current UKRI expectations, for example, separate responsibilities across students, supervisors, research organisations, funders and collaborators, and include the research environment, support, research skills and professional development [@ukri-expectations-2024]. That framework is specific to funded UK training, but the division of responsibility is a useful warning: you are responsible for active participation and documented progress, not for personally providing every service, approval or safeguard the project needs.
 
@@ -123,7 +123,7 @@ At the 30-day review, the researcher has not “failed to start the analysis”.
 
 ## Use supervision to settle the next decision
 
-Bring a one-page state report:
+Bring a one-page state report with the following fields.
 
 - **Decision needed:** the exact choice or uncertainty.
 - **What I checked:** sources, people, systems or tests.

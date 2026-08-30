@@ -174,7 +174,7 @@ Before an output advances:
 
 ## Bring the contribution record into the conversation
 
-Bring:
+Take the following material into the conversation.
 
 - the exact output and current version;
 - the applicable authorship or contribution standard;

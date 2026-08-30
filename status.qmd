@@ -13,7 +13,7 @@ This is a living public edition of the handbook. The complete handbook is availa
 - corrections and useful additions can enter the documented editorial process; and
 - navigation, links, citations and page coverage are checked when the book is built.
 
-## What this does not mean
+## Limits of a living handbook
 
 No online handbook is permanently complete or universally applicable. Policies, software, evidence and institutional arrangements change. General guidance cannot replace the rules, approvals or specialist advice that govern your particular work.
 

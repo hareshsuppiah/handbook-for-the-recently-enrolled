@@ -3,7 +3,7 @@ title: "I’m stuck"
 last-reviewed: "2026-08-28"
 ---
 
-This is a five-minute triage point, not a diagnosis of you or your ability.
+Use this five-minute triage to identify what is blocking the work and where the decision belongs. It says nothing about your ability.
 
 ## First: is this urgent or unsafe?
 
@@ -37,10 +37,10 @@ If the next action still reads “work on thesis”, make it smaller: verb + obj
 - [I am unsure whether the work is good enough](good-enough.qmd)
 - [Workload, wellbeing, safety or conduct needs a different route](wellbeing-or-safety.qmd)
 
-## What to bring when asking for help
+## What to take when asking for help
 
 Bring the outcome, blocked decision, evidence checked, constraints, options, provisional recommendation, deadline/risk and one precise request. Use the [escalation message builder](../templates/escalation-message.qmd) if an agreed route has failed or direct resolution is inappropriate.
 
-## Evidence that you are unstuck
+## You are moving again when
 
 The next action has begun or the authorised decision has been made; its result is recorded; downstream work is updated; and a review threshold exists. A message sent or meeting booked is progress, but not necessarily resolution.

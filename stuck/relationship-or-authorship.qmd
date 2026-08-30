@@ -3,11 +3,11 @@ title: "A supervision, authorship or collaboration problem feels stuck"
 last-reviewed: "2026-08-28"
 ---
 
-## Diagnose
+## Separate disagreement from harm
 
 Separate unclear expectations, ordinary disagreement, repeated non-performance, contribution dispute, power/coercion and unsafe conduct.
 
-## Do now
+## Try this now
 
 1. Preserve factual dated records and relevant agreements.
 2. Identify the decision, role and applicable standard.
@@ -16,7 +16,7 @@ Separate unclear expectations, ordinary disagreement, repeated non-performance, 
 5. Seek independent advice when authority or power makes direct resolution unsafe.
 6. Keep sensitive details in the authorised confidential process.
 
-## Before asking
+## What to take when asking
 
 Bring the output-specific contribution record, relevant messages/decisions, impact, attempted resolution and requested protection or decision.
 
@@ -24,7 +24,7 @@ Bring the output-specific contribution record, relevant messages/decisions, impa
 
 Use independent formal routes for bullying, harassment, discrimination, retaliation, authorship coercion, suspected misconduct or conflicts of interest. Do not rely only on a person implicated in the concern.
 
-## Evidence of unstuck
+## You are moving again when
 
 Roles, decision and actions are recorded; required protection or review is active; downstream authorship/project records are updated.
 

@@ -80,7 +80,7 @@ The TARCiS statement distinguishes backward, forward and indirect citation metho
 
 ## Example: a search becomes unrecoverable
 
-A student records: “Scopus, March, about 800 hits.” After screening begins, they cannot reproduce the set because the exact date, platform syntax, fields and filters are missing.
+A student writes only “Scopus, March, about 800 hits.” After screening begins, they cannot reproduce the set because the exact date, platform syntax, fields and filters are missing.
 
 The repaired record contains:
 

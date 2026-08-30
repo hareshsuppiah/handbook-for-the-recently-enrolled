@@ -3,11 +3,11 @@ title: "I cannot start writing or stop revising"
 last-reviewed: "2026-08-28"
 ---
 
-## Diagnose
+## Find where the writing stalls
 
 Is the blockage question, argument, evidence, structure, feedback, sentence production or an undefined standard?
 
-## Do now
+## Try this now
 
 1. Name the reader's question.
 2. Write the bounded claim, evidence, warrant and boundary.
@@ -16,7 +16,7 @@ Is the blockage question, argument, evidence, structure, feedback, sentence prod
 5. Choose the review stage and acceptance tests.
 6. Freeze optional refinements after the gate.
 
-## Before asking
+## What to take when asking
 
 Bring the draft state, argument map, known gaps, checks completed and one to three review questions.
 
@@ -24,7 +24,7 @@ Bring the draft state, argument map, known gaps, checks completed and one to thr
 
 Stop copy editing when the argument is unstable. Stop reopening design when submission checks pass and no material defect is recorded.
 
-## Evidence of unstuck
+## You are moving again when
 
 A bounded section or review package exists, passes the stage rubric and has a clear next reviewer or gate.
 

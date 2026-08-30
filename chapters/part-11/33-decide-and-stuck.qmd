@@ -3,7 +3,7 @@ title: "Deciding when you’re stuck"
 last-reviewed: "2026-08-28"
 ---
 
-Being busy is not the opposite of being stuck. You can read, polish and attend meetings while avoiding the one decision that would move the project. Start by naming the smallest blocked object: a question, permission, method, result, relationship or capacity problem. Then ask what evidence would change the choice between persisting, pivoting, pausing or stopping. The right route protects the project from sunk-cost thinking and sends the problem to the person who can actually decide it.
+Being busy is not the opposite of being stuck. You can read, polish and attend meetings while avoiding the one decision that would move the project. Start by identifying what is blocked. It may be a question, permission, method, result, relationship or capacity problem. Then ask what evidence would change the choice between persisting, pivoting, pausing or stopping. The right route protects the project from sunk-cost thinking and sends the problem to the person who can actually decide it.
 
 ## Find the smallest blocked decision
 

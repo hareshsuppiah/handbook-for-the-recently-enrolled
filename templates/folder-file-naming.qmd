@@ -54,7 +54,7 @@ Original illustration created for *The Handbook for the Recently Enrolled* with 
 
 **Allowed separators and case:** [ ]
 **Controlled status/version terms:** [draft / reviewed / approved / raw / derived / release]
-**Prohibited content:** participant names, sensitive attributes, credentials, unexplained initials, `final2`, `latest`
+**Leave these out.** Participant names, sensitive attributes, credentials, unexplained initials, `final2` and `latest`.
 
 | Good example | Why it works |
 |---|---|

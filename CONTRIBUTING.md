@@ -1,41 +1,42 @@
 # Suggest an improvement
 
-You do not need to know Git, GitHub or coding to improve this handbook. Readers use one structured public form to submit a question, correction, proposed removal, missing resource, source, local boundary or accessibility problem.
+Use one public form for every reader suggestion. It covers missing topics and resources, corrections, proposed removals, sources, examples, unclear local boundaries and reading, accessibility or technical problems. You do not need to edit the handbook or know how Git works.
 
-[Open the reader suggestion form](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/issues/new?template=share-feedback.yml).
+[Suggest an improvement](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/issues/new?template=share-feedback.yml)
 
-GitHub calls the resulting public record an **issue**. Readers are not asked to edit the handbook, fork the repository, use the command line or prepare a pull request.
+GitHub calls the submitted suggestion an **issue**. Here, that means a public editorial record for a reader suggestion. You will not be asked to edit a file, copy the repository or prepare a pull request.
 
 ## Before you submit
 
-GitHub issues are public. Do not include participant data, confidential supervision material, personal information, credentials, unpublished sensitive findings, private correspondence or identifying information about another person.
+GitHub issues are public. Remove participant data, confidential supervision material, personal information, passwords, private correspondence, unpublished sensitive findings and details that identify another person.
 
-If the matter is sensitive, urgent or case-specific, do not use the public form. Read [SUPPORT.md](SUPPORT.md) and use the appropriate local process. A separate no-GitHub route is planned but is not active yet.
+Do not use the form for a sensitive, urgent or personal matter. Read [SUPPORT.md](SUPPORT.md) and use the appropriate local process.
 
 ## What the form asks
 
-1. What kind of suggestion are you making?
-2. What was the graduate researcher trying to find out or do?
-3. What should be added, corrected, reconsidered or removed?
-4. What could happen if the handbook does not address this?
-5. When would a researcher need it?
-6. Is there a source or shareable example?
-7. How would you like to be credited if the suggestion is used?
+1. What kind of improvement are you suggesting?
+2. Where in the handbook does this apply?
+3. What did you notice?
+4. What would you change?
+5. How would the change help a graduate researcher?
+6. When would it matter most?
+7. Do you have evidence, a source or a shareable example?
+8. How should you be credited if the suggestion is used?
 
-The rendered handbook includes a [step-by-step guide with worked examples](https://hareshsuppiah.github.io/handbook-for-the-recently-enrolled/contributions/how-to-help.html).
+The handbook has a [first-time GitHub guide with worked examples](https://hareshsuppiah.github.io/handbook-for-the-recently-enrolled/contributions/how-to-help.html). It covers account creation, completing and previewing the form, submitting it, receiving replies and editing a suggestion.
 
 ## What happens next
 
-Submission → privacy and duplicate check → evidence and scope check → project lead's decision → human or AI-assisted draft → human review → release, revision or rejection.
+After the privacy and duplicate check, an editor may ask a question or request evidence. The project lead then accepts the suggestion for drafting, merges it with an existing suggestion, defers it or declines it. The reason and next step stay on the public issue.
 
-Only Haresh Suppiah, as project lead and founding editor, can approve drafting or publication. These are separate decisions. Approval to draft does not merge or publish a change.
+An accepted suggestion may be drafted by a human contributor or an AI agent. Haresh Suppiah, as project lead and founding editor, separately reviews the proposed change and decides whether to publish it, request another revision or reject it. Publication happens only after that review.
 
 ## Other routes
 
-- **No GitHub account:** a no-login form is not active yet. Do not send sensitive material through a public workaround.
-- **Direct pull request:** not a reader intake route. A pull request is prepared only after a suggestion is approved and assigned.
-- **GitHub Discussions or blank issues:** not used for intake. The single form keeps the public process understandable and traceable.
-- **Editorial dashboard:** private workspace for authorised editors. Readers do not need access.
+- **No GitHub account:** [create a free personal account](https://github.com/signup), then return to the form.
+- **Pull requests:** these are used for proposed handbook changes after an editor has accepted a suggestion. Readers do not need to prepare one.
+- **Blank issues and GitHub Discussions:** these are not reader intake routes. Use the form so the editor receives the information needed to decide.
+- **Editorial dashboard:** this is a private workspace for authorised editors. Readers do not need access.
 
 ## Evidence, rights and credit
 

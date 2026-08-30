@@ -7,7 +7,7 @@ Projects often end administratively before they end intellectually. Accounts clo
 
 ## Transfer custody, evidence and unfinished obligations
 
-A project is closed only when every material record, asset, permission, responsibility, unresolved issue and continuing obligation has an authorised destination. Handover is complete when the recipient demonstrates access, recovery and understanding—not when files are sent.
+A project is closed only when every material record, asset, permission, responsibility, unresolved issue and continuing obligation has an authorised destination. Sending the files does not complete the handover. The recipient must demonstrate access, recovery and understanding.
 
 Transition also requires a forward decision: which contribution, capability, relationship and unfinished question should continue, under what new authority and resources?
 
@@ -70,7 +70,7 @@ The Australian research-data guide assigns responsibilities for managing, retain
 
 ## Test preservation and recovery
 
-Archiving a directory is not proof of recovery. Test:
+Archiving a directory is not proof of recovery. Run a recovery test that covers the following.
 
 1. permissions with the intended future role;
 2. representative files in their archival formats;
@@ -121,7 +121,7 @@ Do not leave a shared project dependent on a personal email, payment card, multi
 
 ## Reconcile outputs and continuing obligations
 
-Create an output register covering:
+Create an output register for the following work.
 
 - submitted, accepted, published and abandoned manuscripts;
 - reviewer or examiner corrections;
@@ -152,15 +152,15 @@ Use four maps:
 
 ### Contribution map
 
-Which claims or resources are worth extending, and which are complete or disproven?
+Identify the claims or resources worth extending, along with those that are complete or disproven.
 
 ### Capability map
 
-Which decisions can you now lead, where do you need collaboration, and which skills would materially expand the next programme?
+Record the decisions you can now lead, where you still need collaboration and which skills would materially expand the next programme.
 
 ### Relationship map
 
-Which supervisor, collaborator, partner, librarian, methodologist, community or practitioner relationships have a legitimate continuing purpose? Renegotiate roles rather than assuming candidature arrangements continue.
+Identify the supervisor, collaborator, partner, librarian, methodologist, community or practitioner relationships that have a legitimate continuing purpose. Renegotiate roles rather than assuming candidature arrangements continue.
 
 ### Opportunity map
 
@@ -171,7 +171,7 @@ For each possible paper, fellowship, role, partnership or study compare contribu
 Choose a small set of outcomes:
 
 - close or transfer remaining candidature obligations;
-- update professional records with verified—not anticipated—outcomes;
+- update professional records with verified rather than anticipated outcomes;
 - communicate the thesis contribution to defined audiences;
 - secure legitimate access and agreements for continuing work;
 - select one or two next research questions;

@@ -2,7 +2,7 @@
 title: "How the checklists work"
 ---
 
-A useful checklist is not a miniature textbook, a calendar reminder or a substitute for professional judgement. It protects a **consequential pause point**: a moment when several conditions must be true before work proceeds and an omission could cause harm, invalid evidence, wasted effort or an avoidable governance failure.
+A useful checklist protects a **consequential pause point**. At that moment, several conditions must be true before work proceeds, and an omission could cause harm, invalid evidence, wasted effort or an avoidable governance failure. Keep the explanation and professional judgement in the surrounding guidance; keep the checklist short enough to use.
 
 This approach draws on the central argument of *The Checklist Manifesto* and the World Health Organization's checklist implementation guidance: expertise still matters, but a short, well-timed check can help people reliably complete critical steps in complex work [@gawande2010checklist; @who2009checklist].
 

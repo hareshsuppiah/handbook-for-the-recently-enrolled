@@ -64,11 +64,11 @@ Do not blend incompatible comments into a compromise that satisfies neither rati
 
 ## When feedback is delayed
 
-Check the agreed window before treating the delay as a relationship problem. Then send a factual follow-up:
+Check the agreed window before treating the delay as a relationship problem. Then send a factual follow-up that names the material, request, date and consequence:
 
 > I sent the two-page design note on 4 September for a decision needed by 18 September. Could you confirm whether review by 15 September is feasible? If not, I propose moving the milestone discussion and completing the reversible analysis setup while we arrange an alternative review.
 
-Name the material, request, date and consequence. If delay repeatedly threatens progress, use the continuity or formal support route recorded in the supervision agreement.
+If delay repeatedly threatens progress, use the continuity or formal support route recorded in the supervision agreement.
 
 ## Example: “Make the literature review more critical”
 

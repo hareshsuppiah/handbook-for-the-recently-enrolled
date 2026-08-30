@@ -1,45 +1,45 @@
 ---
 title: "How to suggest an improvement"
-last-reviewed: "2026-08-29"
+last-reviewed: "2026-08-31"
 ---
 
-You can submit a useful suggestion in a few clear sentences. The form asks what you were trying to do, what should change and why it matters. It does not ask you to rewrite the handbook.
+You can send a useful suggestion without knowing Git or editing the handbook. The form asks where the problem appears, what you noticed, what you would change and how the change would help.
 
-[Open the reader suggestion form](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/issues/new?template=share-feedback.yml){.btn .btn-primary}
+[Suggest an improvement](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/issues/new?template=share-feedback.yml){.btn .btn-primary}
 
-GitHub uses issue forms to collect structured requests and turn the answers into a public record [@github-creating-issue; @github-issue-forms]. The word **issue** is GitHub's label. For this handbook, it means a reader suggestion.
+GitHub uses issue forms to turn structured answers into a public record [@github-creating-issue; @github-issue-forms]. GitHub calls that record an **issue**. For this handbook, it means a reader suggestion.
 
 ## What you need
 
 - a free GitHub account;
-- one question, correction, proposed removal, missing resource, source or accessibility problem;
-- a page link or section title if you know where it applies; and
-- a version of the situation with personal and confidential details removed.
+- one suggestion;
+- the page link and heading, or where you expected to find the missing material; and
+- a description with personal and confidential details removed.
 
-If you do not have a GitHub account, the form first offers sign-in or account creation. After signing in, GitHub returns you to the handbook form. A separate no-login route is not active yet.
+If you are new to GitHub, [create a free personal account](https://github.com/signup). GitHub may ask you to verify your email address. Its [account guide](https://docs.github.com/en/account-and-profile/how-tos/account-management/creating-an-account-on-github) explains the current steps. Return to this page when the account is ready.
 
 ## Complete the form
 
-1. Open the [reader suggestion form](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/issues/new?template=share-feedback.yml).
-2. Sign in to GitHub or create a free account if prompted.
-3. Finish the title after the prefilled words `[Reader feedback]`. Use a short description such as `Add guidance on repeating a pilot after recruitment changes`.
-4. Under **What would you like to tell us?**, choose the closest type. You do not need to find a perfect category.
-5. Under **What were you trying to find out or do?**, write the question or task in the words a graduate researcher might use.
-6. Under **What should be added, corrected, reconsidered or removed?**, name the page or section and describe the problem. You do not need to supply replacement wording.
-7. Under **What could happen if the handbook does not address this?**, explain the likely confusion, wasted effort, error or harm. Write `Minor` if the consequence is small.
-8. Choose the candidature stage when the reader would need the guidance.
-9. **Optional:** Add a source or example that you are allowed to share. Say what it supports and whether it applies generally or only in a particular context.
-10. Choose how you would like to be credited if the suggestion is used.
-11. Confirm that you understand the submission is public and that you have removed sensitive material.
-12. Select **Create**. Your suggestion receives a number and becomes part of the public editorial record.
+1. Open [Suggest an improvement](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/issues/new?template=share-feedback.yml).
+2. Sign in if GitHub asks you to.
+3. In **Add a title**, write a short description such as `Add guidance on repeating a pilot after recruitment changes`.
+4. Choose the closest kind of improvement. The category does not need to be perfect.
+5. Paste the page link and name the heading. If the material is missing, say where you expected to find it.
+6. Describe what you noticed.
+7. Describe the change you would like. You can suggest an outcome without writing the final wording.
+8. Explain how the change would help a graduate researcher.
+9. Choose the stage when the suggestion matters most.
+10. Add a source or shareable example if you have one. Explain what it supports and where it applies.
+11. State how you would like to be credited.
+12. Confirm that you have removed private material and understand that the suggestion will be public.
+13. Use **Preview** above any long answer if you want to check links or lists. Return to **Write** to make a correction.
+14. Read the title and answers once more, then select **Submit new issue**.
 
-![The GitHub suggestion form shows a title field, a feedback-type menu and prompts asking what the reader was trying to do and what should change.](../assets/contributions/github-reader-form.png){#fig-github-reader-form width="100%" fig-alt="The GitHub suggestion form shows a title field, a feedback-type menu and prompts asking what the reader was trying to do and what should change."}
+This guide uses the form's field and button names rather than screenshots. The instructions remain usable when GitHub moves a control without renaming it.
 
-*The handbook suggestion form after sign-in. The interface belongs to GitHub, Inc. This cropped screenshot was captured on 29 August 2026 for instruction and is excluded from the handbook's CC BY 4.0 licence. GitHub's current procedure is documented in [Creating an issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/creating-an-issue).*
+## Write a useful suggestion
 
-## What should I write?
-
-A strong suggestion answers four questions:
+A useful suggestion answers four questions:
 
 1. **Where does this apply?** Link the page or name the section if you can.
 2. **What was the researcher trying to decide or do?** Use the words a student might actually use.
@@ -66,19 +66,29 @@ It also helps to say whether the suggestion applies broadly or only in a particu
 
 > This national research-integrity guideline supports the distinction made in the chapter. It applies in Australia, so it should be presented as jurisdiction-specific evidence rather than a universal rule.
 
-These are patterns, not scripts. A few specific sentences are enough.
+These examples show the amount of detail that helps. A few specific sentences are enough.
 
-## What should I leave out?
+## Leave private and copyrighted material out
 
 Do not include names, identifiable personal information, participant data, private correspondence, complaints casework, confidential research, credentials or unpublished findings you cannot share. Do not paste long extracts from copyrighted books, articles, templates, comics or images. Link to the source and explain its relevance.
 
-## What happens after submission?
+## Follow the reply
 
-1. An editor checks the suggestion for privacy, duplication and existing coverage.
-2. The evidence, scope and likely consequence are assessed.
-3. The project lead records one of the available editorial decisions.
-4. If drafting is approved, an AI agent or human contributor may prepare a pull request.
-5. A human reviews the proposed change before it can be published.
-6. The issue records the outcome and any released change.
+After you select **Submit new issue**, GitHub opens a page with a number such as `#42`. Save that page or use GitHub's **Subscribe** control to receive updates. Notification delivery depends on your [GitHub notification settings](https://docs.github.com/en/subscriptions-and-notifications).
 
-Read [How suggestions become handbook changes](editorial-workflow.qmd) for the full workflow. Approval does not send automatically generated wording into the handbook. It begins a controlled drafting and review stage.
+An editor may ask a question in a comment. Reply in the box at the bottom of the issue so the discussion stays with the suggestion. You can mention a new source or clarify the scope there.
+
+## Change something after submission
+
+You can edit an issue that you created [@github-creating-issue]. Open the suggestion and choose **Edit** on the first post. Change the title or answers, then save the update. Add a comment instead when you are answering an editor, because that preserves the conversation.
+
+## What the editor does next
+
+1. An editor checks the suggestion for private information and existing coverage.
+2. The editor may ask for more detail or evidence.
+3. The project lead accepts it for drafting, merges it with another suggestion, defers it or declines it.
+4. A human contributor or AI agent may prepare a proposed change.
+5. A human reviews that change before publication.
+6. The issue records the decision and links to any published change.
+
+Read [What happens to a suggestion](editorial-workflow.qmd) for the full editorial process. Accepting the suggestion permits drafting. A separate human review determines whether the proposed wording is published.

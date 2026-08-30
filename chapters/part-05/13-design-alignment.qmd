@@ -7,7 +7,7 @@ A method can be sophisticated and still be wrong for the claim. You may have a l
 
 ## Start with the inference, then choose the design
 
-Choose a design by working backwards from the inference the project must support—not forwards from a fashionable method, available dataset or familiar technique.
+Choose a design by working backwards from the inference the project must support. Do not begin with a fashionable method, available dataset or familiar technique.
 
 A defensible chain connects:
 
@@ -62,7 +62,7 @@ For each serious option ask:
 7. What governance, cultural or community authority is required?
 8. What result would show that the method is failing?
 
-Mixed methods are justified when integration answers something the components cannot answer adequately alone—not because combining methods automatically makes a study stronger.
+Mixed methods are justified when integration answers something the components cannot answer adequately alone. Combining methods does not automatically make a study stronger.
 
 ## Put the question, data and claim side by side
 
@@ -155,7 +155,7 @@ At proposal stage, the design is good enough to progress when:
 - a pilot or early failure test is defined; and
 - the claim boundary has already been written.
 
-This is permission to test and refine—not proof that the final design is valid.
+This gives you permission to test and refine. It does not prove that the final design is valid.
 
 ## Show the methodologist the claim you need to support
 

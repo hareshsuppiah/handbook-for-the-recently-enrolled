@@ -2,11 +2,11 @@
 title: "Human-led, AI-assisted"
 ---
 
-This handbook uses artificial intelligence openly, but it is not an autonomously authored book.
+This is a human-led handbook made with disclosed AI assistance.
 
-The questions, priorities and underlying ideas begin with people: graduate researchers, supervisors, professional staff, reviewers, community contributors and the project lead. AI tools help turn that material into a maintainable publication. They can organise suggestions, locate connected passages, support source discovery, draft and edit prose, update technical files, and run consistency or quality checks.
+Graduate researchers, supervisors, professional staff, reviewers, community contributors and the project lead provide the questions, priorities and underlying ideas. AI tools help organise that material, find connected passages, search for sources, draft and edit prose, update technical files and run consistency checks.
 
-## What remains a human responsibility?
+## Human responsibility
 
 People remain responsible for:
 
@@ -20,16 +20,16 @@ People remain responsible for:
 
 AI-generated prose is not accepted as evidence. Fluent wording does not establish that a claim is true, current, safe or appropriate across contexts.
 
-## What does AI assistance look like?
+## How AI assists
 
-An approved suggestion may be converted into a structured brief for an AI agent. The agent can inspect the relevant chapters and resources, research permitted sources, prepare a change and run the handbook's checks. Its work returns as a proposal for human review rather than appearing directly in the public edition.
+An approved suggestion may become a structured brief for an AI agent. The agent can inspect the relevant chapters and resources, research permitted sources, prepare a change and run the handbook's checks. A human then reviews the proposed change and decides whether it is fit to publish.
 
 The project keeps the chain visible:
 
 `human question or editorial decision → evidence review → approved brief → AI-assisted or human draft → verification → human publication decision`
 
-## Who receives credit?
+## Credit
 
 Haresh Suppiah is credited as project lead and founding editor. People whose questions, evidence, review or creative work materially improve the handbook can be credited through the contributor record according to their preference.
 
-AI tools are disclosed as part of the production method, not listed as authors. This distinction recognises that assistance with expression and production is different from responsibility for the work's purpose, evidence and publication.
+The production record discloses the AI tools used. People retain responsibility for the handbook's purpose, evidence and publication and receive authorship or contributor credit where appropriate.

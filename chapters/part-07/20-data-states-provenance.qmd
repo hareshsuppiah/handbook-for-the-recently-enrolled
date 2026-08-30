@@ -3,13 +3,13 @@ title: "Data states, codebooks and provenance"
 last-reviewed: "2026-08-28"
 ---
 
-A file called `final_clean_v7` tells you almost nothing. Which source did it come from? What changed between versions? Were exclusions planned, corrected or improvised? Provenance turns those questions into an inspectable chain from the earliest authoritative data through every transformation to the analysis-ready state. A codebook then explains what the variables mean at each point. Together they recover the numbers and the decisions that made those numbers possible.
+A file called `final_clean_v7` tells you almost nothing about its source, the changes between versions or whether exclusions were planned, corrected or improvised. Provenance supplies that missing history. It traces the earliest authoritative data through every transformation to the analysis-ready state. A codebook then explains what the variables mean at each point. Together they recover both the numbers and the decisions that produced them.
 
 ## Make every data state and transformation explainable
 
 Define data states by what has happened to the material and what it is authorised to support. Preserve the earliest authoritative source state, create later states through inspectable transformations, and keep enough provenance to trace every consequential result backwards.
 
-“Clean” is not self-explanatory. A useful state name must answer: cleaned from what, by which rules, for which purpose, by whom, when and with what exclusions?
+“Clean” is not self-explanatory. A useful state name says what was cleaned, which rules were applied, why the state exists, who created it, when it changed and which records were excluded.
 
 ## Define the states for this project
 
@@ -104,9 +104,9 @@ A dictionary documents meaning. It does not establish that a measure is valid.
 
 ## Example: the changing status variable
 
-**Incoming field:** `STATUS` contains `A`, `I`, `W`, `T`, blanks and `0` across five yearly extracts.
+**Incoming field:** five yearly extracts contain a `STATUS` column, but the codes are inconsistent. The observed values are `A`, `I`, `W`, `T`, blanks and `0`.
 
-**Temptation:** recode `A = active`, `W = withdrawn`, everything else missing.
+The tempting shortcut is to recode `A = active` and `W = withdrawn`, then treat everything else as missing.
 
 **Provenance audit:** the custodian explains that `I` changed from “inactive” to “interrupted” in 2024; `T` includes transfer and completion in different legacy systems; `0` is an export default, not a status; blank sometimes means no current enrolment row.
 

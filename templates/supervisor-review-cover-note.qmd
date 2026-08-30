@@ -23,7 +23,7 @@ last-reviewed: "2026-08-28"
 **Decision:** whether it is ready for privacy consultation.
 **Checked:** partner contact route, inclusion criteria and current ethics guidance.
 **Provisional view:** consult privacy adviser before drafting final recruitment text.
-**Feedback requested:** Does the flow expose the consequential privacy questions? What is missing before consultation?
+**Feedback requested:** Does the flow expose the consequential privacy questions and show what is still missing before consultation?
 **Not yet:** sentence-level editing.
 **Decision date:** 18 September.
 

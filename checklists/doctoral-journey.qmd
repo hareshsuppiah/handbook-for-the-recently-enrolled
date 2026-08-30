@@ -23,7 +23,7 @@ The boxes on the web page do not save after you close or refresh it. Print the p
 - [ ] I have identified any immigration, employment, accessibility, caring, cultural, health or location constraints that could affect whether the arrangement is workable.
 - [ ] I have kept the documents and answers that informed my decision.
 
-**Use next:** [What a doctorate asks you to do](../chapters/part-01/01-phd-and-good-enough.qmd). Local offer, visa, employment and funding terms take priority over general guidance.
+**Use next:** read [the opening chapter on what a doctorate requires](../chapters/part-01/01-phd-and-good-enough.qmd). Local offer, visa, employment and funding terms take priority over general guidance.
 
 ## When candidature begins
 
@@ -55,9 +55,9 @@ Repeat this checkpoint for every empirical study, secondary analysis, substantia
 - [ ] Ethics, governance, privacy, legal, cultural, safety and community obligations have a credible pathway.
 - [ ] Continue, revise, pivot and stop criteria are recorded before sunk costs accumulate.
 
-**Detailed checks:** [Is this study ready to commit to?](before-study-commitment.qmd) and [Is this research question ready?](research-question-stress-test.qmd)
+**Detailed checks:** use the [study-commitment check](before-study-commitment.qmd) and [research-question check](research-question-stress-test.qmd).
 
-## Before ethics or governance submission
+## Preparing the ethics or governance package
 
 - [ ] The question, protocol, participant materials, consent process, data flow and analysis plan describe the same study.
 - [ ] Risks, burdens, benefits, privacy protections and withdrawal arrangements are accurate rather than aspirational.
@@ -65,7 +65,7 @@ Repeat this checkpoint for every empirical study, secondary analysis, substantia
 - [ ] Version numbers, dates and attachments identify one reviewable submission package.
 - [ ] The team knows what cannot begin until written approval is received.
 
-**Detailed checks:** [Is this ready for ethics or governance submission?](before-ethics-submission.qmd) and [Is the pilot ready to run?](pilot-readiness.qmd)
+**Detailed checks:** use the [ethics and governance submission check](before-ethics-submission.qmd) and [pilot-readiness check](pilot-readiness.qmd).
 
 ## Before data collection or data access
 
@@ -75,7 +75,7 @@ Repeat this checkpoint for every empirical study, secondary analysis, substantia
 - [ ] The team can recognise and record a deviation, incident or change that needs review.
 - [ ] A small dry run has exposed the obvious operational failures while they are still reversible.
 
-**Detailed checks:** [Is data collection ready to begin?](before-data-collection.qmd) and [Could you restore the project after a failure?](backup-restore.qmd)
+**Detailed checks:** use the [data-collection check](before-data-collection.qmd) and [backup and restore check](backup-restore.qmd).
 
 ## While a study is running
 

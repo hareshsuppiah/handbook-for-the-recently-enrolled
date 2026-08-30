@@ -3,11 +3,11 @@ title: "Analysis, code or files do not work"
 last-reviewed: "2026-08-28"
 ---
 
-## Diagnose
+## Preserve the evidence first
 
 Preserve the exact command, error, inputs, revision, environment, expected result, actual result and last working state.
 
-## Do now
+## Try this now
 
 1. Reproduce the failure.
 2. Build the smallest safe example.
@@ -16,7 +16,7 @@ Preserve the exact command, error, inputs, revision, environment, expected resul
 5. Record result and next branch.
 6. After repair, run cleanly from authoritative inputs and compare consequential outputs.
 
-## Before asking
+## What to take when asking
 
 Bring reproduction steps, full error, non-sensitive inputs, environment, attempts and one precise question. Never share credentials or protected data.
 
@@ -24,7 +24,7 @@ Bring reproduction steps, full error, non-sensitive inputs, environment, attempt
 
 Escalate irreproducible reported results, possible data loss, security incident or governance control. Do not “fix” permissions by bypassing them.
 
-## Evidence of unstuck
+## You are moving again when
 
 A clean run produces verified outputs and another authorised person can reproduce the route.
 

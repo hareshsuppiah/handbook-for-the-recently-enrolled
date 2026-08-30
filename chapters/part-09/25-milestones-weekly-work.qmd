@@ -7,7 +7,7 @@ A full week can produce no visible progress, while a quiet decision about access
 
 ## Plan around evidence, dependencies and decisions
 
-Define milestones by evidence and decisions, then work backwards through dependencies to the next observable action. Track states such as not started, active, waiting, blocked, under review and accepted—not invented percentages.
+Define milestones by evidence and decisions, then work backwards through dependencies to the next observable action. Track states such as not started, active, waiting, blocked, under review and accepted. Invented percentages hide more than they reveal.
 
 A milestone is not “finish methods”. It is a decision point with required evidence, acceptance criteria, an authorised reviewer and a response if the evidence is not ready.
 
@@ -42,7 +42,7 @@ Example:
 
 **Dependencies:** method decision; data storage approval; partner site agreement; supervisor review; document revisions; final package audit.
 
-**Next action:** send the data steward the draft flow map with one precise question about cross-border transcription—not “work on ethics”.
+**Next action:** send the data steward the draft flow map with one precise question about cross-border transcription instead of writing “work on ethics”.
 
 Mark each dependency by owner and state. A task owned by an external person is not under your direct control, but following up, preparing alternatives and escalating at a threshold are.
 
@@ -160,9 +160,9 @@ Reading, conceptual development and troubleshooting can produce evidence:
 
 The point is not bureaucratic volume. Preserve outputs that reduce uncertainty or support a later decision.
 
-## Escalate before the deadline is already lost
+## Act while there is still room to change course
 
-Define a trigger such as:
+Set dated triggers for review or escalation. Examples include the following.
 
 - dependency unconfirmed by a named date;
 - buffer consumption beyond a threshold;
@@ -222,7 +222,7 @@ Bring:
 - [ ] Weekly outcomes connect to the twelve-week and candidature horizons.
 - [ ] Next actions are observable and immediately startable.
 - [ ] Waiting and blocked work have follow-up or escalation thresholds.
-- [ ] Evidence—not invented percentages—determines status.
+- [ ] Evidence determines status; invented percentages do not.
 - [ ] The plan is revised after material changes.
 
 ## Try these resources

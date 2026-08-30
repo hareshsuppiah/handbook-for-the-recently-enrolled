@@ -38,25 +38,13 @@ Do not proceed merely because the deadline is near. Do not delay merely because 
 
 ## Stage-specific evidence
 
-### Explore
-
-Retain the question, cheap test, result, assumptions and next decision. Polish is optional.
-
-### Decide
-
-Retain realistic options, decisive evidence, trade-offs, recommendation, authority and review trigger.
-
-### Review
-
-Retain the labelled draft, cover note, central evidence, known gaps and requested decision.
-
-### Submit or act
-
-Retain completed gate checklist, approvals, verified package, exact submitted/implemented version and receipt or acceptance evidence.
-
-### Archive or hand over
-
-Retain authoritative inventory, provenance, permissions, environment/instructions, known limitations and recipient verification.
+| Stage | Evidence to retain |
+|---|---|
+| Explore | The question, cheap test, result, assumptions and next decision. Polish is optional. |
+| Decide | Realistic options, decisive evidence, trade-offs, recommendation, authority and review trigger. |
+| Review | The labelled draft, cover note, central evidence, known gaps and requested decision. |
+| Submit or act | The completed gate checklist, approvals, verified package, exact submitted or implemented version and evidence of receipt or acceptance. |
+| Archive or hand over | The authoritative inventory, provenance, permissions, environment instructions, known limitations and recipient verification. |
 
 ## Completed scenario
 

@@ -3,11 +3,11 @@ title: "I keep searching but cannot build an argument"
 last-reviewed: "2026-08-28"
 ---
 
-## Diagnose
+## Identify the search problem
 
 Name whether the problem is orientation, terminology, retrieval, inclusion, extraction, comparison or argument. “More literature” is not yet a search purpose.
 
-## Do now
+## Try this now
 
 1. State the decision or claim the search must support.
 2. Choose the correct search-ladder level.
@@ -32,7 +32,7 @@ Original illustration created for *The Handbook for the Recently Enrolled* with 
 :::
 :::
 
-## Before asking
+## What to take when asking
 
 Bring the question, search level, exact strings/databases, results by step, inclusion rule, stopping rule and the claim you still cannot support.
 
@@ -40,7 +40,7 @@ Bring the question, search level, exact strings/databases, results by step, incl
 
 Stop repeating near-identical searches when new runs add no decision-relevant concept or source. Seek librarian help when translation, indexing or coverage is the issue.
 
-## Evidence of unstuck
+## You are moving again when
 
 The search has a purpose and reproducible record; the next action is extraction, synthesis or a specific targeted search—not “keep looking”.
 

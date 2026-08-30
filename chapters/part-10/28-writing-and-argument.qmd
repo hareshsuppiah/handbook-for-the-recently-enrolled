@@ -7,7 +7,7 @@ You can rewrite an introduction for weeks and still not know what the chapter is
 
 ## Build the reasoning before polishing the sentences
 
-Write as soon as writing can test the reasoning. Begin with the question, bounded claim, evidence, warrant and limits—not polished opening sentences. Label the state of the text so provisional reasoning cannot be mistaken for a finished account.
+Write as soon as writing can test the reasoning. Begin with the question, bounded claim, evidence, warrant and limits. Polished opening sentences can wait. Label the state of the text so provisional reasoning cannot be mistaken for a finished account.
 
 Writing is part of the research because it exposes missing evidence, broken links and competing explanations. It is not evidence by itself: a clear paragraph cannot repair an invalid inference or an unverified source.
 
@@ -48,7 +48,7 @@ Not every paragraph needs five visible sentences, but each reasoning function sh
 
 **Source-centred paragraph:** Smith found X. Jones found Y. Lee found Z.
 
-**Argument-centred paragraph:** Across the three studies, structured feedback was associated with more specific revisions, but the studies used different settings and did not test doctoral completion. The evidence therefore supports a workflow hypothesis about revision—not a claim that the approach improves candidature outcomes.
+**Argument-centred paragraph:** Across the three studies, structured feedback was associated with more specific revisions, but the studies used different settings and did not test doctoral completion. The evidence therefore supports a workflow hypothesis about revision. It does not show that the approach improves candidature outcomes.
 
 The second version compares evidence, states the inferential boundary and explains why the pattern matters.
 
@@ -76,7 +76,7 @@ Before polishing, test the strength of the verb:
 
 Do not climb the ladder because the stronger verb sounds important. Match the verb to the design and evidence. If the contribution is descriptive, make the description precise and useful.
 
-## Write before you feel ready—without fabricating certainty
+## Write early, but label uncertainty
 
 Use visible markers such as:
 
@@ -104,7 +104,7 @@ Define the review's purpose and method, organise evidence by question or explana
 
 ### Methods
 
-Explain what was done and why the design could answer the question. Report setting, participants or materials, procedures, measures, analysis, approvals, deviations and relevant researcher or system decisions at the detail needed for appraisal and—where applicable—reproduction.
+Explain what was done and why the design could answer the question. Report setting, participants or materials, procedures, measures, analysis, approvals, deviations and relevant researcher or system decisions at the detail needed for appraisal and, where applicable, reproduction.
 
 ### Results or findings
 
@@ -159,7 +159,7 @@ Then inspect the sequence. Repeated functions reveal duplication. Paragraphs wit
 7. **Sentence and copy edit:** Is the language accurate, concise and consistent?
 8. **Production:** Do citations, cross-references, figures, accessibility and rendering work?
 
-Do not line-edit a structure you expect to discard. Do not use copy editing to postpone a conceptual decision.
+Avoid line-editing a structure you expect to discard, and do not use copy editing to postpone a conceptual decision.
 
 ## Writing habits that hide the missing argument
 

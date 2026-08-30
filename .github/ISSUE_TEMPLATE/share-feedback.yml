@@ -1,59 +1,66 @@
-name: Suggest an improvement to the handbook
-description: Share a missing question, correction, proposed removal, useful resource or clearer way to help graduate researchers.
-title: "[Reader feedback] "
+name: Suggest an improvement
+description: Tell us what you noticed, what should change and why it would help a graduate researcher.
 labels: ["type: reader-feedback", "status: needs-triage"]
 body:
   - type: markdown
     attributes:
       value: |
-        Thank you for helping improve the handbook. You do not need to understand GitHub, edit the book or write code.
+        Use this form for one suggestion. You do not need to edit the handbook, write replacement text or understand how GitHub works.
 
-        Do not include names, personal information, participant data, confidential research, private correspondence, complaints casework, credentials or unpublished sensitive findings. Describe the general situation and remove identifying details.
+        Your answers will be public. Remove names, personal information, participant data, confidential research, private correspondence, complaints casework, passwords and unpublished sensitive findings. Describe the general situation instead.
   - type: dropdown
-    id: feedback_type
+    id: suggestion_type
     attributes:
-      label: What would you like to tell us?
+      label: What kind of improvement are you suggesting?
       options:
-        - A question or situation is missing
-        - Something is unclear, wrong or potentially misleading
-        - Something should be shortened, combined, replaced or removed
-        - A checklist, template or example is missing
-        - I found a useful source or piece of evidence
-        - The handbook was difficult to read, navigate or access
-        - A local rule or practice needs clearer boundaries
+        - Add a missing question, topic, checklist, template or example
+        - Correct or clarify something
+        - Shorten, combine or remove something
+        - Share a source or useful example
+        - Report a reading, navigation, accessibility or technical problem
+        - Clarify where advice does and does not apply
         - Something else
     validations:
       required: true
-  - type: textarea
-    id: reader_goal
+  - type: input
+    id: location
     attributes:
-      label: What were you trying to find out or do?
-      description: Write the question or task in the words a graduate researcher might use.
-      placeholder: "Example: Do I need to repeat a pilot after changing how participants will be recruited?"
+      label: Where in the handbook does this apply?
+      description: Paste the page link and name the heading. If the material is missing, say where you expected to find it.
+      placeholder: "Example: Planning a study > Pilots, or: I expected this in the pilot checklist"
     validations:
       required: true
   - type: textarea
-    id: current_problem
+    id: observation
     attributes:
-      label: What should be added, corrected, reconsidered or removed?
-      description: Include a page link or section heading if you have one. You do not need to propose replacement wording.
-      placeholder: "Name the page or section, then explain what is missing, unclear, wrong, repeated or no longer useful."
+      label: What did you notice?
+      description: Describe what is missing, unclear, wrong, repetitive or difficult to use. For a missing topic, write the question a graduate researcher would ask.
+      placeholder: "Example: The pilot guidance covers instruments and analysis, but not a change to recruitment."
     validations:
       required: true
   - type: textarea
-    id: consequence
+    id: proposed_change
     attributes:
-      label: What could happen if the handbook does not address this?
-      description: Describe likely confusion, wasted effort, error or harm. Say "minor" if the feedback is low risk.
-      placeholder: "Example: A student may proceed without checking whether the changed recruitment plan affects feasibility or ethics approval."
+      label: What would you change?
+      description: Describe the result you want. You do not need to write polished replacement text.
+      placeholder: "Example: Add a prompt asking whether the change affects feasibility, consent or an existing ethics approval."
+    validations:
+      required: true
+  - type: textarea
+    id: benefit
+    attributes:
+      label: How would this help a graduate researcher?
+      description: Explain the likely benefit or the confusion, error, wasted time or harm it could prevent. Write "Small clarity edit" if that is enough.
+      placeholder: "Example: It would prompt a student to check the change before starting recruitment."
     validations:
       required: true
   - type: dropdown
     id: phase
     attributes:
-      label: When might a researcher need this?
+      label: When would this matter most?
       options:
-        - Starting candidature
+        - Before candidature starts
+        - Starting a doctorate
         - Choosing a topic or research question
         - Planning a study
         - Seeking ethics or governance approval
@@ -70,30 +77,23 @@ body:
   - type: textarea
     id: evidence
     attributes:
-      label: Optional source or example
-      description: Link material you are allowed to share, explain why it is relevant, and say whether it applies generally or only in a particular context. Do not paste confidential or copyrighted material.
-      placeholder: "Link the source, name the claim it supports and note any country, institution, discipline or method limit."
-  - type: dropdown
+      label: Evidence, sources or shareable examples (optional)
+      description: Add links you are allowed to share. Say what each item supports and whether it is limited to a country, institution, discipline or method. It is fine to have no source yet.
+      placeholder: "Link the source and explain what it supports and where it applies."
+  - type: input
     id: credit
     attributes:
-      label: If the suggestion is used, how would you like to be credited?
-      options:
-        - Use my GitHub name
-        - Credit my organisation
-        - Use a pseudonym that I provide below
-        - Do not credit me publicly
+      label: How should we credit you if the suggestion is used?
+      description: Enter your GitHub username, preferred name or organisation, a pseudonym, or "no public credit".
+      placeholder: "Example: Use my GitHub username"
     validations:
       required: true
-  - type: input
-    id: credit_name
-    attributes:
-      label: Optional organisation or pseudonym
   - type: checkboxes
     id: privacy
     attributes:
-      label: Public submission check
+      label: Before you send this public suggestion
       options:
-        - label: I have removed personal, confidential, security-sensitive and unpublished material that I cannot share publicly.
+        - label: I have removed personal, confidential, security-sensitive and unpublished material that should not be public.
           required: true
-        - label: I understand that this suggestion and my GitHub username will be visible publicly.
+        - label: I understand that the suggestion and my GitHub username will be public.
           required: true

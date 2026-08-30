@@ -1,6 +1,5 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Support boundaries
+  - name: Private, urgent or personal matters
     url: https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/blob/main/SUPPORT.md
-    about: Read this before submitting sensitive, urgent or case-specific material.
-
+    about: Do not post these publicly. Find the appropriate local support or reporting route.

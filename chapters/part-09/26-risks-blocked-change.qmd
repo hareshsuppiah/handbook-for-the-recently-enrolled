@@ -1,17 +1,15 @@
 ---
 title: "Risks, blocked work and changing plans"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-08-31"
 ---
 
 Not every delay is the same problem. Waiting for an approval, discovering an infeasible method and facing an uncertain risk require different responses. If you label all of them “blocked,” the next action stays vague. Classify what has happened, identify the decision-maker and record the smallest consequence that matters. Some work can continue around the blockage; some requires a formal change; some must stop until authority or safety is restored.
 
-## Classify the problem before choosing the response
+## Name what has happened
 
 Name the state accurately, record its consequence and give it an owner, trigger and next decision. A risk needs prevention and contingency. An issue needs response. Waiting needs a follow-up threshold. Blocked work needs another route or escalation. A material change needs an impact review and the required approval before affected work proceeds.
 
 The aim is not to keep a perfect register. It is to make uncertainty visible early enough to protect participants, evidence, people and time.
-
-## Classify the situation before acting
 
 | State | Meaning | Immediate response |
 |---|---|---|
@@ -26,7 +24,7 @@ A single situation may move through several states. “Data access may be delaye
 
 Do not use “blocked” to mean difficult, unpleasant or not yet scheduled. Do not use “waiting” to hide a decision that nobody has taken ownership of.
 
-## Record the smallest useful risk
+## Write the risk so someone can act on it
 
 A usable risk statement connects cause, event and consequence:
 
@@ -46,7 +44,59 @@ That is more actionable than “data access: high risk”. Record:
 
 Numbers and red–amber–green labels can create false precision. Use them only when the team shares definitions. A plain description of consequence, urgency and uncertainty is often clearer.
 
-## Match the response to the problem
+## Decide the fallback before you need it
+
+A contingency is the route you will take if a named trigger occurs. Writing “find another method” does not count. By the time a trigger is reached, you may have less time, fewer options and more pressure to protect work already done.
+
+For each risk that could threaten a study, milestone or duty of care, record:
+
+1. **What you are protecting:** the research question, participant obligation, irreplaceable material, milestone or other outcome that matters.
+2. **The trigger:** an observable event, threshold or date that prompts a decision.
+3. **The fallback:** a route that is feasible enough to test now, not a hopeful sentence written for a form.
+4. **Who decides:** the person who can activate the fallback, plus any ethics, governance, data, safety or candidature authority required.
+5. **What must be ready:** approval, access, skills, code, equipment, budget or another prerequisite.
+6. **The review date:** when you will check whether the trigger, fallback or protected outcome has changed.
+7. **Proof that the switch worked:** the record, test or approval that shows the alternative is usable.
+
+Official research-funding guidance treats uncertainty as part of research planning and asks applicants to identify alternative approaches, not merely rate the original plan [@ukri-stfc-case-contingency-2022]. Broader risk guidance also supports named owners, agreed triggers, monitoring and contingency arrangements [@hm-treasury-orange-book-2026]. These sources come from particular UK systems. The useful general lesson is to decide what will prompt action, who can decide and what must remain protected; they do not set the rules for your candidature.
+
+Run a cheap test while the first route is still available. Check whether the alternative dataset contains the required variables. Rehearse a restore. Ask whether another supervisor can cover the decisions due during an absence. Fit the proposed backup analysis to simulated data and state which claim it could support. A fallback that has never been checked is another uncertainty, not yet a plan.
+
+## Keep the non-negotiables in place
+
+A fallback may change the route, but it cannot quietly remove the conditions that made the research acceptable. Before activation, check whether it changes:
+
+- who can be approached and how consent is obtained;
+- participant burden, welfare, safety or withdrawal arrangements;
+- approved sites, populations, procedures, data or purposes;
+- privacy, confidentiality, cultural governance or data access;
+- the skills, training or authorisation required to do the work safely;
+- the analysis, registration or claim the study was designed to support; or
+- an agreement with a partner, funder or institution.
+
+If it does, pause the affected work until the responsible authority has decided whether an amendment, notification, new permission or another formal step is required. In Australian human research, the National Statement governs ethical review and approved conduct; the exact process still depends on the institution and project [@national-statement-2025]. Australian data guidance likewise keeps storage, access, retention and disposal duties attached to the research when plans change [@nhmrc-data-guide].
+
+Research-continuity guidance makes the same practical point for disrupted teams: alternative personnel need the right skills, approval and access, while participant obligations, safety and data controls continue [@cornell-research-continuity].
+
+## Prepare for the disruptions that recur
+
+The examples below are starting points. Replace the sample triggers with thresholds that fit the method, remaining time and governing rules.
+
+| Disruption | Useful trigger | What to prepare before the trigger | If the trigger is reached |
+|---|---|---|---|
+| Data or site access is delayed | written access, variable availability or site permission is not confirmed by the last date that preserves the analysis window | test an authorised public or already-held source; identify the narrower question it could answer | take the access evidence and tested alternative to the relevant scientific, data and candidature decision-makers |
+| Recruitment falls short | eligible approaches, enrolments or retention fall below a prespecified rate at a dated review | verify the pool and route; identify approved ways to reduce burden or add sites; define the smallest still-informative design | do not relax eligibility, consent or contact rules informally; seek method and ethics advice on amendment, redesign, bounded analysis or stopping |
+| Equipment fails or data are lost | calibration fails, downtime exceeds the buffer, or the authoritative copy cannot be restored | rehearse restore; retain calibration and maintenance records; check access to a suitable alternative instrument or service | protect remaining material, record the incident and test comparability before combining or replacing measurements |
+| A supervisor is unavailable | a planned absence overlaps a decision gate, or minimum contact and decision coverage cannot be maintained | name the alternative contact; keep decisions, methods and next actions readable by the supervisory team | activate local continuity arrangements and seek formal replacement or additional supervision when required |
+| An analysis assumption fails | a prespecified diagnostic or data condition shows the planned analysis cannot support the intended claim | identify a defensible alternative analysis or narrower claim and decide how deviations will be recorded | consult the relevant method specialist; preserve the original plan; label exploratory work and update the claim rather than searching for a favourable result |
+| Personal circumstances reduce capacity | health, disability, caring, financial or other disruption makes the current workload, safety or deadline unworkable | know the confidential support and candidature routes; keep records understandable so work can pause or be handed over safely | protect immediate wellbeing and essential duties, then seek leave, adjustment, workload or timeline decisions through the authorised route; keep personal details out of the project register |
+| The timeline is compressed | the critical path plus a realistic correction buffer no longer fits the time remaining | rank studies and outputs by contribution; identify work that can be narrowed, reordered or removed without misrepresentation | re-plan the contribution and seek any formal extension or scope decision; do not recover time by skipping consent, quality checks, data controls or honest reporting |
+
+Recruitment deserves an early trigger rather than a late surprise. In a systematic review of 347 randomised trials approved in four countries, 31.1% were discontinued and poor recruitment was the most common reported reason. Those figures apply to the reviewed clinical trials, not to every doctoral study, but they show why recruitment assumptions should be checked while a redesign is still possible [@speich-2025-trial-discontinuation].
+
+Supervision continuity is partly an institutional responsibility. Australian guidance expects institutions to support alternative arrangements when personnel changes make existing supervision untenable [@nhmrc-supervision-guide-2019]. UK guidance similarly recommends a known alternative contact and continued supervision when a main supervisor is absent [@qaa-research-degrees-2018]. Ask what your own institution provides before an absence becomes a crisis.
+
+## Choose how to respond
 
 For an ordinary project risk, consider whether to:
 
@@ -60,7 +110,7 @@ Acceptance does not mean ignoring a risk. It means recording why further control
 
 Immediate safety, integrity, privacy, participant-welfare or legal concerns do not wait for an ordinary weekly review. Use the relevant urgent local process and do not investigate beyond your authority.
 
-## Manage waiting without passive drift
+## Put a date on waiting
 
 Every external dependency should have:
 
@@ -74,7 +124,7 @@ Every external dependency should have:
 
 “Waiting for ethics” is too vague. Record whether the application was submitted, administratively accepted, under review, returned for changes or approved. Those states have different implications. Never describe submission as approval.
 
-## Diagnose a blocker
+## Find the exact blocker
 
 Use four questions:
 
@@ -185,7 +235,7 @@ Use the [risk and issues register](../../templates/risk-issues-register.qmd), [u
 
 ## Sources and limits
 
-The risk-state and change-impact framework is an editorial decision aid. Its authority-before-action boundary is supported by the Australian Code and, for Australian human research, the National Statement; other jurisdictions and local processes must be checked [@australian-code-2018; @national-statement-2025].
+The risk-state and change-impact framework is an editorial decision aid. The contingency fields draw on official research-funder, public-sector risk and university continuity guidance [@ukri-stfc-case-contingency-2022; @hm-treasury-orange-book-2026; @cornell-research-continuity]. Those sources support general planning practices; they do not set doctoral rules. The Australian Code, National Statement, data-management guide and supervision guide support the authority, participant, data and supervision boundaries used here [@australian-code-2018; @national-statement-2025; @nhmrc-data-guide; @nhmrc-supervision-guide-2019]. Other jurisdictions and local processes differ. The recruitment statistic is evidence from clinical randomised trials, not an estimate for graduate research as a whole [@speich-2025-trial-discontinuation].
 
 ## References
 

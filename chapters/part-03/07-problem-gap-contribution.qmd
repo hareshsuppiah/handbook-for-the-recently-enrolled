@@ -3,7 +3,7 @@ title: "Problem, gap and contribution"
 last-reviewed: "2026-08-28"
 ---
 
-An interesting topic is not yet a research problem. “There is little research on this population” may be true, but it does not tell the reader what is misunderstood, what decision is impaired or why another study would help. Before promising a contribution, connect four things: the situation, the consequential problem, the gap in what is known or possible, and the change your work could make. If one link is vague, the project may still be promising. It simply is not ready to carry the claim yet.
+An interesting topic is not yet a research problem. “There is little research on this population” may be true, but it does not tell the reader what is misunderstood, what decision is impaired or why another study would help. Before promising a contribution, link the situation to a consequential problem, a gap in what is known or possible, and the change your work could make. If one link is vague, the project may still be promising. It simply is not ready to carry the claim yet.
 
 ## Start with the problem
 

@@ -3,20 +3,20 @@ title: "Recruitment, data or a study has failed"
 last-reviewed: "2026-08-28"
 ---
 
-## Diagnose
+## Work out what failed
 
-Freeze the record and name what failed: access, recruitment, implementation, measurement, analysis, governance, prediction or planned precision.
+Freeze the record, then identify the failure precisely. It may concern access, recruitment, implementation, measurement, analysis, governance, prediction or planned precision.
 
-## Do now
+## Try this now
 
 1. Preserve protocol, approvals, data, code, deviations and trigger evidence.
 2. Trace the affected inference chain.
 3. Separate observation from explanation.
 4. State which claims remain defensible.
 5. Compare repair, narrow, redesign, report and stop.
-6. obtain required amendment or authority before changed work.
+6. Obtain the required amendment or authority before changing the work.
 
-## Before asking
+## What to take when asking
 
 Bring the expected-versus-observed account, failure evidence, remaining value, options, burden, approval effects and recommendation.
 
@@ -24,7 +24,7 @@ Bring the expected-versus-observed account, failure evidence, remaining value, o
 
 Use urgent processes for participant harm, breach or unsafe work. Do not redefine planned aims after seeing favourable outcomes.
 
-## Evidence of unstuck
+## You are moving again when
 
 A dated authorised decision preserves the original record and updates question, method, approvals, analysis, contribution and closure obligations.
 

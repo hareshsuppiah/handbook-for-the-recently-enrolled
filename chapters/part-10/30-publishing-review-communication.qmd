@@ -36,7 +36,7 @@ For each candidate, check the current official record:
 | Authorship and AI | contribution criteria, author approval, assistance and generative-AI policy |
 | Access and rights | subscription/open model, licence, copyright, repository and preprint policy |
 | Cost | submission, processing, page, colour and other charges; waiver conditions and currency |
-| Timing | evidenced—not promised—review/publication pattern and thesis dependency |
+| Timing | evidence of actual review and publication timelines, including any thesis dependency |
 | Preservation and identifiers | persistent identifiers, indexing and archiving arrangements |
 | Integrity signals | transparent contact details, complaints/corrections process and verifiable claims |
 
@@ -116,7 +116,7 @@ Write for the editor and future reader, not to win an argument with the reviewer
 
 State the concern you understood, explain why the proposed analysis would not answer it or would create another problem, and offer a defensible alternative if one exists.
 
-**Example:** A reviewer asks to dichotomise a continuous outcome to make the result easier to interpret. The team explains the information loss and arbitrary threshold, retains the continuous primary analysis, adds a plot with clinically meaningful reference points, and clarifies interpretation. If the journal requires a different presentation, the editor—not the authors' guess—resolves the requirement.
+**Example:** A reviewer asks to dichotomise a continuous outcome to make the result easier to interpret. The team explains the information loss and arbitrary threshold, retains the continuous primary analysis, adds a plot with clinically meaningful reference points, and clarifies interpretation. If the journal requires a different presentation, the editor resolves the requirement rather than leaving the authors to guess.
 
 ## What to learn from rejection
 

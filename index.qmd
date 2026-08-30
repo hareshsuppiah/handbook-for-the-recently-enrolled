@@ -4,9 +4,9 @@ subtitle: "An Operating Manual for Graduate Researchers"
 description: "A practical, evidence-informed operating manual for graduate researchers."
 ---
 
-Graduate research rarely fails because nobody can find another definition of methodology. It becomes difficult when several reasonable actions are available, the evidence is incomplete, the rules vary by institution, and the next useful move is unclear.
+Graduate research gets difficult when several reasonable actions are available, the evidence is incomplete and the next useful move is unclear. Local rules can add another layer of uncertainty.
 
-This handbook is built for those moments. It helps you identify the decision in front of you, do proportionate due diligence, record what you considered, take a defensible next step, and know when local or specialist help is required.
+Use this handbook to identify the decision in front of you, check the evidence that matters, record what you considered and take a defensible next step. It also shows you when a decision belongs with a local authority or specialist.
 
 This is a living public edition: it is ready to use now and will continue to be corrected and improved. [About this edition](status.qmd).
 
@@ -22,7 +22,7 @@ This is a living public edition: it is ready to use now and will continue to be 
 
 ## How to use the handbook
 
-You do not need to read from cover to cover. Start with the problem you are facing now. Each chapter explains the decision, shows a workable next step and links to a checklist or template when one will help. It also tells you when “good enough” is genuinely enough—and when the issue needs local or specialist help.
+You do not need to read from cover to cover. Start with the problem you face now. Each chapter explains the decision, offers a workable next step and links to a checklist or template when one will help. You will also find a practical test for “good enough” and a clear route to local or specialist help.
 
 A few decisions must follow your university's rules or be made by a specialist. [Local rules and specialist help](support.qmd) lists those cases in one place.
 

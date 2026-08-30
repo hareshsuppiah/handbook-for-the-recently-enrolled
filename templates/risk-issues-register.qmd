@@ -1,6 +1,6 @@
 ---
 title: "Risk and issues register"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-08-31"
 ---
 
 Use this register for decision-relevant uncertainty and current problems, not as a warehouse for every worry. Read [Risks, blocked work and change](../chapters/part-09/26-risks-blocked-change.qmd) before first use.
@@ -20,6 +20,40 @@ Use this register for decision-relevant uncertainty and current problems, not as
 | R-001 | risk / issue / waiting / blocked | Because [cause], [event] may/has occurred, causing [consequence] | known: [ ]; uncertain: [ ] | [ ] | [ ] | [ ] | [date + condition] | open / monitoring / escalated / closed because [evidence] |
 
 If likelihood or consequence ratings are required locally, define the scale beside the register. Do not present guessed numbers as measured probability.
+
+## Contingency card for a consequential risk
+
+Complete one card for any risk that could make a study infeasible, threaten an important deadline or interrupt a duty of care. Attach it to the matching register ID.
+
+| Field | Entry |
+|---|---|
+| Register ID and protected outcome | [What must remain possible or protected?] |
+| Trigger | [Observable condition or date that prompts a decision] |
+| Fallback route | [Specific alternative, including what it can and cannot answer] |
+| Test before activation | [Small check that shows whether the fallback is feasible] |
+| Activation owner | [Person who can decide to switch] |
+| Required authority | [Ethics, governance, data, safety, partner, funder or candidature decision, if any] |
+| Prerequisites | [Approval, access, skill, equipment, code, budget or handover needed] |
+| Review date | [When the trigger and fallback will be reconsidered] |
+| Activation record | [Decision, date, reason and linked approval] |
+| Evidence that the fallback works | [Test, access confirmation, restore result, calibration or other proof] |
+
+### Worked contingency card: recruitment is slower than planned
+
+| Field | Entry |
+|---|---|
+| Register ID and protected outcome | R-007; retain a study capable of answering the approved comparison question |
+| Trigger | fewer than 24 eligible approaches and eight enrolments by the six-week review, with 12 recruitment weeks remaining |
+| Fallback route | assess a second approved site and a lower-burden appointment schedule; if neither can recover the required information, take a redesign or stop recommendation to the supervisory and ethics routes |
+| Test before activation | confirm the second site's eligible pool, staff capacity, data compatibility and governance route; estimate recruitment from observed screening figures |
+| Activation owner | principal investigator recommends; the student prepares evidence; the responsible ethics, site and candidature authorities decide within their remits |
+| Required authority | written site permission and any required ethics or governance amendment before recruitment changes |
+| Prerequisites | trained recruiter, approved materials, secure data route and revised timetable |
+| Review date | week six, then fortnightly if the approved second site is activated |
+| Activation record | [decision link, date and version of the approved recruitment plan] |
+| Evidence that the fallback works | observed screening, enrolment and retention figures compared with the dated threshold |
+
+Do not treat this worked example as a universal recruitment rule. Its numbers are illustrative; the design, approved protocol and local process determine the real threshold and authority.
 
 ## Completed example
 

@@ -3,11 +3,11 @@ title: "Unsure whether the work is good enough"
 last-reviewed: "2026-08-28"
 ---
 
-## Diagnose
+## Name the stage and standard
 
-Name the stage: explore, decide, review, submit/act, or archive/handover. Quality without a purpose or gate cannot be tested.
+First name the stage. Are you exploring, deciding, reviewing, submitting or acting, or preparing to archive or hand over? Quality cannot be tested until the work has a purpose and a gate.
 
-## Do now
+## Try this now
 
 1. State the audience, decision and authority.
 2. Run the stage rubric.
@@ -16,7 +16,7 @@ Name the stage: explore, decide, review, submit/act, or archive/handover. Qualit
 5. Defer work that addresses no failed test or requirement.
 6. Obtain the named review decision.
 
-## Before asking
+## What to take when asking
 
 Bring the stage, acceptance criteria, evidence for each test, failed checks, optional refinements and one decision request.
 
@@ -24,7 +24,7 @@ Bring the stage, acceptance criteria, evidence for each test, failed checks, opt
 
 Do not proceed because of deadline alone when a critical check fails. Do not delay because an unrequested improvement remains imaginable.
 
-## Evidence of unstuck
+## You are moving again when
 
 Every critical test passes or has an authorised disposition, and the next gate is recorded.
 

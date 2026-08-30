@@ -80,7 +80,7 @@ Proceed when the threshold is met. Escalate when the uncertainty concerns approv
 
 **Evidence available:** A preliminary search, a short map of competing explanations and access to one relevant setting.
 
-**Main uncertainty:** “Disengagement” may refer to attendance, participation, persistence or a subjective experience.
+**Main uncertainty:** the project has not settled what “disengagement” means. It might refer to visible attendance, participation, persistence or a subjective experience.
 
 **Decision:** Take a one-page concept map and three candidate definitions to supervision. Do not select measures or draft participant material yet.
 

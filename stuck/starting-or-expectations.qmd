@@ -3,11 +3,11 @@ title: "Starting point or expectations are unclear"
 last-reviewed: "2026-08-28"
 ---
 
-## Diagnose
+## Find the missing expectation
 
 Write the next expected outcome and who expects it. Separate formal requirements, supervisor preferences, disciplinary conventions and your assumptions.
 
-## Do now
+## Try this now
 
 1. Check the current candidature milestone or written task.
 2. Find one accepted example and identify what it demonstrates—not what to copy.
@@ -15,7 +15,7 @@ Write the next expected outcome and who expects it. Separate formal requirements
 4. Ask the responsible person to confirm the missing criterion.
 5. Record the agreed outcome, owner, date and evidence of done.
 
-## Before asking
+## What to take when asking
 
 Bring: “I understand the outcome to be [state]. I found [requirement/example]. I am uncertain about [one decision]. My proposed next deliverable is [artefact] by [date]. Is that the right standard?”
 
@@ -29,7 +29,7 @@ Bring: “I understand the outcome to be [state]. I found [requirement/example].
 
 Escalate repeated non-response, irreconcilable instructions, unsafe expectations or formal milestones threatened by missing direction.
 
-## Evidence of unstuck
+## You are moving again when
 
 The next deliverable, acceptance test, reviewer and date are written and accepted.
 

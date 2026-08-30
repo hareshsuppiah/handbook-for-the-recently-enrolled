@@ -2,9 +2,9 @@
 title: "Practical resources"
 ---
 
-The original brief specifies 53 checklists, decision aids and templates. All 53 are now substantive book pages, linked to the decisions and pause points where they are useful.
+These 53 checklists, decision aids and templates are linked to the decisions and pause points where they can help.
 
-The first usable release is a set of checklists organised around **consequential pause points**: moments when a short check can still prevent avoidable harm, rework or an indefensible decision.
+The checklists are organised around **consequential pause points**, when a short check can still prevent avoidable harm, rework or an indefensible decision.
 
 ## Phase checkpoints
 

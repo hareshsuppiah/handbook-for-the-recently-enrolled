@@ -3,11 +3,11 @@ title: "I cannot choose a method"
 last-reviewed: "2026-08-28"
 ---
 
-## Diagnose
+## Start with the claim
 
 Start from the inference, not the familiar technique. Which claim must the evidence support, under what assumptions?
 
-## Do now
+## Try this now
 
 1. Map question → evidence → design → sample/material → measure → analysis → claim.
 2. Compare two or three feasible method families.
@@ -16,7 +16,7 @@ Start from the inference, not the familiar technique. Which claim must the evide
 5. Seek method-specific advice with the completed comparison.
 6. Record a provisional choice and review trigger.
 
-## Before asking
+## What to take when asking
 
 Bring the inference target, options table, decisive test results, remaining uncertainty and recommendation.
 
@@ -24,7 +24,7 @@ Bring the inference target, options table, decisive test results, remaining unce
 
 Pause when no option meets approval, safety or minimal inference requirements. Do not select a method because software is available or a paper used it.
 
-## Evidence of unstuck
+## You are moving again when
 
 One provisional method is selected for stated reasons, with assumptions, authority, pilot and stop conditions visible.
 

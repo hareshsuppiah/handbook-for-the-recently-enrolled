@@ -13,7 +13,7 @@ This repository contains a living public edition of an institution-neutral, evid
 - All 53 practical resources and 11 situation-based “I’m stuck” pathways are rendered in the book.
 - A single chronological checklist links the doctorate from pre-start decisions through final handover.
 - Five coverage passes, two external-discovery passes and automated content/link/render checks are recorded.
-- One owner-dependent item remains: an approved no-GitHub feedback-form URL.
+- Readers can suggest improvements through one structured GitHub form.
 
 ## Preview locally
 
@@ -46,7 +46,9 @@ The rendered site is written to `_site/`.
 
 ## Contributing
 
-You do not need to know Git, GitHub, or coding to improve this handbook. See [CONTRIBUTING.md](CONTRIBUTING.md) and the rendered **Suggest an improvement** section. Do not post participant data, confidential supervision material, credentials, unpublished sensitive findings, or personal information in a public issue.
+Use [Suggest an improvement](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/issues/new?template=share-feedback.yml) to propose a missing topic or resource, correction, removal, source, example or accessibility fix. The form asks where the problem appears, what you noticed, what you would change and why it would help. You do not need to edit files or know how Git works.
+
+Suggestions are public. Remove participant data, confidential supervision material, passwords, unpublished sensitive findings and personal information before submitting. [CONTRIBUTING.md](CONTRIBUTING.md) explains the process and links to a first-time GitHub guide.
 
 ## Evidence standard
 

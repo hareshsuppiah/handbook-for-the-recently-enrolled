@@ -69,17 +69,12 @@ Read down columns and across rows. Ask:
 A synthesis paragraph normally needs more than citations placed after a topic sentence.
 
 ::: {.decision-card}
-**Claim:** what bounded proposition will this paragraph defend?
-
-**Evidence:** which sources support, qualify or challenge it?
-
-**Comparison:** why do the sources agree or differ?
-
-**Warrant:** why does this evidence justify the claim?
-
-**Boundary:** where should the claim not be assumed to apply?
-
-**Consequence:** what does the pattern mean for the project?
+- **Claim:** What bounded proposition will this paragraph defend?
+- **Evidence:** Which sources support, qualify or challenge it?
+- **Comparison:** Why do the sources agree or differ?
+- **Warrant:** Why does this evidence justify the claim?
+- **Boundary:** Where should the claim not be assumed to apply?
+- **Consequence:** What does the pattern mean for the project?
 :::
 
 ### Worked example
