@@ -44,7 +44,7 @@ Every embedded xkcd comic is by Randall Munroe and is reused from [xkcd](https:/
 | [xkcd #2173: Trained a Neural Net](https://xkcd.com/2173/) | Human-led, AI-assisted |
 | [xkcd #2304: Preprint](https://xkcd.com/2304/) | Where should you publish—and how should you respond to review?; Journal selection due diligence |
 | [xkcd #2347: Dependency](https://xkcd.com/2347/) | Could you recover your research data?; Could I restore this work? |
-| [xkcd #2368: Bigger Problem](https://xkcd.com/2368/) | What problem is your research actually solving?; Unresolved-questions log; Risk and issues register; One-page case for a proposed topic; Before you rely on this handbook |
+| [xkcd #2368: Bigger Problem](https://xkcd.com/2368/) | What problem is your research actually solving?; Unresolved-questions log; Risk and issues register; One-page case for a proposed topic; Local rules and specialist help |
 | [xkcd #2456: Types of Scientific Paper](https://xkcd.com/2456/) | How do you turn a draft into an argument?; Is this study ready to write up?; Is this thesis ready to submit?; Contribution statement; Thesis contribution map |
 | [xkcd #2582: Data Trap](https://xkcd.com/2582/) | Can you trace where this dataset came from?; Living data-management plan; Data dictionary and codebook |
 | [xkcd #2601: Instructions](https://xkcd.com/2601/) | Practical resources; How the checklists work; How to suggest an improvement |

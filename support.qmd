@@ -1,30 +1,27 @@
 ---
-title: "Before you rely on this handbook"
+title: "Local rules and specialist help"
 ---
 
-Most of this handbook helps you think through a research decision, prepare useful work and ask better questions. You can use that guidance without treating every page as a warning label.
+Use this handbook to prepare your thinking and your next conversation. Your university or another responsible body still has to make some decisions. This page lists those cases once, so the same warning does not interrupt every chapter.
 
-Some decisions belong to an institution, approval body, qualified specialist or emergency service. This page gathers those boundaries in one place.
+## Who decides what?
 
-## Find the current rule before you act
+| Your question | Where the answer comes from |
+|---|---|
+| What are my candidature deadlines, leave options, examination rules or complaint routes? | Your university's current graduate research rules and the office responsible for them. |
+| Can this study, amendment, recruitment plan or data access proceed? | The relevant ethics, governance, safety, site, community or data authority. |
+| Does this design, sample, measure or analysis suit my research question? | The relevant research literature and a supervisor, methodologist or other qualified specialist who understands the study. |
+| May I store, link, share or dispose of these data? | The data owner or custodian and the current privacy, security, consent, ethics, contractual and institutional rules. |
+| May I use this software or AI tool with research material? | The tool's current terms and the rules set by your institution, project agreements, ethics approval, funder and intended publisher. |
+| Who qualifies as an author, and may this material be published or placed in a repository? | The authorship standard, author group, contracts, copyright owner, journal, funder, partner and university rules that apply to the output. |
+| What must remain accessible when the project ends? | The institution, record owner, data custodian, funder, community or partner responsible for retention, disposal and handover. |
 
-Check the current official source, or ask the person with authority, when you are dealing with:
+Keep a copy or note the date when the answer affects an approval, submission, right, safety measure or irreversible step. Rules and software change. A link that was correct last year may not be enough for a decision today.
 
-- **candidature and supervision:** enrolment, milestones, leave, attendance, supervisor changes, complaints, thesis format, examination, corrections and appeals;
-- **a study involving people, communities, sites or regulated activity:** ethics, consent, governance, safety, cultural authority, site permission, protocol changes, incident reporting and professional requirements;
-- **methods and analysis:** whether a design, sample, measure, instrument or analysis is suitable for the actual question and data;
-- **data and technology:** approved storage and computing, privacy, security, access, retention, disposal, data sovereignty, software licences, AI use and breach reporting;
-- **collaboration and publication:** authorship, intellectual property, contracts, partner review, copyright, journal and funder rules, open access, repositories and embargoes; and
-- **project closure:** ownership, custody, handover, continuing access, account closure and obligations that continue after the degree.
+## When someone may be harmed
 
-Record the source, version or date you checked when the answer could affect approval, safety, rights, a submission or an irreversible step. A qualification framework or general handbook can explain the principle; only the responsible body can approve the case.
+Use emergency services for immediate danger. For serious distress, participant harm, bullying, harassment, discrimination, suspected misconduct, a privacy or security breach, or pressure to work outside an approval, contact the relevant confidential service rather than trying to investigate or resolve the case through the handbook.
 
-## Get help promptly when the problem is about people or harm
+Keep names, private correspondence, identifiable information and case details out of the public GitHub form. You can still suggest a general improvement without describing the people involved.
 
-Use the relevant emergency, health, counselling, safety, graduate research, integrity, ethics, privacy, human resources, student advocacy or complaints service for immediate danger, serious distress, participant harm, bullying or harassment, discrimination, suspected misconduct, a privacy or security breach, legal threats, or pressure to work outside an approval.
-
-Keep confidential case details out of the public suggestion system. Describe a general gap in the handbook publicly, but take the actual case through an appropriate private channel.
-
-## Use the handbook for preparation
-
-Use the handbook to prepare your reasoning. If you need permission or a case decision, use the current official process or ask the responsible person.
+Use the handbook to prepare the question and gather the records. Take both to the person who can decide.

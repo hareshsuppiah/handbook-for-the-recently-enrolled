@@ -1461,14 +1461,14 @@ return {
     comic_id = "2368",
     title = "Bigger Problem",
     asset_path = "assets/xkcd/2368-bigger-problem.png",
-    reason = "The handbook can acknowledge a problem without pretending it replaces the specialist services responsible for solving it.",
+    reason = "The comic distinguishes the problem you can work through yourself from the one that needs someone with authority or specialist expertise.",
   },
-  ["title:Before you rely on this handbook"] = {
+  ["title:Local rules and specialist help"] = {
     page_path = "support.qmd",
     comic_id = "2368",
     title = "Bigger Problem",
     asset_path = "assets/xkcd/2368-bigger-problem.png",
-    reason = "The handbook can acknowledge a problem without pretending it replaces the specialist services responsible for solving it.",
+    reason = "The comic distinguishes the problem you can work through yourself from the one that needs someone with authority or specialist expertise.",
   },
   ["contributions/index.qmd"] = {
     page_path = "contributions/index.qmd",

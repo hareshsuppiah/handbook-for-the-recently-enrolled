@@ -77,7 +77,7 @@ def main() -> int:
     # Standing limits belong on support.qmd, not in a warning box repeated on
     # every page. Specific stop conditions may remain where the risk occurs.
     boundary_page = (ROOT / "support.qmd").read_text(encoding="utf-8")
-    if "Find the current rule before you act" not in boundary_page:
+    if 'title: "Local rules and specialist help"' not in boundary_page or "## Who decides what?" not in boundary_page:
         fail("support.qmd is missing the consolidated local-rule guidance", failures)
     deprecated_boundary_patterns = {
         "manual-status box": re.compile(r"^:::\s*\{\.manual-status\}", re.M),

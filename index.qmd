@@ -24,7 +24,7 @@ This is a living public edition: it is ready to use now and will continue to be 
 
 You do not need to read from cover to cover. Start with the problem you are facing now. Each chapter explains the decision, shows a workable next step and links to a checklist or template when one will help. It also tells you when “good enough” is genuinely enough—and when the issue needs local or specialist help.
 
-Most of the handbook can be used directly for thinking, planning and discussion. When a decision needs formal approval or case-specific expertise, [Before you rely on this handbook](support.qmd) shows where to check. The full explanation lives there so it does not interrupt every chapter.
+A few decisions must follow your university's rules or be made by a specialist. [Local rules and specialist help](support.qmd) lists those cases in one place.
 
 ## Help improve it
 

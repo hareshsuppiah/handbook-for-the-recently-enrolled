@@ -125,7 +125,7 @@ ASSIGNMENTS: dict[str, tuple[int, str]] = {
     "stuck/relationship-or-authorship.qmd": (1028, "A stuck relationship problem needs communication that creates shared understanding, not another private assumption."),
     "stuck/good-enough.qmd": (974, "The good-enough decision protects a bounded piece of work from expanding into the general problem."),
     "stuck/wellbeing-or-safety.qmd": (828, "The comic rejects the idea that distress is a personal failure; wellbeing and safety concerns deserve real support and action."),
-    "support.qmd": (2368, "The handbook can acknowledge a problem without pretending it replaces the specialist services responsible for solving it."),
+    "support.qmd": (2368, "The comic distinguishes the problem you can work through yourself from the one that needs someone with authority or specialist expertise."),
     "contributions/index.qmd": (1060, "Crowdsourcing only improves the handbook when suggestions enter a real editorial process with owners and decisions."),
     "contributions/how-to-help.qmd": (2601, "Clear instructions make it easier for a reader to turn an observation into a usable suggestion."),
     "contributions/editorial-workflow.qmd": (1319, "Automation can reduce repetitive work, but the editorial decision still needs a named human owner."),
