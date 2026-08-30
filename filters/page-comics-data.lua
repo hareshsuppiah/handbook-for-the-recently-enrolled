@@ -48,30 +48,6 @@ return {
     title = "Tasks",
     asset_path = "assets/xkcd/1425-tasks.png",
   },
-  ["chapters/part-01/03-provisional-plan.qmd"] = {
-    page_path = "chapters/part-01/03-provisional-plan.qmd",
-    comic_id = "974",
-    title = "The General Problem",
-    asset_path = "assets/xkcd/974-the-general-problem.png",
-  },
-  ["title:How do you turn a proposal into a workable plan?"] = {
-    page_path = "chapters/part-01/03-provisional-plan.qmd",
-    comic_id = "974",
-    title = "The General Problem",
-    asset_path = "assets/xkcd/974-the-general-problem.png",
-  },
-  ["chapters/part-02/04-roles-and-expectations.qmd"] = {
-    page_path = "chapters/part-02/04-roles-and-expectations.qmd",
-    comic_id = "1028",
-    title = "Communication",
-    asset_path = "assets/xkcd/1028-communication.png",
-  },
-  ["title:What should you expect from your supervisors?"] = {
-    page_path = "chapters/part-02/04-roles-and-expectations.qmd",
-    comic_id = "1028",
-    title = "Communication",
-    asset_path = "assets/xkcd/1028-communication.png",
-  },
   ["chapters/part-02/05-meetings-and-records.qmd"] = {
     page_path = "chapters/part-02/05-meetings-and-records.qmd",
     comic_id = "1860",
@@ -264,30 +240,6 @@ return {
     title = "Data Trap",
     asset_path = "assets/xkcd/2582-data-trap.png",
   },
-  ["chapters/part-07/21-reproducible-workflows.qmd"] = {
-    page_path = "chapters/part-07/21-reproducible-workflows.qmd",
-    comic_id = "1172",
-    title = "Workflow",
-    asset_path = "assets/xkcd/1172-workflow.png",
-  },
-  ["title:Could someone else reproduce this work?"] = {
-    page_path = "chapters/part-07/21-reproducible-workflows.qmd",
-    comic_id = "1172",
-    title = "Workflow",
-    asset_path = "assets/xkcd/1172-workflow.png",
-  },
-  ["chapters/part-08/22-minimum-viable-stack.qmd"] = {
-    page_path = "chapters/part-08/22-minimum-viable-stack.qmd",
-    comic_id = "927",
-    title = "Standards",
-    asset_path = "assets/xkcd/927-standards.png",
-  },
-  ["title:Which research tools do you actually need?"] = {
-    page_path = "chapters/part-08/22-minimum-viable-stack.qmd",
-    comic_id = "927",
-    title = "Standards",
-    asset_path = "assets/xkcd/927-standards.png",
-  },
   ["chapters/part-08/23-analysis-review-quarto.qmd"] = {
     page_path = "chapters/part-08/23-analysis-review-quarto.qmd",
     comic_id = "1654",
@@ -395,18 +347,6 @@ return {
     comic_id = "349",
     title = "Success",
     asset_path = "assets/xkcd/349-success.png",
-  },
-  ["chapters/part-11/32-technical-failure-perfectionism.qmd"] = {
-    page_path = "chapters/part-11/32-technical-failure-perfectionism.qmd",
-    comic_id = "1691",
-    title = "Optimization",
-    asset_path = "assets/xkcd/1691-optimization.png",
-  },
-  ["title:Is this a technical problem, perfectionism or scope creep?"] = {
-    page_path = "chapters/part-11/32-technical-failure-perfectionism.qmd",
-    comic_id = "1691",
-    title = "Optimization",
-    asset_path = "assets/xkcd/1691-optimization.png",
   },
   ["chapters/part-11/33-decide-and-stuck.qmd"] = {
     page_path = "chapters/part-11/33-decide-and-stuck.qmd",
@@ -588,18 +528,6 @@ return {
     title = "Unscientific",
     asset_path = "assets/xkcd/397-unscientific.png",
   },
-  ["checklists/backup-restore.qmd"] = {
-    page_path = "checklists/backup-restore.qmd",
-    comic_id = "2347",
-    title = "Dependency",
-    asset_path = "assets/xkcd/2347-dependency.png",
-  },
-  ["title:Could I restore this work?"] = {
-    page_path = "checklists/backup-restore.qmd",
-    comic_id = "2347",
-    title = "Dependency",
-    asset_path = "assets/xkcd/2347-dependency.png",
-  },
   ["checklists/before-analysis.qmd"] = {
     page_path = "checklists/before-analysis.qmd",
     comic_id = "552",
@@ -683,18 +611,6 @@ return {
     comic_id = "1282",
     title = "Monty Hall",
     asset_path = "assets/xkcd/1282-monty-hall.png",
-  },
-  ["checklists/before-thesis-submission.qmd"] = {
-    page_path = "checklists/before-thesis-submission.qmd",
-    comic_id = "2456",
-    title = "Types of Scientific Paper",
-    asset_path = "assets/xkcd/2456-types-of-scientific-paper.png",
-  },
-  ["title:Is this thesis ready to submit?"] = {
-    page_path = "checklists/before-thesis-submission.qmd",
-    comic_id = "2456",
-    title = "Types of Scientific Paper",
-    asset_path = "assets/xkcd/2456-types-of-scientific-paper.png",
   },
   ["checklists/project-closure-handover.qmd"] = {
     page_path = "checklists/project-closure-handover.qmd",
@@ -972,18 +888,6 @@ return {
     title = "Data Trap",
     asset_path = "assets/xkcd/2582-data-trap.png",
   },
-  ["templates/folder-file-naming.qmd"] = {
-    page_path = "templates/folder-file-naming.qmd",
-    comic_id = "910",
-    title = "Permanence",
-    asset_path = "assets/xkcd/910-permanence.png",
-  },
-  ["title:Folder and file-naming starter"] = {
-    page_path = "templates/folder-file-naming.qmd",
-    comic_id = "910",
-    title = "Permanence",
-    asset_path = "assets/xkcd/910-permanence.png",
-  },
   ["templates/data-dictionary.qmd"] = {
     page_path = "templates/data-dictionary.qmd",
     comic_id = "2582",
@@ -1139,18 +1043,6 @@ return {
     comic_id = "974",
     title = "The General Problem",
     asset_path = "assets/xkcd/974-the-general-problem.png",
-  },
-  ["stuck/endless-searching.qmd"] = {
-    page_path = "stuck/endless-searching.qmd",
-    comic_id = "386",
-    title = "Duty Calls",
-    asset_path = "assets/xkcd/386-duty-calls.png",
-  },
-  ["title:I keep searching but cannot build an argument"] = {
-    page_path = "stuck/endless-searching.qmd",
-    comic_id = "386",
-    title = "Duty Calls",
-    asset_path = "assets/xkcd/386-duty-calls.png",
   },
   ["stuck/method-paralysis.qmd"] = {
     page_path = "stuck/method-paralysis.qmd",

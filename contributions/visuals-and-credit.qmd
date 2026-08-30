@@ -15,6 +15,8 @@ The preferred order is:
 2. **Openly licensed or public-domain material.** The licence on the individual work must permit this use. The creator, source, licence and any changes are recorded.
 3. **A link to the original work.** If a meme, comic or image is relevant but its reuse rights are unclear, link to the creator's page rather than copying the image into the handbook.
 
+A familiar meme setup can inspire a new joke, but the published image must still be our own. We can draw an original researcher facing two awkward choices, enjoying a small victory or watching a plan meet reality. We do not trace, closely recreate or relabel the photograph, film frame, comic panel, character or exact composition of an existing meme template.
+
 Wikimedia Commons notes that files can carry different reuse and attribution conditions, so the status of each file must be checked on its own description page [@wikimedia-commons-reuse]. Creative Commons likewise recommends making the applicable licence, creator and source easy to identify [@creative-commons-licensing].
 
 ## What we will not embed

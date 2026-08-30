@@ -94,11 +94,11 @@ Use the [First 90-day review](../../checklists/first-90-day-review.qmd) as a do-
 
 ## Worked example: the proposal assumes data access
 
-Sam's application proposes analysing a partner organisation's records. During week one, nobody can identify a signed data-access agreement.
+A doctoral researcher's application proposes analysing a partner organisation's records. During week one, nobody can identify a signed data-access agreement.
 
 The weak response is to begin selecting models and assume access will be resolved. The stronger response is to record data access as an unverified dependency, identify the institutional and partner owners, clarify the approval pathway and develop a bounded alternative question that uses accessible material.
 
-At the 30-day review, Sam has not “failed to start the analysis”. Sam has discovered that the original plan contained a critical assumption. The useful outputs are the access record, risk entry, alternative options and a decision date.
+At the 30-day review, the researcher has not “failed to start the analysis”. They have discovered that the original plan contained a critical assumption. The useful outputs are the access record, risk entry, alternative options and a decision date.
 
 ## Early activity that does not create progress
 

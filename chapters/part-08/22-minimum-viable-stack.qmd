@@ -11,6 +11,22 @@ Choose the smallest set of approved tools that supports the required research ca
 
 A tool stack should make the research easier to inspect—not distribute the same uncertain “final” file across more applications.
 
+::: {.handbook-visual .original-meme}
+::: {.meme-line}
+**My current workflow works.**
+:::
+
+![](../../assets/original-memes/shiny-tool-distraction.jpg){fig-alt="A graduate researcher drops a stack of unfinished work while staring at a glowing new machine."}
+
+::: {.meme-line}
+**But this new app has a gradient.**
+:::
+
+::: {.visual-credit}
+Original illustration created for *The Handbook for the Recently Enrolled* with human editorial direction and AI-assisted production.
+:::
+:::
+
 ## Start with capabilities, not brands
 
 Most graduate projects need some version of these capabilities:

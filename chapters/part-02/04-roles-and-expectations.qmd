@@ -11,6 +11,22 @@ Effective supervision depends on explicit expectations about roles, communicatio
 
 Formal frameworks demonstrate that responsibility is distributed. The 2024 UKRI statement, for example, names expectations for students, supervisors, research organisations, collaborators and funders rather than treating supervision as a private arrangement between two people [@ukri-expectations-2024]. Your institution's rules take priority, but the general lesson travels: supervisors advise, challenge, develop and monitor; students actively prepare, investigate, decide within their authority and maintain the project record; institutions provide governance, formal progress processes, services and escalation routes.
 
+::: {.handbook-visual .original-meme}
+::: {.meme-line}
+**Ask a five-minute question.**
+:::
+
+![](../../assets/original-memes/two-buttons.jpg){fig-alt="A graduate researcher sweats while trying to choose between two oversized unlabelled buttons on a desk."}
+
+::: {.meme-line}
+**Or spend three days guessing.**
+:::
+
+::: {.visual-credit}
+Original illustration created for *The Handbook for the Recently Enrolled* with human editorial direction and AI-assisted production.
+:::
+:::
+
 ## What each role commonly contributes
 
 | Role | Common contribution | What not to assume |

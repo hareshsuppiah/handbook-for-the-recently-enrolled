@@ -392,6 +392,39 @@ a:hover {
   margin-bottom: 0;
 }
 
+.original-meme .meme-line {
+  font-size: clamp(1.05rem, 2vw, 1.3rem);
+  font-weight: 700;
+  line-height: 1.25;
+  margin: .2rem 0 .85rem;
+  text-align: center;
+}
+
+.original-meme .meme-line p,
+.original-meme .visual-credit p {
+  margin: 0;
+}
+
+.original-meme .visual-credit {
+  color: var(--muted);
+  font-size: .82rem;
+  margin-top: .9rem;
+  text-align: left;
+}
+
+.references .csl-entry a,
+#refs .csl-entry a {
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
+#quarto-header .breadcrumb-item a {
+  display: block;
+  max-width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
 @media (max-width: 767px) {
   .handbook-visual {
     margin: 1.75rem 0;

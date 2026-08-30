@@ -32,6 +32,22 @@ project/
 **Read-only enforcement for raw material:** [ ]
 **Access owner and review date:** [ ]
 
+::: {.handbook-visual .original-meme}
+::: {.meme-line}
+**The thesis has one contribution.**
+:::
+
+![](../assets/original-memes/final-final-file-tree.jpg){fig-alt="A tired graduate researcher sits beneath an enormous branching tree made from duplicate digital folders."}
+
+::: {.meme-line}
+**It also has fourteen final versions.**
+:::
+
+::: {.visual-credit}
+Original illustration created for *The Handbook for the Recently Enrolled* with human editorial direction and AI-assisted production.
+:::
+:::
+
 ## Naming convention
 
 **Pattern:** `[project]_[item]_[context]_[YYYY-MM-DD]_[status-or-version].[ext]`

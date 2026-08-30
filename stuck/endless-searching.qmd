@@ -16,6 +16,22 @@ Name whether the problem is orientation, terminology, retrieval, inclusion, extr
 5. Compare studies in an evidence matrix.
 6. Draft a bounded claim, contrary evidence, warrant and boundary.
 
+::: {.handbook-visual .original-meme}
+::: {.meme-line}
+**I’ll stop after one more paper.**
+:::
+
+![](../assets/original-memes/endless-literature-search.jpg){fig-alt="A graduate researcher faces a whirlpool made from browser tabs, papers and references while a small decision remains untouched on the desk."}
+
+::: {.meme-line}
+**The paper has 63 references.**
+:::
+
+::: {.visual-credit}
+Original illustration created for *The Handbook for the Recently Enrolled* with human editorial direction and AI-assisted production.
+:::
+:::
+
 ## Before asking
 
 Bring the question, search level, exact strings/databases, results by step, inclusion rule, stopping rule and the claim you still cannot support.

@@ -36,6 +36,22 @@ Restore protected data only into an approved test location. Coordinate with the 
 **Retest evidence:** [ ]
 **Next scheduled test:** [ ]
 
+::: {.handbook-visual .original-meme}
+::: {.meme-line}
+**The backup restored.**
+:::
+
+![](../assets/original-memes/small-victory.jpg){fig-alt="A graduate researcher gives a small triumphant fist pump beside a laptop showing a simple check mark."}
+
+::: {.meme-line}
+**A sentence nobody regrets testing.**
+:::
+
+::: {.visual-credit}
+Original illustration created for *The Handbook for the Recently Enrolled* with human editorial direction and AI-assisted production.
+:::
+:::
+
 ## Stop condition
 
 Do not begin or continue irreplaceable collection if critical data have no verified recoverable route. Escalate any restore that exposes protected material or reveals corrupted, incomplete or inaccessible authoritative records.

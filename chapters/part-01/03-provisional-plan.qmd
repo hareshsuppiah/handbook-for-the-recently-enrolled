@@ -11,6 +11,22 @@ Use the proposal as an opening argument rather than a contract with the future. 
 
 A useful plan does not predict every future task. It makes the next consequential decisions visible, states what evidence would support them and shows what could block them.
 
+::: {.handbook-visual .original-meme}
+::: {.meme-line}
+**The project plan was a straight line.**
+:::
+
+![](../../assets/original-memes/plan-versus-reality.jpg){fig-alt="Two panels show the same graduate researcher: first arranging a simple linear sequence of cards, then navigating a looping network of revisions and returned folders."}
+
+::: {.meme-line}
+**The project had other ideas.**
+:::
+
+::: {.visual-credit}
+Original illustration created for *The Handbook for the Recently Enrolled* with human editorial direction and AI-assisted production.
+:::
+:::
+
 ## What changed when you enrolled
 
 The proposal was written to demonstrate that a worthwhile project might be possible. Candidature requires you to test that proposition. Access may differ from what was assumed. Literature may change the question. Ethical or technical constraints may rule out an attractive method. Supervisors may identify a stronger contribution.

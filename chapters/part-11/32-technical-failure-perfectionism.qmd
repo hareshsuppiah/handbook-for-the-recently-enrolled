@@ -109,6 +109,22 @@ Ask of each proposed improvement:
 
 “It could be better” is true of nearly every research output. It is not a decision criterion.
 
+::: {.handbook-visual .original-meme}
+::: {.meme-line}
+**The thesis is missing two chapters.**
+:::
+
+![](../../assets/original-memes/footnote-perfectionism.jpg){fig-alt="A graduate researcher inspects one tiny footnote with a magnifying glass while a huge unfinished thesis waits behind them."}
+
+::: {.meme-line}
+**This comma, however, is now perfect.**
+:::
+
+::: {.visual-credit}
+Original illustration created for *The Handbook for the Recently Enrolled* with human editorial direction and AI-assisted production.
+:::
+:::
+
 ## Define good enough by stage
 
 | Stage | Good enough means | It does not mean |

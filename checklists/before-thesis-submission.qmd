@@ -23,6 +23,22 @@ last-reviewed: "2026-08-28"
 - [ ] Source files, the final submitted copy and supporting records are stored in an approved, recoverable location.
 - [ ] I understand the examination, correction, appeal, publication and repository steps that follow submission.
 
+::: {.handbook-visual .original-meme}
+::: {.meme-line}
+**The thesis is ready to submit.**
+:::
+
+![](../assets/original-memes/printer-revolt.jpg){fig-alt="A graduate researcher holding a bound thesis watches an office printer eject an absurd looping cascade of blank paper."}
+
+::: {.meme-line}
+**The printer has entered its experimental phase.**
+:::
+
+::: {.visual-credit}
+Original illustration created for *The Handbook for the Recently Enrolled* with human editorial direction and AI-assisted production.
+:::
+:::
+
 ## Stop condition
 
 Do not submit an unchecked file or while authorship, permissions, confidentiality, required declarations or formal eligibility remain unresolved.
