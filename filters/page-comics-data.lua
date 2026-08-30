@@ -30,7 +30,7 @@ return {
     title = "Every Major's Terrible",
     asset_path = "assets/xkcd/1052-every-major-s-terrible.png",
   },
-  ["title:What does a doctorate actually ask of you?"] = {
+  ["title:What a doctorate asks of you"] = {
     page_path = "chapters/part-01/01-phd-and-good-enough.qmd",
     comic_id = "1052",
     title = "Every Major's Terrible",
@@ -42,7 +42,7 @@ return {
     title = "Tasks",
     asset_path = "assets/xkcd/1425-tasks.png",
   },
-  ["title:What should you do in your first 90 days?"] = {
+  ["title:Your first 90 days"] = {
     page_path = "chapters/part-01/02-first-90-days.qmd",
     comic_id = "1425",
     title = "Tasks",
@@ -54,7 +54,7 @@ return {
     title = "Communicating",
     asset_path = "assets/xkcd/1860-communicating.png",
   },
-  ["title:How do you make supervision meetings useful?"] = {
+  ["title:Supervision meetings that lead somewhere"] = {
     page_path = "chapters/part-02/05-meetings-and-records.qmd",
     comic_id = "1860",
     title = "Communicating",
@@ -66,7 +66,7 @@ return {
     title = "Listen to Yourself",
     asset_path = "assets/xkcd/481-listen-to-yourself.png",
   },
-  ["title:How do you use feedback and handle disagreement?"] = {
+  ["title:Feedback, disagreement and independence"] = {
     page_path = "chapters/part-02/06-feedback-and-independence.qmd",
     comic_id = "481",
     title = "Listen to Yourself",
@@ -78,7 +78,7 @@ return {
     title = "Bigger Problem",
     asset_path = "assets/xkcd/2368-bigger-problem.png",
   },
-  ["title:What problem is your research actually solving?"] = {
+  ["title:Problem, gap and contribution"] = {
     page_path = "chapters/part-03/07-problem-gap-contribution.qmd",
     comic_id = "2368",
     title = "Bigger Problem",
@@ -90,7 +90,7 @@ return {
     title = "Is It Worth the Time?",
     asset_path = "assets/xkcd/1205-is-it-worth-the-time.png",
   },
-  ["title:Is this research topic worth pursuing?"] = {
+  ["title:Choosing a topic worth pursuing"] = {
     page_path = "chapters/part-03/08-topic-due-diligence.qmd",
     comic_id = "1205",
     title = "Is It Worth the Time?",
@@ -102,7 +102,7 @@ return {
     title = "Monty Hall",
     asset_path = "assets/xkcd/1282-monty-hall.png",
   },
-  ["title:Is your research question ready?"] = {
+  ["title:Research questions, aims and pivots"] = {
     page_path = "chapters/part-03/09-questions-and-pivots.qmd",
     comic_id = "1282",
     title = "Monty Hall",
@@ -114,7 +114,7 @@ return {
     title = "Duty Calls",
     asset_path = "assets/xkcd/386-duty-calls.png",
   },
-  ["title:How much literature searching do you need?"] = {
+  ["title:The search ladder"] = {
     page_path = "chapters/part-04/10-search-ladder.qmd",
     comic_id = "386",
     title = "Duty Calls",
@@ -126,7 +126,7 @@ return {
     title = "Wisdom of the Ancients",
     asset_path = "assets/xkcd/979-wisdom-of-the-ancients.png",
   },
-  ["title:How do you make a literature search reproducible?"] = {
+  ["title:Reproducible literature searches"] = {
     page_path = "chapters/part-04/11-reproducible-searching.qmd",
     comic_id = "979",
     title = "Wisdom of the Ancients",
@@ -138,7 +138,7 @@ return {
     title = "Meta-Analysis",
     asset_path = "assets/xkcd/1447-meta-analysis.png",
   },
-  ["title:How do you turn reading into an argument?"] = {
+  ["title:Reading, synthesis and citation"] = {
     page_path = "chapters/part-04/12-reading-and-synthesis.qmd",
     comic_id = "1447",
     title = "Meta-Analysis",
@@ -150,7 +150,7 @@ return {
     title = "Correlation",
     asset_path = "assets/xkcd/552-correlation.png",
   },
-  ["title:Does your design support the claim you want to make?"] = {
+  ["title:Matching the design to the claim"] = {
     page_path = "chapters/part-05/13-design-alignment.qmd",
     comic_id = "552",
     title = "Correlation",
@@ -162,7 +162,7 @@ return {
     title = "Significant",
     asset_path = "assets/xkcd/882-significant.png",
   },
-  ["title:Are your sample, measures and pilot fit for purpose?"] = {
+  ["title:Sampling, measurement and pilots"] = {
     page_path = "chapters/part-05/14-sampling-measurement-pilots.qmd",
     comic_id = "882",
     title = "Significant",
@@ -174,7 +174,7 @@ return {
     title = "P-Values",
     asset_path = "assets/xkcd/1478-p-values.png",
   },
-  ["title:How will you test the rigour of your method?"] = {
+  ["title:Rigour, bias and methodological choices"] = {
     page_path = "chapters/part-05/15-rigour-and-variation.qmd",
     comic_id = "1478",
     title = "P-Values",
@@ -186,7 +186,7 @@ return {
     title = "Certainty",
     asset_path = "assets/xkcd/263-certainty.png",
   },
-  ["title:How do you protect people and their information?"] = {
+  ["title:Ethics, privacy and consent"] = {
     page_path = "chapters/part-06/16-ethics-privacy-consent.qmd",
     comic_id = "263",
     title = "Certainty",
@@ -198,7 +198,7 @@ return {
     title = "Machine Learning",
     asset_path = "assets/xkcd/1838-machine-learning.png",
   },
-  ["title:Can you use AI responsibly in this research?"] = {
+  ["title:Research integrity, governance and AI"] = {
     page_path = "chapters/part-06/17-integrity-governance-ai.qmd",
     comic_id = "1838",
     title = "Machine Learning",
@@ -210,7 +210,7 @@ return {
     title = "Peer Review",
     asset_path = "assets/xkcd/2025-peer-review.png",
   },
-  ["title:Who should receive authorship—and what if something goes wrong?"] = {
+  ["title:Authorship, collaboration and corrections"] = {
     page_path = "chapters/part-06/18-authorship-collaboration-corrections.qmd",
     comic_id = "2025",
     title = "Peer Review",
@@ -222,7 +222,7 @@ return {
     title = "Dependency",
     asset_path = "assets/xkcd/2347-dependency.png",
   },
-  ["title:Could you recover your research data?"] = {
+  ["title:Data management, storage and recovery"] = {
     page_path = "chapters/part-07/19-data-management-storage.qmd",
     comic_id = "2347",
     title = "Dependency",
@@ -234,7 +234,7 @@ return {
     title = "Data Trap",
     asset_path = "assets/xkcd/2582-data-trap.png",
   },
-  ["title:Can you trace where this dataset came from?"] = {
+  ["title:Data states, codebooks and provenance"] = {
     page_path = "chapters/part-07/20-data-states-provenance.qmd",
     comic_id = "2582",
     title = "Data Trap",
@@ -246,7 +246,7 @@ return {
     title = "Universal Install Script",
     asset_path = "assets/xkcd/1654-universal-install-script.png",
   },
-  ["title:How should your analysis and writing tools work together?"] = {
+  ["title:Analysis, writing and Quarto"] = {
     page_path = "chapters/part-08/23-analysis-review-quarto.qmd",
     comic_id = "1654",
     title = "Universal Install Script",
@@ -258,7 +258,7 @@ return {
     title = "Git",
     asset_path = "assets/xkcd/1597-git.png",
   },
-  ["title:How do you use Git, GitHub and AI safely?"] = {
+  ["title:Git, GitHub and AI-assisted workflows"] = {
     page_path = "chapters/part-08/24-git-github-ai.qmd",
     comic_id = "1597",
     title = "Git",
@@ -270,7 +270,7 @@ return {
     title = "Is It Worth the Time?",
     asset_path = "assets/xkcd/1205-is-it-worth-the-time.png",
   },
-  ["title:What evidence shows your project is moving?"] = {
+  ["title:Milestones, dependencies and weekly progress"] = {
     page_path = "chapters/part-09/25-milestones-weekly-work.qmd",
     comic_id = "1205",
     title = "Is It Worth the Time?",
@@ -282,7 +282,7 @@ return {
     title = "Computer Problems",
     asset_path = "assets/xkcd/722-computer-problems.png",
   },
-  ["title:What should you do when work is blocked or plans change?"] = {
+  ["title:Risks, blocked work and changing plans"] = {
     page_path = "chapters/part-09/26-risks-blocked-change.qmd",
     comic_id = "722",
     title = "Computer Problems",
@@ -294,7 +294,7 @@ return {
     title = "Team Chat",
     asset_path = "assets/xkcd/1782-team-chat.png",
   },
-  ["title:How do you share work without losing control of scope?"] = {
+  ["title:Collaboration, handoffs and scope"] = {
     page_path = "chapters/part-09/27-collaboration-handoffs-scope.qmd",
     comic_id = "1782",
     title = "Team Chat",
@@ -306,7 +306,7 @@ return {
     title = "Types of Scientific Paper",
     asset_path = "assets/xkcd/2456-types-of-scientific-paper.png",
   },
-  ["title:How do you turn a draft into an argument?"] = {
+  ["title:Writing an argument"] = {
     page_path = "chapters/part-10/28-writing-and-argument.qmd",
     comic_id = "2456",
     title = "Types of Scientific Paper",
@@ -318,7 +318,7 @@ return {
     title = "Peer Review",
     asset_path = "assets/xkcd/2025-peer-review.png",
   },
-  ["title:How do you make your work easier to review?"] = {
+  ["title:Making work easier to review"] = {
     page_path = "chapters/part-10/29-reviewable-work-feedback.qmd",
     comic_id = "2025",
     title = "Peer Review",
@@ -330,7 +330,7 @@ return {
     title = "Preprint",
     asset_path = "assets/xkcd/2304-preprint.png",
   },
-  ["title:Where should you publish—and how should you respond to review?"] = {
+  ["title:Publishing and peer review"] = {
     page_path = "chapters/part-10/30-publishing-review-communication.qmd",
     comic_id = "2304",
     title = "Preprint",
@@ -342,7 +342,7 @@ return {
     title = "Success",
     asset_path = "assets/xkcd/349-success.png",
   },
-  ["title:What can you do when a study fails?"] = {
+  ["title:When a study fails"] = {
     page_path = "chapters/part-11/31-failed-studies.qmd",
     comic_id = "349",
     title = "Success",
@@ -354,7 +354,7 @@ return {
     title = "Monty Hall",
     asset_path = "assets/xkcd/1282-monty-hall.png",
   },
-  ["title:Should you persist, pivot, pause or stop?"] = {
+  ["title:Deciding when you’re stuck"] = {
     page_path = "chapters/part-11/33-decide-and-stuck.qmd",
     comic_id = "1282",
     title = "Monty Hall",
@@ -366,7 +366,7 @@ return {
     title = "Impostor",
     asset_path = "assets/xkcd/451-impostor.png",
   },
-  ["title:What does research independence look like?"] = {
+  ["title:Independence and contribution"] = {
     page_path = "chapters/part-12/34-independence-contribution.qmd",
     comic_id = "451",
     title = "Impostor",
@@ -378,7 +378,7 @@ return {
     title = "Peer Review",
     asset_path = "assets/xkcd/2025-peer-review.png",
   },
-  ["title:How do you prepare for examination and corrections?"] = {
+  ["title:Examination and corrections"] = {
     page_path = "chapters/part-12/35-examination-corrections.qmd",
     comic_id = "2025",
     title = "Peer Review",
@@ -390,7 +390,7 @@ return {
     title = "Permanence",
     asset_path = "assets/xkcd/910-permanence.png",
   },
-  ["title:How do you close a project without losing its value?"] = {
+  ["title:Closing and archiving the project"] = {
     page_path = "chapters/part-12/36-closure-transition.qmd",
     comic_id = "910",
     title = "Permanence",

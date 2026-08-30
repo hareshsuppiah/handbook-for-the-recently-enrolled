@@ -1,5 +1,5 @@
 ---
-title: "Does your design support the claim you want to make?"
+title: "Matching the design to the claim"
 last-reviewed: "2026-08-28"
 ---
 
@@ -64,7 +64,7 @@ For each serious option ask:
 
 Mixed methods are justified when integration answers something the components cannot answer adequately alone—not because combining methods automatically makes a study stronger.
 
-## Build the alignment map
+## Put the question, data and claim side by side
 
 Complete one row per research question.
 
@@ -81,7 +81,7 @@ Complete one row per research question.
 
 Read the map in both directions. Forward reading tests feasibility. Backward reading tests whether each design choice is necessary for the final claim.
 
-## Worked example: prediction is not explanation
+## Example: prediction is not explanation
 
 **Initial question:** What causes doctoral candidates to withdraw?
 
@@ -130,7 +130,7 @@ Record each constraint as:
 
 Do not optimise a design around an unverified constraint.
 
-## Where the question-to-claim chain breaks
+## Where the logic breaks
 
 - selecting a method before stating the inference;
 - letting available data redefine the question without acknowledging the change;
@@ -143,7 +143,7 @@ Do not optimise a design around an unverified constraint.
 - ignoring community authority, cultural safety or the distribution of burden;
 - preserving broad claims after feasibility forces a narrow design.
 
-## When the design is defensible enough to proceed
+## Is the design ready?
 
 At proposal stage, the design is good enough to progress when:
 
@@ -183,6 +183,6 @@ Seek specialist advice early when the project depends on causal identification, 
 - [ ] A failure-sensitive pilot or early test is planned.
 - [ ] The decision and conditions for reconsideration are recorded.
 
-## Related practical resources
+## Try these resources
 
 Use the [method-options comparison table](../../templates/method-options.qmd) before committing and the [methodological decision record](../../templates/method-decision.qmd) once a provisional choice is made. If no option seems defensible, use [I’m stuck](../../stuck/index.qmd) rather than silently selecting the familiar method.

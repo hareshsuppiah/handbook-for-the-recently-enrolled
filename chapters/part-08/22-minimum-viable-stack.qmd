@@ -1,5 +1,5 @@
 ---
-title: "Which research tools do you actually need?"
+title: "Choosing a research toolkit"
 last-reviewed: "2026-08-28"
 ---
 
@@ -27,7 +27,7 @@ Original illustration created for *The Handbook for the Recently Enrolled* with 
 :::
 :::
 
-## Start with capabilities, not brands
+## Start with what the project needs
 
 Most graduate projects need some version of these capabilities:
 
@@ -71,7 +71,7 @@ Before adding a tool, answer:
 
 Do not begin with a feature comparison. Begin with a failure you are authorised to solve.
 
-## Build the minimum viable workflow
+## Start with the simplest workflow that works
 
 A straightforward workflow might be:
 
@@ -100,7 +100,7 @@ Ask:
 
 A graphical tool may be an excellent, reviewable choice for a bounded analysis. A programming language may be necessary for automation, complex transformations or reproducible scale. The correct question is not which tool is more impressive, but which workflow supports the inference and handover.
 
-## Integrate through durable boundaries
+## Choose formats that can travel
 
 Prefer connections that remain understandable:
 
@@ -128,7 +128,7 @@ Movement between zones is an explicit reviewed release, not an automatic sync.
 
 ARDC guidance treats storage, access, documentation, sharing and preservation as connected data practices [@ardc-good-data]. A convenient tool does not override the data-management plan.
 
-## Worked example: the overbuilt first month
+## Example: the overbuilt first month
 
 **Initial stack:** two note apps, three cloud drives, a task manager, a whiteboard, reference manager, shared spreadsheet, code repository, AI assistant and a new database. The candidate spends weeks designing integrations but cannot identify the approved location for participant data or the authoritative research plan.
 
@@ -185,7 +185,7 @@ Avoid introducing a major system immediately before a deadline unless it is requ
 - failing to export before leaving an account or institution;
 - repeatedly rebuilding the stack instead of doing the research.
 
-## What a minimum viable stack must do
+## What your toolkit needs to do
 
 The stack is ready when:
 
@@ -199,7 +199,7 @@ The stack is ready when:
 - redundant tools have been removed or made non-authoritative; and
 - review and exit dates are scheduled.
 
-## Ask about the missing capability, not the fashionable app
+## Ask what the current tools cannot do
 
 Bring:
 
@@ -224,6 +224,6 @@ Bring:
 - [ ] Tool versions and policies have review dates.
 - [ ] The stack remains smaller than the problem it solves.
 
-## Related practical resources
+## Try these resources
 
 Use the [living data-management plan](../../templates/data-management-plan.qmd), [backup and restore audit](../../checklists/backup-restore.qmd), [AI-use decision tree](../../checklists/ai-use-decision.qmd) and [Before project closure and handover](../../checklists/project-closure-handover.qmd). The next chapters compare [analysis, review and Quarto](23-analysis-review-quarto.qmd) and [Git, GitHub and AI-assisted workflows](24-git-github-ai.qmd).

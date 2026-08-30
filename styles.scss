@@ -179,6 +179,26 @@ a:hover {
   #quarto-margin-sidebar { width: 250px; }
 }
 
+/*
+Quarto can replace both sidebars with compact dropdown bars when an old
+reader-mode preference is still stored, or when it thinks page content
+overlaps a sidebar. This handbook deliberately keeps both contents lists in
+view on non-mobile screens.
+*/
+@media (min-width: 768px) {
+  #quarto-sidebarnav-toggle,
+  #quarto-toc-toggle {
+    display: none !important;
+  }
+
+  #quarto-sidebar > *,
+  #quarto-margin-sidebar > * {
+    opacity: 1 !important;
+    overflow: visible !important;
+    pointer-events: auto !important;
+  }
+}
+
 @media (min-width: 768px) and (max-width: 991.98px) {
   body { font-size: 1rem; }
   .content { max-width: 680px; }

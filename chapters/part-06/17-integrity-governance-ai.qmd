@@ -1,5 +1,5 @@
 ---
-title: "Can you use AI responsibly in this research?"
+title: "Research integrity, governance and AI"
 last-reviewed: "2026-08-28"
 ---
 
@@ -112,7 +112,7 @@ The current ARC–NHMRC position for their grant programs keeps responsibility a
 - test whether identifiable likenesses, voices or protected material were introduced; and
 - disclose synthetic or materially altered content according to the relevant venue and context.
 
-## Worked example: summarising confidential peer review
+## Example: summarising confidential peer review
 
 **Proposed task:** upload an unpublished manuscript and reviewer invitation to a public chatbot to draft the review.
 
@@ -205,6 +205,6 @@ Bring:
 - [ ] The record does not itself expose protected material.
 - [ ] The guidance and tool terms have a review date.
 
-## Related practical resources
+## Try these resources
 
 Use the [AI-use decision tree](../../checklists/ai-use-decision.qmd), [AI-use and verification log](../../templates/ai-use-log.qmd), [protocol-deviation log](../../templates/protocol-deviation.qmd) and [Before analysis](../../checklists/before-analysis.qmd). For suspected integrity concerns, follow the responsible local process and seek confidential advice rather than investigating people through an AI tool.

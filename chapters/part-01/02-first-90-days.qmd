@@ -1,5 +1,5 @@
 ---
-title: "What should you do in your first 90 days?"
+title: "Your first 90 days"
 last-reviewed: "2026-08-28"
 ---
 
@@ -11,7 +11,7 @@ The first 90 days are for building a working research environment, a functioning
 
 Doctoral training is broader than producing a thesis. Current UKRI expectations, for example, separate responsibilities across students, supervisors, research organisations, funders and collaborators, and include the research environment, support, research skills and professional development [@ukri-expectations-2024]. That framework is specific to funded UK training, but the division of responsibility is a useful warning: you are responsible for active participation and documented progress, not for personally providing every service, approval or safeguard the project needs.
 
-## The decision in front of you
+## What you need to decide
 
 Decide which foundations must exist before specialised work becomes reliable. Work in this order:
 
@@ -83,7 +83,7 @@ By the 90-day point, aim for a defensible provisional plan, not final certainty.
 
 Use the [First 90-day review](../../checklists/first-90-day-review.qmd) as a do-confirm pause point.
 
-## Decision rules
+## How to decide
 
 - **If the activity involves participants, restricted data, hazardous work or a controlled environment:** confirm the required approval, training and supervision before beginning.
 - **If an official milestone occurs inside 90 days:** work backwards from its evidence requirements, not from a generic calendar.
@@ -92,7 +92,7 @@ Use the [First 90-day review](../../checklists/first-90-day-review.qmd) as a do-
 - **If supervisors disagree:** record the disagreement, the evidence each view relies on, the decision owner and the next resolution point.
 - **If personal circumstances or accessibility needs affect participation:** contact the responsible service early; do not wait for a crisis to make the need visible.
 
-## Worked example: the proposal assumes data access
+## Example: the proposal assumes data access
 
 A doctoral researcher's application proposes analysing a partner organisation's records. During week one, nobody can identify a signed data-access agreement.
 
@@ -132,7 +132,7 @@ Bring a one-page state report:
 - **Recommendation:** what you think should happen and why.
 - **Request:** the decision, feedback or introduction you need.
 
-## Escalate now if
+## Get help now if
 
 - you are being asked to begin work without a required approval or training;
 - you cannot access essential supervision, facilities, funding or agreed support;
@@ -142,7 +142,7 @@ Bring a one-page state report:
 
 Use the responsible candidature, ethics, integrity, safety, accessibility, wellbeing or complaints route. A supervisor may help you navigate the route but is not always the decision-maker or appropriate sole recipient.
 
-## Related resources
+## Try these resources
 
 - [Starting candidature checklist](../../checklists/starting-candidature.qmd)
 - [First 90-day review](../../checklists/first-90-day-review.qmd)

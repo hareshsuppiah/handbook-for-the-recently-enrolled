@@ -1,5 +1,5 @@
 ---
-title: "What does a doctorate actually ask of you?"
+title: "What a doctorate asks of you"
 last-reviewed: "2026-08-28"
 ---
 
@@ -17,7 +17,7 @@ Your practical task is therefore to build a defensible chain:
 
 Every link will change as you learn. The standard is not “unchanging”. The standard is “traceable and defensible for the decision being made now”.
 
-## The decision in front of you
+## What you need to decide
 
 At any point in candidature, ask:
 
@@ -31,7 +31,7 @@ This prevents two common mistakes. The first is treating an early idea as though
 **Smallest useful next action:** Write one sentence for each of these prompts: “The decision is…”, “The evidence I have is…”, “The main uncertainty is…”, and “The next check is…”.
 :::
 
-## Four standards, not one
+## Four different standards
 
 “Good enough” changes with the purpose of the work. Use the correct threshold.
 
@@ -44,7 +44,7 @@ This prevents two common mistakes. The first is treating an early idea as though
 
 Do not use a low-risk drafting standard for ethics, safety, consent, privacy or integrity decisions. Those are stop points: the applicable approval or specialist advice comes before the activity.
 
-## A defensible way to proceed
+## A practical way forward
 
 ### 1. Name the object
 
@@ -70,7 +70,7 @@ Capture what was decided, why, by whom, what remains uncertain, and when it will
 
 Proceed when the threshold is met. Escalate when the uncertainty concerns approval, participant welfare, legal obligations, research integrity, safety, irrecoverable data loss or a change to the agreed candidature.
 
-## Worked example: “Is my question ready?”
+## Example: “Is my question ready?”
 
 **Initial thought:** “I want to study why students disengage.”
 
@@ -110,7 +110,7 @@ Use this as a **do-confirm** check at a handover, submission or decision point. 
 
 **Stop condition:** Do not proceed merely because a deadline is close if approval, participant welfare, integrity, safety or irreversible loss remains unresolved.
 
-## Bring a decision, not a plea for reassurance
+## Take a proposed decision to supervision
 
 Bring:
 
@@ -123,7 +123,7 @@ Bring:
 
 This turns supervision from “Is this okay?” into a decision-focused review.
 
-## Variation and local boundaries
+## What differs across projects
 
 Doctoral forms vary. A monograph, thesis by publication, creative practice doctorate, professional doctorate and industry-linked doctorate can express contribution differently. Part-time, remote, interdisciplinary and collaborative candidature also changes the rhythm and ownership of decisions. The common requirement to make a defensible contribution does not erase those differences.
 

@@ -1,5 +1,5 @@
 ---
-title: "What does research independence look like?"
+title: "Independence and contribution"
 last-reviewed: "2026-08-28"
 ---
 
@@ -63,7 +63,7 @@ Possible contribution types include:
 
 Originality need not mean that no related idea has ever existed. It can arise from the question, evidence, context, method, integration, explanation or demonstrated boundary. The Australian Qualifications Framework describes the research doctorate as making a significant and original contribution to knowledge; the exact standard is operationalised by the institution and field [@aqf-doctoral]. The UK QAA statement similarly emphasises original contribution through independent research while recognising varied doctoral forms [@qaa-doctoral].
 
-## Build the contribution chain
+## Show how the studies add up
 
 For every claimed contribution, map:
 
@@ -96,7 +96,7 @@ The whole-thesis contribution is not the sum of abstracts. Explain how component
 
 Use output-specific contribution records and required thesis declarations. Do not erase collaboration to appear independent. Do not claim work performed by others. Explain which decisions you led, which expertise you sought, how it affected the work and how you verified the integrated result.
 
-## Worked example: a multi-study contribution
+## Example: a multi-study contribution
 
 **Problem:** Athlete-reported recovery data are collected frequently, but interpretation varies across settings and workflows are difficult to audit.
 
@@ -112,7 +112,7 @@ Use output-specific contribution records and required thesis declarations. Do no
 
 **Candidate contribution:** framed the programme, led design and synthesis, implemented the workflow and integrated specialist measurement and practitioner input. Collaborator roles are reported separately.
 
-## Audit readiness, not identity
+## Look for evidence of independence
 
 For each domain mark:
 
@@ -149,7 +149,7 @@ The contribution is examination-ready when a defined audience, prior state, evid
 
 Bring the completed contribution map, whole-thesis claim, study-role matrix, candidate contribution evidence, three sceptical challenges, unresolved boundaries and one request: for example, “Which link in this contribution chain is least supported by the submitted thesis?”
 
-## Audit the evidence rather than your confidence
+## Check the record of your decisions
 
 - [ ] Independence is evidenced across decisions, not equated with working alone.
 - [ ] The contribution names audience, change, evidence and boundary.
@@ -162,7 +162,7 @@ Bring the completed contribution map, whole-thesis claim, study-role matrix, can
 - [ ] Remaining supported domains have a completion plan.
 - [ ] Formal declarations and local standards are identified.
 
-## Related practical resources
+## Try these resources
 
 Use the [thesis contribution map](../../templates/thesis-contribution-map.qmd), [contribution statement](../../templates/contribution-statement.qmd), [authorship conversation record](../../templates/authorship-conversation.qmd), [methodological decision record](../../templates/method-decision.qmd) and [before thesis submission checklist](../../checklists/before-thesis-submission.qmd).
 

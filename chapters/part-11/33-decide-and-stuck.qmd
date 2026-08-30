@@ -1,5 +1,5 @@
 ---
-title: "Should you persist, pivot, pause or stop?"
+title: "Deciding when you’re stuck"
 last-reviewed: "2026-08-28"
 ---
 
@@ -87,7 +87,7 @@ For each realistic route, compare:
 
 Previous investment matters only when it changes the future cost or value. It is not a reason by itself to continue.
 
-## Escalate a decision-ready problem
+## Take a clear problem to the right person
 
 A useful escalation contains:
 
@@ -102,7 +102,7 @@ A useful escalation contains:
 
 Leave out speculation, motive and unnecessary sensitive detail. Preserve supporting records in the authorised location rather than attaching them indiscriminately.
 
-## Worked example: waiting for supervisor feedback
+## Example: waiting for supervisor feedback
 
 **Outcome:** Submit the ethics application by 30 September.
 
@@ -118,7 +118,7 @@ Leave out speculation, motive and unnecessary sensitive detail. Preserve support
 
 **Evidence of done:** A recorded decision or formally revised milestone—not merely another message sent.
 
-## Worked example: method paralysis
+## Example: method paralysis
 
 Three plausible methods remain. The student has read for six weeks without defining what would choose among them.
 
@@ -128,7 +128,7 @@ Three plausible methods remain. The student has read for six weeks without defin
 
 More general reading is deferred unless one of those tests exposes a specific evidence gap.
 
-## When not to route through a supervisor
+## Problems that need a different route
 
 Use independent or formal support when the supervisor is implicated in bullying, harassment, discrimination, retaliation, unsafe conduct, authorship coercion, suspected misconduct or an unresolved conflict of interest. For imminent danger or urgent health needs, use emergency or health services. The handbook cannot assess urgency or guarantee confidentiality.
 
@@ -168,11 +168,11 @@ Bring the outcome, blocked decision, classification, facts and assumptions, chec
 - [ ] Review and escalation thresholds are dated.
 - [ ] Urgent or unsafe matters use an independent authorised route.
 
-## Related practical resources
+## Try these resources
 
 Start at the [I’m stuck diagnostic](../../stuck/index.qmd), then use the [pivot, continue or stop decision aid](../../checklists/pivot-continue-stop.qmd), [good-enough rubric](../../checklists/good-enough-rubric.qmd), [risk register](../../templates/risk-issues-register.qmd), [decision log](../../templates/decision-log.qmd) or [escalation message builder](../../templates/escalation-message.qmd).
 
-## Source note
+## Sources and limits
 
 The nine-class diagnostic is an editorial decision aid rather than a clinical or institutional escalation protocol. The candidate, supervisor and organisational responsibility boundaries are consistent with current doctoral-training guidance but must be replaced by the applicable local routes [@ukri-expectations-2024].
 

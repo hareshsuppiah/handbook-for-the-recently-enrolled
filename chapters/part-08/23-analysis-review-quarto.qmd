@@ -1,5 +1,5 @@
 ---
-title: "How should your analysis and writing tools work together?"
+title: "Analysis, writing and Quarto"
 last-reviewed: "2026-08-28"
 ---
 
@@ -127,7 +127,7 @@ Decide whether a document:
 
 State the choice. Do not imply that a public manuscript source can regenerate confidential analysis if the data and secure environment are necessarily separate.
 
-## Worked example: the manually updated table
+## Example: the manually updated table
 
 **Initial workflow:** run analysis in a graphical tool, copy values into Excel, reformat them, paste a screenshot into Word and adjust the text when values change.
 
@@ -167,7 +167,7 @@ Not every supervisor or collaborator will review source code. Provide:
 
 Do not force all feedback into code-platform terminology. Preserve the review decision and connect it back to the source.
 
-## Handoffs that quietly break the evidence chain
+## Where handoffs lose information
 
 - choosing R, Python or another tool for prestige rather than task fit;
 - assuming graphical analysis cannot be reproducible or code must be reproducible;
@@ -219,6 +219,6 @@ Bring:
 - [ ] Non-technical and technical reviewers both have appropriate routes.
 - [ ] Clean build, export and migration have been tested.
 
-## Related practical resources
+## Try these resources
 
 Use the [method-options comparison](../../templates/method-options.qmd), [Before analysis](../../checklists/before-analysis.qmd), [paper extraction template](../../templates/paper-triage-extraction.qmd), [search log](../../templates/search-log.qmd) and [supervisor review cover note](../../templates/supervisor-review-cover-note.qmd). Continue to [Git, GitHub and AI-assisted workflows](24-git-github-ai.qmd).

@@ -1,5 +1,5 @@
 ---
-title: "What should you expect from your supervisors?"
+title: "Roles, expectations and boundaries"
 last-reviewed: "2026-08-28"
 ---
 
@@ -83,7 +83,7 @@ Discuss these areas before a pattern hardens:
 **Smallest useful next action:** Complete the [Supervisor expectations conversation guide](../../templates/supervisor-expectations.qmd), then ask every supervisor to correct the draft. Do not ask them to approve a blank form.
 :::
 
-## Agree the decision architecture
+## Agree who decides what
 
 Multi-supervisor projects need a visible decision architecture:
 
@@ -95,7 +95,7 @@ Multi-supervisor projects need a visible decision architecture:
 
 Consensus is useful but not always possible. If advice conflicts, do not choose privately based on seniority or convenience. State the conflict, ask what evidence distinguishes the options and identify who owns the decision.
 
-## Worked example: incompatible feedback promises
+## Example: incompatible feedback promises
 
 One supervisor expects a complete chapter every two months and normally returns comments within two weeks. Another prefers short sections but travels frequently and cannot promise a fixed turnaround.
 
@@ -110,7 +110,7 @@ The team agrees:
 
 The agreement does not force identical working styles. It makes the differences manageable.
 
-## Decision rules
+## How to decide
 
 - **Routine and reversible:** the student proposes and acts, then records the outcome.
 - **Methodologically consequential:** seek relevant expertise and compare options before deciding.
@@ -145,17 +145,17 @@ The agreement does not force identical working styles. It makes the differences 
 
 Send a completed first draft. Flag the three areas where uncertainty would most affect the project. Ask each person: “What expectation here is wrong, missing or unrealistic from your perspective?”
 
-## When to escalate
+## When to get help
 
 Escalate outside ordinary supervision when essential supervision is persistently unavailable; progress is being harmed by unresolved conflict; formal responsibilities are not being met; you experience bullying, discrimination, harassment or retaliation; you are pressured to breach an approval or integrity standard; or a health, safety or wellbeing concern needs specialist support.
 
 Where safe, keep a factual record of dates, requests, responses and effects. Use current local routes and ask about confidentiality and process before disclosing sensitive details.
 
-## Variation and local boundaries
+## What differs across projects
 
 Expectations differ for laboratory groups, individual humanities projects, community partnerships, industry doctorates, cotutelles, remote candidature and projects with cultural governance. Availability may be shaped by part-time appointments or fieldwork. Adapt the agreement without weakening formal protections or hiding who can decide.
 
-## Related resources
+## Try these resources
 
 - [Supervisor expectations conversation guide](../../templates/supervisor-expectations.qmd)
 - [Supervision agreement](../../templates/supervision-agreement.qmd)

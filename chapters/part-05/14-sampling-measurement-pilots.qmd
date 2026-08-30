@@ -1,5 +1,5 @@
 ---
-title: "Are your sample, measures and pilot fit for purpose?"
+title: "Sampling, measurement and pilots"
 last-reviewed: "2026-08-28"
 ---
 
@@ -102,7 +102,7 @@ A pilot is not a miniature main study performed for reassurance. Define the unce
 
 For randomised pilot and feasibility trials, the CONSORT extension frames feasibility around whether a future definitive trial can and should be done and, if so, how, and recommends prespecified progression criteria [@eldridge2016pilot]. This guidance is specific to that family of studies. Its transferable lesson is to make progression decisions explicit, not to describe every small preliminary study as a trial.
 
-## Worked example: a survey that “works”
+## Example: a survey that “works”
 
 **Initial plan:** email an existing English-language wellbeing survey to 500 graduate researchers and proceed if at least 50 respond.
 
@@ -158,7 +158,7 @@ Before main data generation, good enough means:
 - approvals cover what will happen; and
 - pilot learning has been converted into documented decisions.
 
-## Bring the inference, not only the calculation
+## Discuss what the result can mean
 
 Bring:
 
@@ -183,6 +183,6 @@ Bring:
 - [ ] Approval, consent and protocol determine whether pilot data may be reused.
 - [ ] Pilot results and resulting decisions are retained.
 
-## Related practical resources
+## Try these resources
 
 Use the [pilot-readiness checklist](../../checklists/pilot-readiness.qmd), [before data collection checklist](../../checklists/before-data-collection.qmd), [method-options comparison](../../templates/method-options.qmd) and [methodological decision record](../../templates/method-decision.qmd). If adequacy cannot yet be defended, use [I’m stuck](../../stuck/index.qmd) before launching the main study.

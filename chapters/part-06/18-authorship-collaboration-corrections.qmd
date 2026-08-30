@@ -1,5 +1,5 @@
 ---
-title: "Who should receive authorship—and what if something goes wrong?"
+title: "Authorship, collaboration and corrections"
 last-reviewed: "2026-08-28"
 ---
 
@@ -66,7 +66,7 @@ Changes are normal. Secret or status-driven changes are not.
 - Record provisional agreement and what would trigger change.
 - Confirm the record with everyone, including dissent or unresolved issues.
 
-## Worked example: expected analysis does not happen
+## Example: expected analysis does not happen
 
 **Initial record:** Candidate A will lead conceptualisation, data collection, analysis and drafting; Statistician B will advise on design and verify analysis; Supervisor C will contribute to methodology and substantive revision. Provisional order: A, B, C, subject to completed contributions.
 
@@ -112,7 +112,7 @@ Possible routes include:
 
 Check the local process and confidentiality limits. Distinguish seeking advice from making a formal allegation.
 
-## Correct mistakes and disclosures proportionately
+## Correct the record
 
 When a possible error is found:
 
@@ -129,7 +129,7 @@ When a possible error is found:
 
 Australian publication guidance recommends accurate citation of primary sources where appropriate, transparency and timely correction of the record [@nhmrc-publication-guide]. The exact route depends on whether the material is an internal report, thesis, preprint, repository release, grant report or published article.
 
-### Error is not the same as misconduct
+### Distinguish mistakes from misconduct
 
 Do not diagnose intent from a discrepancy. Honest error, poor practice, dispute and potential breach require different evidence and processes. Protect records, use neutral factual language and seek the authorised process.
 
@@ -198,6 +198,6 @@ Bring:
 - [ ] Corrections reach every affected version and audience.
 - [ ] The contribution and correction records have review dates.
 
-## Related practical resources
+## Try these resources
 
 Use the [authorship conversation record](../../templates/authorship-conversation.qmd), [contribution statement template](../../templates/contribution-statement.qmd), [protocol-deviation log](../../templates/protocol-deviation.qmd) and [decision log](../../templates/decision-log.qmd). For suspected breaches or unsafe disputes, use the authorised confidential local process.

@@ -1,5 +1,5 @@
 ---
-title: "Could someone else reproduce this work?"
+title: "Reproducible research workflows"
 last-reviewed: "2026-08-28"
 ---
 
@@ -25,7 +25,7 @@ Name:
 
 “Reproduce the thesis” is too broad. “Regenerate Tables 2–4 from analysis-ready dataset release 1.2 using pipeline release 0.6 in the recorded environment” can be tested.
 
-## Build an inspectable workflow
+## Make each step visible
 
 Aim for a visible dependency chain:
 
@@ -53,7 +53,7 @@ Avoid hidden state: objects created interactively, absolute paths, undocumented 
 
 Provide example configuration and documented secret setup without real credentials. Fail clearly when required settings are absent.
 
-## Capture the environment proportionately
+## Record the software environment
 
 At minimum record:
 
@@ -118,7 +118,7 @@ Use a new checkout, fresh environment, controlled compute session or independent
 
 Do not call the run independent if the original analyst silently fixes it during execution.
 
-## Worked example: analysis works only on one laptop
+## Example: analysis works only on one laptop
 
 **Symptoms:** the report renders for the candidate but fails for the supervisor. The script reads `/Users/name/Desktop/data_final.csv`, uses packages installed months ago, assumes Melbourne time and loads a helper function from the interactive workspace.
 
@@ -198,6 +198,6 @@ Bring:
 - protected-data constraints; and
 - one precise dependency, test, packaging or interpretation problem.
 
-## Related practical resources
+## Try these resources
 
 Use [Before analysis](../../checklists/before-analysis.qmd), [Before project closure and handover](../../checklists/project-closure-handover.qmd), the [backup and restore audit](../../checklists/backup-restore.qmd) and [data dictionary](../../templates/data-dictionary.qmd). The technology chapters show how Quarto and version control can support—not replace—this reasoning.

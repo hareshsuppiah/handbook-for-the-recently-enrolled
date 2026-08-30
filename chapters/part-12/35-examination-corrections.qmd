@@ -1,11 +1,11 @@
 ---
-title: "How do you prepare for examination and corrections?"
+title: "Examination and corrections"
 last-reviewed: "2026-08-28"
 ---
 
 A thesis can always be improved, which makes “finished” a poor submission test. Examination asks a more useful question: does the thesis make a clear contribution through a coherent, transparent and defensible body of work that meets the local rules? Build that case explicitly, audit the chain from questions to conclusions and verify the exact submission package. If corrections follow, turn each requirement into a traceable decision and keep the work inside the examiner’s requested scope unless a wider change is genuinely necessary.
 
-## Prepare an examination case, not a perfect document
+## Make the thesis easy to examine
 
 Submit when the thesis makes a coherent, bounded contribution and the exact package passes scholarly, integrity, permission and formal checks—not when every sentence feels immune to criticism. Prepare by tracing contribution, methods, evidence, decisions and limitations to exact thesis locations and rehearsing sceptical questions.
 
@@ -28,7 +28,7 @@ Prepare a concise map of:
 
 Do not memorise a performance script that is disconnected from the submitted thesis. The map should point to exact pages, tables, figures or artefacts.
 
-## Run a sceptical-examiner audit
+## Read it like a sceptical examiner
 
 Ask at least:
 
@@ -139,7 +139,7 @@ For each correction:
 
 Do not create new unexamined claims under the banner of correction. If a requested change would be methodologically invalid, impossible, unsafe or outside the permitted scope, explain the problem with evidence and seek a ruling. The candidate should not privately decide to ignore it.
 
-## Worked example: an examiner asks for “more analysis”
+## Example: an examiner asks for “more analysis”
 
 **Requirement:** “Provide further analysis to account for site differences.”
 
@@ -191,11 +191,11 @@ Bring the contribution map, sceptical-question audit, failed readiness checks, e
 - [ ] Every correction preserves the exact requirement and verification.
 - [ ] Acceptance—not merely revision—closes the corrections record.
 
-## Related practical resources
+## Try these resources
 
 Use the [before thesis submission checklist](../../checklists/before-thesis-submission.qmd), [thesis contribution map](../../templates/thesis-contribution-map.qmd), [authorship conversation record](../../templates/authorship-conversation.qmd), [decision log](../../templates/decision-log.qmd) and [project closure and handover checklist](../../checklists/project-closure-handover.qmd).
 
-## Source note
+## Sources and limits
 
 The broad account of doctoral contribution and varied assessment forms is informed by current AQF and QAA qualification descriptions; the institution's rules control the actual examination [@aqf-doctoral; @qaa-doctoral].
 

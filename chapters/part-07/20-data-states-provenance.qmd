@@ -1,5 +1,5 @@
 ---
-title: "Can you trace where this dataset came from?"
+title: "Data states, codebooks and provenance"
 last-reviewed: "2026-08-28"
 ---
 
@@ -44,7 +44,7 @@ On receipt or capture, retain:
 
 If correction of the source record is necessary, preserve the original and create a documented corrected version. Do not silently edit values in place.
 
-## Make transformations executable or auditable
+## Record every change to the data
 
 Prefer scripts, queries or structured workflows that can be rerun. Where manual judgement is necessary, preserve a decision log or annotation record containing:
 
@@ -59,7 +59,7 @@ Prefer scripts, queries or structured workflows that can be rerun. Where manual 
 
 Spreadsheet editing can be appropriate, but hidden cell changes, sorting errors and overwritten formulas are difficult to audit. Retain imports, use validation, protect identifier columns, export change logs where possible and compare outputs to expectations.
 
-## Build a provenance chain
+## Keep the data trail
 
 For every published number, quotation, image or model, aim to trace:
 
@@ -102,7 +102,7 @@ For qualitative or unstructured material, a codebook may instead record code nam
 
 A dictionary documents meaning. It does not establish that a measure is valid.
 
-## Worked example: the changing status variable
+## Example: the changing status variable
 
 **Incoming field:** `STATUS` contains `A`, `I`, `W`, `T`, blanks and `0` across five yearly extracts.
 
@@ -175,7 +175,7 @@ Do not assume the latest attachment supersedes the prior research record.
 - publishing a de-identified dataset without a separate release review;
 - retaining a final table without the code, inputs and decisions that produced it.
 
-## When another person can follow the provenance chain
+## Can someone else follow the data trail?
 
 Before substantive analysis:
 
@@ -189,7 +189,7 @@ Before substantive analysis:
 - the analysis-ready input is fixed for the named analysis; and
 - outputs can be traced back to authority and source.
 
-## Bring the disputed transformation, not the whole folder
+## Show the exact transformation in dispute
 
 Bring:
 
@@ -202,6 +202,6 @@ Bring:
 - test results for a difficult record; and
 - the exact meaning, authority or analysis question you cannot resolve.
 
-## Related practical resources
+## Try these resources
 
 Use the [data dictionary and codebook](../../templates/data-dictionary.qmd), [folder and file-naming starter](../../templates/folder-file-naming.qmd), [protocol-deviation log](../../templates/protocol-deviation.qmd) and [Before analysis](../../checklists/before-analysis.qmd). Continue to [Reproducible workflows](21-reproducible-workflows.qmd) for code, environments and clean-run checks.

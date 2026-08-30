@@ -1,5 +1,5 @@
 ---
-title: "How do you share work without losing control of scope?"
+title: "Collaboration, handoffs and scope"
 last-reviewed: "2026-08-28"
 ---
 
@@ -26,7 +26,7 @@ A set of publishable studies is not automatically a thesis. Map the programme be
 
 Common study roles include defining the problem, developing or validating a measure, estimating a pattern, testing an explanation, evaluating an intervention, examining implementation or integrating perspectives. Two studies that repeat the same inferential job with different samples may still be justified, but the replication or comparison logic must be explicit.
 
-## Map dependencies without creating a brittle chain
+## Show what depends on what
 
 Distinguish four relationships:
 
@@ -54,7 +54,7 @@ One person can hold several roles, but the roles should not be confused. A stati
 
 Authority should be attached to the decision, not assumed from seniority. Record unresolved disagreement and use the relevant governance route when the team cannot safely or legitimately decide it internally.
 
-## Write an interface contract for consequential shared work
+## Write down what each person will hand over
 
 An interface contract can be a short table, ticket or cover note. It should state:
 
@@ -109,7 +109,7 @@ Project memory is the minimum recoverable explanation of how the current state c
 
 Do not duplicate the same truth across many files without naming which version governs. Prefer links and stable identifiers. Archive superseded material without making it look current.
 
-## Control scope at three boundaries
+## Set the scope at three levels
 
 ### Candidature boundary
 
@@ -125,7 +125,7 @@ Was the work included in the agreed outcome, role and resource commitment? A par
 
 When new work appears, classify it as required, replacing existing scope, optional if capacity remains, deferred, separately resourced or declined. “Yes” without naming what moves is not a plan.
 
-## Worked example: a shared analysis changes hands
+## Example: a shared analysis changes hands
 
 **Situation:** A collaborator who developed the primary analysis is leaving. They have sent a script and one output table. The student can open the files but cannot recreate the table from the approved data extract.
 
@@ -174,7 +174,7 @@ Preserve factual records in an authorised secure location. Do not put sensitive 
 
 A collaboration is workable when each consequential deliverable has an owner, authority path, interface and acceptance test; project memory can be recovered without one person's private knowledge; shared dependencies and fallbacks are visible; studies have distinct roles in the overall argument; and new work cannot enter unnoticed.
 
-## Put the boundary and acceptance test in writing
+## Write down the limits and what “done” means
 
 Bring:
 
@@ -199,11 +199,11 @@ Bring:
 - [ ] New work is accepted with displacement and resource consequences visible.
 - [ ] Sensitive disputes use an authorised independent route.
 
-## Related practical resources
+## Try these resources
 
 Use the [repository README template](../../templates/repository-readme.qmd), [data-management plan](../../templates/data-management-plan.qmd), [data dictionary](../../templates/data-dictionary.qmd), [decision log](../../templates/decision-log.qmd), [action register](../../templates/action-register.qmd), [authorship conversation record](../../templates/authorship-conversation.qmd) and [project closure and handover checklist](../../checklists/project-closure-handover.qmd).
 
-## Source note
+## Sources and limits
 
 The interface-contract and handoff structure is editorial synthesis. Its contribution, accountability, research-record and reproducibility boundaries draw on the Australian Code, CRediT and reproducibility guidance without treating any one as a universal project-management standard [@australian-code-2018; @credit-taxonomy; @nasem-reproducibility-2019].
 

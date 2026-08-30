@@ -1,11 +1,11 @@
 ---
-title: "How do you use Git, GitHub and AI safely?"
+title: "Git, GitHub and AI-assisted workflows"
 last-reviewed: "2026-08-28"
 ---
 
 Git can preserve a clear history of change; GitHub can make review visible; an AI agent can draft work quickly. None of them decides what is safe to expose or what counts as a correct change. Begin with non-sensitive material, learn the small commit-and-review loop and run a privacy check before anything reaches a remote service. When an agent is involved, treat its work as a proposed change: inspect the diff, test the result and keep publishing behind a human decision.
 
-## Keep every change inspectable and reversible
+## Make changes easy to review and undo
 
 Git records recoverable changes to suitable files. GitHub is one possible hosted collaboration service around Git. Neither is an approved research-data store by default.
 
@@ -61,7 +61,7 @@ Private repository visibility reduces exposure; it does not make every file appr
 
 `.gitignore` prevents untracked matching files from being added automatically. It does not remove a file already committed.
 
-## Use a small, inspectable commit loop
+## Make small commits you can explain
 
 ```text
 sync → inspect status → edit → test/render → inspect diff → stage named files → inspect staged diff → commit → push → verify remote
@@ -94,7 +94,7 @@ A simple research workflow:
 
 The vocabulary can be translated for contributors: “suggest an improvement”, “proposed change” and “editorial approval” are often clearer than software jargon.
 
-## Worked example: correcting a reported result
+## Example: correcting a reported result
 
 **Issue:** Figure 2 uses an outdated analysis-ready dataset.
 
@@ -119,7 +119,7 @@ If personal, confidential, embargoed or restricted material is committed, preser
 
 Deleting the latest file does not delete repository history. GitHub documents that sensitive-data removal can require history rewriting, coordination across clones and forks, and additional support steps [@github-sensitive-removal]. Treat prevention and incident response as safer than casual cleanup.
 
-## Use issues as suggestions, not direct public editing
+## Let readers suggest changes through issues
 
 For a community-facing handbook or shared project, readers should be able to submit:
 
@@ -211,7 +211,7 @@ A repository workflow is ready when:
 - remote, backup and archive roles are distinguished; and
 - incident, release and maintenance owners are known.
 
-## Bring the diff and the risk, not a vague tool question
+## Show the exact change and its risk
 
 Bring:
 
@@ -224,6 +224,6 @@ Bring:
 - AI task record if applicable; and
 - one precise privacy, collaboration, versioning or release question.
 
-## Related practical resources
+## Try these resources
 
 Use the [Git and GitHub starter workflow](../../checklists/git-github-starter.qmd), [repository README template](../../templates/repository-readme.qmd), [AI-use decision tree](../../checklists/ai-use-decision.qmd), [AI-use log](../../templates/ai-use-log.qmd) and [Before project closure and handover](../../checklists/project-closure-handover.qmd).

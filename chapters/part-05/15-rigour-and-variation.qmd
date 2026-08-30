@@ -1,5 +1,5 @@
 ---
-title: "How will you test the rigour of your method?"
+title: "Rigour, bias and methodological choices"
 last-reviewed: "2026-08-28"
 ---
 
@@ -87,7 +87,7 @@ When a difference is detected:
 
 Never rewrite the protocol or overwrite a file to make the deviation disappear.
 
-## Worked example: an unexpected exclusion
+## Example: an unexpected exclusion
 
 **Plan:** analyse wearable-device data when participants have at least four valid days, based on the prespecified rule.
 
@@ -137,7 +137,7 @@ Use four labels in your notes and writing:
 
 If two standards conflict, do not silently combine them. Determine which governs the work, which is advisory, and whether the conflict changes the design or claim.
 
-## Method and discipline pathway
+## What rigour means in your field
 
 Before finalising the rigour plan:
 
@@ -164,7 +164,7 @@ Reporting guidelines can reveal missing design details, but completing a checkli
 - equating a null, messy or contradictory result with study failure;
 - claiming generalisability, transferability or causality beyond the design.
 
-## When the quality case is proportionate and visible
+## When you have done enough
 
 A rigour plan is ready for substantive review when:
 
@@ -201,6 +201,6 @@ Bring:
 - [ ] Contrary evidence and interpretations are actively considered.
 - [ ] Final claim boundaries reflect unresolved threats.
 
-## Related practical resources
+## Try these resources
 
 Use the [methodological decision record](../../templates/method-decision.qmd), [protocol-deviation log](../../templates/protocol-deviation.qmd), [pilot-readiness checklist](../../checklists/pilot-readiness.qmd) and [before-analysis checklist](../../checklists/before-analysis.qmd). If no quality criterion seems to fit, use [I’m stuck](../../stuck/index.qmd) and seek method-specific advice.

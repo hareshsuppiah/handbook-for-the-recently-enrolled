@@ -1,5 +1,5 @@
 ---
-title: "Is this research topic worth pursuing?"
+title: "Choosing a topic worth pursuing"
 last-reviewed: "2026-08-28"
 ---
 
@@ -64,7 +64,7 @@ Before major commitment:
 
 A feasibility test should answer a decision. “Run a pilot” is not enough; specify what result would lead to continue, revise or stop.
 
-## Worked example: the prestigious but inaccessible dataset
+## Example: the prestigious but inaccessible dataset
 
 A project proposes a novel analysis of a national administrative dataset. The proposal assumes access within six months.
 
@@ -78,7 +78,7 @@ Due diligence finds:
 
 The decision is not simply “wait for access”. The team records two designs, applies for controlled access, begins the required training and sets a gate: if variable availability is not confirmed by the stated date, the public-data question becomes the primary study.
 
-## A proportionate decision
+## Decide how much checking is enough
 
 | Finding | Response |
 |---|---|
@@ -122,7 +122,7 @@ Bring the one-page topic case, completed canvas, strongest contrary evidence, ma
 
 Access, ethics, privacy, safety, cultural governance, legal obligations, specialist methods, intellectual property, funding or partner authority exceeds the team's competence or decision rights.
 
-## Related resources
+## Try these resources
 
 - [Topic due-diligence canvas](../../templates/topic-due-diligence.qmd)
 - [One-page topic case](../../templates/topic-case.qmd)
@@ -131,7 +131,7 @@ Access, ethics, privacy, safety, cultural governance, legal obligations, special
 - [Contribution statement](../../templates/contribution-statement.qmd)
 - [I’m stuck](../../stuck/index.qmd)
 
-## Source note
+## Sources and limits
 
 The due-diligence canvas is an editorial synthesis. Its challenge to gap-only justification is informed by research on gap-spotting and problematisation, with the stated discipline limitations [@alvesson-sandberg-2011; @sandberg-alvesson-2011].
 

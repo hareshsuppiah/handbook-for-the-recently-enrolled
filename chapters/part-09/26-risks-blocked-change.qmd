@@ -1,5 +1,5 @@
 ---
-title: "What should you do when work is blocked or plans change?"
+title: "Risks, blocked work and changing plans"
 last-reviewed: "2026-08-28"
 ---
 
@@ -46,7 +46,7 @@ That is more actionable than “data access: high risk”. Record:
 
 Numbers and red–amber–green labels can create false precision. Use them only when the team shares definitions. A plain description of consequence, urgency and uncertainty is often clearer.
 
-## Choose a proportionate response
+## Match the response to the problem
 
 For an ordinary project risk, consider whether to:
 
@@ -89,7 +89,7 @@ Then identify parallel work that remains legitimate. Preparing code against synt
 **Smallest useful next action:** Write one sentence naming the blocked outcome, the constraint, its owner and the date at which the current route becomes untenable. Then take that sentence to the person with authority to decide among realistic options.
 :::
 
-## Use change control as reasoning, not bureaucracy
+## Record why the plan changed
 
 A baseline is the last accepted version of the relevant plan: research question, protocol, analysis plan, ethics application, data-management plan, authorship understanding, milestone or output scope. A change request explains why that baseline should change and what else the change affects.
 
@@ -110,7 +110,7 @@ Record the current baseline, precipitating evidence, realistic options, recommen
 
 Small reversible adjustments do not need elaborate paperwork. The record should be proportionate to the consequence and reversibility. A change affecting participant-facing material, consent, approved data use, safety, registered analysis or contractual commitments may be consequential even if it takes only minutes to edit.
 
-## Worked example: access has not arrived
+## Example: access has not arrived
 
 **Baseline:** The primary study uses a partner-controlled dataset. Written access confirmation was required by 15 September so analysis could begin in October.
 
@@ -149,11 +149,11 @@ Small reversible adjustments do not need elaborate paperwork. The record should 
 - treating sunk effort as a reason to continue an untenable route; and
 - hiding bad news until no feasible alternative remains.
 
-## When the response is proportionate to the risk
+## Check that the response fits the risk
 
 Risk and change control are usable when consequential uncertainties and current problems are distinguished; every live item has an owner and next decision point; waiting has a follow-up threshold; blockers identify the affected outcome and alternatives; material changes have an impact analysis and authority path; and closure is supported by evidence rather than disappearance from a list.
 
-## Escalate a decision-ready description
+## Take a clear account of the problem
 
 Bring:
 
@@ -179,11 +179,11 @@ Bring:
 - [ ] Accepted changes update all linked records.
 - [ ] Closure requires observable evidence.
 
-## Related practical resources
+## Try these resources
 
 Use the [risk and issues register](../../templates/risk-issues-register.qmd), [unresolved-questions log](../../templates/unresolved-questions.qmd), [decision log](../../templates/decision-log.qmd), [action register](../../templates/action-register.qmd) and [pivot, continue or stop decision aid](../../checklists/pivot-continue-stop.qmd). If classification or escalation remains unclear, use the [I’m stuck pathway](../../stuck/index.qmd).
 
-## Source note
+## Sources and limits
 
 The risk-state and change-impact framework is an editorial decision aid. Its authority-before-action boundary is supported by the Australian Code and, for Australian human research, the National Statement; other jurisdictions and local processes must be checked [@australian-code-2018; @national-statement-2025].
 

@@ -43,47 +43,47 @@ book:
         - chapters/part-04/10-search-ladder.qmd
         - chapters/part-04/11-reproducible-searching.qmd
         - chapters/part-04/12-reading-and-synthesis.qmd
-    - part: "Designing research you can defend"
+    - part: "Designing your research"
       chapters:
         - chapters/part-05/13-design-alignment.qmd
         - chapters/part-05/14-sampling-measurement-pilots.qmd
         - chapters/part-05/15-rigour-and-variation.qmd
-    - part: "Protecting people and research integrity"
+    - part: "Ethics, integrity and governance"
       chapters:
         - chapters/part-06/16-ethics-privacy-consent.qmd
         - chapters/part-06/17-integrity-governance-ai.qmd
         - chapters/part-06/18-authorship-collaboration-corrections.qmd
-    - part: "Keeping data, code and decisions traceable"
+    - part: "Data, code and reproducibility"
       chapters:
         - chapters/part-07/19-data-management-storage.qmd
         - chapters/part-07/20-data-states-provenance.qmd
         - chapters/part-07/21-reproducible-workflows.qmd
-    - part: "Choosing research technology"
+    - part: "Choosing research tools"
       chapters:
         - chapters/part-08/22-minimum-viable-stack.qmd
         - chapters/part-08/23-analysis-review-quarto.qmd
         - chapters/part-08/24-git-github-ai.qmd
-    - part: "Keeping the project moving"
+    - part: "Running the project"
       chapters:
         - chapters/part-09/25-milestones-weekly-work.qmd
         - chapters/part-09/26-risks-blocked-change.qmd
         - chapters/part-09/27-collaboration-handoffs-scope.qmd
-    - part: "Writing, publishing and communicating"
+    - part: "Writing and publishing"
       chapters:
         - chapters/part-10/28-writing-and-argument.qmd
         - chapters/part-10/29-reviewable-work-feedback.qmd
         - chapters/part-10/30-publishing-review-communication.qmd
-    - part: "Recovering when plans fail"
+    - part: "When plans fail"
       chapters:
         - chapters/part-11/31-failed-studies.qmd
         - chapters/part-11/32-technical-failure-perfectionism.qmd
         - chapters/part-11/33-decide-and-stuck.qmd
-    - part: "Finishing well and becoming independent"
+    - part: "Finishing the doctorate"
       chapters:
         - chapters/part-12/34-independence-contribution.qmd
         - chapters/part-12/35-examination-corrections.qmd
         - chapters/part-12/36-closure-transition.qmd
-    - part: "Checklists for important pause points"
+    - part: "Checklists"
       chapters:
         - resources.qmd
         - checklists/index.qmd
@@ -106,7 +106,7 @@ book:
         - checklists/pivot-continue-stop.qmd
         - checklists/before-thesis-submission.qmd
         - checklists/project-closure-handover.qmd
-    - part: "Templates you can use"
+    - part: "Templates"
       chapters:
         - templates/supervisor-expectations.qmd
         - templates/supervision-agreement.qmd
@@ -141,7 +141,7 @@ book:
         - templates/reviewer-response.qmd
         - templates/escalation-message.qmd
         - templates/thesis-contribution-map.qmd
-    - part: "Find a way forward when you’re stuck"
+    - part: "When you’re stuck"
       chapters:
         - stuck/index.qmd
         - stuck/starting-or-expectations.qmd
@@ -155,7 +155,7 @@ book:
         - stuck/relationship-or-authorship.qmd
         - stuck/good-enough.qmd
         - stuck/wellbeing-or-safety.qmd
-    - part: "Support and contributions"
+    - part: "Contributing to the handbook"
       chapters:
         - support.qmd
         - contributions/index.qmd

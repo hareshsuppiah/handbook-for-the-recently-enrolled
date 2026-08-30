@@ -1,5 +1,5 @@
 ---
-title: "How do you use feedback and handle disagreement?"
+title: "Feedback, disagreement and independence"
 last-reviewed: "2026-08-28"
 ---
 
@@ -70,7 +70,7 @@ Check the agreed window before treating the delay as a relationship problem. The
 
 Name the material, request, date and consequence. If delay repeatedly threatens progress, use the continuity or formal support route recorded in the supervision agreement.
 
-## Worked example: “Make the literature review more critical”
+## Example: “Make the literature review more critical”
 
 The comment is too broad to implement directly.
 
@@ -85,7 +85,7 @@ The response matrix proposes:
 
 The feedback becomes an inspectable revision, not an instruction to “try harder”.
 
-## Disagreement and escalation ladder
+## When you disagree
 
 Use the least formal route that is safe and proportionate:
 
@@ -135,7 +135,7 @@ Independence is domain-specific. You may be highly independent in analysis and a
 
 Bring what you checked, the strongest evidence, realistic options, your recommendation and one precise request. Use: “I recommend option B because… The main limitation is… Please challenge the inference and tell me what evidence would change the decision.”
 
-## Escalate now if
+## Get help now if
 
 - you are pressured to breach ethics, integrity, safety or legal requirements;
 - bullying, harassment, discrimination, retaliation or serious relationship strain is present;
@@ -144,7 +144,7 @@ Bring what you checked, the strongest evidence, realistic options, your recommen
 - authorship, intellectual property or partner power creates a conflict requiring independent advice;
 - health or wellbeing requires specialist or urgent support.
 
-## Related resources
+## Try these resources
 
 - [Supervisor review cover note](../../templates/supervisor-review-cover-note.qmd)
 - [Feedback response matrix](../../templates/feedback-response.qmd)

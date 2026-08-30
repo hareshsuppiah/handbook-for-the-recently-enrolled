@@ -1,5 +1,5 @@
 ---
-title: "How do you make a literature search reproducible?"
+title: "Reproducible literature searches"
 last-reviewed: "2026-08-28"
 ---
 
@@ -40,7 +40,7 @@ Do not mechanically include every element of a question. Outcomes are sometimes 
 **Smallest useful next action:** Put one concept in each column of the [Search-concept table](../../templates/search-concepts.qmd), then test whether the draft strategy retrieves three known relevant records for the right reason.
 :::
 
-## Translate, do not paste
+## Check each translated search string
 
 For every database or source:
 
@@ -78,7 +78,7 @@ Citation searching, website searching, author searching, trial or study register
 
 The TARCiS statement distinguishes backward, forward and indirect citation methods and asks reviewers to report direction, resources and seed records [@hirt2024tarcis]. Citation searching can complement text searching; it cannot be assumed to reproduce a comprehensive review on its own.
 
-## Worked example: a search becomes unrecoverable
+## Example: a search becomes unrecoverable
 
 A student records: “Scopus, March, about 800 hits.” After screening begins, they cannot reproduce the set because the exact date, platform syntax, fields and filters are missing.
 
@@ -135,7 +135,7 @@ Never use “I had enough papers” as the sole rule for a completeness-sensitiv
 
 Bring the question, eligibility logic, concept table, draft strategies, known records, planned sources, required output, deadline and the specific uncertainty. Ask what the approach could systematically miss and which change would most improve retrieval.
 
-## Related resources
+## Try these resources
 
 - [Search-concept table](../../templates/search-concepts.qmd)
 - [Search log](../../templates/search-log.qmd)

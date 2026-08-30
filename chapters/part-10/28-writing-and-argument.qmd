@@ -1,5 +1,5 @@
 ---
-title: "How do you turn a draft into an argument?"
+title: "Writing an argument"
 last-reviewed: "2026-08-28"
 ---
 
@@ -62,7 +62,7 @@ The second version compares evidence, states the inferential boundary and explai
 
 A citation supplies neither a warrant nor automatic authority. Open the source, locate the support, check its design and scope, and make your reasoning visible.
 
-## Use a claim ladder
+## Match the claim to the evidence
 
 Before polishing, test the strength of the verb:
 
@@ -128,7 +128,7 @@ For every paragraph, write a margin note containing:
 
 Then inspect the sequence. Repeated functions reveal duplication. Paragraphs with no section role are candidates for removal or relocation. Missing steps expose reasoning gaps. A paragraph doing four jobs may need division.
 
-## Worked example: too many citations, no argument
+## Example: too many citations, no argument
 
 **Draft:** Six paragraphs summarise one paper each on doctoral feedback. The final sentence says feedback is important. No paragraph compares settings, feedback content or outcome measures.
 
@@ -205,11 +205,11 @@ Bring:
 - [ ] Substantive revision precedes sentence polishing.
 - [ ] Unresolved markers have owners and removal gates.
 
-## Related practical resources
+## Try these resources
 
 Use the [synthesis and argument map](../../templates/synthesis-argument-map.qmd), [evidence matrix](../../templates/evidence-matrix.qmd), [before writing up a study checklist](../../checklists/before-study-write-up.qmd), [protocol-deviation log](../../templates/protocol-deviation.qmd) and [supervisor review cover note](../../templates/supervisor-review-cover-note.qmd). Continue to [Reviewable work and feedback](29-reviewable-work-feedback.qmd).
 
-## Source note
+## Sources and limits
 
 The Australian publication and dissemination guide is used here for responsible reporting and attribution principles, not as a universal thesis-format rule [@nhmrc-publication-guide].
 

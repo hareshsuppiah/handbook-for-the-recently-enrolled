@@ -1,5 +1,5 @@
 ---
-title: "Is this a technical problem, perfectionism or scope creep?"
+title: "Technical problems, perfectionism and scope creep"
 last-reviewed: "2026-08-28"
 ---
 
@@ -152,7 +152,7 @@ Every addition should name its evidence, cost, owner and displacement. A new ana
 
 Set a scope freeze before consequential review or submission. After the freeze, admit only critical corrections, formal requirements or explicitly approved changes. Put attractive ideas into a later-work register instead of letting them reopen the package.
 
-## Worked example: the analysis only runs on one laptop
+## Example: the analysis only runs on one laptop
 
 **Failure:** The student can reproduce Table 3 only in an old interactive session. A clean run fails because an object called `analysis_data_final` is absent.
 
@@ -166,7 +166,7 @@ Set a scope freeze before consequential review or submission. After the freeze, 
 
 **Stop rule:** Do not spend three days styling the table until the clean-run and value checks pass.
 
-## Worked example: endless “final” thesis polishing
+## Example: endless “final” thesis polishing
 
 **Current state:** The thesis passed substantive supervisor review, but the student has redesigned figures twice and repeatedly rewrites the opening. Submission has moved by six weeks.
 
@@ -216,11 +216,11 @@ Bring the smallest safe failing example, exact steps and error, expected/actual 
 - [ ] New scope includes cost and displacement.
 - [ ] Capacity, wellbeing and safety use appropriate support routes.
 
-## Related practical resources
+## Try these resources
 
 Use the [good-enough-for-this-stage rubric](../../checklists/good-enough-rubric.qmd), [before-analysis checklist](../../checklists/before-analysis.qmd), [reproducibility checklist](../../checklists/project-closure-handover.qmd), [Git and GitHub starter](../../checklists/git-github-starter.qmd), [risk and issues register](../../templates/risk-issues-register.qmd) and [I’m stuck diagnostic](../../stuck/index.qmd).
 
-## Source note
+## Sources and limits
 
 The troubleshooting and stage-gate structure is editorial synthesis. Its clean-run, environment and computational-reproducibility principles are aligned with NASEM and The Turing Way, with non-computational and discipline-specific limits stated [@nasem-reproducibility-2019; @turing-way-environments].
 

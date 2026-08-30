@@ -1,5 +1,5 @@
 ---
-title: "What evidence shows your project is moving?"
+title: "Milestones, dependencies and weekly progress"
 last-reviewed: "2026-08-28"
 ---
 
@@ -126,7 +126,7 @@ Plans at different horizons should connect; the weekly list should not become a 
 9. **Communicate:** send decisions or requests that others need.
 10. **Record:** retain the weekly state, not every transient thought.
 
-## Worked example: the “90% complete” chapter
+## Example: the “90% complete” chapter
 
 **Claim:** literature chapter is 90% complete.
 
@@ -225,11 +225,11 @@ Bring:
 - [ ] Evidence—not invented percentages—determines status.
 - [ ] The plan is revised after material changes.
 
-## Related practical resources
+## Try these resources
 
 Use the [action register](../../templates/action-register.qmd), [risk and issues register](../../templates/risk-issues-register.qmd), [decision log](../../templates/decision-log.qmd), [unresolved-questions log](../../templates/unresolved-questions.qmd) and [supervision agenda](../../templates/meeting-agenda.qmd). Continue to [Risks, blocked work and change](26-risks-blocked-change.qmd).
 
-## Source note
+## Sources and limits
 
 The milestone and weekly-evidence model is an editorial project-control framework. It does not replace formal institutional milestones; the broader distribution of responsibilities across candidates, supervisors and organisations is consistent with current doctoral-training guidance [@ukri-expectations-2024].
 

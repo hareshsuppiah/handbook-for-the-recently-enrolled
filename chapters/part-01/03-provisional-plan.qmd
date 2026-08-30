@@ -1,15 +1,15 @@
 ---
-title: "How do you turn a proposal into a workable plan?"
+title: "From proposal to research plan"
 last-reviewed: "2026-08-28"
 ---
 
-A proposal is written to show that a project could be worthwhile. Once you enrol, the job changes. You now have to find out whether its assumptions survive contact with real data access, recruitment, ethics, time and expertise. That does not mean the proposal was wrong or that changing it is failure. It means the proposal has become a set of claims to test. A workable plan records what is known, what is assumed, what could block the project and which decision must be made next.
+A proposal's job is to show that a project could be worth doing. Once you enrol, you can test whether access and recruitment are feasible, what ethics will allow, and whether you have enough time and expertise. Some assumptions will hold. Others will not. The research plan should show what you know, what you are still guessing, what could block the work and which decision comes next.
 
-## Treat the proposal as a starting hypothesis
+## Start by testing the proposal
 
-Use the proposal as an opening argument rather than a contract with the future. Convert it into a provisional plan that separates commitments, evidence, assumptions, options and unknowns. Add dependencies and review points so the plan can change without losing its history.
+Read the proposal as an opening argument. Go through it line by line and separate commitments, evidence, assumptions, options and unknowns. Then add the dependencies and review points that were probably invisible when the proposal was written.
 
-A useful plan does not predict every future task. It makes the next consequential decisions visible, states what evidence would support them and shows what could block them.
+A useful plan makes the next important decisions visible. It also says what evidence would support them and what could get in the way.
 
 ::: {.handbook-visual .original-meme}
 ::: {.meme-line}
@@ -27,13 +27,13 @@ Original illustration created for *The Handbook for the Recently Enrolled* with 
 :::
 :::
 
-## What changed when you enrolled
+## What changes after enrolment
 
 The proposal was written to demonstrate that a worthwhile project might be possible. Candidature requires you to test that proposition. Access may differ from what was assumed. Literature may change the question. Ethical or technical constraints may rule out an attractive method. Supervisors may identify a stronger contribution.
 
 Changing the plan in response to evidence is not automatically drift. Changing it without a record of the decision is.
 
-## Classify every proposal element
+## Sort promises from guesses
 
 Mark each important statement using one of five states:
 
@@ -51,17 +51,17 @@ Mark each important statement using one of five states:
 **Smallest useful next action:** Annotate the proposal using the five states above. Move every assumption and unknown into a visible register rather than quietly carrying it into the timeline.
 :::
 
-## Build the provisional plan
+## Build a plan you can revise
 
-### 1. State the project in one page
+### 1. Summarise the project on one page
 
-Write the problem, current question, intended contribution, proposed evidence and main limitations. This is a working state description, not promotional prose.
+Write down the problem, current question, intended contribution, proposed evidence and main limitations. Keep it factual. You are describing the project as it stands today.
 
-### 2. Map formal constraints
+### 2. List the fixed constraints
 
 Record milestones, funding periods, approvals, training, reporting, leave rules and any partner commitments. Link each entry to a current authoritative source. Do not rely on what another student remembers.
 
-### 3. Identify decision gates
+### 3. Mark the decision points
 
 A decision gate is a point where evidence determines whether the project continues as planned, narrows, pivots, pauses or stops. Useful early gates include:
 
@@ -71,7 +71,7 @@ A decision gate is a point where evidence determines whether the project continu
 - pilot evidence before scaling;
 - required approval before participant or data-facing work.
 
-### 4. Work backwards from evidence of done
+### 4. Define what “done” looks like
 
 Replace “finish literature review” with an inspectable result: “produce a six-theme evidence map, record the search limits and identify three unresolved claims for supervisor review”.
 
@@ -79,11 +79,11 @@ Replace “finish literature review” with an inspectable result: “produce a 
 
 For each outcome, ask what must already be true. Name the owner of every dependency. “Ethics” is not an owner; the researcher may prepare the application, a supervisor may review it and a committee may decide it.
 
-### 6. Set review points
+### 6. Decide when to review the plan
 
 Review the plan when important evidence arrives, a dependency changes, a formal milestone approaches or the project exceeds an agreed tolerance. A plan without review triggers becomes stale while still looking official.
 
-## The minimum research operating system
+## Five records worth keeping
 
 Begin with five recoverable records:
 
@@ -97,7 +97,7 @@ These records may live in a spreadsheet, database, plain-text files or an approv
 
 Put time-specific commitments in the calendar, current work states in the action register, and reasoning in the decision log. Email is evidence of communication, not a complete project-management system.
 
-## Worked example: recruitment was never tested
+## Example: recruitment had never been tested
 
 The proposal assumes 60 specialist participants can be recruited in six months. The student converts this into:
 
@@ -110,7 +110,7 @@ The proposal assumes 60 specialist participants can be recruited in six months. 
 
 The plan becomes more honest before it becomes more detailed.
 
-## Decision rules
+## How to decide
 
 - **Fixed by current approval or agreement:** follow the formal change process.
 - **High consequence and weak evidence:** test before committing resources.
@@ -119,7 +119,7 @@ The plan becomes more honest before it becomes more detailed.
 - **No longer supports the research question:** remove or redesign it even if work has already been invested.
 - **Cannot be completed inside constraints:** narrow scope, change sequence or escalate; do not hide the conflict in an optimistic timeline.
 
-## How provisional plans become fictional
+## How plans drift away from reality
 
 - copying proposal headings into a Gantt chart without testing assumptions;
 - treating every date as equally certain;
@@ -131,7 +131,7 @@ The plan becomes more honest before it becomes more detailed.
 - adding tools instead of maintaining the minimum records;
 - interpreting sunk effort as evidence that the original path remains sound.
 
-## Test the plan before adopting it
+## Pressure-test the plan
 
 - [ ] Formal constraints are linked to current authoritative sources.
 - [ ] Commitments, decisions, assumptions, options and unknowns are distinguished.
@@ -143,19 +143,19 @@ The plan becomes more honest before it becomes more detailed.
 
 **Stop condition:** Do not call the plan viable while essential access, approval, safety or resource assumptions remain invisible or ownerless.
 
-## Show the assumptions that need a decision
+## What to take to supervision
 
 Bring the one-page project statement, annotated assumptions, the two most consequential decision gates, the main risk and your proposed next 90-day outcomes. Ask: “Which assumption would you test first, and what evidence would change our present direction?”
 
-## When to escalate
+## When to ask for help
 
 Escalate when a required decision sits outside the supervisory team's authority; a formal milestone is threatened; an agreed resource is unavailable; a partner commitment materially changes; work is being proposed outside an approval; or relationship and workload problems cannot be resolved through ordinary planning.
 
-## Variation and local boundaries
+## Different projects need different plans
 
 Laboratory, fieldwork, archival, computational, qualitative, creative and participatory projects have different dependencies and evidence. A practice-led project may use cycles of making and critical reflection; a computational project may use datasets, repositories and validation gates; a community partnership may require shared governance and longer relationship-building. Do not force all of them into a task-only project template.
 
-## Related resources
+## Useful templates
 
 - [Action register](../../templates/action-register.qmd)
 - [Decision log](../../templates/decision-log.qmd)
@@ -165,7 +165,7 @@ Laboratory, fieldwork, archival, computational, qualitative, creative and partic
 - [Topic due diligence](../../templates/topic-due-diligence.qmd)
 - [I’m stuck](../../stuck/index.qmd)
 
-## Source note
+## Evidence
 
 The provisional-plan workflow is an editorial decision aid. Its separation of candidate, supervisor, organisation and collaborator responsibilities is consistent with—but not dictated by—the UKRI doctoral-training expectations; local candidature rules govern [@ukri-expectations-2024].
 

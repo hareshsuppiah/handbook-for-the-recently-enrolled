@@ -54,14 +54,17 @@ def main() -> int:
     contract_terms = {
         "early practical guidance": re.compile(r"^## .+\n\n.{40,}", re.M | re.I),
         "failure analysis": re.compile(
-            r"^## .*\b(fail|trap|derail|confus|collapse|risk|wast|lose|lost|break|shortcut|trouble|stuck|stranded|myth|impossible|activity|fiction|apart|movement|overload|unrecover|recover|synthesis|confidence|conflict|decision|storage|workflow|role|argument|point)\w*",
+            r"^## .*\b(fail|trap|derail|drift|confus|collapse|risk|wast|lose|lost|break|shortcut|trouble|stuck|stranded|myth|impossible|activity|fiction|apart|movement|overload|unrecover|recover|synthesis|confidence|conflict|decision|storage|workflow|role|argument|point)\w*",
             re.M | re.I,
         ),
         "readiness or pause-point standard": re.compile(
             r"good enough|^## .*\b(enough|ready|before|check|audit|test|pause|progress|dependable|follow|trace)\b",
             re.M | re.I,
         ),
-        "practical resources": re.compile(r"^## Related (practical )?resources|\.\./\.\./(templates|checklists|stuck)/", re.M | re.I),
+        "practical resources": re.compile(
+            r"^## (?:Related (?:practical )?resources|Try these resources|Useful templates)|\.\./\.\./(templates|checklists|stuck)/",
+            re.M | re.I,
+        ),
     }
     word_counts: list[int] = []
     for path in chapters:
@@ -99,6 +102,21 @@ def main() -> int:
         for label, pattern in deprecated_boundary_patterns.items():
             if pattern.search(text):
                 fail(f"reader-facing source retains deprecated {label}: {source.relative_to(ROOT)}", failures)
+
+    # Desktop and tablet readers must keep both navigation columns visible.
+    # These hooks also clear Quarto's stored reader-mode state, which otherwise
+    # turns the two sidebars into compact dropdown bars after a previous visit.
+    navigation_script = (ROOT / "includes/responsive-navigation.html").read_text(encoding="utf-8")
+    navigation_styles = (ROOT / "styles.scss").read_text(encoding="utf-8")
+    required_navigation_hooks = {
+        "reader-mode reset": 'localStorage.setItem("quarto-reader-mode", "false")' in navigation_script,
+        "left dropdown removal": "#quarto-sidebarnav-toggle" in navigation_script and "#quarto-sidebarnav-toggle" in navigation_styles,
+        "right dropdown removal": "#quarto-toc-toggle" in navigation_script and "#quarto-toc-toggle" in navigation_styles,
+        "desktop sidebar restoration": "restorePersistentSidebars" in navigation_script,
+    }
+    for label, present in required_navigation_hooks.items():
+        if not present:
+            fail(f"persistent desktop navigation is missing {label}", failures)
 
     resources = []
     with (ROOT / "planning/requirements-checklist.csv").open(newline="", encoding="utf-8") as handle:

@@ -1,9 +1,31 @@
 <script>
+try {
+  window.localStorage.setItem("quarto-reader-mode", "false");
+} catch (_) {
+  // Local files and privacy-restricted browsers may not expose localStorage.
+}
+
 document.addEventListener("DOMContentLoaded", () => {
   const mobile = window.matchMedia("(max-width: 767px)");
   const tablet = window.matchMedia("(min-width: 768px) and (max-width: 991.98px)");
   const sidebar = document.querySelector("#quarto-sidebar");
   const logo = sidebar?.querySelector(".sidebar-logo");
+
+  const restorePersistentSidebars = () => {
+    if (mobile.matches) return;
+
+    document
+      .querySelectorAll("#quarto-sidebarnav-toggle, #quarto-toc-toggle")
+      .forEach((toggle) => toggle.remove());
+
+    document
+      .querySelectorAll("#quarto-sidebar > *, #quarto-margin-sidebar > *")
+      .forEach((child) => {
+        child.style.removeProperty("opacity");
+        child.style.removeProperty("overflow");
+        child.style.removeProperty("pointer-events");
+      });
+  };
 
   const updateBookNavigation = () => {
     document.querySelector(".tablet-cover-link")?.remove();
@@ -27,8 +49,11 @@ document.addEventListener("DOMContentLoaded", () => {
   };
 
   updateBookNavigation();
+  restorePersistentSidebars();
   mobile.addEventListener("change", updateBookNavigation);
   tablet.addEventListener("change", updateBookNavigation);
+  window.addEventListener("resize", restorePersistentSidebars);
+  document.addEventListener("scroll", restorePersistentSidebars, { passive: true });
 
   document.querySelector(".compact-page-contents")?.remove();
 });

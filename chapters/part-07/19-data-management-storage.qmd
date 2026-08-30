@@ -1,11 +1,11 @@
 ---
-title: "Could you recover your research data?"
+title: "Data management, storage and recovery"
 last-reviewed: "2026-08-28"
 ---
 
 “Everything is in Dropbox” can mean that files are synchronised. It does not tell you which copy is authoritative, whether an accidental deletion will spread, who can access sensitive material or whether recovery has ever been tested. Data management is the set of decisions that makes the project understandable and recoverable: what exists, where it belongs, who may use it, how it is backed up and what happens when the project ends. The test is not whether the files are somewhere. It is whether the right files can be found, restored and interpreted.
 
-## Design for recovery, not just storage
+## Plan how you would recover the data
 
 A data-management plan is a living map of research materials, authority, movement, responsibility and end state. Storage is not safe merely because it is convenient or synchronised. Backup is proven only by a successful, recorded restore.
 
@@ -138,7 +138,7 @@ The plan should answer:
 
 ARDC good-data guidance covers planning, organisation, documentation, storage, access, sharing, publication and preservation [@ardc-good-data]. It is useful Australian infrastructure guidance, but institutional and project-specific requirements govern the actual system.
 
-## Worked example: “everything is in Dropbox”
+## Example: “everything is in Dropbox”
 
 **Claim:** the project is safe because the folder synchronises to three laptops.
 
@@ -148,7 +148,7 @@ ARDC good-data guidance covers planning, organisation, documentation, storage, a
 
 Three synchronised vulnerabilities are not three backups.
 
-## Test restoration, not merely backup creation
+## Restore a file before trusting the backup
 
 Choose a representative and a difficult recovery scenario:
 
@@ -204,7 +204,7 @@ The Australian Code requires clear, accurate, secure and complete research recor
 - scheduling backups without restore tests;
 - promising deletion or long-term sharing the system cannot deliver.
 
-## When the data system is recoverable
+## Can you recover the data?
 
 Before collection or restricted-data access:
 
@@ -218,7 +218,7 @@ Before collection or restricted-data access:
 - one realistic restore has passed; and
 - retention, disposal, archive and handover decisions have identified authorities.
 
-## Show the data steward the real storage map
+## Bring your real storage plan
 
 Bring:
 
@@ -231,6 +231,6 @@ Bring:
 - retention, disposal and handover constraints; and
 - one precise unresolved authority, security or recovery question.
 
-## Related practical resources
+## Try these resources
 
 Use the [data-management plan](../../templates/data-management-plan.qmd), [folder and file-naming starter](../../templates/folder-file-naming.qmd) and [backup and restore audit](../../checklists/backup-restore.qmd). The next chapter separates [raw, clean, derived and analysis-ready data](20-data-states-provenance.qmd).

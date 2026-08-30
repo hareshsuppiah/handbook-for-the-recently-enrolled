@@ -1,11 +1,11 @@
 ---
-title: "What problem is your research actually solving?"
+title: "Problem, gap and contribution"
 last-reviewed: "2026-08-28"
 ---
 
 An interesting topic is not yet a research problem. “There is little research on this population” may be true, but it does not tell the reader what is misunderstood, what decision is impaired or why another study would help. Before promising a contribution, connect four things: the situation, the consequential problem, the gap in what is known or possible, and the change your work could make. If one link is vague, the project may still be promising. It simply is not ready to carry the claim yet.
 
-## Build the chain before claiming the gap
+## Start with the problem
 
 A topic names an area. A problem identifies something consequential that is not adequately understood or resolved. A gap describes the specific limitation in present knowledge, practice, method or representation that matters to that problem. A contribution states what the research may add or change.
 
@@ -13,7 +13,7 @@ A gap is not important merely because an empty space can be found. Filling it sh
 
 Doctoral frameworks describe contribution broadly. The QAA, for example, recognises original contribution through original research or original application of existing knowledge, across conventional, professional and practice-based doctorates [@qaa-doctoral-2020]. This does not tell you what counts in your field, but it cautions against reducing originality to “the first study ever”.
 
-## Build the chain
+## Write the four-part case
 
 Write four linked statements:
 
@@ -45,7 +45,7 @@ Different fields may use different terms for the same phenomenon. Search adjacen
 
 The exact population–context–method combination may be unstudied while the underlying question is well understood. Novel combination is not automatically consequential contribution.
 
-### Examine assumptions, not only absences
+### Look for questionable assumptions
 
 Gap-spotting is common, but it is not the only route to a research question. Alvesson and Sandberg argue, within organisation studies, for problematisation: identifying and challenging assumptions that organise a body of literature [@alvesson-sandberg-2011; @sandberg-alvesson-2011]. Their disciplinary method should not be universalised, but the question is useful: what does the field routinely take for granted, and what evidence supports that assumption?
 
@@ -86,7 +86,7 @@ A project may contribute by:
 
 One project may make several contributions, but avoid claiming every category. Name the central contribution and subordinate others.
 
-## Worked example: the empty cell
+## Example: the empty cell
 
 A student finds no study combining a particular wearable device, one sport and athletes aged 17–18. The initial claim is: “No one has studied this, so the project is novel.”
 
@@ -99,7 +99,7 @@ Due diligence finds that:
 
 The revised problem is consequential and testable. The contribution becomes a bounded validity and decision-interpretation claim, not occupancy of an empty literature cell.
 
-## Decision rules
+## How to decide
 
 - **Only exact-combination novelty found:** do not proceed until a consequence is demonstrated.
 - **Strong practical problem but weak scholarly framing:** map relevant knowledge and clarify what research can add rather than assuming practice alone defines the study.
@@ -135,11 +135,11 @@ The revised problem is consequential and testable. The contribution becomes a bo
 
 Bring the four-statement chain, the strongest evidence for and against it, two plausible contribution types and the audience whose judgement matters. Ask: “Which link is least defensible, and what evidence would change your view?”
 
-## When to escalate or seek specialist input
+## When to ask for specialist help
 
 Seek help when the problem crosses disciplines you cannot adequately search; the contribution depends on a specialist method; cultural or community authority affects how the problem may be framed; intellectual property or partner interests constrain disclosure; or a claimed gap affects ethics, safety or policy decisions beyond the team's expertise.
 
-## Related resources
+## Try these resources
 
 - [Contribution statement](../../templates/contribution-statement.qmd)
 - [Topic due-diligence canvas](../../templates/topic-due-diligence.qmd)

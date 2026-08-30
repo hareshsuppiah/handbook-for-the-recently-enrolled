@@ -1,5 +1,5 @@
 ---
-title: "Is your research question ready?"
+title: "Research questions, aims and pivots"
 last-reviewed: "2026-08-28"
 ---
 
@@ -45,7 +45,7 @@ Verbs carry methodological promises:
 
 Changing “cause” to “associate” does not rescue an incoherent study if the measurement, sampling or temporal logic still fails.
 
-## Alignment audit
+## Check that the question still fits the study
 
 Read across this chain:
 
@@ -60,7 +60,7 @@ For every link ask:
 
 The chain can contain multiple studies, but each study needs its own question and inference. One broad doctoral problem does not justify a single compound question with several unrelated methods.
 
-## Worked example: one question containing three theses
+## Example: one question containing three theses
 
 **Initial question:** “How does remote work affect wellbeing and performance, why do employees respond differently, and which organisational intervention is most effective?”
 
@@ -124,7 +124,7 @@ The change is auditable, not disguised.
 - preserving an infeasible design because it was in the proposal;
 - calling any change a pivot without documenting its consequences.
 
-## Check the alignment after every material change
+## Check again when the study changes
 
 - [ ] The problem and consequence still matter.
 - [ ] The revised question can be answered by feasible evidence.
@@ -138,11 +138,11 @@ The change is auditable, not disguised.
 
 Bring the old and revised chains side by side, the evidence that triggered change, realistic options, effects on approvals and timing, and your recommendation. Ask: “Does the revised question preserve the important problem while making a claim this evidence can defend?”
 
-## When to escalate or seek specialist input
+## When to ask for specialist help
 
 Seek formal or specialist advice when the change affects approval, preregistration, data permissions, cultural governance, partner agreements, funding, intellectual property, formal milestones or the central candidature scope.
 
-## Related resources
+## Try these resources
 
 - [Research-question stress test](../../checklists/research-question-stress-test.qmd)
 - [Pivot, continue or stop decision aid](../../checklists/pivot-continue-stop.qmd)

@@ -1,5 +1,5 @@
 ---
-title: "How do you protect people and their information?"
+title: "Ethics, privacy and consent"
 last-reviewed: "2026-08-28"
 ---
 
@@ -92,7 +92,7 @@ For every field, recording, file and metadata element ask:
 
 Security does not justify unnecessary collection. Australian Privacy Principle guidance requires covered entities to limit collection to information reasonably necessary for their functions and describes a data-minimisation approach [@oaic-app3]. Applicability varies by entity and jurisdiction; obtain local privacy advice.
 
-## Treat secondary and public data as ethically consequential
+## Public data still involve people
 
 Availability is not permission. Before using social media, online forums, scraped material, administrative records, commercial data, archives or an existing research dataset, examine:
 
@@ -108,7 +108,7 @@ Availability is not permission. Before using social media, online forums, scrape
 
 The 2025 Australian National Statement explicitly includes ethical issues across generation, access, analysis, disclosure, storage, sharing and reuse of data and information [@national-statement-2025]. Public status does not by itself resolve those issues.
 
-## Worked example: changing an interview to video
+## Example: changing an interview to video
 
 **Approved plan:** audio-record remote interviews, transcribe them, remove direct identifiers and delete recordings after verified transcription.
 
@@ -188,6 +188,6 @@ Bring:
 - [ ] Amendment, incident and stop triggers are documented.
 - [ ] Written approvals and conditions cover the activity about to occur.
 
-## Related practical resources
+## Try these resources
 
 Use [Before ethics or governance submission](../../checklists/before-ethics-submission.qmd), [Before data collection](../../checklists/before-data-collection.qmd), the [pilot-readiness checklist](../../checklists/pilot-readiness.qmd) and [protocol-deviation log](../../templates/protocol-deviation.qmd). For urgent or case-specific risk, follow the responsible local process rather than relying on this handbook.

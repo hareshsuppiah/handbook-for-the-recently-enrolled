@@ -1,5 +1,5 @@
 ---
-title: "What can you do when a study fails?"
+title: "When a study fails"
 last-reviewed: "2026-08-28"
 ---
 
@@ -76,7 +76,7 @@ Ask:
 
 Report the result that the study produced, not the result needed to rescue the narrative. Responsible publication includes accurate reporting of inconclusive and negative findings [@nhmrc-publication-guide].
 
-## Treat unexpected findings as candidates, not discoveries
+## Check unexpected findings before calling them discoveries
 
 Before elevating an unexpected pattern:
 
@@ -116,7 +116,7 @@ Use when no important, feasible and responsible contribution remains, harm or bu
 **Smallest useful next action:** Freeze the authoritative record and write a one-page failure account: expected state, observed state, evidence, affected inference, remaining value, options, authority and next decision date.
 :::
 
-## Worked example: recruitment does not reach viability
+## Example: recruitment does not reach viability
 
 **Baseline:** A survey requires at least 240 eligible respondents to estimate subgroup patterns with useful precision. The feasibility trigger is 80 eligible completions by week six.
 
@@ -132,7 +132,7 @@ Use when no important, feasible and responsible contribution remains, harm or bu
 
 **Evidence of done:** Dated decision, amendment where required, updated registration and protocol, revised analysis and contribution boundaries, participant communication if applicable, and preserved original recruitment record.
 
-## Worked example: data access disappears
+## Example: data access disappears
 
 A partner withdraws access before transfer. The preferred dataset never became project data. The team should not describe it as “lost data”. Preserve the agreement and access history, close unauthorised routes, test whether a public dataset supports the same inference, and use formal change control if the question or contribution changes. Pressure or informal credentials do not create permission.
 
@@ -155,7 +155,7 @@ Stop affected work, protect participants and evidence, and use the authorised in
 - continuing because participants or time have already been invested; and
 - abandoning the record when the preferred claim disappears.
 
-## When the recovery decision is defensible
+## Choose what to do next
 
 A failure response is defensible when the original record is preserved; the failed link and downstream inference are explicit; safety and authority are addressed; remaining claims are bounded; recovery options are compared without hindsight; and the decision includes approval, reporting, closure and review consequences.
 
@@ -176,7 +176,7 @@ Bring the frozen record, expected-versus-observed account, verified failure evid
 - [ ] Sunk effort does not determine the choice.
 - [ ] Closure and evidence of done are defined.
 
-## Related practical resources
+## Try these resources
 
 Use the [pivot, continue or stop decision aid](../../checklists/pivot-continue-stop.qmd), [risk and issues register](../../templates/risk-issues-register.qmd), [protocol-deviation log](../../templates/protocol-deviation.qmd), [methodological decision record](../../templates/method-decision.qmd) and [I’m stuck diagnostic](../../stuck/index.qmd).
 

@@ -1,5 +1,5 @@
 ---
-title: "How do you make supervision meetings useful?"
+title: "Supervision meetings that lead somewhere"
 last-reviewed: "2026-08-28"
 ---
 
@@ -30,7 +30,7 @@ Do not combine these so completely that their different states disappear. A ques
 
 ## Before the meeting
 
-### Select the consequential items
+### Choose the decisions that matter
 
 Ask which issues need supervisor judgement, shared authority or specialist navigation. Routine work that can be completed independently belongs in the action register, not necessarily on the agenda.
 
@@ -74,7 +74,7 @@ Circulate the record promptly within the agreed window. Invite corrections to fa
 
 Do not write a transcript. Record project state. Sensitive personal material should use the appropriate confidential channel and not be copied indiscriminately into a shared research record.
 
-## Worked example: “Discuss ethics”
+## Example: “Discuss ethics”
 
 **Weak agenda item:** Discuss ethics.
 
@@ -126,15 +126,15 @@ Frequency alone does not establish quality. A weekly meeting can waste time; a m
 
 Bring an agenda, linked material, your recommendation and the state of earlier actions. If an item is blocked, show what you attempted, the dependency, consequence and proposed escalation.
 
-## When to escalate
+## When to get help
 
 Escalate when required decisions repeatedly cannot be made; essential actions remain ownerless; unavailable feedback threatens a formal milestone; records show persistent unresolved conflict; or the issue concerns approval, integrity, safety, discrimination, bullying or wellbeing beyond ordinary project management.
 
-## Variation and local boundaries
+## What differs across projects
 
 Creative practice, fieldwork, laboratory, clinical, community and industry projects may need different records. Cultural governance or partner agreements may determine who can receive notes and how decisions are validated. Formal progress systems may require separate entries. Keep the underlying distinctions even when the format changes.
 
-## Related resources
+## Try these resources
 
 - [Decision-oriented meeting agenda](../../templates/meeting-agenda.qmd)
 - [Meeting record](../../templates/meeting-record.qmd)
@@ -144,7 +144,7 @@ Creative practice, fieldwork, laboratory, clinical, community and industry proje
 - [Unresolved-questions log](../../templates/unresolved-questions.qmd)
 - [I’m stuck](../../stuck/index.qmd)
 
-## Source note
+## Sources and limits
 
 The five-record meeting system is an editorial workflow, not a universal supervision rule. It operationalises transparent decisions and responsibilities within the broader doctoral-training role expectations described by UKRI [@ukri-expectations-2024].
 

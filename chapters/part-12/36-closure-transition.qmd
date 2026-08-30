@@ -1,5 +1,5 @@
 ---
-title: "How do you close a project without losing its value?"
+title: "Closing and archiving the project"
 last-reviewed: "2026-08-28"
 ---
 
@@ -11,7 +11,7 @@ A project is closed only when every material record, asset, permission, responsi
 
 Transition also requires a forward decision: which contribution, capability, relationship and unfinished question should continue, under what new authority and resources?
 
-## Define the closure boundary
+## Decide what “closed” means
 
 List everything that belongs to the project:
 
@@ -83,7 +83,7 @@ Archiving a directory is not proof of recovery. Test:
 
 Record the test, result, discrepancies and repair. If software or hardware cannot be preserved, retain sufficient documentation, formats and migration plan to make the limitation explicit.
 
-## Transfer custody, not just access
+## Hand over responsibility as well as access
 
 A recipient needs:
 
@@ -134,7 +134,7 @@ Create an output register covering:
 
 Each continuing item needs an owner, authority, due/review date, contact path and evidence of completion. Graduation does not automatically terminate publication ethics, confidentiality, data stewardship or correction responsibilities.
 
-## Worked example: “everything is in Dropbox”
+## Example: “everything is in Dropbox”
 
 **Claim:** The project is ready to hand over because the folder is synchronised.
 
@@ -218,7 +218,7 @@ Bring the inventory, proposed dispositions, relevant retention/ownership rules, 
 - [ ] Verified outcomes are separated from applications and aspirations.
 - [ ] The next 90 days contain bounded outcomes and recovery time.
 
-## Related practical resources
+## Try these resources
 
 Use the [project closure and handover checklist](../../checklists/project-closure-handover.qmd), [data-management plan](../../templates/data-management-plan.qmd), [repository README](../../templates/repository-readme.qmd), [data dictionary](../../templates/data-dictionary.qmd), [risk register](../../templates/risk-issues-register.qmd), [action register](../../templates/action-register.qmd) and [thesis contribution map](../../templates/thesis-contribution-map.qmd).
 

@@ -1,5 +1,5 @@
 ---
-title: "How much literature searching do you need?"
+title: "The search ladder"
 last-reviewed: "2026-08-28"
 ---
 
@@ -71,7 +71,7 @@ Citation searching can find records missed by text searching, particularly when 
 
 Move upward when missed evidence would materially change the decision, when a formal review method requires it or when the intended claim implies coverage your present search cannot defend.
 
-## Worked example: one search, two claims
+## Example: one search, two claims
 
 A student searches Google Scholar for “doctoral student engagement”, reads the first 30 results and finds recurring themes.
 
@@ -121,7 +121,7 @@ Stop the chain according to the purpose. Orientation may stop when new records n
 
 Bring the question, intended output, current concept table, databases considered, sample strategy, known relevant records, limits and the decision you need. Ask: “What evidence could this approach systematically miss, and does that matter for the claim?”
 
-## Related resources
+## Try these resources
 
 - [Search-ladder decision tree](../../checklists/search-ladder.qmd)
 - [Search-concept table](../../templates/search-concepts.qmd)

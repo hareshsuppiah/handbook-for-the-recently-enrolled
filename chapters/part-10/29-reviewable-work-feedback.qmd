@@ -1,5 +1,5 @@
 ---
-title: "How do you make your work easier to review?"
+title: "Making work easier to review"
 last-reviewed: "2026-08-28"
 ---
 
@@ -45,7 +45,7 @@ Before sending consequential work, agree or state:
 
 If timing matters, ask before sending a large package. “Can you review a 9,000-word full chapter for argument and structure by 18 September?” is a request that can be accepted, renegotiated or declined. “Please send feedback soon” hides the dependency.
 
-## Make the work inspectable
+## Make it easy to see what changed
 
 A reviewable package should allow the reader to:
 
@@ -101,7 +101,7 @@ When reviewers disagree:
 
 Do not silently implement the last or most senior comment merely to end discomfort. Do not triangulate supervisors through separate messages. If the disagreement concerns safety, integrity, approvals, authorship, discrimination or supervision breakdown, use independent specialist or formal support.
 
-## Worked example: “rewrite the discussion”
+## Example: “rewrite the discussion”
 
 **Material:** Full discussion draft, 4,200 words.
 
@@ -182,11 +182,11 @@ Bring:
 - [ ] Conflicts have an owner and documented resolution path.
 - [ ] Completion is verified across linked sections and records.
 
-## Related practical resources
+## Try these resources
 
 Use the [supervisor review cover note](../../templates/supervisor-review-cover-note.qmd), [feedback response matrix](../../templates/feedback-response.qmd), [decision log](../../templates/decision-log.qmd), [meeting agenda](../../templates/meeting-agenda.qmd) and [authorship conversation record](../../templates/authorship-conversation.qmd).
 
-## Source note
+## Sources and limits
 
 The review-level and response-matrix system is an editorial workflow. The distinction among goals, current performance and actionable next steps is informed by broader educational feedback research, whose effects are heterogeneous and not doctorate-specific [@hattie-timperley-2007; @wisniewski2020feedback].
 

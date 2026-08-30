@@ -1,11 +1,11 @@
 ---
-title: "How do you turn reading into an argument?"
+title: "Reading, synthesis and citation"
 last-reviewed: "2026-08-28"
 ---
 
 Your reference library grows, your notes grow, and the literature review still feels like a sequence of summaries. That happens because collecting sources and building an argument are different jobs. Read with a question, extract the claim and its support, then compare sources on the point that matters to your own reasoning. A synthesis does not prove that you read everything. It shows where evidence agrees, conflicts or stops, and what that means for the decision your research must make.
 
-## Organise the literature around claims, not authors
+## Organise the literature around claims
 
 Read for a declared purpose, extract only what that purpose requires, and synthesise across sources in relation to a claim or question. A reference manager stores and retrieves records; it does not perform source evaluation or argument construction for you.
 
@@ -33,7 +33,7 @@ Not every located record deserves the same attention.
 
 A paper can move between passes. Triage is not permission to cite a source you have not verified.
 
-## Extract claims, not just topics
+## Extract the claim each paper supports
 
 Before reading closely, write the question the source is being asked to answer. Then record:
 
@@ -143,7 +143,7 @@ Stop reading and start writing a provisional synthesis when you can state:
 
 Writing is a diagnostic. If the claim cannot be supported without vague wording or citation clusters, return to the matrix and source locations.
 
-## Ask for feedback on the reasoning, not the reading count
+## Ask for feedback on the argument
 
 Bring:
 
@@ -169,6 +169,6 @@ Before treating a literature section as ready for review, confirm:
 - [ ] bibliographic records and versions have been verified; and
 - [ ] unresolved evidence gaps are recorded rather than hidden.
 
-## Related practical resources
+## Try these resources
 
 Use the [paper triage and extraction template](../../templates/paper-triage-extraction.qmd), [evidence matrix](../../templates/evidence-matrix.qmd) and [synthesis and argument map](../../templates/synthesis-argument-map.qmd). If reading has become endless, use the [search ladder](10-search-ladder.qmd) and [I’m stuck](../../stuck/index.qmd).
