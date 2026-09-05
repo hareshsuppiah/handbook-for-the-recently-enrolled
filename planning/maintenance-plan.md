@@ -2,7 +2,7 @@
 
 ## Intake
 
-Specific public requests enter through structured issues. Broad ideas may begin in Discussions. No-GitHub submissions are privacy-checked before being represented in the public tracker or community register.
+All reader suggestions enter through the single structured GitHub issue form. Discussions are disabled and no no-login submission route is currently offered. The issue is the public tracker record; the research registers support editorial coverage checks. See contributions/tracker.qmd and contributions/editorial-workflow.qmd for the reader route and current status labels.
 
 ## Triage
 

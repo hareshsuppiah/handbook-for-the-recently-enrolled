@@ -1,6 +1,6 @@
 ---
 title: "How to suggest an improvement"
-last-reviewed: "2026-08-31"
+last-reviewed: "2026-09-05"
 ---
 
 You can send a useful suggestion without knowing Git or editing the handbook. The form asks where the problem appears, what you noticed, what you would change and how the change would help.
@@ -8,6 +8,8 @@ You can send a useful suggestion without knowing Git or editing the handbook. Th
 [Suggest an improvement](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/issues/new?template=share-feedback.yml){.btn .btn-primary}
 
 GitHub uses issue forms to turn structured answers into a public record [@github-creating-issue; @github-issue-forms]. GitHub calls that record an **issue**. For this handbook, it means a reader suggestion.
+
+![The contributor submits a suggestion; an editor checks it; Haresh approves drafting; a human or available AI agent proposes edits; Haresh reviews before publication.](../assets/contributions/suggestion-steps.svg){fig-alt="Five stages: submit a suggestion, editorial check and Haresh decision, human or AI drafting, Haresh review, then publication of accepted changes."}
 
 ## What you need
 
@@ -35,7 +37,9 @@ If you are new to GitHub, [create a free personal account](https://github.com/si
 13. Use **Preview** above any long answer if you want to check links or lists. Return to **Write** to make a correction.
 14. Read the title and answers once more, then select **Submit new issue**.
 
-This guide uses the form's field and button names rather than screenshots. The instructions remain usable when GitHub moves a control without renaming it.
+![A worked example follows the form from title and missing-topic category through location, observation, proposed change, benefit and final privacy check.](../assets/contributions/form-example.svg){fig-alt="Worked example: suggest peer-group guidance, select the missing-topic category, identify first-90-days coverage, explain the gap and benefit, then finish the credit and privacy fields before submitting."}
+
+This is an instructional diagram, not a screenshot. The field names match the handbook form checked on 5 September 2026; GitHub's layout may change.
 
 ## Write a useful suggestion
 
@@ -92,3 +96,37 @@ You can edit an issue that you created [@github-creating-issue]. Open the sugges
 6. The issue records the decision and links to any published change.
 
 Read [What happens to a suggestion](editorial-workflow.qmd) for the full editorial process. Accepting the suggestion permits drafting. A separate human review determines whether the proposed wording is published.
+
+## Which category should I choose?
+
+| Your situation | Choose this option | Example |
+|---|---|---|
+| The book does not answer your question | Add a missing question, topic, checklist, template or example | How do I find a peer group? |
+| Existing wording is wrong or hard to understand | Correct or clarify something | This sentence confuses approval with publication. |
+| Material repeats itself or is unnecessary | Shorten, combine or remove something | Two lists ask me to do the same check. |
+| You have supporting material | Share a source or useful example | An official guide supports this distinction. |
+| Something is hard to read or operate | Report a reading, navigation, accessibility or technical problem | A table is cut off on my phone. |
+| Advice depends on context | Clarify where advice does and does not apply | This leave rule applies only at my university. |
+| None of those fits | Something else | Explain the outcome you want in your own words. |
+
+## If you want to write or review material
+
+Academics can offer a source check, a disciplinary example or a review of a named section. PhD students can contribute a question, a confusing passage or a shareable practical example. Neither group needs to code. State your offer in **What would you change?**, and give the page or topic so the editor can agree the scope with you.
+
+If you want to draft the actual text, say so in the same form. Wait for the editorial decision before investing in a full chapter. After acceptance, agree the pages, evidence and review arrangements on the issue. You can put short proposed wording in a comment; someone comfortable with GitHub can prepare the pull request. Credit follows your contribution and stated preference.
+
+## GitHub words and buttons
+
+| Term or option | What it means here | Do you need it? |
+|---|---|---|
+| Issue | The public suggestion and its discussion | Yes: the form creates it for you. |
+| Comment | A reply or clarification on that suggestion | Use it to answer the editor. |
+| Subscribe | Follow updates to the issue | Optional; check notification settings. |
+| Label | A short status tag applied by an editor or automation | Read it to see progress. |
+| Pull request (PR) | A proposed set of edits for review | Only if you volunteer to prepare edits. |
+| Branch / fork | A separate place to prepare changes | Not needed to suggest or review an idea. |
+| Merge | Accept the edits into the main handbook source | Haresh handles the publication decision. |
+| Discussions / blank issue | Alternative GitHub conversation routes | Not used for handbook suggestions. |
+| Private Editorial Desk | An editor's workspace over the issue record | Contributors do not need access. |
+
+[View the suggestion tracker](tracker.qmd) to follow existing requests before opening a new one.

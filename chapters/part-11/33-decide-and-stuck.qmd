@@ -180,3 +180,7 @@ The nine-class diagnostic is an editorial decision aid rather than a clinical or
 
 ::: {#refs}
 :::
+
+## When you are considering leaving or pausing
+
+For practical prompts and a next conversation, see [the guide to life during a PhD](../../stuck/life-during-a-phd.qmd#continue-or-leave).

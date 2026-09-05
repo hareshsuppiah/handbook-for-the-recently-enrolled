@@ -138,3 +138,7 @@ Doctoral forms vary. A monograph, thesis by publication, creative practice docto
 ## Sources and limits
 
 The qualification sources support the broad description of doctoral outcomes, not a universal examination rubric. The checklist sources support the design of pause-point checks, not the substantive requirements of research governance. Local rules and case-specific specialist advice take priority where required.
+
+## When comparison takes over
+
+For practical prompts and a next conversation, see [the guide to life during a PhD](../../stuck/life-during-a-phd.qmd#comparison).

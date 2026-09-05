@@ -45,3 +45,7 @@ Use the [first-time GitHub guide](how-to-help.qmd). It shows how to create an ac
 ## Credit
 
 You can request credit under your GitHub username, your preferred name, an organisation or a pseudonym. You can also choose no public credit. A useful contribution can be credited even when the published wording differs from the suggestion.
+
+## Follow existing suggestions
+
+[Read the tracker guide](tracker.qmd) or [open the live GitHub issue tracker](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/issues). Read the decision and linked edits; an approved suggestion is not yet a published change.

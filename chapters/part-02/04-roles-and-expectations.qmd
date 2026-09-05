@@ -163,3 +163,7 @@ Expectations differ for laboratory groups, individual humanities projects, commu
 - [Meeting record](../../templates/meeting-record.qmd)
 - [Escalation message builder](../../templates/escalation-message.qmd)
 - [I’m stuck](../../stuck/index.qmd)
+
+## When you need independent advice
+
+For practical prompts and a next conversation, see [the guide to life during a PhD](../../stuck/life-during-a-phd.qmd#supervision).

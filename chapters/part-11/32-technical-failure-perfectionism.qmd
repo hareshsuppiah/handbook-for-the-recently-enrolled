@@ -228,3 +228,7 @@ The troubleshooting and stage-gate structure is editorial synthesis. Its clean-r
 
 ::: {#refs}
 :::
+
+## When the difficulty goes beyond the task
+
+For practical prompts and a next conversation, see [the guide to life during a PhD](../../stuck/life-during-a-phd.qmd#exhaustion).

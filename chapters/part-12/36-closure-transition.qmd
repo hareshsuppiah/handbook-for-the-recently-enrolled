@@ -226,3 +226,7 @@ Use the [project closure and handover checklist](../../checklists/project-closur
 
 ::: {#refs}
 :::
+
+## Planning work beyond the doctorate
+
+For practical prompts and a next conversation, see [the guide to life during a PhD](../../stuck/life-during-a-phd.qmd#careers).

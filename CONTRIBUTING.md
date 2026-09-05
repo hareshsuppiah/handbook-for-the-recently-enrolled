@@ -48,3 +48,7 @@ An accepted suggestion may be drafted by a human contributor or an AI agent. Har
 - Keep checklists short and attached to a meaningful pause point.
 
 Accepted prose and reusable non-code content is governed by CC BY 4.0. Code, configuration and scripts are governed by MIT. Third-party material retains its own stated terms and is not automatically relicensed by this repository.
+
+## Follow existing suggestions
+
+[Read the tracker guide](https://hareshsuppiah.github.io/handbook-for-the-recently-enrolled/contributions/tracker.html) or [open the live GitHub issue tracker](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/issues). Read the decision and linked edits; an approved suggestion is not yet a published change.

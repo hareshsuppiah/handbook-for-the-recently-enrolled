@@ -152,3 +152,7 @@ Use the responsible candidature, ethics, integrity, safety, accessibility, wellb
 - [Risk and issues register](../../templates/risk-issues-register.qmd)
 - [Unresolved-questions log](../../templates/unresolved-questions.qmd)
 - [I’m stuck](../../stuck/index.qmd)
+
+## Finding people to work alongside
+
+For practical prompts and a next conversation, see [the guide to life during a PhD](../../stuck/life-during-a-phd.qmd#isolation).

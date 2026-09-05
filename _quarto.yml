@@ -155,11 +155,13 @@ book:
         - stuck/relationship-or-authorship.qmd
         - stuck/good-enough.qmd
         - stuck/wellbeing-or-safety.qmd
+        - stuck/life-during-a-phd.qmd
     - part: "Contributing to the handbook"
       chapters:
         - support.qmd
         - contributions/index.qmd
         - contributions/how-to-help.qmd
+        - contributions/tracker.qmd
         - contributions/editorial-workflow.qmd
         - contributions/ai-and-editorial-practice.qmd
         - contributions/visuals-and-credit.qmd

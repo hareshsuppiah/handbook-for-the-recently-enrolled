@@ -173,3 +173,7 @@ The provisional-plan workflow is an editorial decision aid. Its separation of ca
 
 ::: {#refs}
 :::
+
+## When funding does not match the plan
+
+For practical prompts and a next conversation, see [the guide to life during a PhD](../../stuck/life-during-a-phd.qmd#funding).

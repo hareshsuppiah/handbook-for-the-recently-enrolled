@@ -44,3 +44,7 @@ Bring the outcome, blocked decision, evidence checked, constraints, options, pro
 ## You are moving again when
 
 The next action has begun or the authorised decision has been made; its result is recorded; downstream work is updated; and a review threshold exists. A message sent or meeting booked is progress, but not necessarily resolution.
+
+## When the doctorate is difficult to live with
+
+For isolation, exhaustion, funding worries, comparison with peers, difficult supervision, whether to continue and career uncertainty, start with [Isolation, money, exhaustion and whether to continue](life-during-a-phd.qmd).

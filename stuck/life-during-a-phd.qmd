@@ -1,0 +1,91 @@
+---
+title: "Isolation, money, exhaustion and whether to continue"
+last-reviewed: "2026-09-05"
+---
+
+You may know the next research task and still find the doctorate difficult to live with. Perhaps you work alone, your funding ends before your submission date, or every conversation about the future assumes you want an academic job. Another productivity system will not settle those questions.
+
+This page helps you name the problem, prepare a useful conversation and find the next decision. You do not need to decide the future of your doctorate in one sitting. Start with the section that matches what is happening now.
+
+For imminent danger or urgent health needs, use local emergency or health services now. For serious distress, unsafe conduct or a concern involving your supervisor, use the [wellbeing and safety route](wellbeing-or-safety.qmd), including independent support where appropriate.
+
+## I feel isolated {#isolation}
+
+Try describing the missing contact before deciding what to join. Do you need someone who understands your method, regular company while working, or friends whose lives are not organised around a doctorate? Those are different needs. A supervision meeting may help with the first and do little for the others.
+
+Choose one small experiment: a weekly co-working session, a graduate researcher association event, or a reading group with two people. For remote or part-time study, ask whether a hybrid option exists and whether its timing is realistic. You can start with: “I work mostly on my own. Would anyone like a regular hour to work alongside each other, with a short check-in at the start?”
+
+After a few sessions, ask whether it provides the contact you wanted. If the problem is exclusion, bullying or discriminatory treatment, a social activity is not an adequate response: use [independent support](relationship-or-authorship.qmd). If isolation is affecting your health, contact an appropriate support service as well.
+
+**Next step:** name the kind of contact you miss and arrange one manageable opportunity for it. Add it to your [weekly plan](../chapters/part-09/25-milestones-weekly-work.qmd).
+
+## I am exhausted and cannot get started {#exhaustion}
+
+Separate the work problem from the support you need. “I cannot choose an analysis” calls for a research decision. “I cannot sustain the current workload” calls for a workload conversation. Persistent distress, illness or difficulty functioning warrants appropriate professional support; this page cannot determine its cause.
+
+Before a meeting, list the commitments competing for your time: thesis work, teaching, paid work, caring and essential appointments. Mark which deadlines are fixed, which can move and who can authorise a change. Ask for a concrete adjustment: fewer concurrent tasks, a revised deadline, reduced duties or advice about formal leave. Keep health details in the appropriate confidential route rather than the project action register.
+
+For example: “The current combination of teaching and data collection is no longer workable. Can we agree which task moves, who authorises that change and when we review the plan?” If speaking to your supervisor is unsafe or they are implicated in the concern, seek independent advice first.
+
+**Next step:** use the [wellbeing route](wellbeing-or-safety.qmd) for support and the [blocked-work guidance](waiting-or-blocked.qmd) for project decisions. Do not treat all exhaustion as procrastination.
+
+## My funding may end before I finish {#funding}
+
+Put the funding end date beside the realistic completion plan. Then list what is confirmed in writing, what is pending and what is only a possibility. A possible teaching contract or scholarship extension should not become assumed income in the plan.
+
+Take a short list of questions to the graduate research office or scholarship administrator:
+
+- What is the last confirmed payment date, and are fees covered for the same period?
+- Is an extension or hardship route available, and what are its criteria and deadlines?
+- Would a change in study rate, leave or paid work affect this award?
+- Which decisions need to happen before the money ends, and who makes them?
+
+If your ability to meet essential living costs is at risk, seek the institution's relevant support promptly. For immigration, sponsorship, tax or employment consequences, use the qualified local service rather than general forum advice. There is no universal entitlement to extra funding.
+
+**Next step:** add the funding deadline and decision owner to your [risk register](../templates/risk-issues-register.qmd), keeping private financial details elsewhere. Compare the answer with your [provisional plan](../chapters/part-01/03-provisional-plan.qmd).
+
+## My supervisor is unavailable or the relationship feels unsafe {#supervision}
+
+For ordinary delays, make the request specific: what needs a decision, what you have already tried and which deadline is affected. Ask who can cover if the supervisor is unavailable. Keep a factual record of requests, agreed dates and the effect on progress.
+
+Repeatedly missing essential supervision needs a route beyond another reminder. Ask the graduate research director, committee chair or equivalent independent contact how the problem can be addressed. For bullying, harassment, coercion, retaliation or pressure to breach an approval, use the relevant formal or independent route. Do not rely only on the person implicated, and do not publish private correspondence in a public issue or forum.
+
+**Next step:** follow [relationship or authorship concerns](relationship-or-authorship.qmd) and [supervision expectations](../chapters/part-02/04-roles-and-expectations.qmd). Changing supervisors can involve approvals and project-access decisions; check your institution's process.
+
+## Everyone seems ahead of me {#comparison}
+
+A publication count or another student's confident presentation does not tell you whether your own work meets its next requirement. Bring the comparison back to something a reviewer can examine: a question, a design, a draft argument or a result with its limitations.
+
+Ask: “What would make this ready for the next review?” Record the answer as a small set of observable criteria. Then separate the missing skill you can learn from a judgement about your worth. If there is a real skills gap, name the training, advice or supervised practice required. You can seek reassurance and still ask for specific feedback.
+
+**Next step:** use the [good-enough rubric](../checklists/good-enough-rubric.qmd) and [review cover note](../templates/supervisor-review-cover-note.qmd). If the anxiety is persistent or affecting your health, use appropriate support rather than relying only on another progress check.
+
+## Should I pause, change something or leave? {#continue-or-leave}
+
+You can examine several options without committing to one immediately. Compare continuing with an agreed change, formal leave, a change of supervision or project, and withdrawal or another available qualification route. Eligibility for those options varies.
+
+For each feasible option, write down what it would resolve, what it would leave unresolved, the approvals needed and the practical consequences. Include funding, fees, immigration or sponsorship, data access, responsibilities to participants and collaborators, and arrangements for returning if relevant. Get authoritative advice before acting; a supervisor's informal agreement may not complete the process.
+
+La Trobe's [graduate research forms](https://www.latrobe.edu.au/researchers/grs/hdr/candidature/forms-and-resources) illustrate separate routes for leave, changes in study rate, supervisor variation and withdrawal. These are local examples, not universal options. Its [candidature FAQs](https://www.latrobe.edu.au/researchers/grs/hdr/candidature/new-candidature-and-progress-policies/faqs/candidature/being-a-candidate) also distinguish scholarship arrangements during leave and restrict research while on leave. Check the rules applying to your candidature and award.
+
+Set a review date only if it is safe to wait. You do not have to prove that you have endured enough before seeking advice. A decision to leave deserves practical planning and support just as a decision to continue does.
+
+**Next step:** prepare an options conversation using the [continue, pivot or stop checklist](../checklists/pivot-continue-stop.qmd). That checklist supports deliberation; it does not determine formal candidature eligibility.
+
+## What if I do not want an academic career? {#careers}
+
+Begin with work you would like to do, the conditions you need and the skills you can demonstrate. Choose two or three possible roles and read current vacancy descriptions. Note what employers ask candidates to show. Then find examples from your work that honestly demonstrate those requirements: analysing evidence, building a reproducible process, coordinating people, writing for a particular audience or explaining uncertainty.
+
+A paper can be part of that evidence, but do not assume a publication count answers every employer's question. Ask a careers adviser or someone doing the role to review one example. If you need more experience, look for a bounded opportunity that fits your candidature commitments and permissions; avoid accumulating unrelated projects out of anxiety.
+
+Oxford's [careers guidance for doctoral researchers](https://www.careers.ox.ac.uk/making-your-dphil-count/) and [careers beyond academia resources](https://www.careers.ox.ac.uk/beyond-academia) provide starting points for exploring options. Services and eligibility are institution-specific, and no resource guarantees a job.
+
+**Next step:** arrange one careers conversation before the doctorate ends. Use [closure and transition](../chapters/part-12/36-closure-transition.qmd) to plan which records and work examples you may legitimately retain or share.
+
+## Why these questions are here
+
+An editorial review on 5 September 2026 examined the [r/PhD top-year feed](https://www.reddit.com/r/PhD/top/?t=year) and a targeted sample of substantive discussions. The visible top feed was dominated by memes and images. We therefore used advice threads to identify additional reader questions, including [isolation](https://www.reddit.com/r/PhD/comments/1vg4pnq/i_feel_so_alone_in_my_phd/), [funding concerns](https://www.reddit.com/r/PhD/comments/1bbig06/), [exhaustion and whether to continue](https://www.reddit.com/r/PhD/comments/1vec83n/phd_burnout_recovery_phase_or_should_i_quit/), and [career uncertainty after completion](https://www.reddit.com/r/PhD/comments/1p3a909/finished_my_phd_job_market_sucks_questioning_my/).
+
+This was a purposive editorial scan, not a survey or a ranking of how common these problems are. Posts identify questions worth answering; personal accounts and comment advice are not evidence that a diagnosis, policy or career claim is correct. The practical prompts above are editorial guidance, with formal decisions referred to the appropriate local source.
+
+[Return to I’m stuck](index.qmd)
