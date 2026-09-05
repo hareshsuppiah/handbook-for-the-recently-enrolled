@@ -10,7 +10,7 @@ last-reviewed: "2026-08-28"
 ## Five-minute diagnostic
 
 1. What changed, and what evidence proves it?
-2. Which link in problem → question → evidence → inference → contribution is affected?
+2. Does this change the question, the evidence available or what the study could establish?
 3. Is the issue temporary, repairable, structural or unsafe?
 4. What realistic options exist, including doing less or stopping?
 5. Which decision belongs to the student, supervisors or a formal authority?
@@ -32,7 +32,7 @@ last-reviewed: "2026-08-28"
 - [ ] The proposed path remains ethical, feasible and aligned.
 - [ ] Effects on approvals, registrations, partners, milestones and resources are known.
 - [ ] Previous decisions and the reason for change remain visible.
-- [ ] The next action, owner, evidence of done and review date are recorded.
+- [ ] The next action, owner, how we will check completion and review date are recorded.
 
 ## Stop conditions
 
@@ -44,7 +44,7 @@ Recruitment reaches 20% of the minimum viable pool after the agreed feasibility 
 
 ## What to bring to supervision
 
-The trigger evidence, affected decision chain, options, costs, approval effects, recommendation and exact decision needed.
+Bring the new evidence, what it changes, your options and costs, any approval implications, and the decision you need. Include your recommendation.
 
 ## Related guidance
 

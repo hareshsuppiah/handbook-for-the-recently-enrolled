@@ -20,7 +20,7 @@ Use this guide before or during an early supervision meeting, after a supervisor
 
 ### Meetings and communication
 
-- Usual cadence:
+- Usual meeting frequency:
 - Agenda and papers sent by:
 - Routine channel:
 - Urgent channel and what counts as urgent:
@@ -39,7 +39,7 @@ Use this guide before or during an early supervision meeting, after a supervisor
 - Meeting record prepared by:
 - Shared location:
 - Corrections made within:
-- Actions recorded with owner, date, dependency and evidence of done:
+- Actions recorded with owner, date, dependencies and a way to check completion:
 - Decisions recorded with rationale and review trigger:
 
 ### Development, authorship and boundaries

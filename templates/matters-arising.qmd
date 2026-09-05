@@ -5,19 +5,19 @@ last-reviewed: "2026-08-28"
 
 ## Blank register
 
-| ID | Origin/date | Matter | Current evidence | Disposition | Owner | Next review |
+| ID | Origin/date | Matter | Current evidence | Next step | Owner | Next review |
 |---|---|---|---|---|---|---|
 | M-001 | [ ] | [ ] | [ ] | close / continue / escalate / transfer | [ ] | [ ] |
 
 ## Completed example
 
-| ID | Origin/date | Matter | Current evidence | Disposition | Owner | Next review |
+| ID | Origin/date | Matter | Current evidence | Next step | Owner | Next review |
 |---|---|---|---|---|---|---|
 | M-004 | Meeting 3 | Data-access confirmation | partner has not signed | escalate to partner lead | supervisor | Friday |
 
 ## Scenario test
 
-An item copied forward for three meetings without movement must receive a disposition; it cannot remain “noted”.
+If the same item appears at three meetings, agree what will happen next, who will do it and by when.
 
 ## Related guidance
 

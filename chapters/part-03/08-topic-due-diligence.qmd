@@ -1,17 +1,17 @@
 ---
 title: "Choosing a topic worth pursuing"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-06"
 ---
 
-A topic can be important, novel and still be a poor doctoral project. The required data may be unavailable, recruitment may depend on one fragile relationship, the method may need expertise the team does not have, or the promised contribution may already exist. Due diligence is how you find those problems while they are still cheap to change. It is not a hunt for certainty. It is a proportionate test of the assumptions that could make the project infeasible, unsafe or no longer worth the cost.
+Before you commit to a topic, check whether you can get the data, recruit enough people and find the expertise you need. Search for studies that might already have answered the question.
+
+These checks are often called due diligence. You can do many of them with a short search, a sample file or a conversation with the right person. Finding a problem now leaves you more room to change the project.
 
 ## Test the fragile assumptions first
 
-A defensible topic is important enough, answerable enough, feasible enough and appropriately bounded for the candidature. Due diligence is the deliberate search for evidence that could change the decision to proceed.
+Start with the assumption that would cause the most rework if it proved wrong. If the study depends on a restricted dataset, check access before refining the analysis. If it needs equipment you've never used, arrange a trial before committing to a collection schedule.
 
-Enthusiasm establishes interest, not viability. A long bibliography establishes activity, not access, ethical acceptability or alignment. Treat the proposed project as a case that must withstand a sceptical review.
-
-## The due-diligence domains
+## What to check before committing {#the-due-diligence-domains}
 
 ### Importance and contribution
 
@@ -62,7 +62,7 @@ Before major commitment:
 - test whether the core analysis is possible with simulated or public data;
 - conduct appropriate consultation where communities or partners share authority.
 
-A feasibility test should answer a decision. “Run a pilot” is not enough; specify what result would lead to continue, revise or stop.
+For each test, decide in advance what result would let you continue and what would make you revise or stop. That gives the test a useful endpoint.
 
 ## Example: the prestigious but inaccessible dataset
 
@@ -92,14 +92,9 @@ The decision is not simply “wait for access”. The team records two designs, 
 
 ## How enthusiasm hides avoidable risk
 
-- accepting informal enthusiasm as authorised access;
-- estimating only the successful path;
-- treating “available data” as data fit for the inference;
-- hiding recruitment, equipment or partner delays inside the timeline;
-- assuming ethics approval resolves all governance;
-- selecting a method because a supervisor or software package is familiar;
-- calling a project feasible because each task is individually possible;
-- continuing solely because time has already been invested.
+Check the whole sequence as well as individual tasks. Recruitment, equipment and partner delays can overlap, and ethics approval may leave separate access or site permissions unresolved. Budget time for things going wrong.
+
+Available data still need to fit the question. Familiar methods still need a rationale. Reconsider the project if those checks fail, even when you've already invested time in it.
 
 ## Run these checks before committing
 
@@ -114,7 +109,7 @@ Use the full [Before committing to each study](../../checklists/before-study-com
 - [ ] a realistic alternative has been considered;
 - [ ] the decision and assumptions are recorded.
 
-## Bring evidence for the go-or-change decision
+## Take the main uncertainty to supervision {#bring-evidence-for-the-go-or-change-decision}
 
 Bring the one-page topic case, completed canvas, strongest contrary evidence, main dependency, one alternative and your recommendation. Ask which assumption would most damage the project if wrong and how cheaply it can be tested.
 
@@ -137,5 +132,4 @@ The due-diligence canvas is an editorial synthesis. Its challenge to gap-only ju
 
 ## References
 
-::: {#refs}
-:::
+[Full reference list](../../references.qmd).

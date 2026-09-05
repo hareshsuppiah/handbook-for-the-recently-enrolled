@@ -10,7 +10,7 @@ title: "What should I check after 90 days?"
 
 ## Critical checks
 
-- [ ] Supervisory roles, meeting cadence, decision records and feedback expectations are working in practice.
+- [ ] Supervisory roles, meeting frequency, decision records and feedback expectations are working in practice.
 - [ ] The next formal milestone and its evidence requirements have been confirmed from a current official source.
 - [ ] The research problem, provisional question and intended contribution can be stated plainly and are not being confused with a broad topic.
 - [ ] The main feasibility assumptions have been tested rather than merely asserted.
@@ -32,7 +32,7 @@ Keep the reviewed project statement, feasibility notes, search record, decision 
 
 **Situation:** At day 90, the research question is promising and supervision is working, but access to the proposed dataset remains unconfirmed.
 
-**Result:** The project is not treated as fully viable. Access remains a named risk with an owner and decision date; the next phase includes reversible work and an alternative data route rather than silently assuming access.
+**Result:** The next plan gives someone responsibility for confirming access by a set date. Meanwhile, the student can test an alternative dataset and continue work that does not depend on access.
 
 
 ## Related guidance

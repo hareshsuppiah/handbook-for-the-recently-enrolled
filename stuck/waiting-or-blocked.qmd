@@ -5,20 +5,20 @@ last-reviewed: "2026-08-28"
 
 ## Name the decision and its owner
 
-Is work waiting on a named external action, or is the current route unable to produce the required outcome? Record submitted, received, under review, approved and rejected as different states.
+Find out where the request has reached. Sending it, receiving an acknowledgement and getting approval are different steps. Check who has the next action and when they expect to respond.
 
 ## Try this now
 
 1. Name the required decision and its owner.
-2. Record request, receipt, agreed response and latest feasible decision dates.
+2. Record when you asked, any acknowledgement, the promised response date and the latest date that would keep your plan workable.
 3. Identify work that can proceed safely.
 4. Prepare a realistic fallback.
-5. Follow up at the agreed threshold.
-6. Escalate before the protected buffer is exhausted.
+5. Follow up on the agreed date.
+6. Ask for further help before the delay uses up the time you set aside for problems.
 
 ## What to take when asking
 
-Bring the dated record, milestone impact, safe interim work, alternatives and one requested decision.
+Explain when you asked, which deadline is affected, what you can do meanwhile and the alternatives. Ask for the specific decision you need.
 
 ## Stop or escalate
 
@@ -26,7 +26,7 @@ No response is not permission. Do not begin affected work before required approv
 
 ## You are moving again when
 
-The authorised decision exists or a documented alternative/formal schedule change is active. Another follow-up message alone is not resolution.
+You have the necessary decision, an agreed alternative or an approved change to the timetable. Keep following up until you know which applies.
 
 Use the [risk register](../templates/risk-issues-register.qmd) and [escalation builder](../templates/escalation-message.qmd).
 

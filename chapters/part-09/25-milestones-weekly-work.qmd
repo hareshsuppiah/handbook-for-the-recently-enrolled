@@ -3,13 +3,15 @@ title: "Milestones, dependencies and weekly progress"
 last-reviewed: "2026-08-28"
 ---
 
-A full week can produce no visible progress, while a quiet decision about access or analysis can unlock months of work. Milestones become useful when they name the evidence that must exist, the dependencies that come first and the smallest action that changes the project’s state. “Work on chapter” is not a plan. “Draft the claim map so the supervisor can decide whether the section structure is sound” is. Weekly planning should make uncertainty visible rather than rewarding a reassuring percentage complete.
+“Work on the literature review” can sit on a to-do list for weeks. It leaves both the starting point and the week's intended result unclear.
 
-## Plan around evidence, dependencies and decisions
+Try a smaller task: compare the five studies you have already selected, write the paragraph they support and send it for feedback on Thursday. You can see what needs doing, what it produces and who needs it next. This chapter connects that kind of weekly task to the larger milestones in your doctorate.
 
-Define milestones by evidence and decisions, then work backwards through dependencies to the next observable action. Track states such as not started, active, waiting, blocked, under review and accepted. Invented percentages hide more than they reveal.
+## Give the milestone a visible result {#plan-around-evidence-dependencies-and-decisions}
 
-A milestone is not “finish methods”. It is a decision point with required evidence, acceptance criteria, an authorised reviewer and a response if the evidence is not ready.
+For each milestone, name what you need to produce and who will review or approve it. Then work backwards through the people, permissions and earlier tasks it depends on.
+
+“Finish methods” might mean a draft ready for feedback, a protocol ready for ethics review or an approved procedure ready to use. Agree which result you mean before putting the date in the plan.
 
 ## Convert milestones into evidence
 
@@ -26,7 +28,7 @@ For each formal or internal milestone, record:
 | Failure path | What happens if the evidence is late, weak or unsafe? |
 | Record | Where will the decision and resulting actions live? |
 
-The milestone date is one constraint. The evidence chain is the work.
+Use the date to work out when each part must be available for review.
 
 ## Work backwards through dependencies
 
@@ -54,7 +56,7 @@ Mark each dependency by owner and state. A task owned by an external person is n
 
 Weekly lists often fail because they mix all three. Write one or two weekly outcomes, name the evidence, then specify actions that can be started without another planning meeting.
 
-## Write executable next actions
+## Write tasks you can start {#write-executable-next-actions}
 
 A next action should contain:
 
@@ -67,9 +69,9 @@ A next action should contain:
 
 **Vague:** work on literature review.
 
-**Executable:** compare the five included supervision-feedback studies in the evidence matrix, draft the bounded pattern paragraph and link each claim to a checked source location before Thursday's review.
+**Executable:** compare the five included supervision-feedback studies in the evidence matrix, draft a paragraph comparing their findings and link each claim to a checked source location before Thursday's review.
 
-## Use honest work states
+## Say where the work stands {#use-honest-work-states}
 
 | State | Meaning | Required record |
 |---|---|---|
@@ -93,7 +95,7 @@ Separate:
 - **uncertainty:** how much the estimate could change; and
 - **buffer:** protected time for identified variability.
 
-Place buffers before consequential commitments, not only at the end of candidature. Common uncertainties include recruitment, ethics review, data access, equipment, collaborator feedback, analysis failure, illness, leave, caring responsibilities and revision cycles.
+Place buffers before important commitments as well as at the end of candidature. Common uncertainties include recruitment, ethics review, data access, equipment, collaborator feedback, analysis failure, illness, leave, caring responsibilities and revision cycles.
 
 Do not treat a buffer as available scope. If it is consumed, revisit downstream commitments.
 
@@ -128,21 +130,11 @@ Plans at different horizons should connect; the weekly list should not become a 
 
 ## Example: the “90% complete” chapter
 
-**Claim:** literature chapter is 90% complete.
+A literature chapter contains 7,000 words and is described as 90% complete. But two central claims still lack verified sources, the argument is unsettled, supervisor comments remain unanswered and the references contain duplicates.
 
-**Audit:** 7,000 words exist, but two central claims have no verified sources, the argument map is unresolved, supervisor feedback has not been incorporated and the references contain duplicates.
+Set the next milestone as a chapter ready for review. It needs a clear question and section argument, checked central sources, consideration of contrary evidence, a verified reference library and a rendered draft. Include a cover note asking for the decision you need.
 
-**Reframed milestone:** reviewable literature chapter ready for supervisor decision.
-
-**Acceptance evidence:** bounded question, coherent section argument, claim-level citation audit, contrary evidence considered, reference library verified, clean render and cover note stating requested feedback.
-
-**Current state:** active, not 90%.
-
-**Weekly outcome:** resolve the two unsupported claims and produce a reviewable argument map.
-
-**Actions:** open and verify candidate primary sources; revise or narrow each claim; update the evidence matrix; render the chapter; ask a peer to trace one paragraph to its sources.
-
-The new state is more honest and more actionable than a percentage.
+For this week, resolve the two unsupported claims and prepare the argument map. Open the relevant primary sources, revise or narrow each claim, update the evidence matrix and render the chapter. A peer can then try tracing one paragraph to its sources.
 
 ## Make progress visible during uncertain work
 
@@ -158,7 +150,7 @@ Reading, conceptual development and troubleshooting can produce evidence:
 - provisional argument maps; and
 - explicit escalation questions.
 
-The point is not bureaucratic volume. Preserve outputs that reduce uncertainty or support a later decision.
+Keep the items that help you decide or explain what you have learned. A short note is often enough.
 
 ## Act while there is still room to change course
 
@@ -174,56 +166,16 @@ Set dated triggers for review or escalation. Examples include the following.
 
 Bring evidence, impact, options and a recommended decision. Formal candidature changes require the authorised local process; a personal revised spreadsheet does not change the official deadline.
 
-## Why busy weeks still leave the project stuck
+## Choose next week's work
 
-- defining milestones by activity rather than evidence;
-- estimating progress by words written or time spent alone;
-- hiding queues and collaborator work inside personal task lists;
-- using due dates without dependency owners or buffers;
-- scheduling full capacity and treating every disruption as failure;
-- keeping too many outcomes active;
-- marking sent/submitted work as approved or complete;
-- allowing weekly urgency to replace the candidature plan;
-- recording every task but no decisions or evidence;
-- waiting until a milestone fails before escalating.
+Review what was produced, what is waiting for someone else and what has been accepted. Leave room for disruption instead of filling every available hour. Choose a small number of tasks that move the next milestone forward, and give overdue dependencies a follow-up date.
 
-## What honest weekly progress looks like
+If a milestone is threatened, bring the current work, dependency owners, remaining buffer and feasible options to the person who can help decide. Show what this week's tasks will produce and which decision is needed first. Update the longer plan when those decisions change.
 
-A project plan is usable when:
-
-- formal and internal milestones have decision evidence and acceptance criteria;
-- dependencies have owners, states and escalation thresholds;
-- effort, elapsed time, uncertainty and buffer are distinguished;
-- candidature, twelve-week and weekly horizons connect;
-- active work is limited;
-- next actions are executable;
-- waiting, blocked, review and accepted states are honest; and
-- the plan changes when evidence changes.
-
-## Escalate the dependency before the milestone is lost
-
-Bring:
-
-- the milestone evidence map;
-- current dependency and buffer status;
-- accepted, active, waiting and blocked evidence;
-- the twelve-week outcome;
-- this week's deliverables and next actions;
-- the earliest escalation trigger reached; and
-- a precise decision request with feasible options.
-
-## Review the evidence before rolling the plan forward
-
-- [ ] Every milestone is a decision with evidence and acceptance criteria.
-- [ ] Dependencies and reviewers have named owners.
-- [ ] Submitted is not confused with accepted.
-- [ ] Effort and elapsed time are estimated separately.
-- [ ] Buffers protect identified uncertainty.
-- [ ] Weekly outcomes connect to the twelve-week and candidature horizons.
-- [ ] Next actions are observable and immediately startable.
-- [ ] Waiting and blocked work have follow-up or escalation thresholds.
-- [ ] Evidence determines status; invented percentages do not.
-- [ ] The plan is revised after material changes.
+[]{#why-busy-weeks-still-leave-the-project-stuck}
+[]{#what-honest-weekly-progress-looks-like}
+[]{#escalate-the-dependency-before-the-milestone-is-lost}
+[]{#review-the-evidence-before-rolling-the-plan-forward}
 
 ## Try these resources
 
@@ -231,9 +183,8 @@ Use the [action register](../../templates/action-register.qmd), [risk and issues
 
 ## Sources and limits
 
-The milestone and weekly-evidence model is an editorial project-control framework. It does not replace formal institutional milestones; the broader distribution of responsibilities across candidates, supervisors and organisations is consistent with current doctoral-training guidance [@ukri-expectations-2024].
+The planning method in this chapter is an editorial suggestion. It does not replace formal institutional milestones; the broader distribution of responsibilities across candidates, supervisors and organisations is consistent with current doctoral-training guidance [@ukri-expectations-2024].
 
 ## References
 
-::: {#refs}
-:::
+[Full reference list](../../references.qmd).

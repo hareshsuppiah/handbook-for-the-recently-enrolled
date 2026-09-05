@@ -1,5 +1,5 @@
 ---
-title: "Decision-oriented meeting agenda"
+title: "Supervision meeting agenda"
 last-reviewed: "2026-08-28"
 ---
 
@@ -17,7 +17,7 @@ Send before a supervision meeting. Limit the main agenda to decisions and feedba
 |---|---|---|---|---|
 | [ ] | [ ] | [link] | [ ] | decide / advise / escalate / note |
 
-**Final do-confirm:** decisions; actions with owner/date/evidence; unresolved questions; risks; next review.
+**Before the meeting ends:** confirm decisions, actions with an owner and date, how completion will be checked, unresolved questions, risks and the next review.
 
 ## Completed example
 
@@ -27,7 +27,7 @@ Send before a supervision meeting. Limit the main agenda to decisions and feedba
 
 ## Scenario test
 
-A student has eight update topics but only one consequential design decision. The agenda moves routine updates to the action register and protects time for the decision.
+A student has eight update topics but only one important design decision. The agenda moves routine updates to the action register and protects time for the decision.
 
 ## Related guidance
 

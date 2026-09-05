@@ -9,7 +9,7 @@ You can send a useful suggestion without knowing Git or editing the handbook. Th
 
 GitHub uses issue forms to turn structured answers into a public record [@github-creating-issue; @github-issue-forms]. GitHub calls that record an **issue**. For this handbook, it means a reader suggestion.
 
-![The contributor submits a suggestion; an editor checks it; Haresh approves drafting; a human or available AI agent proposes edits; Haresh reviews before publication.](../assets/contributions/suggestion-steps.svg){fig-alt="Five stages: submit a suggestion, editorial check and Haresh decision, human or AI drafting, Haresh review, then publication of accepted changes."}
+![The contributor submits a suggestion; an editor checks it; an authorised editor approves drafting; a human or available AI agent proposes edits; an editor reviews before publication.](../assets/contributions/suggestion-steps.svg){fig-alt="Five stages: submit a suggestion, editorial check and approval, human or AI drafting, editorial review, then publication of accepted changes."}
 
 ## What you need
 
@@ -39,18 +39,7 @@ If you are new to GitHub, [create a free personal account](https://github.com/si
 
 ![A worked example follows the form from title and missing-topic category through location, observation, proposed change, benefit and final privacy check.](../assets/contributions/form-example.svg){fig-alt="Worked example: suggest peer-group guidance, select the missing-topic category, identify first-90-days coverage, explain the gap and benefit, then finish the credit and privacy fields before submitting."}
 
-This is an instructional diagram, not a screenshot. The field names match the handbook form checked on 5 September 2026; GitHub's layout may change.
-
-## Write a useful suggestion
-
-A useful suggestion answers four questions:
-
-1. **Where does this apply?** Link the page or name the section if you can.
-2. **What was the researcher trying to decide or do?** Use the words a student might actually use.
-3. **What is missing, wrong or no longer useful?** Describe the problem rather than polishing a replacement.
-4. **Why does it matter?** Describe the likely consequence. Add a source or example when you have one.
-
-It also helps to say whether the suggestion applies broadly or only in a particular country, institution, discipline, method or form of candidature.
+The diagram follows the handbook form. GitHub may move its buttons as the interface changes.
 
 ## Worked examples
 
@@ -86,28 +75,7 @@ An editor may ask a question in a comment. Reply in the box at the bottom of the
 
 You can edit an issue that you created [@github-creating-issue]. Open the suggestion and choose **Edit** on the first post. Change the title or answers, then save the update. Add a comment instead when you are answering an editor, because that preserves the conversation.
 
-## What the editor does next
-
-1. An editor checks the suggestion for private information and existing coverage.
-2. The editor may ask for more detail or evidence.
-3. The project lead accepts it for drafting, merges it with another suggestion, defers it or declines it.
-4. A human contributor or AI agent may prepare a proposed change.
-5. A human reviews that change before publication.
-6. The issue records the decision and links to any published change.
-
-Read [What happens to a suggestion](editorial-workflow.qmd) for the full editorial process. Accepting the suggestion permits drafting. A separate human review determines whether the proposed wording is published.
-
-## Which category should I choose?
-
-| Your situation | Choose this option | Example |
-|---|---|---|
-| The book does not answer your question | Add a missing question, topic, checklist, template or example | How do I find a peer group? |
-| Existing wording is wrong or hard to understand | Correct or clarify something | This sentence confuses approval with publication. |
-| Material repeats itself or is unnecessary | Shorten, combine or remove something | Two lists ask me to do the same check. |
-| You have supporting material | Share a source or useful example | An official guide supports this distinction. |
-| Something is hard to read or operate | Report a reading, navigation, accessibility or technical problem | A table is cut off on my phone. |
-| Advice depends on context | Clarify where advice does and does not apply | This leave rule applies only at my university. |
-| None of those fits | Something else | Explain the outcome you want in your own words. |
+Read [How suggestions become edits](editorial-workflow.qmd) to follow the review and publication process.
 
 ## If you want to write or review material
 
@@ -125,7 +93,7 @@ If you want to draft the actual text, say so in the same form. Wait for the edit
 | Label | A short status tag applied by an editor or automation | Read it to see progress. |
 | Pull request (PR) | A proposed set of edits for review | Only if you volunteer to prepare edits. |
 | Branch / fork | A separate place to prepare changes | Not needed to suggest or review an idea. |
-| Merge | Accept the edits into the main handbook source | Haresh handles the publication decision. |
+| Merge | Accept the edits into the main handbook source | An authorised editor decides whether to publish. |
 | Discussions / blank issue | Alternative GitHub conversation routes | Not used for handbook suggestions. |
 | Private Editorial Desk | An editor's workspace over the issue record | Contributors do not need access. |
 

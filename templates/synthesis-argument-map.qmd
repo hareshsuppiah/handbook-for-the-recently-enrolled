@@ -3,12 +3,12 @@ title: "Synthesis and argument map"
 last-reviewed: "2026-08-28"
 ---
 
-Use one map per consequential paragraph, section claim or decision. Every cited source must still be opened and checked.
+Use this map for a paragraph, section or decision that depends on several sources. Every cited source must still be opened and checked.
 
 ## Blank map
 
 **Question this section answers:** [ ]
-**Bounded claim:** [ ]
+**Claim and its limits:** [ ]
 **Why the claim matters:** [ ]
 
 | Role | What belongs here | Source and exact location |
@@ -28,7 +28,7 @@ Use one map per consequential paragraph, section claim or decision. Every cited 
 
 **Question:** What makes feedback usable during candidature?
 
-**Bounded claim:** Feedback is more likely to be actionable when it identifies the goal, current performance and a feasible next step, but this does not guarantee improved doctoral outcomes.
+**Claim and its limits:** Feedback is more likely to be actionable when it identifies the goal, current performance and a feasible next step, but this does not guarantee improved doctoral outcomes.
 
 | Role | Entry | Source location |
 |---|---|---|

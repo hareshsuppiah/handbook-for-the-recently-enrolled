@@ -3,13 +3,15 @@ title: "Data states, codebooks and provenance"
 last-reviewed: "2026-08-28"
 ---
 
-A file called `final_clean_v7` tells you almost nothing about its source, the changes between versions or whether exclusions were planned, corrected or improvised. Provenance supplies that missing history. It traces the earliest authoritative data through every transformation to the analysis-ready state. A codebook then explains what the variables mean at each point. Together they recover both the numbers and the decisions that produced them.
+A file called `final_clean_v7` leaves quite a few questions unanswered. You need to know where it came from, what changed in version seven and why rows are missing.
 
-## Make every data state and transformation explainable
+You can make those answers easy to find. Keep the original data, record each transformation and write down what the fields mean. The history is called *provenance*; the guide to the fields is a *data dictionary* or *codebook*. Both help you return to an analysis months later without having to reconstruct every decision from memory.
 
-Define data states by what has happened to the material and what it is authorised to support. Preserve the earliest authoritative source state, create later states through inspectable transformations, and keep enough provenance to trace every consequential result backwards.
+## Give each version a clear purpose {#make-every-data-state-and-transformation-explainable}
 
-“Clean” is not self-explanatory. A useful state name says what was cleaned, which rules were applied, why the state exists, who created it, when it changed and which records were excluded.
+“Clean” can mean several things. Perhaps you corrected dates, removed duplicates or created new variables. Name those steps and keep their rules, so someone else can follow the changes from the original data to a result.
+
+Keep the original source protected from overwrite. Later versions should tell you what changed, why, when, who made the change and which records were excluded.
 
 ## Define the states for this project
 
@@ -26,7 +28,7 @@ A practical sequence is:
 
 These names may not fit every project. A historian may preserve photographed archival pages, transcription, annotations and interpretive corpus. A qualitative project may separate original audio, verified transcript, coded corpus and publication extracts. An imaging study may preserve instrument-native files, calibrated images, segmented objects and analysis tables.
 
-## Protect the earliest authoritative state
+## Keep the original source {#protect-the-earliest-authoritative-state}
 
 Raw does not mean perfect, neutral or free from prior processing. Device firmware, platform exports, transcription services, laboratory systems and data custodians may already have transformed the source.
 
@@ -81,7 +83,7 @@ Record:
 
 ARDC includes documentation, metadata, provenance and versioning within good data practice [@ardc-good-data]. Apply these principles in a way proportionate to the research and consistent with data governance.
 
-## Use a data dictionary as a contract
+## Explain the fields in a data dictionary {#use-a-data-dictionary-as-a-contract}
 
 For tabular or structured data, each variable should specify:
 
@@ -104,15 +106,11 @@ A dictionary documents meaning. It does not establish that a measure is valid.
 
 ## Example: the changing status variable
 
-**Incoming field:** five yearly extracts contain a `STATUS` column, but the codes are inconsistent. The observed values are `A`, `I`, `W`, `T`, blanks and `0`.
+Five yearly extracts contain a column called `STATUS`, with values `A`, `I`, `W`, `T`, blank and `0`. It looks easy to turn `A` into “active”, `W` into “withdrawn” and everything else into missing data.
 
-The tempting shortcut is to recode `A = active` and `W = withdrawn`, then treat everything else as missing.
+The custodian explains that `I` changed from “inactive” to “interrupted” in 2024. In different legacy systems, `T` covers transfer or completion. Zero is an export default, and a blank sometimes means there is no current enrolment row.
 
-**Provenance audit:** the custodian explains that `I` changed from “inactive” to “interrupted” in 2024; `T` includes transfer and completion in different legacy systems; `0` is an export default, not a status; blank sometimes means no current enrolment row.
-
-**Defensible workflow:** preserve each extract; register schema and period; obtain or reconstruct period-specific code definitions; create `status_source` and a separately derived `status_harmonised`; retain `unknown` rather than inventing meaning; validate a sample against authoritative histories; restrict analysis periods or claims when harmonisation is not defensible.
-
-One column name did not represent one stable construct.
+Keep each original extract and its period-specific definitions. Create separate fields for the source status and the harmonised status, retaining “unknown” where you cannot establish the meaning. Check a sample against the recorded histories. If the years cannot be compared reliably, restrict the analysis period or narrow the claim.
 
 ## Record exclusions as data decisions
 
@@ -162,45 +160,15 @@ When a collaborator sends `dataset_final.xlsx` again:
 
 Do not assume the latest attachment supersedes the prior research record.
 
-## How datasets lose their history
+## Follow one result back to its source
 
-- calling data raw after undocumented export or manual processing;
-- editing the only source file to “fix” errors;
-- using filenames as the entire version system;
-- keeping transformation logic in one person's memory;
-- documenting variable labels but not time, unit or missingness;
-- treating `NA`, blank, zero, “unknown” and “not applicable” as interchangeable;
-- changing exclusion rules after seeing a preferred result;
-- allowing a new extract to overwrite the analysed version;
-- publishing a de-identified dataset without a separate release review;
-- retaining a final table without the code, inputs and decisions that produced it.
+Choose a number, quotation or image from your draft. Can you find its input, the transformation or selection rule, and the original source? Check the dictionary along the way. Blank, zero, `NA`, “unknown” and “not applicable” may mean different things.
 
-## Can someone else follow the data trail?
+Before analysis, fix the input version for that analysis and reconcile the exclusions. Before release, check privacy and permitted use separately. If a field is unclear, take the source definition, transformation script, difficult record and test result to the custodian or supervisor. The [data dictionary](../../templates/data-dictionary.qmd) gives you somewhere to record the answer.
 
-Before substantive analysis:
-
-- each data state is defined and has an authoritative location;
-- original source material and receipt context are preserved;
-- transformations are executable or auditable;
-- identifiers, versions and manifests connect states;
-- variables, codes, units, missingness and limitations are documented;
-- exclusions remain recoverable and reconciled;
-- state transitions include scientific checks;
-- the analysis-ready input is fixed for the named analysis; and
-- outputs can be traced back to authority and source.
-
-## Show the exact transformation in dispute
-
-Bring:
-
-- the state map and authoritative locations;
-- one complete provenance chain from output to source;
-- the [data dictionary or codebook](../../templates/data-dictionary.qmd);
-- transformation scripts or manual decision record;
-- unresolved source definitions;
-- exclusion flow and reconciliation;
-- test results for a difficult record; and
-- the exact meaning, authority or analysis question you cannot resolve.
+[]{#how-datasets-lose-their-history}
+[]{#can-someone-else-follow-the-data-trail}
+[]{#show-the-exact-transformation-in-dispute}
 
 ## Try these resources
 

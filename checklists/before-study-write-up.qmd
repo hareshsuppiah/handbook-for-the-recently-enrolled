@@ -11,7 +11,7 @@ title: "Is this study ready to write up?"
 ## Critical checks
 
 - [ ] The study's actual question, evidence and contribution can be stated without relying on the preferred conclusion.
-- [ ] The design, data, analysis and proposed claims are aligned at the same level of inference.
+- [ ] The proposed claims stay within what the design, data and analysis can support.
 - [ ] Confirmatory, amended, exploratory, null, ambiguous, unexpected and sensitivity results are distinguished accurately.
 - [ ] The final protocol, approvals, input-data reference, analysis record and deviations are available while writing.
 - [ ] A suitable reporting guideline or disciplinary standard has been identified where one exists.

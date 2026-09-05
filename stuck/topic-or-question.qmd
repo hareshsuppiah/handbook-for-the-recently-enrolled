@@ -1,25 +1,25 @@
 ---
-title: "My topic or question is not defensible yet"
+title: "My topic still feels too vague"
 last-reviewed: "2026-08-28"
 ---
 
 ## Find the weakest link
 
-Identify the weakest link. Check the consequential problem, gap, question, access, method, feasible evidence and contribution.
+Try explaining what you want to find out in two sentences. Where does the explanation become vague? You may need a clearer problem, a more focused question or a realistic way to get the evidence.
 
 ## Try this now
 
-1. State the problem and affected people without claiming a solution.
-2. Write the question using a verb that signals the intended inference.
-3. Map required evidence and the method capable of producing it.
-4. Test access, sample, measurement and approval assumptions cheaply.
-5. Compare continue, narrow, pivot, pause and stop.
+1. Describe the problem and who it affects.
+2. Write what you want to do: describe, explain, compare, predict or estimate an effect.
+3. Connect that question to the evidence and method it needs.
+4. Make small feasibility checks for access, sampling, measurement and approvals before committing resources.
+5. Compare continuing, narrowing the question, changing direction, pausing or stopping.
 
 Use the [topic due-diligence canvas](../templates/topic-due-diligence.qmd) and [research-question stress test](../checklists/research-question-stress-test.qmd).
 
 ## What to take when asking
 
-Bring the one-page topic case, failed assumptions, two feasible alternatives and a provisional recommendation.
+Bring a one-page account of the topic, what your checks found, two realistic alternatives and your recommendation.
 
 ## Stop or escalate
 
@@ -27,6 +27,6 @@ Do not commit major resources while essential access is only informal, the quest
 
 ## You are moving again when
 
-A provisional question, evidence route, boundary, cheap next test and stop condition are recorded.
+You've written a provisional question, how you'll get the evidence, what it can establish and the next small test. You also know what result would make you stop or reconsider.
 
 [Return to I’m stuck](index.qmd)

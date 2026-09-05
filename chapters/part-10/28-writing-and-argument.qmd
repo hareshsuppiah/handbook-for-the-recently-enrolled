@@ -3,13 +3,13 @@ title: "Writing an argument"
 last-reviewed: "2026-08-28"
 ---
 
-You can rewrite an introduction for weeks and still not know what the chapter is trying to prove. Start with the reader’s question, then write the shortest possible chain from claim to evidence to warrant. That skeleton may be ugly; its job is to expose the reasoning while change is cheap. Sources belong where they support a particular move in the argument, not where a paragraph needs decoration. Once the chain works, revise the prose in separate passes for structure, evidence and expression.
+You can rewrite an introduction for weeks and still be unsure what the chapter is trying to say. Put the sentences aside for a moment. Write down the question, your answer and the evidence that supports it.
 
-## Build the reasoning before polishing the sentences
+That rough version gives you something to work with. You can see where a source is missing, where two sections repeat each other and where the conclusion goes further than the evidence. Once the argument holds together, editing the sentences becomes much easier.
 
-Write as soon as writing can test the reasoning. Begin with the question, bounded claim, evidence, warrant and limits. Polished opening sentences can wait. Label the state of the text so provisional reasoning cannot be mistaken for a finished account.
+## Start with a rough argument {#build-the-reasoning-before-polishing-the-sentences}
 
-Writing is part of the research because it exposes missing evidence, broken links and competing explanations. It is not evidence by itself: a clear paragraph cannot repair an invalid inference or an unverified source.
+Writing can help you find out what you think. You can begin before every question is settled, as long as you mark what still needs checking. A polished paragraph will not fix a weak inference or an unverified source; use the draft to find those problems early.
 
 ## Match the draft to its purpose
 
@@ -28,7 +28,7 @@ A thinking note can contain placeholders. A submission draft cannot. Tell review
 
 For each section, write one question the reader needs answered. Then specify:
 
-- the answer or bounded claim;
+- the answer and its limits;
 - why the answer matters to the larger argument;
 - the evidence needed;
 - the warrant connecting evidence to claim;
@@ -38,21 +38,21 @@ For each section, write one question the reader needs answered. Then specify:
 
 If you cannot state the section's question, additional prose usually increases the problem. Return to the argument map rather than searching for a more impressive first sentence.
 
-## Build paragraphs as reasoning units
+## Help the reader follow a paragraph {#build-paragraphs-as-reasoning-units}
 
 A defensible paragraph often performs this sequence:
 
 `claim → evidence or comparison → warrant → qualification → consequence`
 
-Not every paragraph needs five visible sentences, but each reasoning function should be recoverable.
+Use the sequence to diagnose a paragraph that feels incomplete. It is a guide, so you can combine steps or use a different order when the explanation works better.
 
 **Source-centred paragraph:** Smith found X. Jones found Y. Lee found Z.
 
 **Argument-centred paragraph:** Across the three studies, structured feedback was associated with more specific revisions, but the studies used different settings and did not test doctoral completion. The evidence therefore supports a workflow hypothesis about revision. It does not show that the approach improves candidature outcomes.
 
-The second version compares evidence, states the inferential boundary and explains why the pattern matters.
+The reader can now see what the studies have in common and what they cannot tell us.
 
-## Separate claim, evidence and warrant
+## Explain why the evidence supports your answer {#separate-claim-evidence-and-warrant}
 
 - **Claim:** what you ask the reader to accept.
 - **Evidence:** observations, data, sources or accepted premises relevant to it.
@@ -74,7 +74,7 @@ Before polishing, test the strength of the verb:
 6. **causes:** the design supports a causal contrast under stated assumptions;
 7. **recommends:** benefits, harms, feasibility, values and alternatives justify action.
 
-Do not climb the ladder because the stronger verb sounds important. Match the verb to the design and evidence. If the contribution is descriptive, make the description precise and useful.
+Choose the verb your design and evidence support. A precise description can be a useful contribution.
 
 ## Write early, but label uncertainty
 
@@ -96,11 +96,11 @@ These functions are common, not universal templates.
 
 ### Introduction
 
-Establish the consequential problem, what is known, the bounded uncertainty, why resolving it matters, the question and the promised contribution. Do not inflate a small gap into a crisis.
+Explain the problem, what is known and what remains uncertain. Show why your question matters and what the study will contribute. Keep the scale of the problem realistic.
 
 ### Literature review
 
-Define the review's purpose and method, organise evidence by question or explanatory pattern, compare studies, examine disagreement and establish what conclusion the evidence permits. A literature review is not an annotated bibliography with transitions.
+Define the review's purpose and method, organise evidence by question or explanatory pattern, compare studies, examine disagreement and establish what conclusion the evidence permits. Use the comparisons to build an answer, rather than giving each source a separate summary.
 
 ### Methods
 
@@ -121,7 +121,7 @@ Choose and use the relevant current reporting guideline where one exists. The gu
 For every paragraph, write a margin note containing:
 
 1. its main function;
-2. its bounded claim;
+2. its claim and limits;
 3. the evidence used;
 4. its connection to the preceding and following paragraph; and
 5. the section question it helps answer.
@@ -130,23 +130,11 @@ Then inspect the sequence. Repeated functions reveal duplication. Paragraphs wit
 
 ## Example: too many citations, no argument
 
-**Draft:** Six paragraphs summarise one paper each on doctoral feedback. The final sentence says feedback is important. No paragraph compares settings, feedback content or outcome measures.
+Six paragraphs each summarise a different paper on doctoral feedback. The final sentence says feedback is important. Nothing compares the settings, feedback content or measures of improvement.
 
-**Section question:** Under what conditions can feedback be converted into a feasible revision?
+Give the section a question: under what conditions can feedback lead to a feasible revision? Group the evidence around goals, current performance and next actions. Then compare specificity, timing and opportunities to revise, allowing for differences in discipline, relationships and power. Keep perceived usefulness separate from observed revision and longer-term outcomes.
 
-**Reorganisation:**
-
-1. define usable feedback as information about the intended goal, current performance and next action;
-2. compare evidence about specificity, timing and opportunity to revise;
-3. examine variation in discipline, relationship and power;
-4. distinguish perceived usefulness from observed revision or longer-term outcomes;
-5. state the bounded implication for requesting and recording feedback.
-
-**Bounded claim:** Feedback is more actionable when the requested decision, evidence gap and next revision are explicit, but broad educational evidence does not show that this workflow improves doctoral completion.
-
-**Missing evidence:** Doctorate-specific comparisons and evidence about conflicting supervisor feedback.
-
-**Next action:** Build an evidence matrix around the five reasoning roles, verify the central sources, then draft the comparison paragraph. Do not merely add more studies to the original sequence.
+The resulting argument can suggest a clearer way to request and record feedback. It cannot claim that this workflow improves doctoral completion without relevant evidence. Record the missing doctorate-specific comparisons and evidence on conflicting supervision feedback, then use an evidence matrix to check the sources before drafting.
 
 ## Revise in passes
 
@@ -161,49 +149,16 @@ Then inspect the sequence. Repeated functions reveal duplication. Paragraphs wit
 
 Avoid line-editing a structure you expect to discard, and do not use copy editing to postpone a conceptual decision.
 
-## Writing habits that hide the missing argument
+## Send a draft with a useful question
 
-- waiting for complete certainty before writing anything;
-- presenting exploratory notes as settled findings;
-- beginning with prose rather than a section question;
-- organising a review by one-source summaries;
-- using citation volume as a substitute for synthesis;
-- hiding the warrant between evidence and claim;
-- choosing a stronger verb than the design permits;
-- writing methods from memory instead of the final research record;
-- reporting only results that support the preferred account;
-- polishing the opening while central sections remain unwritten;
-- requesting “general feedback” on an unlabeled draft; and
-- applying a generic section formula where the discipline requires another genre.
+Before sharing, check that your methods describe the work you actually did, including deviations, and that contrary findings remain visible. Give each unresolved marker a person and a date for resolving it before the relevant review.
 
-## When a draft is ready for the next kind of review
+You can send a developmental draft before the wording is final. Include its purpose, a short argument map, the evidence you have checked and the two or three decisions still open. A question such as “Do Sections 2–3 give enough support for this conclusion?” helps the reviewer focus their time.
 
-A developmental chapter is ready for substantive review when its question and intended contribution are explicit; every section has a job; the main reasoning chain can be followed; central evidence is anchored; important gaps and provisional claims are visible; and the author asks for a bounded decision. It need not have final wording.
-
-## Tell the reader which level of feedback you need
-
-Bring:
-
-- the draft state and intended audience;
-- the question and bounded contribution;
-- a one-page section or argument map;
-- the two or three decisions that remain open;
-- known evidence gaps or unstable passages;
-- checks already completed; and
-- a precise request such as “Does the evidence in Sections 2–3 justify this bounded claim?”
-
-## Reverse-outline the draft before another rewrite
-
-- [ ] The draft state and requested review are labelled.
-- [ ] Every major section answers a reader question.
-- [ ] Claims, evidence, warrants and boundaries can be traced.
-- [ ] Claim verbs match the design and evidence.
-- [ ] Contrary or ambiguous evidence is not hidden.
-- [ ] Central citations and reported results are verified.
-- [ ] Methods reflect the actual final record and deviations.
-- [ ] Section functions fit the relevant genre and reporting standard.
-- [ ] Substantive revision precedes sentence polishing.
-- [ ] Unresolved markers have owners and removal gates.
+[]{#writing-habits-that-hide-the-missing-argument}
+[]{#when-a-draft-is-ready-for-the-next-kind-of-review}
+[]{#tell-the-reader-which-level-of-feedback-you-need}
+[]{#reverse-outline-the-draft-before-another-rewrite}
 
 ## Try these resources
 
@@ -215,5 +170,4 @@ The Australian publication and dissemination guide is used here for responsible 
 
 ## References
 
-::: {#refs}
-:::
+[Full reference list](../../references.qmd).

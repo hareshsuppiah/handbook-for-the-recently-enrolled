@@ -5,28 +5,27 @@ last-reviewed: "2026-08-28"
 
 ## Start with the claim
 
-Start from the inference, not the familiar technique. Which claim must the evidence support, under what assumptions?
+Before comparing methods, write what you want to find out. Do you need to estimate a difference, explain an experience or test a prediction? That answer helps you choose what evidence to collect.
 
 ## Try this now
 
-1. Map question → evidence → design → sample/material → measure → analysis → claim.
-2. Compare two or three feasible method families.
-3. List decisive assumptions, access, expertise, burden, risk and time.
-4. Test the cheapest fragile assumption.
-5. Seek method-specific advice with the completed comparison.
-6. Record a provisional choice and review trigger.
+1. Connect the question to the evidence, design, sample or material, measures and analysis it needs.
+2. Compare two or three methods you could realistically use.
+3. Check their assumptions, access needs, expertise, participant burden, risks and time.
+4. Test the most uncertain requirement with a small, affordable trial where permitted.
+5. Take the comparison to a methods adviser. Record your provisional choice and what would make you revisit it.
 
 ## What to take when asking
 
-Bring the inference target, options table, decisive test results, remaining uncertainty and recommendation.
+Bring your question, the options table, any trial results and your recommendation. Point out what you're still unsure about.
 
 ## Stop or escalate
 
-Pause when no option meets approval, safety or minimal inference requirements. Do not select a method because software is available or a paper used it.
+Pause if none of the options can answer the question safely and with the necessary approval. Having the software, or finding a paper that used it, doesn't establish that a method fits your study.
 
 ## You are moving again when
 
-One provisional method is selected for stated reasons, with assumptions, authority, pilot and stop conditions visible.
+You've chosen a method for reasons you can explain and agreed which assumptions need testing, which approvals you need and when to reconsider.
 
 Use the [method-options table](../templates/method-options.qmd) and [method decision record](../templates/method-decision.qmd).
 

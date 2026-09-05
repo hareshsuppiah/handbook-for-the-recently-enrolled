@@ -1,19 +1,19 @@
 ---
 title: "Matching the design to the claim"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-06"
 ---
 
-A method can be sophisticated and still be wrong for the claim. You may have a large dataset, an elegant model and a clear result, yet the design only supports prediction while the discussion claims explanation. Begin with the inference you want a reader to accept. Then work backwards through the comparison, sample, measurement, data and analysis needed to support it. Design alignment is less about choosing the most impressive method than making every link in that chain honest.
+You have access to a large dataset and a model that predicts who withdraws from a doctorate. Can it tell you why they leave? That extra word, “why”, asks much more of the study.
+
+Before choosing a method, write the kind of conclusion you hope to reach. Then work backwards to the observations, comparisons and analysis you'd need. We'll use the withdrawal example to see where a design supports a claim and where it falls short.
 
 ## Start with the inference, then choose the design
 
-Choose a design by working backwards from the inference the project must support. Do not begin with a fashionable method, available dataset or familiar technique.
+The conclusion you draw from evidence is an *inference*. To check whether it holds, trace how you get from the question to the answer:
 
-A defensible chain connects:
+`question → evidence needed → sampling → measurement or observation → analysis or interpretation → conclusion`
 
-`problem → question → intended inference → evidence needed → source or sampling → measurement or observation → analysis or interpretation → warranted claim`
-
-Every arrow is a claim. The design is only as defensible as its weakest consequential link.
+Check each step. For example, a large sample can't repair a measure that records attendance when your question concerns wellbeing.
 
 The Australian Code states that researchers should adopt methods appropriate to their aims and ensure conclusions are justified by their results [@australian-code-2018]. That is a governing principle in Australia, not a complete design manual and not a universal institutional rule.
 
@@ -114,7 +114,7 @@ Before committing to the full design, run tests that could prove it unworkable:
 - ask a domain expert for the strongest alternative explanation; and
 - ask affected people whether the framing excludes something consequential.
 
-The objective is not to make the preferred design look viable. It is to expose the cheapest decisive failure early.
+Use the result to decide whether to keep the design or change it while you still have time.
 
 ## Distinguish design constraints from conveniences
 
@@ -132,42 +132,17 @@ Do not optimise a design around an unverified constraint.
 
 ## Where the logic breaks
 
-- selecting a method before stating the inference;
-- letting available data redefine the question without acknowledging the change;
-- using a method because it is prestigious, novel or familiar;
-- treating a large sample as a cure for invalid measurement or biased selection;
-- claiming mechanisms from patterns that do not distinguish explanations;
-- treating “qualitative” or “quantitative” as a sufficient justification;
-- adding a second method without an integration purpose;
-- describing limitations only after every design choice is fixed;
-- ignoring community authority, cultural safety or the distribution of burden;
-- preserving broad claims after feasibility forces a narrow design.
+Name the conclusion before selecting the method. “Qualitative”, “quantitative” and “mixed methods” each leave much of the justification to explain. If you combine methods, say what their integration will help you answer.
+
+Write limitations while you can still change the design. Consider who bears the burden, whose authority is needed and whether the framing is culturally safe. When practical constraints narrow the study, narrow the question and conclusions too.
 
 ## Is the design ready?
 
-At proposal stage, the design is good enough to progress when:
-
-- each question has an explicit intended inference;
-- at least two realistic design options were compared;
-- the chosen option can generate evidence relevant to that inference;
-- major assumptions and surviving alternatives are visible;
-- feasibility and governance dependencies have owners and test dates;
-- a pilot or early failure test is defined; and
-- the claim boundary has already been written.
-
-This gives you permission to test and refine. It does not prove that the final design is valid.
+At proposal stage, use the checklist below to prepare the design for review. Name who will check any outstanding access or approval question, and by when. Meeting these checks gives you a basis for further testing; the pilot may still reveal a reason to change the design.
 
 ## Show the methodologist the claim you need to support
 
-Bring:
-
-- the question-to-claim rewrite;
-- the completed alignment map;
-- the [method-options comparison](../../templates/method-options.qmd);
-- the strongest rejected alternative and why it was rejected;
-- the weakest consequential link;
-- one cheap test of that link; and
-- a precise question about inference, sampling, measurement, analysis, feasibility or governance.
+Bring your question, intended conclusion, alignment map and [method-options comparison](../../templates/method-options.qmd). Explain the strongest alternative you rejected and why. Focus the conversation on the least certain step and one affordable way to test it.
 
 Seek specialist advice early when the project depends on causal identification, complex sampling, specialist instrumentation, Indigenous data or knowledge governance, high-risk participants, advanced modelling, translation, inaccessible populations or unfamiliar interpretive traditions.
 

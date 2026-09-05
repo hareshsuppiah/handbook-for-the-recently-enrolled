@@ -1,9 +1,11 @@
 ---
 title: "What a doctorate asks of you"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-06"
 ---
 
-You may be only weeks into the doctorate and already comparing a rough note with the polished thesis you hope to submit years from now. That comparison makes almost any early work look inadequate. The useful question is smaller: what does this piece of work need to do now? A private thinking note, a draft for supervision, an ethics application and a thesis claim do not need the same finish. This chapter helps you choose the right standard, expose the important uncertainty and take the next defensible step without pretending the work is complete.
+You've written a page, crossed most of it out and started comparing it with a finished thesis. That's a demanding standard for a Tuesday afternoon. Early work needs to help you think, try an idea or get feedback. It can do those jobs while still being rough.
+
+The trick is knowing which standard applies. Notes for yourself, a draft for supervision, an ethics application and a thesis chapter each need different kinds of care. Here we'll work out what your current piece needs before you spend another afternoon polishing it.
 
 ## Judge the work by its current job
 
@@ -11,11 +13,11 @@ A doctorate asks you to make and defend an original contribution through researc
 
 Official descriptions differ in wording and jurisdiction, but they converge on several features: advanced knowledge, original research or application, critical judgement, responsible conduct, and the ability to communicate and defend the work. The UK Quality Assurance Agency, for example, describes original contribution as common across research, professional, practice-based and practice-led doctorates [@qaa-doctoral-2020]. Australia places doctoral qualifications at Level 10 of its qualifications framework, but the precise award requirements are still set by the enrolling institution [@aqf-review-2019].
 
-Your practical task is therefore to build a defensible chain:
+You should be able to explain how these parts of the work connect.
 
 > question → decision → method → evidence → interpretation → contribution
 
-Every link will change as you learn. The standard is not “unchanging”. The standard is “traceable and defensible for the decision being made now”.
+As you learn, you may change the question, method or interpretation. Keep enough of the reasoning to explain those changes later.
 
 ## What you need to decide
 
@@ -46,9 +48,9 @@ Do not use a low-risk drafting standard for ethics, safety, consent, privacy or 
 
 ## A practical way forward
 
-### 1. Name the object
+### 1. Name the piece of work {#name-the-object}
 
-Avoid “work on the PhD”. Name the object you can inspect: a question map, search log, sampling rationale, analysis plan, figure, argument outline or decision record.
+“Work on the PhD” is hard to finish. Choose a specific piece, such as an analysis plan or argument outline, that you can inspect.
 
 ### 2. Name the use
 
@@ -84,18 +86,13 @@ Proceed when the threshold is met. Escalate when the uncertainty concerns approv
 
 **Decision:** Take a one-page concept map and three candidate definitions to supervision. Do not select measures or draft participant material yet.
 
-This is good enough for the conversation because it exposes the consequential uncertainty. It is not good enough for study approval or data collection.
+The supervisor now has something specific to discuss: which definition fits the project. Approval and data collection will need a settled definition and further preparation.
 
 ## Traps that make the doctorate feel impossible
 
-- **Trying to prove the whole thesis at once.** Convert the distant outcome into the next reviewable object.
-- **Mistaking polish for readiness.** Test the reasoning and risk before formatting.
-- **Treating a proposal as a contract with the future.** Preserve the rationale, then revise it when evidence changes.
-- **Asking for feedback on an unnamed problem.** Tell the reviewer what decision you need help making.
-- **Collecting information without a stopping rule.** Define what new information could change the decision.
-- **Copying another project’s method.** Similar topics do not guarantee similar questions, constraints or valid inferences.
-- **Using local convention as universal truth.** Label the source and jurisdiction of every formal requirement.
-- **Waiting for confidence.** Seek enough evidence for a reversible next step, not a feeling of certainty.
+If you keep polishing without feeling ready, return to the purpose of the piece. Tell your reviewer which decision you need help with, and decide what further information could change it. That gives both editing and reading a stopping point.
+
+Be careful when borrowing another project's method or another student's advice about requirements. Similar topics can need different methods; formal rules need a current source and jurisdiction. Keep the reasoning for your own choice, including any revision to the proposal.
 
 ## A quick check before you call it ready
 
@@ -112,16 +109,7 @@ Use this as a **do-confirm** check at a handover, submission or decision point. 
 
 ## Take a proposed decision to supervision
 
-Bring:
-
-1. the object you want reviewed;
-2. the purpose and present threshold;
-3. what you checked;
-4. the strongest evidence and main uncertainty;
-5. your provisional recommendation; and
-6. one precise request, such as “Please tell me whether this is ready for a pilot, and identify the one issue that would block it.”
-
-This turns supervision from “Is this okay?” into a decision-focused review.
+Bring the work, your readiness criteria and a short account of what you checked. Explain your recommendation and main uncertainty. A precise request helps: “Is this ready for a pilot, and what would block it?”
 
 ## What differs across projects
 
@@ -135,10 +123,10 @@ Doctoral forms vary. A monograph, thesis by publication, creative practice docto
 - If you cannot state the project’s possible contribution, use [Problem, gap and contribution](../part-03/07-problem-gap-contribution.qmd).
 - If “good enough” has become perfectionism or avoidance, use [Technical failure and perfectionism](../part-11/32-technical-failure-perfectionism.qmd).
 
-## Sources and limits
-
-The qualification sources support the broad description of doctoral outcomes, not a universal examination rubric. The checklist sources support the design of pause-point checks, not the substantive requirements of research governance. Local rules and case-specific specialist advice take priority where required.
-
 ## When comparison takes over
 
 For practical prompts and a next conversation, see [the guide to life during a PhD](../../stuck/life-during-a-phd.qmd#comparison).
+
+## Sources and limits
+
+The qualification sources support the broad description of doctoral outcomes, not a universal examination rubric. The checklist sources support the design of pause-point checks, not the substantive requirements of research governance. Local rules and case-specific specialist advice take priority where required.

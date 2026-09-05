@@ -3,13 +3,15 @@ title: "Analysis, writing and Quarto"
 last-reviewed: "2026-08-28"
 ---
 
-Research often travels through several tools: data are cleaned in one place, analysed in another, pasted into a document and then revised by hand. Each handoff creates a chance for the result and its source to drift apart. A better workflow declares which tool is authoritative for data, references, analysis and prose, then uses durable outputs between them. Quarto can help connect analysis and publication, but only when the surrounding review process is clear and accessible to the people who must use it.
+Your analysis says 124 participants. The table in your draft says 121. Somewhere between the analysis and the manuscript, a copy-and-paste step has gone stale.
 
-## Give each tool authority over one part of the work
+A useful writing workflow keeps results connected to the work that produced them. You might analyse in R, Python or a graphical tool, manage sources in Zotero, and write in Quarto or a word processor. The combination matters less than whether you can update a result, check it and give your collaborators something they can review.
 
-Choose the analysis and review route that supports the required method, governance, inspection and handover. Before committing the entire project, prototype one representative task that covers import, analysis, verification, export and rerun.
+## Try one table before moving the whole project {#give-each-tool-authority-over-one-part-of-the-work}
 
-Quarto can connect narrative, citations, code and generated outputs in one source, but it does not choose a defensible method, verify data, or make a hidden workflow reproducible.
+Pick a representative task and follow it through import, analysis, checking, export and rerun. This will show whether the tools support your method and whether collaborators can use the output.
+
+Quarto can connect prose, citations, code and generated results. You still need to check the data and method, and document any steps that happen outside the document.
 
 ## Choose the analysis route
 
@@ -33,7 +35,7 @@ The breadth of the ecosystem is not itself a quality guarantee. Pin dependencies
 
 ### Graphical tools such as jamovi
 
-A graphical analysis environment may reduce coding burden, support teaching and make a bounded workflow accessible to collaborators. jamovi, for example, provides a spreadsheet-like interface and analysis modules [@jamovi-about].
+A graphical analysis environment may reduce the coding needed and make the analysis easier for collaborators to follow. jamovi, for example, provides a spreadsheet-like interface and analysis modules [@jamovi-about].
 
 Ask:
 
@@ -50,7 +52,7 @@ Menus can support a reproducible workflow when the clicks are documented and the
 
 Qualitative analysis, geographic information systems, computer-assisted review, laboratory instruments, simulation, symbolic mathematics, imaging or discipline-specific platforms may be essential. Apply the same standards to every option. Check its method fit, data authority, provenance, versioning, export, validation, collaboration, recovery and exit route.
 
-## Combine tools through declared handoffs
+## Connect the tools {#combine-tools-through-declared-handoffs}
 
 A defensible hybrid might use:
 
@@ -79,9 +81,9 @@ For literature screening, evidence extraction or other structured review tasks, 
 
 Run a small set containing duplicates, ambiguous records, missing identifiers, disagreements and a withdrawn source. Confirm that decisions and reasons survive export.
 
-A platform manages records; it does not make the search comprehensive or eligibility decisions valid.
+You will still need to justify the search and eligibility decisions, whichever platform holds the records.
 
-## Make the reference manager authoritative for references
+## Keep one reference library {#make-the-reference-manager-authoritative-for-references}
 
 Use one maintained library or defined group library for verified bibliographic records. A sound workflow includes:
 
@@ -129,13 +131,11 @@ State the choice. Do not imply that a public manuscript source can regenerate co
 
 ## Example: the manually updated table
 
-**Initial workflow:** run analysis in a graphical tool, copy values into Excel, reformat them, paste a screenshot into Word and adjust the text when values change.
+An analysis runs in a graphical tool. The student copies the values into Excel, reformats them and pastes a screenshot into Word. Later, the text reports 124 participants but the screenshot still shows 121. Nobody can tell which exclusions it includes.
 
-**Failure:** the manuscript reports 124 participants, the table displays 121 and no one knows which exclusions the screenshot reflects.
+Save the analysis state and export a structured results table. Check the participant counts against the recruitment and exclusion record, then generate the publication table from that export. Quarto can insert the generated table into the manuscript. A controlled table specification can serve the same purpose in another writing workflow.
 
-**Redesign:** save the analysis state and export a structured results table; validate the participant flow; use a script or controlled table specification to create the publication table; insert it into Quarto from the generated output; build the manuscript; compare the rendered table to the analysis manifest; have a reviewer trace one value back to the source.
-
-The improvement is not “using Quarto”. It is removing an undocumented manual handoff.
+After rendering, compare the displayed table with the analysis output. Ask a reviewer to trace one value back to its source.
 
 ## Build a representative prototype
 
@@ -152,7 +152,7 @@ Before committing to a tool, choose one difficult, realistic task.
 9. reproduce from a clean environment; and
 10. export or migrate the complete record.
 
-Score the workflow on correctness, inspectability, burden, governance, collaboration and recovery. Visual polish alone is a poor test.
+Check whether the results are correct, the steps can be followed and the work can be recovered. Include the effort involved, data restrictions and collaborators' experience.
 
 ## Make review accessible
 
@@ -167,57 +167,16 @@ Not every supervisor or collaborator will review source code. Provide:
 
 Do not force all feedback into code-platform terminology. Preserve the review decision and connect it back to the source.
 
-## Where handoffs lose information
+## Review the prototype with a collaborator
 
-- choosing R, Python or another tool for prestige rather than task fit;
-- assuming graphical analysis cannot be reproducible or code must be reproducible;
-- switching languages mid-project without a migration benefit;
-- relying on notebook cell state or cached objects;
-- using a review platform without testing complete export;
-- collecting duplicate reference libraries with conflicting metadata;
-- letting a citation plugin insert unchecked records;
-- manually copying values between analysis and manuscript;
-- treating a successful Quarto render as scientific verification;
-- creating a sophisticated document no collaborator can review.
+Give someone the rendered document and, where relevant, a separate route to inspect the analysis. Ask them to trace one result back to its input and check whether the review format works for them. Record defaults, versions and dependencies, including any cached or restricted steps.
 
-## When the publishing pipeline is dependable
+If the route fails, bring the prototype, error or export problem, method requirements and licensing or data constraints to the relevant specialist. Test a complete export before changing platforms or languages mid-project. Set a date to review versions and service policies.
 
-The workflow is ready for substantive work when:
-
-- the selected analysis route implements the required method;
-- one representative task has passed end to end;
-- hybrid-tool handoffs are declared and tested;
-- review decisions and reference metadata export completely;
-- authoritative inputs and generated outputs are linked;
-- execution, cache and restricted-data boundaries are explicit;
-- collaborators have usable review formats;
-- the environment and project build are recoverable; and
-- tool versions and policies have review dates.
-
-## Show where the current handoff fails
-
-Bring:
-
-- the representative prototype;
-- required method and output;
-- tool comparison and rejection reasons;
-- workflow diagram and authoritative handoffs;
-- clean-run and export results;
-- collaborator review needs;
-- governance and licensing constraints; and
-- one precise method, platform, document or migration question.
-
-## Prototype the whole route with one real example
-
-- [ ] Method and review needs determine the tool.
-- [ ] The prototype covers the full workflow from import through verification and rerun.
-- [ ] Defaults, versions and dependencies are visible.
-- [ ] Graphical, scripted and specialist handoffs are auditable.
-- [ ] Reference records and citation claims are independently verified.
-- [ ] Quarto execution and restricted-data boundaries are stated.
-- [ ] Generated outputs replace manual copy-and-paste where consequential.
-- [ ] Non-technical and technical reviewers both have appropriate routes.
-- [ ] Clean build, export and migration have been tested.
+[]{#where-handoffs-lose-information}
+[]{#when-the-publishing-pipeline-is-dependable}
+[]{#show-where-the-current-handoff-fails}
+[]{#prototype-the-whole-route-with-one-real-example}
 
 ## Try these resources
 

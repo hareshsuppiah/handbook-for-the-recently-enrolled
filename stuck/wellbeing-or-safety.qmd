@@ -1,28 +1,36 @@
 ---
-title: "Workload, wellbeing, safety or conduct is affecting the work"
-last-reviewed: "2026-08-28"
+title: "Getting support"
+last-reviewed: "2026-09-06"
 ---
 
-## First response
+If workload, health or someone's behaviour is making research difficult, you can ask for support before you have worked out every detail. Start with the service that fits the problem.
 
-If there is imminent danger or urgent health need, contact local emergency or health services now. This page cannot assess urgency or provide clinical, legal or investigative support.
+## Urgent help {#first-response}
 
-## Choose the authorised route
+For immediate danger, contact local emergency services. For an urgent health concern, contact an appropriate health service.
 
-Use appropriate local services for serious distress, illness or disability support, unsafe workload, participant harm, laboratory/field safety, bullying or harassment, discrimination, privacy/data breach, suspected misconduct, legal threat or pressure to breach an approval.
+## Find a contact {#choose-the-authorised-route}
 
-## Preserve only what is safe
+| What is happening | A place to start |
+|---|---|
+| Distress, illness, disability or an unmanageable workload | Student wellbeing, a health practitioner or your university's accessibility service. Your graduate research office can explain leave and candidature adjustments. |
+| Bullying, harassment, discrimination or a legal concern | A confidential student adviser, independent complaints service or qualified legal adviser. |
+| Participant harm, unsafe laboratory or field work, or pressure to work outside approval | The relevant safety or ethics contact. |
+| A privacy breach, lost data or compromised account | Your institution's privacy, IT security or research data service. |
+| Suspected research misconduct | Your research integrity adviser or the institution's designated confidential contact. |
 
-Record factual dates, events, impacts and relevant communications in an authorised confidential location. Do not investigate beyond your role, confront someone when unsafe, or circulate sensitive allegations through ordinary project tools.
+Contact names vary between universities. If you're unsure, ask a confidential student support service to help you find the right one.
 
-## Ask for a concrete protection or decision
+## Prepare what you can {#preserve-only-what-is-safe}
 
-Examples: immediate safety action; confidential advice; workload adjustment; leave/candidature variation; independent supervision contact; incident or integrity assessment; preservation of access and records.
+Keep factual dates, events and relevant messages in an approved confidential location, if it is safe to do so. You don't need to investigate the matter yourself or confront anyone before seeking advice. Leave identifying details and allegations out of public GitHub suggestions and shared project tools.
 
-## Evidence of next state
+[]{#ask-for-a-concrete-protection-or-decision}
 
-The appropriate service has accepted the matter, immediate protections are in place, and the next responsible contact/time is known. An email sent without acknowledgement may not be sufficient for urgent risk.
+Tell the adviser what help you need now: confidential advice, a workload adjustment, leave, a different supervision contact, protection of access or an incident assessment. The [message template](../templates/escalation-message.qmd) can help you put this into words when it is safe to use.
 
-Use the [escalation builder](../templates/escalation-message.qmd) only when it is safe and appropriate.
+## Follow up {#evidence-of-next-state}
+
+Ask who will respond and when. If an urgent concern hasn't been acknowledged, contact the service again or use its urgent route. Keep track of agreed protections and the next contact.
 
 [Return to I’m stuck](index.qmd)

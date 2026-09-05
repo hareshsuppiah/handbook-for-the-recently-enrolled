@@ -3,13 +3,15 @@ title: "When a study fails"
 last-reviewed: "2026-08-28"
 ---
 
-Recruitment stalls, the instrument behaves badly or access disappears. Calling the whole study a failure is understandable, but it is not yet a diagnosis. Freeze the record, identify which link broke and separate the study outcome from misconduct, breach or harm that needs immediate escalation. Some projects can be repaired; some can answer a narrower question; some should be reported as designed and some should stop. The defensible choice depends on what failed, what remains trustworthy and what change would alter the approved study.
+Recruitment has stalled, the instrument is giving unreliable readings, or a partner has withdrawn access. It is hard to see months of work in trouble. Before deciding what to change, work out which part of the study failed and what you can still learn from it.
 
-## Diagnose the broken link before redesigning
+Keep the original plan and results. Then compare a repair, a narrower question, a redesign or stopping. Each can be a reasonable response in the right circumstances. This chapter helps you prepare that decision with your supervisors.
 
-A disappointing result is not automatically a failed study, and a completed protocol is not automatically successful research. Freeze the record, protect people and evidence, classify what failed, identify which inferences remain defensible and decide among repair, bounded analysis, redesign, transparent reporting or stopping.
+## Separate disappointment from a study problem {#diagnose-the-broken-link-before-redesigning}
 
-Do not redefine the original question after seeing favourable results. Preserve planned, amended and exploratory work as distinct states.
+A study can produce an unexpected or inconclusive result while being well conducted. It can also finish all its planned activities without providing a useful answer. Look at the design, delivery and evidence before choosing a label.
+
+Keep planned, amended and exploratory work distinct. Preserve the original question rather than rewriting it after finding a favourable result. If the problem involves harm or a breach, use the incident route described below before ordinary redesign work.
 
 ## Separate outcome from failure
 
@@ -25,7 +27,7 @@ Do not redefine the original question after seeing favourable results. Preserve 
 | Analysis failure | the planned analysis cannot run or its assumptions are untenable | is the issue technical, statistical or conceptual? |
 | Governance failure | work occurred outside approval, consent, agreement or required control | what immediate containment and formal reporting are required? |
 
-A study can fail at a prediction, assumption, dependency, procedure, measure, analysis, timeline or governance control. Name the failed part precisely.
+Use the table to locate the problem before changing other parts of the study.
 
 ## Freeze the record before redesigning
 
@@ -74,7 +76,7 @@ Ask:
 - Do sensitivity analyses change the interpretation?
 - Is the result informative for feasibility, measurement or future design even if it cannot answer the primary question?
 
-Report the result that the study produced, not the result needed to rescue the narrative. Responsible publication includes accurate reporting of inconclusive and negative findings [@nhmrc-publication-guide].
+Report the result, including its uncertainty and limits. Responsible publication includes accurate reporting of inconclusive and negative findings [@nhmrc-publication-guide].
 
 ## Check unexpected findings before calling them discoveries
 
@@ -94,7 +96,7 @@ Do not rewrite the original hypothesis to make the result look predicted. An hon
 
 ### Repair
 
-Use when the original question remains important and a bounded, authorised fix can restore the relevant link. Record the failure, repair, retest and any approval or registration change.
+Use when the original question remains important and a specific, authorised fix can repair the problem. Record the failure, repair, retest and any approval or registration change.
 
 ### Narrow
 
@@ -113,24 +115,18 @@ Use when the process itself provides credible evidence about recruitment, accept
 Use when no important, feasible and responsible contribution remains, harm or burden is disproportionate, approvals cannot support the route, or repair would consume resources needed for a stronger programme. Stopping responsibly includes closure, reporting and preservation.
 
 ::: {.decision-card}
-**Smallest useful next action:** Freeze the authoritative record and write a one-page failure account: expected state, observed state, evidence, affected inference, remaining value, options, authority and next decision date.
+**Try this:** Save the original record and write a one-page account of what happened. Include the affected claims, what remains useful, your options and the decision you need next.
 :::
 
 ## Example: recruitment does not reach viability
 
-**Baseline:** A survey requires at least 240 eligible respondents to estimate subgroup patterns with useful precision. The feasibility trigger is 80 eligible completions by week six.
+A survey needs 240 eligible respondents for sufficiently precise subgroup estimates. The team has set a review at week six, when it expects 80 completions. Only 32 eligible participants have completed it, despite many advertisement views. No safety incident has been identified.
 
-**Observed:** At week six, 32 eligible participants have completed the survey. Advertisement views are high, but eligibility and completion are low. No safety incident is identified.
+Check the recruitment funnel, eligibility coding, burden, dropout points and whether sites followed the approved route. Recalculate the precision realistic recruitment could provide. The shortfall alone cannot tell you why people declined or whether subgroup differences exist.
 
-**Do not conclude:** “People are not interested” or “the study found no subgroup difference”. Neither follows from the record.
+Options include an authorised extra site, an approved amendment to reduce burden, an extension within the buffer, a narrower feasibility question, added qualitative evidence or stopping. Compare participant burden, approval requirements, time and effects on other work before choosing. Record an amended objective before inspecting outcome patterns that might influence it.
 
-**Tests:** Audit the denominator and recruitment funnel; confirm eligibility coding; compare burden and dropout points; check whether approved sites implemented the route; recalculate the precision supported by realistic recruitment; ask whether a narrower descriptive question remains meaningful.
-
-**Options:** Add an authorised site; reduce burden through an approved amendment; extend within the available buffer; narrow to a feasibility question; integrate qualitative evidence; or stop recruitment.
-
-**Decision:** Do not extend merely because data collection has begun. Compare each option's contribution, participant burden, approval path, time and displacement. Record any amended objective before inspecting outcome patterns that could bias the choice.
-
-**Evidence of done:** Dated decision, amendment where required, updated registration and protocol, revised analysis and contribution boundaries, participant communication if applicable, and preserved original recruitment record.
+Keep the original recruitment record. Update the protocol, registration and analysis plan as required, obtain amendments and communicate with participants where applicable.
 
 ## Example: data access disappears
 
@@ -140,41 +136,16 @@ A partner withdraws access before transfer. The preferred dataset never became p
 
 Stop affected work, protect participants and evidence, and use the authorised incident, safety, privacy, ethics or research-integrity route. Do not delay formal reporting while trying to establish fault. Do not place identifying details in an ordinary project register or investigate people beyond your role.
 
-## Responses that make a failed study harder to learn from
+## Prepare the decision with your supervisors
 
-- treating a null result as proof of no effect;
-- calling any unwanted result a failed study;
-- overwriting the original plan during rescue;
-- inventing a post hoc hypothesis;
-- collecting more data without a decision threshold;
-- changing inclusion criteria after inspecting outcomes without disclosure;
-- analysing an underpowered study as though its original precision remains;
-- treating feasibility work as a miniature efficacy test;
-- hiding deviations or implementation failure;
-- rescuing one paper at the cost of thesis coherence;
-- continuing because participants or time have already been invested; and
-- abandoning the record when the preferred claim disappears.
+Bring the original record, what you expected, what happened and the evidence for the difference. Show which claims remain supportable and how each recovery option affects participants, time, approvals and the thesis as a whole. Include stopping as an option.
 
-## Choose what to do next
+Agree what will be reported, amended or closed, who will act and when the decision will be reviewed. Preserve any changes to eligibility or analysis, especially those made after inspecting outcomes. Use the decision aid below to compare options without letting time already spent decide for you.
 
-A failure response is defensible when the original record is preserved; the failed link and downstream inference are explicit; safety and authority are addressed; remaining claims are bounded; recovery options are compared without hindsight; and the decision includes approval, reporting, closure and review consequences.
-
-## Bring the diagnosis and realistic recovery routes
-
-Bring the frozen record, expected-versus-observed account, verified failure evidence, affected inference chain, immediate protections, realistic options, remaining time/resources, required authorities, provisional recommendation and one decision request.
-
-## Preserve the record before changing the study
-
-- [ ] The original protocol, data and analysis state are frozen.
-- [ ] The failure is named at a specific link in the chain.
-- [ ] Observation and causal explanation are separated.
-- [ ] Null, ambiguous, unexpected and failed implementation are distinguished.
-- [ ] Remaining defensible claims and unusable claims are explicit.
-- [ ] Recovery options include narrow, redesign, report and stop.
-- [ ] Participant burden, safety and governance are reassessed.
-- [ ] Amendments and exploratory analyses are labelled.
-- [ ] Sunk effort does not determine the choice.
-- [ ] Closure and evidence of done are defined.
+[]{#responses-that-make-a-failed-study-harder-to-learn-from}
+[]{#choose-what-to-do-next}
+[]{#bring-the-diagnosis-and-realistic-recovery-routes}
+[]{#preserve-the-record-before-changing-the-study}
 
 ## Try these resources
 
@@ -182,5 +153,4 @@ Use the [pivot, continue or stop decision aid](../../checklists/pivot-continue-s
 
 ## References
 
-::: {#refs}
-:::
+[Full reference list](../../references.qmd).

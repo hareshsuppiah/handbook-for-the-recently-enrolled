@@ -3,13 +3,15 @@ title: "Git, GitHub and AI-assisted workflows"
 last-reviewed: "2026-08-28"
 ---
 
-Git can preserve a clear history of change; GitHub can make review visible; an AI agent can draft work quickly. None of them decides what is safe to expose or what counts as a correct change. Begin with non-sensitive material, learn the small commit-and-review loop and run a privacy check before anything reaches a remote service. When an agent is involved, treat its work as a proposed change: inspect the diff, test the result and keep publishing behind a human decision.
+Suppose you change an analysis and later need to see exactly what you changed. Git keeps that history. GitHub adds a shared place to discuss changes and review them before they become part of the project.
 
-## Make changes easy to review and undo
+Start with a practice repository containing non-sensitive text or code. Make a small change, inspect it and save it as a commit. Once that feels familiar, try a branch and pull request. An AI agent can help draft changes too; the same review steps give you a chance to check its work before publishing.
 
-Git records recoverable changes to suitable files. GitHub is one possible hosted collaboration service around Git. Neither is an approved research-data store by default.
+## Practise with a small change {#make-changes-easy-to-review-and-undo}
 
-Start with non-sensitive text, code and documentation in a practice repository. Inspect every staged change before committing and every proposed change before merging. AI assistance can accelerate bounded work, but the human owner remains responsible for authority, evidence, verification and disclosure.
+Use material you can safely share while learning. GitHub is a hosted service, so check whether it is approved for the files you intend to use. Private visibility alone does not authorise research-data storage.
+
+Each time, inspect the selected changes before committing. Review and test proposed changes before merging, including those drafted by AI. The person accepting the work remains responsible for the evidence and any disclosure.
 
 ## Understand the layers
 
@@ -47,13 +49,13 @@ Usually unsuitable without explicit design and authority:
 
 Private repository visibility reduces exposure; it does not make every file appropriate or eliminate provider, access, backup, contract or breach risks.
 
-## Run the privacy preflight before the first commit
+## Check the files before the first commit {#run-the-privacy-preflight-before-the-first-commit}
 
 1. Inventory the project files, including hidden files and metadata.
 2. Classify data, intellectual property, confidentiality and cultural restrictions.
 3. Move prohibited material to approved storage.
 4. Create `.gitignore` rules for local data, credentials, caches and generated files.
-5. add safe example configuration without real secrets;
+5. Add safe example configuration without real secrets;
 6. inspect files selected for tracking;
 7. inspect the staged diff;
 8. confirm repository owner, visibility, collaborators and organisation rules; and
@@ -84,7 +86,7 @@ A branch creates a separate place to develop a change before integrating it [@gi
 A simple research workflow:
 
 1. create an issue or decision describing the problem and acceptance evidence;
-2. create a branch for the bounded change;
+2. create a branch for the agreed change;
 3. edit and commit in coherent steps;
 4. run tests, render documents and inspect outputs;
 5. open a pull request explaining what changed, why and how verified;
@@ -96,13 +98,9 @@ The vocabulary can be translated for contributors: “suggest an improvement”,
 
 ## Example: correcting a reported result
 
-**Issue:** Figure 2 uses an outdated analysis-ready dataset.
+Figure 2 uses an outdated dataset. Open a correction issue and identify the affected input, analysis, figure, text and public versions. Create a branch, update the input reference and rerun the workflow.
 
-**Bad fix:** replace the image on the main branch and delete the old file.
-
-**Reviewable fix:** open a correction issue; identify affected input, code, figure, text and public versions; create a branch; update the input reference; rerun the pipeline; compare results; revise interpretation; preserve the prior release; obtain analytic and editorial review; merge; publish a new tagged release; link the correction and notify affected audiences.
-
-Git records the change. The correction process determines whether the research record is responsibly repaired.
+Compare the results and revise the interpretation where needed. Keep the prior release so the history remains visible. After analytic and editorial review, merge the correction, publish the new tagged release and notify the affected audiences. Replacing the image alone would leave the reasoning and public record unchecked.
 
 ## Respond to sensitive-data exposure immediately
 
@@ -117,7 +115,7 @@ If a credential is committed:
 
 If personal, confidential, embargoed or restricted material is committed, preserve facts, limit access, contact the responsible privacy/data/integrity authority and follow the incident process.
 
-Deleting the latest file does not delete repository history. GitHub documents that sensitive-data removal can require history rewriting, coordination across clones and forks, and additional support steps [@github-sensitive-removal]. Treat prevention and incident response as safer than casual cleanup.
+Deleting the latest file does not delete repository history. GitHub documents that sensitive-data removal can require history rewriting, coordination across clones and forks, and additional support steps [@github-sensitive-removal]. Follow that process rather than assuming a deleted file is gone from every copy.
 
 ## Let readers suggest changes through issues
 
@@ -133,9 +131,9 @@ Submission does not authorise implementation. The editorial workflow should be:
 
 `suggestion → privacy check → duplicate/coverage check → evidence review → owner decision → implementation branch → verification → approval → release → contributor notified`
 
-An approved issue can then become a bounded task for an AI coding agent or human contributor. The issue should state acceptance criteria, files in scope, required sources, tests and actions that remain owner-only.
+An approved issue can then become a task with a defined scope for an AI coding agent or human contributor. The issue should state acceptance criteria, files in scope, required sources, tests and actions that remain owner-only.
 
-## Use AI or agents inside a controlled change loop
+## Review work drafted by an AI agent {#use-ai-or-agents-inside-a-controlled-change-loop}
 
 Before delegating repository work:
 
@@ -149,7 +147,7 @@ Before delegating repository work:
 - prevent autonomous publication, merge or external communication unless explicitly authorised; and
 - review the result as though it came from an unfamiliar contributor.
 
-Useful bounded tasks include updating repetitive links, drafting tests, implementing an approved issue, checking structure or preparing a reviewable branch. High-risk interpretation, ethics, authorship, participant decisions and final scholarly claims remain with accountable people and authorised processes.
+Suitable tasks include updating repetitive links, drafting tests, implementing an approved issue, checking structure or preparing a reviewable branch. High-risk interpretation, ethics, authorship, participant decisions and final scholarly claims remain with accountable people and authorised processes.
 
 ## Verify generated repository changes
 
@@ -165,7 +163,7 @@ Review:
 - link, accessibility and build checks; and
 - repository history and remote deployment after push.
 
-A passing build is necessary evidence for a build requirement, not proof that content is correct.
+A passing build tells you the project builds. Check the research claims separately.
 
 ## Make the repository understandable
 
@@ -184,45 +182,15 @@ The README should identify:
 
 Test the README in a fresh clone.
 
-## Fast workflows that bypass judgement
+## Check a change before sharing it
 
-- putting data into Git because code and data belong to the same project;
-- relying on private visibility as the only security control;
-- committing credentials and then only deleting the file;
-- staging every changed file without inspection;
-- using branches without review or branches that never merge;
-- forcing collaborators to edit code when a rendered review route would work;
-- treating issues or pull requests as authority to publish;
-- allowing an agent to broaden scope or merge its own work;
-- trusting green automation that does not test the claimed requirement;
-- using GitHub as the only backup or long-term archive.
+Use the linked starter checklist for the first repository. For a later change, inspect the complete diff, run the relevant checks and open the rendered output. Avoid staging unrelated files together. Keep branches small enough to review and either merge or close them when the work is settled.
 
-## When a repository change is ready for review
+Ask a colleague to follow the README from a fresh clone. If they need help, bring the failing step, repository visibility, file restrictions and a representative diff to the review. Agree who maintains releases, handles incidents and looks after backups and archives; GitHub alone need not fulfil all those jobs.
 
-A repository workflow is ready when:
-
-- tracked content has passed the privacy and authority preflight;
-- prohibited files, secrets and generated material have controls;
-- commits are coherent and staged changes are inspected;
-- review branches have acceptance evidence;
-- non-technical collaborators have usable review routes;
-- AI-assisted changes are bounded, verified and disclosed as required;
-- the README works from a fresh clone;
-- remote, backup and archive roles are distinguished; and
-- incident, release and maintenance owners are known.
-
-## Show the exact change and its risk
-
-Bring:
-
-- repository purpose and visibility;
-- content classification and `.gitignore`;
-- one representative commit and diff;
-- branch/pull-request workflow;
-- current README and clean-clone result;
-- tests and rendered inspection;
-- AI task record if applicable; and
-- one precise privacy, collaboration, versioning or release question.
+[]{#fast-workflows-that-bypass-judgement}
+[]{#when-a-repository-change-is-ready-for-review}
+[]{#show-the-exact-change-and-its-risk}
 
 ## Try these resources
 

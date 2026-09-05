@@ -5,28 +5,26 @@ last-reviewed: "2026-08-28"
 
 ## Name the stage and standard
 
-First name the stage. Are you exploring, deciding, reviewing, submitting or acting, or preparing to archive or hand over? Quality cannot be tested until the work has a purpose and a gate.
+A draft for feedback needs a different check from a paper you're about to submit. Decide what you'll use this version for, then choose the matching standard.
 
 ## Try this now
 
-1. State the audience, decision and authority.
-2. Run the stage rubric.
-3. Separate critical failures from optional improvements.
-4. Fix safety, integrity, approval, evidence and reproducibility failures first.
-5. Defer work that addresses no failed test or requirement.
-6. Obtain the named review decision.
+1. Write who will read or use the work and what they need from it.
+2. Use the stage rubric linked below to check this version.
+3. Fix problems with safety, integrity, approval, evidence or reproducibility before optional improvements.
+4. Ask the relevant reviewer to confirm it's ready. Keep other refinements for later unless they address a real problem.
 
 ## What to take when asking
 
-Bring the stage, acceptance criteria, evidence for each test, failed checks, optional refinements and one decision request.
+Show your reviewer the work, the checks you've completed and anything that still needs attention. Ask whether it's ready for its next use.
 
 ## Stop or change route
 
-Do not proceed because of deadline alone when a critical check fails. Do not delay because an unrequested improvement remains imaginable.
+A deadline can't resolve a failed critical check. Equally, another possible improvement doesn't automatically justify delaying work that meets the agreed standard.
 
 ## You are moving again when
 
-Every critical test passes or has an authorised disposition, and the next gate is recorded.
+The critical checks pass, or the responsible reviewer has explicitly resolved them, and you know what happens next.
 
 Use the [good-enough rubric](../checklists/good-enough-rubric.qmd) and the relevant phase checklist.
 

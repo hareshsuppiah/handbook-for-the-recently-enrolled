@@ -2,7 +2,7 @@
 title: "About this edition"
 ---
 
-This is a living public edition of the handbook. The complete handbook is available to use now, and it will continue to be corrected and improved as evidence, policies, technology and reader needs change.
+This free handbook covers graduate research from the questions to ask before enrolling through examination and handover. Readers can suggest corrections, additions and cuts as the book develops.
 
 ## What you can expect
 
@@ -13,9 +13,7 @@ This is a living public edition of the handbook. The complete handbook is availa
 - corrections and useful additions can enter the documented editorial process; and
 - navigation, links, citations and page coverage are checked when the book is built.
 
-## Limits of a living handbook
-
-No online handbook is permanently complete or universally applicable. Policies, software, evidence and institutional arrangements change. General guidance cannot replace the rules, approvals or specialist advice that govern your particular work.
+For questions about your own university or study, see [Local rules and specialist help](support.qmd).
 
 ## Help improve it
 

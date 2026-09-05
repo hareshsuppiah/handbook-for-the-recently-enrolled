@@ -4,6 +4,14 @@ All notable changes to this living handbook are recorded here.
 
 ## Unreleased
 
+### Revised — 6 September 2026
+
+- Reviewed all 36 chapters, shortened repeated explanations and lists, and revised openings and headings.
+- Simplified contributor instructions and used editorial roles for review decisions; approval permissions are unchanged.
+- Shortened the local-advice page and moved confidential-support guidance to its own help page.
+- Replaced the cover with an original AI-assisted illustrated version without an individual name.
+- Kept creation-methods records private and outside Git.
+
 ### Added
 
 - Preserved and verified the complete Version 2 source brief.

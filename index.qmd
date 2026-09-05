@@ -4,11 +4,11 @@ subtitle: "An Operating Manual for Graduate Researchers"
 description: "A practical, evidence-informed operating manual for graduate researchers."
 ---
 
-Graduate research gets difficult when several reasonable actions are available, the evidence is incomplete and the next useful move is unclear. Local rules can add another layer of uncertainty.
+You have a research project, a supervisor and plenty of questions. There are papers to read and studies to plan, often before you're quite sure how to do either. This handbook gives you somewhere to start, including when the project takes an unexpected turn.
 
-Use this handbook to identify the decision in front of you, check the evidence that matters, record what you considered and take a defensible next step. It also shows you when a decision belongs with a local authority or specialist.
+This handbook helps you work through those everyday decisions, from choosing a topic to handing over your work. You'll find explanations, examples and templates you can use in your own project. Start with whatever you need today.
 
-This is a living public edition: it is ready to use now and will continue to be corrected and improved. [About this edition](status.qmd).
+The book grows through readers' questions and suggestions. [About this edition](status.qmd).
 
 ## Start from your situation
 
@@ -22,12 +22,12 @@ This is a living public edition: it is ready to use now and will continue to be 
 
 ## How to use the handbook
 
-You do not need to read from cover to cover. Start with the problem you face now. Each chapter explains the decision, offers a workable next step and links to a checklist or template when one will help. You will also find a practical test for “good enough” and a clear route to local or specialist help.
+Dip into a chapter, try the example, then use a checklist or template if it helps. The [whole-doctorate checklist](checklists/doctoral-journey.qmd) gives you a route through the book, including the questions to ask before you enrol.
 
-A few decisions must follow your university's rules or be made by a specialist. [Local rules and specialist help](support.qmd) lists those cases in one place.
+For university procedures or advice about your particular study, [find the right person to ask](support.qmd).
 
 ## Help improve it
 
-The handbook is maintained as a living edition. You can [suggest an improvement](contributions/index.qmd), or follow the [step-by-step contribution guide](contributions/how-to-help.qmd). Do not submit confidential research data, identifiable personal information, private correspondence, complaints casework, or unpublished material you cannot share.
+Found a gap, an unclear explanation or something we should cut? [Suggest an improvement](contributions/index.qmd). The [step-by-step guide](contributions/how-to-help.qmd) will help if you're new to GitHub. Suggestions are public, so leave out personal and confidential details.
 
-The project's questions, priorities and editorial decisions are human-led. AI tools assist with organising suggestions, research support, drafting, consistency checks and technical production. [Read how human judgement and AI assistance are separated](contributions/ai-and-editorial-practice.qmd).
+People provide the questions, ideas and editorial judgement. AI tools help with research, drafting, editing and maintaining the book. [How the book is made](contributions/ai-and-editorial-practice.qmd) explains the roles and credits.

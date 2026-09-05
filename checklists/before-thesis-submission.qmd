@@ -49,8 +49,8 @@ Keep the exact submitted thesis, upload receipt, final source archive, permissio
 
 ## Completed scenario
 
-The final PDF renders and the filename says `final`, but page inspection finds a missing appendix, one unresolved cross-reference and comments embedded in the PDF. The checklist fails. Regenerate from the authoritative source, inspect every page, test the upload copy, record its stable identity and submit only that verified file. A successful render alone was not the submission gate.
+The final PDF renders and the filename says `final`, but page inspection finds a missing appendix, one unresolved cross-reference and comments embedded in the PDF. The checklist fails. Regenerate from the authoritative source, inspect every page, test the upload copy, record its stable identity and submit only that verified file.
 
 ## Sceptical-reader test
 
-Ask another person to locate the overall contribution, candidate contribution declaration, primary method justification, strongest limitation and one reported result using only the final file. Repair navigation or explanation that prevents recovery.
+Ask another person to locate the overall contribution, candidate contribution declaration, primary method justification, strongest limitation and one reported result using only the final file. Improve any navigation or explanation that makes these hard to find.

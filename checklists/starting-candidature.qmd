@@ -31,7 +31,7 @@ Keep the enrolment or milestone confirmation, induction record, supervision note
 
 **Situation:** A newly enrolled student can access email and the library but has not confirmed the supervisory team, approved storage or safety training. They want to begin collecting pilot data.
 
-**Result:** The checklist stops participant or data-facing work. The safe next step is to confirm the supervisory and approval pathway, establish approved storage and complete the required training. Orientation searching and reversible planning may continue.
+**Result:** The student needs to confirm supervision, establish approved storage and complete the required approvals and training before collecting pilot data. Orientation searching and reversible planning may continue.
 
 
 ## Related guidance

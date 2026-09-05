@@ -5,7 +5,7 @@ last-reviewed: "2026-08-28"
 
 ## Blank matrix
 
-| ID | Feedback | Underlying issue | Disposition | Proposed response | Location/evidence | Status |
+| ID | Feedback | Underlying issue | Decision | Proposed response | Location/evidence | Status |
 |---|---|---|---|---|---|---|
 | F-001 | [quote or faithful summary] | [ ] | accept / adapt / investigate / discuss / decline | [ ] | [ ] | open / done |
 
@@ -15,7 +15,7 @@ last-reviewed: "2026-08-28"
 
 ## Completed example
 
-| ID | Feedback | Underlying issue | Disposition | Proposed response | Location/evidence | Status |
+| ID | Feedback | Underlying issue | Decision | Proposed response | Location/evidence | Status |
 |---|---|---|---|---|---|---|
 | F-014 | “Be more critical” | paper-by-paper summary obscures competing claims | adapt | organise around three contested claims and add evidence matrix | Lit review §§2–4 | done |
 

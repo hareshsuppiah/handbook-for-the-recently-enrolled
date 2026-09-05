@@ -3,13 +3,13 @@ title: "Reproducible research workflows"
 last-reviewed: "2026-08-28"
 ---
 
-An analysis that runs only on your laptop is not yet a durable research workflow. Reproducibility does not always mean publishing every file: restricted data, proprietary tools and qualitative judgement can impose real limits. It does mean choosing a realistic target and testing whether another authorised person can understand the steps, recover the environment and obtain the expected result. The strongest evidence is a clean run outside the comfortable setup where the workflow was created.
+The report runs on your laptop. Your supervisor opens the same project and gets an error about a missing file. This is a useful test: something the workflow needs has stayed on your computer.
 
-## Choose a reproducibility target you can test
+Start with one output, such as a table, and help another authorised person reproduce it from the documented inputs. Record the software and steps they need, then fix anything they have to ask you to explain. Restricted data and interpretive work need different arrangements, but you can still make the route from source to result easier to follow.
 
-A reproducible workflow preserves the inputs, decisions, procedures, environment and outputs needed for a competent authorised person to understand and rerun the relevant process. The strongest evidence is a recorded run from a clean starting point. A workflow that still runs only on the researcher's configured computer has not passed that test.
+## Decide what someone should be able to repeat {#choose-a-reproducibility-target-you-can-test}
 
-The National Academies uses “reproducibility” for obtaining consistent computational results with the same data, steps, methods, code and analysis conditions, while noting that terminology differs across fields [@nasem-reproducibility-2019]. State the meaning you use rather than policing vocabulary.
+The National Academies uses “reproducibility” for obtaining consistent computational results with the same data, steps, methods, code and analysis conditions. Terminology differs across fields [@nasem-reproducibility-2019]. State which meaning you use and choose a target that you can test.
 
 ## Define the reproducibility target
 
@@ -73,7 +73,7 @@ The Turing Way emphasises capturing computational environments because operating
 
 ## Automate repeated transformations, preserve judgement
 
-Automation is valuable when a step is repeated, consequential and rule-based. It can reduce transcription and version errors, but also repeat a mistake consistently.
+Automation is useful for repeated steps with clear rules, such as cleaning a new data extract. Check the rules first; an automated mistake can be repeated with every run.
 
 Automate where appropriate:
 
@@ -101,7 +101,7 @@ A workflow needs:
 
 Tests show only what they cover. A green build does not validate the research question, measurement, model or interpretation.
 
-## Run the clean-room test
+## Try a fresh start {#run-the-clean-room-test}
 
 Use a new checkout, fresh environment, controlled compute session or independent machine that does not inherit private state.
 
@@ -109,24 +109,22 @@ Use a new checkout, fresh environment, controlled compute session or independent
 2. Follow the README without oral assistance.
 3. Restore the environment from its retained specification.
 4. Obtain authorised input through the documented route.
-5. run the single entry command or documented sequence;
+5. Run the single entry command or documented sequence;
 6. capture logs, warnings, runtime and environment identity;
 7. compare outputs using specified tolerances or review criteria;
 8. record every undocumented dependency or judgement;
 9. repair documentation, code or packaging; and
 10. repeat until the relevant target passes.
 
-Do not call the run independent if the original analyst silently fixes it during execution.
+If the original analyst needs to step in, record that help and update the instructions before trying again.
 
 ## Example: analysis works only on one laptop
 
-**Symptoms:** the report renders for the candidate but fails for the supervisor. The script reads `/Users/name/Desktop/data_final.csv`, uses packages installed months ago, assumes Melbourne time and loads a helper function from the interactive workspace.
+The report renders for the student but fails for the supervisor. It reads `/Users/name/Desktop/data_final.csv`, loads a helper function from an interactive session and assumes Melbourne time. Its packages were installed months ago without a version record.
 
-**Repair:** place paths and parameters in documented configuration; retrieve data through an approved project-relative route; move helper code into version control; create a dependency lockfile; set timezone explicitly; validate input schema; provide one build command; remove cached outputs; rerun in a clean environment.
+Move the helper code into the project, put paths and parameters in configuration, set the timezone and record dependencies in a lockfile. Document the approved input route and validate the input schema. Then remove cached outputs and try one build command in a fresh environment.
 
-**Verification:** a second person checks out the tagged release, restores dependencies, obtains the controlled input, runs the command and reproduces the expected table values and report hash except for documented timestamp metadata.
-
-The original analysis may have been scientifically sound, but its recovery depended on private state.
+A second authorised person can now follow the README to retrieve the release, restore dependencies and run the report. They compare the table values and report hash, allowing for documented timestamp metadata. Keep their result with the release.
 
 ## Reproducibility with restricted data
 
@@ -158,45 +156,15 @@ For qualitative, archival, practice-based and non-computational research, preser
 
 The objective may be auditability and transparency rather than identical output. Name the standard honestly.
 
-## Workflows that succeed once and cannot be recovered
+## Ask someone to try the instructions
 
-- sharing code without inputs, environment or execution order;
-- relying on a long notebook that must be run manually in a secret order;
-- hard-coding personal paths, credentials or current dates;
-- using mutable package or container tags without versions;
-- treating a random seed as a guarantee of identical results across hardware;
-- retaining final outputs but not the generation source;
-- calling a pipeline reproducible because it reruns on the creator's machine;
-- publishing restricted data in the name of openness;
-- automating interpretive decisions without preserving accountability;
-- treating test success as evidence that scientific conclusions are valid.
+Give an authorised colleague the README, input route, environment record and expected result. Ask them to start from a fresh session or checkout, and keep a note of every missing step. A random seed alone may not reproduce identical values across hardware; define any acceptable tolerance in advance.
 
-## When the clean-run evidence matches the claim
+Bring a failed run, its full log and the expected output to a technical review. Explain any data restrictions and unresolved interpretation. Once the clean run works, retain its evidence with the release so the next person can repeat it.
 
-Before relying on an analysis or interpretive workflow:
-
-- the reproducibility target is bounded;
-- authoritative inputs and permissions are identified;
-- code, configuration, data and secrets are separated;
-- dependencies and environment are recoverable;
-- repeated transformations and manual decisions are visible;
-- scientific, privacy and failure checks exist;
-- expected outputs and tolerances are specified;
-- a clean run has been completed by an appropriate person; and
-- limitations and inaccessible materials are documented.
-
-## Ask someone to test a defined recovery target
-
-Bring:
-
-- the target output and governing claim;
-- a diagram of inputs, stages and outputs;
-- the repository/release and README;
-- environment and dependency record;
-- failing clean-run log;
-- expected result and tolerance;
-- protected-data constraints; and
-- one precise dependency, test, packaging or interpretation problem.
+[]{#workflows-that-succeed-once-and-cannot-be-recovered}
+[]{#when-the-clean-run-evidence-matches-the-claim}
+[]{#ask-someone-to-test-a-defined-recovery-target}
 
 ## Try these resources
 

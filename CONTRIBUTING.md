@@ -29,7 +29,7 @@ The handbook has a [first-time GitHub guide with worked examples](https://haresh
 
 After the privacy and duplicate check, an editor may ask a question or request evidence. The project lead then accepts the suggestion for drafting, merges it with an existing suggestion, defers it or declines it. The reason and next step stay on the public issue.
 
-An accepted suggestion may be drafted by a human contributor or an AI agent. Haresh Suppiah, as project lead and founding editor, separately reviews the proposed change and decides whether to publish it, request another revision or reject it. Publication happens only after that review.
+An accepted suggestion may be drafted by a human contributor or an AI agent. An authorised editor separately reviews the proposed change and decides whether to publish it, request another revision or reject it. Publication happens only after that review.
 
 ## Other routes
 

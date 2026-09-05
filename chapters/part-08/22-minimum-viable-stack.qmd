@@ -3,13 +3,15 @@ title: "Choosing a research toolkit"
 last-reviewed: "2026-08-28"
 ---
 
-A new tool promises cleaner notes, smarter searching or effortless automation, and soon the research system needs more maintenance than the research. Start with what the project must support. Most projects need secure storage, reference management, analysis, writing, review and recovery. Give each tool one declared job and prefer durable handoffs between them. A small, well-understood toolkit is easier to maintain and leave without losing the work.
+A new app looks useful. You try it, move some notes across and connect a few plugins. A week later, you have two reference libraries and three places to look for the current draft.
 
-## Choose capabilities before brands
+Before adding another tool, identify the problem it should solve. Most projects need a way to store records, manage references, analyse material, write and review drafts, and recover lost work. You can start with a small toolkit and add to it when the research gives you a reason.
 
-Choose the smallest set of approved tools that supports the required research capabilities and produces recoverable, transferable records. Add a tool only when it solves a named problem better than the current workflow and its governance, integration, learning and exit costs are acceptable.
+## Start with the task {#choose-capabilities-before-brands}
 
-A tool stack should make the research easier to inspect—not distribute the same uncertain “final” file across more applications.
+Try to name the problem in a sentence: you cannot recover a deleted file, collaborators cannot review your analysis, or a repeated copy-and-paste step keeps introducing errors. Compare tools against that problem, including their learning, maintenance and exit costs. Check that the proposed use is allowed for your research material.
+
+You can use the tools you already know if they meet those needs.
 
 ::: {.handbook-visual .original-meme}
 ::: {.meme-line}
@@ -26,6 +28,7 @@ A tool stack should make the research easier to inspect—not distribute the sam
 Original illustration created for *The Handbook for the Recently Enrolled* with human editorial direction and AI-assisted production.
 :::
 :::
+
 
 ## Start with what the project needs
 
@@ -44,7 +47,7 @@ Most graduate projects need some version of these capabilities:
 
 One tool may cover several capabilities. One capability may require different approved systems for sensitive and public material.
 
-## Give every tool one declared job
+## Give each tool a clear job {#give-every-tool-one-declared-job}
 
 Create a stack register:
 
@@ -52,7 +55,7 @@ Create a stack register:
 |---|---|---|---|---|---|---|
 | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 
-If two tools both own “the final manuscript” or “the clean dataset”, define the handoff and authority. Otherwise, divergence is predictable.
+If two tools hold the current manuscript or dataset, agree which one to edit and how the other copy will be updated.
 
 ## Apply the adoption test
 
@@ -69,7 +72,7 @@ Before adding a tool, answer:
 9. **Cost:** What are purchase, storage, training, maintenance and switching costs?
 10. **Exit:** Who will export, verify and migrate records, and when is that tested?
 
-Do not begin with a feature comparison. Begin with a failure you are authorised to solve.
+Use these answers to decide whether the new tool earns its place.
 
 ## Start with the simplest workflow that works
 
@@ -98,7 +101,7 @@ Ask:
 - Is the tool allowed in the approved data environment?
 - Can the output be exported with metadata and decisions intact?
 
-A graphical tool may be an excellent, reviewable choice for a bounded analysis. A programming language may be necessary for automation, complex transformations or reproducible scale. The correct question is not which tool is more impressive, but which workflow supports the inference and handover.
+A graphical tool may suit an analysis with a clear, limited scope. A programming language may be necessary for automation, complex transformations or reproducible scale. Choose the workflow that lets you answer the question and share enough detail for someone else to check it.
 
 ## Choose formats that can travel
 
@@ -130,19 +133,11 @@ ARDC guidance treats storage, access, documentation, sharing and preservation as
 
 ## Example: the overbuilt first month
 
-**Initial stack:** two note apps, three cloud drives, a task manager, a whiteboard, reference manager, shared spreadsheet, code repository, AI assistant and a new database. The candidate spends weeks designing integrations but cannot identify the approved location for participant data or the authoritative research plan.
+A student starts with two note apps, three cloud drives, a task manager, whiteboard, reference manager, spreadsheet, code repository, AI assistant and a new database. After weeks of connecting them, they still cannot identify the approved location for participant data or the current research plan.
 
-**Reset:**
+They reduce the system to approved research storage, one reference library, one main analysis environment and one manuscript source. Version control tracks suitable text and code. The task list holds next actions with links to the research record. AI use waits until the task, inputs and policy checks are clear.
 
-- approved storage owns research records;
-- the reference manager owns bibliographic records;
-- one analysis environment owns executable analysis;
-- one writing source owns the thesis/manuscript draft;
-- version control tracks suitable text and code;
-- the task list stores next actions, not research evidence;
-- AI use is paused until the task, input and policy checks are defined.
-
-The candidate exports and archives useful content, closes redundant workflows, documents the four handoffs and runs a restore. The smaller stack provides more capability because its authority is legible.
+After exporting and archiving useful content, they close the duplicate workflows, document the remaining connections and test a restore.
 
 ## Plan for failure and exit
 
@@ -172,57 +167,16 @@ Good adoption moments include:
 
 Avoid introducing a major system immediately before a deadline unless it is required to control an urgent risk.
 
-## When the tool stack becomes another project
+## Test one complete task
 
-- using a tool because other researchers appear to use it;
-- placing research evidence inside task comments or chat history;
-- creating duplicate authoritative copies across tools;
-- connecting services before checking data movement and permissions;
-- assuming institutional login means every use is approved;
-- choosing a technically elegant stack no collaborator can maintain;
-- retaining outputs but not configuration or source;
-- paying integration costs for rarely used features;
-- failing to export before leaving an account or institution;
-- repeatedly rebuilding the stack instead of doing the research.
+Before adopting the toolkit, run one piece of work from input to a result that a collaborator can review. Then export it, open the export elsewhere and test recovery. Keep research evidence in the agreed project record, even if the task list or chat is where you discuss it.
 
-## What your toolkit needs to do
+For a tool-selection conversation, bring that example, its storage locations, costs and export result. Include collaborator and accessibility needs. Name what the current tools cannot do and the extra work the proposed tool would create. Record a review date for versions, terms and access.
 
-The stack is ready when:
-
-- every required capability has an owner and approved route;
-- each tool has one declared job;
-- authoritative records and handoffs are explicit;
-- sensitive and public zones are separated;
-- collaborators can perform their necessary role;
-- dependencies, exports and backups are recoverable;
-- one end-to-end workflow has been tested;
-- redundant tools have been removed or made non-authoritative; and
-- review and exit dates are scheduled.
-
-## Ask what the current tools cannot do
-
-Bring:
-
-- the capability map and stack register;
-- one end-to-end workflow;
-- authoritative locations and sensitivity zones;
-- current tool-policy evidence;
-- export and restore result;
-- collaborator and accessibility needs;
-- cost and exit constraints; and
-- one precise adoption, integration or governance question.
-
-## Test the workflow before adopting another tool
-
-- [ ] The research problem precedes the product choice.
-- [ ] Each tool has a declared job and authoritative outputs.
-- [ ] Duplicate ownership and handoffs are resolved.
-- [ ] Authority, data movement and sensitivity are checked.
-- [ ] Formats and exports preserve meaning outside the tool.
-- [ ] Collaborators can review and maintain the workflow.
-- [ ] Backup, outage, departure and migration have been tested.
-- [ ] Tool versions and policies have review dates.
-- [ ] The stack remains smaller than the problem it solves.
+[]{#when-the-tool-stack-becomes-another-project}
+[]{#what-your-toolkit-needs-to-do}
+[]{#ask-what-the-current-tools-cannot-do}
+[]{#test-the-workflow-before-adopting-another-tool}
 
 ## Try these resources
 

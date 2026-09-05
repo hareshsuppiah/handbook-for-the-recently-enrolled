@@ -5,7 +5,7 @@ last-reviewed: "2026-08-28"
 
 Adapt the checks to the method and authorised compute environment. Use method-specific review to judge scientific validity.
 
-**Pause point:** Before running the analysis that will support an interpretable result or research claim.
+**Pause point:** Before running the analysis you will use to report results.
 
 **Prevents:** Analysing the wrong data, changing decisions invisibly, using a method that cannot answer the question, or losing the provenance of results.
 
@@ -16,13 +16,13 @@ Adapt the checks to the method and authorised compute environment. Use method-sp
 - [ ] The research question, outcome or interpretive purpose is explicit enough to guide the analysis.
 - [ ] The authorised input data are identified, versioned and separated from derived data and outputs.
 - [ ] Inclusion, exclusion, cleaning, transformation, coding and missing-data decisions are recorded.
-- [ ] The method fits the design, data and intended inference, and its important assumptions can be examined.
+- [ ] The method fits the design, data and intended inference, and I can check its important assumptions.
 - [ ] Planned, amended, sensitivity and exploratory analyses are distinguished rather than retrospectively presented as one plan.
 - [ ] Code, software versions, packages, settings and dependencies are recorded well enough to recover the analysis.
 - [ ] A second check is planned for critical inputs, calculations, code or interpretations.
 - [ ] Confidential or identifiable data will not be exposed through working files, logs, outputs or sharing.
 - [ ] Deviations from the approved protocol or analysis plan have been authorised and recorded where required.
-- [ ] Outputs have a stable location and an auditable link to the inputs and code that produced them.
+- [ ] Outputs have a stable location and a documented link to the inputs and code that produced them.
 
 ## Stop condition
 

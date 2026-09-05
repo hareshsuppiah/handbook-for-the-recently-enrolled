@@ -2,13 +2,11 @@
 title: "How the checklists work"
 ---
 
-A useful checklist protects a **consequential pause point**. At that moment, several conditions must be true before work proceeds, and an omission could cause harm, invalid evidence, wasted effort or an avoidable governance failure. Keep the explanation and professional judgement in the surrounding guidance; keep the checklist short enough to use.
+You're about to collect data or submit a paper. You've done the work, but have you missed anything that would be difficult to fix later? A short checklist gives you a moment to check.
 
-This approach draws on the central argument of *The Checklist Manifesto* and the World Health Organization's checklist implementation guidance: expertise still matters, but a short, well-timed check can help people reliably complete critical steps in complex work [@gawande2010checklist; @who2009checklist].
+The idea comes from *The Checklist Manifesto* and the World Health Organization's checklist guidance. Both describe how short checks help people remember critical steps during complex work. Judgement still belongs with the people doing the work [@gawande2010checklist; @who2009checklist].
 
-::: {.callout-tip title="Want the entire journey in one place?"}
-Open [The whole doctorate: one checklist](doctoral-journey.qmd). It runs chronologically from the questions to ask before you start through study cycles, thesis submission, examination, closure and post-completion obligations. Each checkpoint links back to the detailed checklist or chapter for that moment.
-:::
+Start with [the whole-doctorate checklist](doctoral-journey.qmd) for a chronological view. Follow its links when you reach a stage that needs more detail.
 
 ## Two ways to use a checklist
 
@@ -16,18 +14,9 @@ Open [The whole doctorate: one checklist](doctoral-journey.qmd). It runs chronol
 
 **Do-confirm** means completing the work, pausing at a defined point, and then confirming that every critical condition is satisfied. Use it when skilled work cannot sensibly be reduced to a fixed sequence.
 
-Each handbook checklist therefore states:
+Each checklist tells you when to use it, what to check and what would mean pausing the work. It also tells you which records to keep. Adapt it with your team so it fits your method and local requirements.
 
-1. the exact pause point;
-2. the failure it is intended to prevent;
-3. whether it is read-do or do-confirm;
-4. the critical checks only;
-5. a stop condition;
-6. the evidence to retain;
-7. what must be confirmed locally; and
-8. when the checklist should be revised for the project.
-
-## The phase system
+## Choose a checklist {#the-phase-system}
 
 | Pause point | Primary purpose | Format |
 |---|---|---|
@@ -42,6 +31,6 @@ Each handbook checklist therefore states:
 | [Before thesis submission](before-thesis-submission.qmd) | Verify the exact final thesis and its formal requirements | Do-confirm |
 | [Before project closure and handover](project-closure-handover.qmd) | Leave a recoverable, lawful and intelligible research record | Do-confirm |
 
-## Adapt without weakening
+## Keep it usable {#adapt-without-weakening}
 
-Projects can add discipline-specific items, but the checklist should remain short enough to use at the named pause point. If it becomes a long explanation, move that material into guidance and keep only the critical check here.
+Add checks your project needs, then try the checklist in practice. If an item needs a long explanation, link to the guidance. Keep the checklist itself short enough that you'll use it.

@@ -1,5 +1,5 @@
 ---
-title: "Is this study ready to commit to?"
+title: "Before committing to a study"
 ---
 
 **Pause point:** Before committing substantial time, money, participant burden, scarce access or thesis scope to a study.
@@ -10,7 +10,7 @@ title: "Is this study ready to commit to?"
 
 ## Critical checks
 
-- [ ] The study's question, intended inference and contribution are explicit and mutually consistent.
+- [ ] I can explain the study's question, what it could tell us and how that would contribute to knowledge.
 - [ ] Relevant existing evidence, competing explanations and closely related work have been checked.
 - [ ] The design, sampling, measures and analysis strategy can address the question at the claimed level.
 - [ ] The most important threats to validity or trustworthiness have been named, with a response or an accepted limitation.
@@ -19,7 +19,7 @@ title: "Is this study ready to commit to?"
 - [ ] Ethics, governance, privacy, legal, cultural, safety and community obligations have a credible pathway and lead time.
 - [ ] A pilot or feasibility test is planned where uncertainty is both material and testable.
 - [ ] Continue, revise, pivot and stop criteria have been agreed before sunk costs accumulate.
-- [ ] The decision and its assumptions are recorded in a form that can later be audited.
+- [ ] The decision and its assumptions are recorded so someone else can check the reasoning.
 
 ## Stop condition
 

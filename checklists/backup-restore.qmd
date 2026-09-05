@@ -9,7 +9,7 @@ Restore protected data only into an approved test location. Coordinate with the 
 
 ## Coverage checks
 
-- [ ] Every authoritative data, code, documentation, approval and key record is included or has a documented alternative.
+- [ ] The backup includes the master copies of data, code, documentation, approvals and key records, or records where each is backed up separately.
 - [ ] Synchronisation, versioning, backup and archive functions are distinguished.
 - [ ] Backup frequency and retention meet the maximum tolerable data loss.
 - [ ] Backup copies are separated sufficiently from device, account, deletion and ransomware failures.
@@ -29,7 +29,7 @@ Restore protected data only into an approved test location. Coordinate with the 
 - [ ] Metadata, versions and permissions are correct.
 - [ ] Files open in the required software/environment.
 - [ ] Sensitive material was not exposed during testing.
-- [ ] The restored record can be interpreted without private memory.
+- [ ] Someone else can understand the restored files using the accompanying documentation.
 
 **Failure observed:** [ ]
 **Corrective action, owner and due date:** [ ]
@@ -58,7 +58,7 @@ Do not begin or continue irreplaceable collection if critical data have no verif
 
 ## Completed scenario
 
-A team restores a deleted analysis folder. The files return, but the environment lockfile and data dictionary are absent, and the restored output cannot be reproduced. The audit fails. Backup scope is expanded to include documentation and environment records; a clean reproduction is completed; then the restore is retested and recorded. File recovery alone was not research recovery.
+A team restores a deleted analysis folder. The files return, but the environment lockfile and data dictionary are absent, and the restored output cannot be reproduced. The audit fails. Backup scope is expanded to include documentation and environment records; a clean reproduction is completed; then the restore is retested and recorded.
 
 ## Related guidance
 

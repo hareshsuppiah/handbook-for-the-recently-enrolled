@@ -3,16 +3,16 @@ title: "The whole doctorate: one checklist"
 last-reviewed: "2026-08-29"
 ---
 
-This is the single-page view of the doctorate, from the questions worth asking before you start to the records that must survive after you finish. You are not meant to complete it in one sitting. Use it to see the next consequential checkpoint, then open the detailed checklist for that moment.
+Keep this page beside your project plan. It follows the doctorate from considering an offer to handing over your work. Find your current stage, work through its checks and open the linked guidance when you need it. Return to the study checkpoints for each new study.
 
-The sequence uses short **read-do** and **do-confirm** checks at points where an omission can still be caught before it causes avoidable harm, rework or an indefensible decision [@gawande2010checklist; @who2009checklist]. Read [how the handbook checklists work](index.qmd) if those terms are new.
+These checks draw on the approach described in *The Checklist Manifesto* and WHO guidance [@gawande2010checklist; @who2009checklist]. [How the checklists work](index.qmd) explains when to follow items in order and when to check work you've already done.
 
 ![A graduate researcher stands at the beginning of a winding path made from notebooks and document stacks, with a thesis and graduation gown visible in the distance.](../assets/illustrations/doctoral-journey-checkpoints.png){#fig-doctoral-journey width="100%" fig-alt="A graduate researcher stands at the beginning of a winding path made from notebooks and document stacks, with a thesis and graduation gown visible in the distance."}
 
-*You can see the whole journey without trying to complete the whole journey today. Original illustration created for this handbook with human editorial direction and OpenAI image tools. See [Visuals, humour and credit](../contributions/visuals-and-credit.qmd).*
+*Original illustration created for this handbook with human editorial direction and OpenAI image tools. [Visuals, humour and credit](../contributions/visuals-and-credit.qmd).*
 
 ::: {.callout-note title="Make this checklist yours"}
-The boxes on the web page do not save after you close or refresh it. Print the page, save a copy, or transfer the checkpoints into your project system. Record a date, a link to the evidence and the next review point. “We discussed it” is rarely enough evidence on its own.
+The boxes don't save when you refresh or close the page. Print it or copy the checks into your project system. Add dates and links to the relevant records as you go.
 :::
 
 ## Before you accept or start

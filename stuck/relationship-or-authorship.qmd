@@ -5,20 +5,20 @@ last-reviewed: "2026-08-28"
 
 ## Separate disagreement from harm
 
-Separate unclear expectations, ordinary disagreement, repeated non-performance, contribution dispute, power/coercion and unsafe conduct.
+Start by describing the problem. Are expectations unclear, is an agreed task repeatedly missed, or do you disagree about contribution? If coercion or unsafe behaviour is involved, seek independent support before trying to negotiate directly.
 
 ## Try this now
 
 1. Preserve factual dated records and relevant agreements.
-2. Identify the decision, role and applicable standard.
-3. State each position faithfully.
-4. Propose a bounded resolution and review date.
+2. Identify what needs deciding, who can decide it and which agreement or standard applies.
+3. Describe each position fairly.
+4. Suggest a specific resolution and a date to check whether it has helped.
 5. Seek independent advice when authority or power makes direct resolution unsafe.
 6. Keep sensitive details in the authorised confidential process.
 
 ## What to take when asking
 
-Bring the output-specific contribution record, relevant messages/decisions, impact, attempted resolution and requested protection or decision.
+Bring the relevant agreements, contribution records and messages. Explain the effect on your work, what you've tried and what decision or protection you need.
 
 ## Stop or escalate
 
@@ -26,7 +26,7 @@ Use independent formal routes for bullying, harassment, discrimination, retaliat
 
 ## You are moving again when
 
-Roles, decision and actions are recorded; required protection or review is active; downstream authorship/project records are updated.
+The agreed roles and actions are recorded, any necessary protection or review is underway, and the authorship or project records reflect the decision.
 
 Use the [authorship record](../templates/authorship-conversation.qmd) and [escalation builder](../templates/escalation-message.qmd).
 

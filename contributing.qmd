@@ -14,4 +14,4 @@ Do not contribute confidential, identifiable, restricted or security-sensitive m
 
 ## Editorial outcomes
 
-Haresh may approve, defer, request evidence, mark as a duplicate, classify as a local adaptation, decline or close a suggestion as out of scope. Only an approved issue can become agent work. The agent prepares a pull request, which Haresh reviews before anything is merged or published.
+An editor may approve a suggestion, ask for evidence, defer it or decline it with a reason. Duplicate suggestions can be combined, and advice specific to one setting can be labelled as a local adaptation. Approval allows an agent to draft a change. An authorised editor then reviews that draft before it can be published.

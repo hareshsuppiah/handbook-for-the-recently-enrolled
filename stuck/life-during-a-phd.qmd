@@ -1,11 +1,11 @@
 ---
-title: "Isolation, money, exhaustion and whether to continue"
-last-reviewed: "2026-09-05"
+title: "Life during a doctorate"
+last-reviewed: "2026-09-06"
 ---
 
-You may know the next research task and still find the doctorate difficult to live with. Perhaps you work alone, your funding ends before your submission date, or every conversation about the future assumes you want an academic job. Another productivity system will not settle those questions.
+Perhaps you work alone, your funding ends before your submission date, or every conversation about the future assumes you want an academic job. These concerns deserve time in your plans and conversations, too.
 
-This page helps you name the problem, prepare a useful conversation and find the next decision. You do not need to decide the future of your doctorate in one sitting. Start with the section that matches what is happening now.
+Start with the section that matches what is happening now. You do not need to decide the future of your doctorate in one sitting.
 
 For imminent danger or urgent health needs, use local emergency or health services now. For serious distress, unsafe conduct or a concern involving your supervisor, use the [wellbeing and safety route](wellbeing-or-safety.qmd), including independent support where appropriate.
 
@@ -13,7 +13,7 @@ For imminent danger or urgent health needs, use local emergency or health servic
 
 Try describing the missing contact before deciding what to join. Do you need someone who understands your method, regular company while working, or friends whose lives are not organised around a doctorate? Those are different needs. A supervision meeting may help with the first and do little for the others.
 
-Choose one small experiment: a weekly co-working session, a graduate researcher association event, or a reading group with two people. For remote or part-time study, ask whether a hybrid option exists and whether its timing is realistic. You can start with: “I work mostly on my own. Would anyone like a regular hour to work alongside each other, with a short check-in at the start?”
+Try a weekly co-working session or a small reading group. Your graduate researcher association may also run events. For remote or part-time study, ask whether a hybrid option exists and whether its timing is realistic. You can start with: “I work mostly on my own. Would anyone like a regular hour to work alongside each other, with a short check-in at the start?”
 
 After a few sessions, ask whether it provides the contact you wanted. If the problem is exclusion, bullying or discriminatory treatment, a social activity is not an adequate response: use [independent support](relationship-or-authorship.qmd). If isolation is affecting your health, contact an appropriate support service as well.
 
@@ -23,7 +23,7 @@ After a few sessions, ask whether it provides the contact you wanted. If the pro
 
 Separate the work problem from the support you need. “I cannot choose an analysis” calls for a research decision. “I cannot sustain the current workload” calls for a workload conversation. Persistent distress, illness or difficulty functioning warrants appropriate professional support; this page cannot determine its cause.
 
-Before a meeting, list the commitments competing for your time: thesis work, teaching, paid work, caring and essential appointments. Mark which deadlines are fixed, which can move and who can authorise a change. Ask for a concrete adjustment: fewer concurrent tasks, a revised deadline, reduced duties or advice about formal leave. Keep health details in the appropriate confidential route rather than the project action register.
+Before a meeting, list your commitments, including teaching and paid work as well as the thesis. Include caring responsibilities and essential appointments. Mark which deadlines are fixed, which can move and who can authorise a change. Ask for a specific adjustment, such as a revised deadline or advice about formal leave. Keep health details in the appropriate confidential route rather than the project action register.
 
 For example: “The current combination of teaching and data collection is no longer workable. Can we agree which task moves, who authorises that change and when we review the plan?” If speaking to your supervisor is unsafe or they are implicated in the concern, seek independent advice first.
 
@@ -81,11 +81,5 @@ A paper can be part of that evidence, but do not assume a publication count answ
 Oxford's [careers guidance for doctoral researchers](https://www.careers.ox.ac.uk/making-your-dphil-count/) and [careers beyond academia resources](https://www.careers.ox.ac.uk/beyond-academia) provide starting points for exploring options. Services and eligibility are institution-specific, and no resource guarantees a job.
 
 **Next step:** arrange one careers conversation before the doctorate ends. Use [closure and transition](../chapters/part-12/36-closure-transition.qmd) to plan which records and work examples you may legitimately retain or share.
-
-## Why these questions are here
-
-An editorial review on 5 September 2026 examined the [r/PhD top-year feed](https://www.reddit.com/r/PhD/top/?t=year) and a targeted sample of substantive discussions. The visible top feed was dominated by memes and images. We therefore used advice threads to identify additional reader questions, including [isolation](https://www.reddit.com/r/PhD/comments/1vg4pnq/i_feel_so_alone_in_my_phd/), [funding concerns](https://www.reddit.com/r/PhD/comments/1bbig06/), [exhaustion and whether to continue](https://www.reddit.com/r/PhD/comments/1vec83n/phd_burnout_recovery_phase_or_should_i_quit/), and [career uncertainty after completion](https://www.reddit.com/r/PhD/comments/1p3a909/finished_my_phd_job_market_sucks_questioning_my/).
-
-This was a purposive editorial scan, not a survey or a ranking of how common these problems are. Posts identify questions worth answering; personal accounts and comment advice are not evidence that a diagnosis, policy or career claim is correct. The practical prompts above are editorial guidance, with formal decisions referred to the appropriate local source.
 
 [Return to I’m stuck](index.qmd)

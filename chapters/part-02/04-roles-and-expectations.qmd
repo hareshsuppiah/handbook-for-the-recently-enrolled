@@ -1,15 +1,15 @@
 ---
 title: "Roles, expectations and boundaries"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-06"
 ---
 
-Many supervision problems begin without an argument. A student expects comments within a week; a supervisor assumes a month is normal. One person thinks the student should propose the method; another quietly expects the supervisor to choose it. Everyone may be acting reasonably, but from different rules. The remedy is not a perfect relationship contract. It is an explicit conversation about roles, response times, decision authority, boundaries and what happens when the usual arrangement stops working.
+You send a draft and hope for comments next week. Your supervisor plans to read it next month. Nobody has broken an agreement, because you haven't made one yet.
+
+Supervision gets easier when you talk about these everyday expectations early. Agree how you'll meet, what feedback you need, who makes which decisions and who can help when someone is away. You can revise the arrangement as the project develops.
 
 ## Make the working relationship explicit
 
-Effective supervision depends on explicit expectations about roles, communication, feedback, decisions and boundaries. A good relationship cannot be built from goodwill alone because reasonable people often hold different unspoken assumptions.
-
-Formal frameworks demonstrate that responsibility is distributed. The 2024 UKRI statement, for example, names expectations for students, supervisors, research organisations, collaborators and funders rather than treating supervision as a private arrangement between two people [@ukri-expectations-2024]. Your institution's rules take priority, but the general lesson travels: supervisors advise, challenge, develop and monitor; students actively prepare, investigate, decide within their authority and maintain the project record; institutions provide governance, formal progress processes, services and escalation routes.
+Your supervisors can help you develop ideas, challenge your reasoning and review progress. You bring prepared work and questions, follow up decisions and gradually take on more independent work. The university also has responsibilities for formal progress, services and support. UKRI's 2024 expectations set these roles out for its funded doctoral training [@ukri-expectations-2024]; check your own programme's arrangements when drafting an agreement.
 
 ::: {.handbook-visual .original-meme}
 ::: {.meme-line}
@@ -85,7 +85,7 @@ Discuss these areas before a pattern hardens:
 
 ## Agree who decides what
 
-Multi-supervisor projects need a visible decision architecture:
+With several supervisors, it helps to distinguish advice from an agreed decision:
 
 1. **Advice:** anyone may offer a view within their expertise.
 2. **Recommendation:** the student usually synthesises evidence and proposes a path.
@@ -108,7 +108,7 @@ The team agrees:
 - travel periods are entered in the action register;
 - urgent milestone risks are raised through the graduate research contact if continuity cannot be maintained.
 
-The agreement does not force identical working styles. It makes the differences manageable.
+Both supervisors can work in their usual way, and the student knows when and how to request comments.
 
 ## How to decide
 
@@ -121,14 +121,9 @@ The agreement does not force identical working styles. It makes the differences 
 
 ## Where supervision expectations come apart
 
-- treating supervisors as a single mind when their roles differ;
-- expecting immediate feedback without agreeing scope or timing;
-- sending material without stating the question it should answer;
-- assuming silence means approval;
-- making a consequential change after an informal conversation but not recording it;
-- agreeing to an unrealistic cadence to appear committed;
-- asking a supervisor to decide matters owned by ethics, governance or candidature authorities;
-- waiting until conflict becomes intolerable before learning the escalation route.
+Agree a meeting and feedback schedule you can all sustain. When sending work, say what you'd like reviewed and by when. Check an important decision explicitly; silence leaves you guessing.
+
+Supervisors may have different roles and views. Record substantial changes agreed in conversation, and use the relevant ethics or candidature process for decisions outside the team's authority. Find the independent support route while the relationship is working well, so you know where to go if it becomes difficult.
 
 ## Check that the agreement can guide real work
 
@@ -155,6 +150,10 @@ Where safe, keep a factual record of dates, requests, responses and effects. Use
 
 Expectations differ for laboratory groups, individual humanities projects, community partnerships, industry doctorates, cotutelles, remote candidature and projects with cultural governance. Availability may be shaped by part-time appointments or fieldwork. Adapt the agreement without weakening formal protections or hiding who can decide.
 
+## When you need independent advice
+
+For practical prompts and a next conversation, see [the guide to life during a PhD](../../stuck/life-during-a-phd.qmd#supervision).
+
 ## Try these resources
 
 - [Supervisor expectations conversation guide](../../templates/supervisor-expectations.qmd)
@@ -163,7 +162,3 @@ Expectations differ for laboratory groups, individual humanities projects, commu
 - [Meeting record](../../templates/meeting-record.qmd)
 - [Escalation message builder](../../templates/escalation-message.qmd)
 - [I’m stuck](../../stuck/index.qmd)
-
-## When you need independent advice
-
-For practical prompts and a next conversation, see [the guide to life during a PhD](../../stuck/life-during-a-phd.qmd#supervision).

@@ -3,19 +3,21 @@ title: "Examination and corrections"
 last-reviewed: "2026-08-28"
 ---
 
-A thesis can always be improved, which makes “finished” a poor submission test. Examination asks a more useful question: does the thesis make a clear contribution through a coherent, transparent and defensible body of work that meets the local rules? Build that case explicitly, audit the chain from questions to conclusions and verify the exact submission package. If corrections follow, turn each requirement into a traceable decision and keep the work inside the examiner’s requested scope unless a wider change is genuinely necessary.
+There will probably still be sentences you could improve when it is time to submit. The more useful question is whether the thesis explains its contribution, supports its conclusions and meets the examination requirements.
 
-## Make the thesis easy to examine
+Start with a map from your main claims to the pages that support them. Then check the complete file you will submit. If corrections follow, keep the examiner's wording beside your response so you can see what remains to do and what has been accepted.
 
-Submit when the thesis makes a coherent, bounded contribution and the exact package passes scholarly, integrity, permission and formal checks. Do not wait until every sentence feels immune to criticism. Prepare by tracing contribution, methods, evidence, decisions and limitations to exact thesis locations and rehearsing sceptical questions.
+## Help the examiner find the evidence {#make-the-thesis-easy-to-examine}
 
-For corrections, preserve the examination record, translate every requirement into a testable item, identify the authorised decision-maker, implement only the appropriate scope and verify the complete corrected package.
+Make it easy to find the question, methods, findings and limits behind each contribution claim. Use that map to test your explanation and identify anything that needs repair before submission.
+
+When preparing corrections, establish who can clarify a requirement and who accepts the response. Keep the original examination record while you work through the changes.
 
 ## Build an examination case
 
 Prepare a concise map of:
 
-- the consequential problem;
+- the problem and why it matters;
 - the whole-thesis question;
 - the original contribution and why it matters;
 - the role of each chapter, study or artefact;
@@ -33,7 +35,7 @@ Do not memorise a performance script that is disconnected from the submitted the
 Ask at least:
 
 1. What is original here, at the scope claimed?
-2. Why is the problem consequential rather than merely under-studied?
+2. Why is the problem worth studying?
 3. Why could this design answer the question?
 4. Which assumption most threatens the inference?
 5. What evidence contradicts or qualifies the preferred account?
@@ -45,11 +47,11 @@ Ask at least:
 11. Could another authorised researcher recover the evidence chain?
 12. What would change the interpretation?
 
-For each response, link the thesis location and identify any repair needed. A strong answer can acknowledge a limitation while explaining why the bounded contribution survives.
+For each response, link the thesis location and identify any repair needed. You can acknowledge a limitation and explain what the thesis still establishes.
 
 ## Audit internal consistency
 
-Trace consequential statements across:
+Compare the main claims across:
 
 `title → abstract → aims/questions → methods → results → discussion → conclusion → contribution declaration`
 
@@ -81,7 +83,7 @@ Record the checksum or otherwise stable identity of the intended final file. Che
 - author/co-author and supervisor certifications where applicable; and
 - approved storage of source and final submitted copies.
 
-After upload, retain the receipt and confirm the system identifies the same file. “Selected in the file picker” is not submission evidence.
+After upload, retain the receipt and confirm the system identifies the same file. Retain the completed upload confirmation.
 
 ::: {.decision-card}
 **Smallest useful next action:** Choose one contribution claim and answer a sceptical examiner using an exact thesis location, methodological warrant, limitation and non-claim.
@@ -102,7 +104,7 @@ If an oral defence is used, practise explaining rather than reciting:
 
 Listen to the whole question, clarify ambiguous terms and take time to reason. It is legitimate to say that you do not know, then explain how you would investigate. Do not invent evidence or agree with a premise that misstates the thesis.
 
-Mock examination should test reasoning under challenge, not reward polished speeches. Include a reviewer outside the immediate supervisory assumptions where feasible.
+Use a mock examination to practise reasoning through unfamiliar questions. Where feasible, include someone outside the supervisory team.
 
 ## If you discover an error after submission
 
@@ -116,7 +118,7 @@ Preserve the submitted version and establish:
 
 Do not silently replace files or wait for examiners to notice a material problem. Seek advice through the formal process. Minor typography and material analytical errors require different responses, but both should be described accurately.
 
-## Convert examination requirements into a corrections matrix
+## Track the corrections {#convert-examination-requirements-into-a-corrections-matrix}
 
 | ID | Exact requirement | Underlying issue | Required/optional scope | Proposed response | Thesis location | Evidence/check | Authority/status |
 |---|---|---|---|---|---|---|---|
@@ -137,59 +139,30 @@ For each correction:
 7. verify linked sections and the full render; and
 8. obtain acceptance from the person authorised to approve corrections.
 
-Do not create new unexamined claims under the banner of correction. If a requested change would be methodologically invalid, impossible, unsafe or outside the permitted scope, explain the problem with evidence and seek a ruling. The candidate should not privately decide to ignore it.
+Do not create new unexamined claims under the banner of correction. If a requested change would be methodologically invalid, impossible, unsafe or outside the permitted scope, explain the problem with evidence and seek a ruling. Keep the requirement open while seeking clarification.
 
 ## Example: an examiner asks for “more analysis”
 
-**Requirement:** “Provide further analysis to account for site differences.”
+The examiner's comment requests further analysis to account for site differences. That might mean describing the sites, adjusting a model or examining whether effects differ. Ask what concern the additional analysis should address.
 
-**Ambiguity:** This could mean describe site composition, adjust the model, test heterogeneity or acknowledge that the design cannot separate site from other factors.
+In this example, site is confounded with delivery period and sample composition. A more complex model cannot identify an independent site effect. The student proposes a site-by-period descriptive table, a feasible sensitivity analysis specified before it is run, and a clearer limitation on generalisation. The authorised examination contact can clarify whether that response meets the requirement.
 
-**Diagnosis:** Site is confounded with delivery period and sample composition. A complex site-effect model would not identify an independent site effect.
-
-**Proposed response:** Add a site-by-period descriptive table, conduct a prespecified feasible sensitivity analysis, clarify the confounding limitation and narrow the generalisation. Ask the authorised examiner/graduate research contact whether this satisfies the requirement instead of presenting an uninterpretable model.
-
-**Verification:** Regenerate values from the analysis workflow; update methods, results, discussion, abstract and supplement; run consistency checks; record exact pages in the corrections matrix.
+After agreement, regenerate the values, update the affected methods, results, discussion, abstract and supplement, and record the exact pages in the corrections matrix.
 
 ## Reconcile corrections across outputs
 
 Examination changes may affect manuscripts, repository records, data/code releases, partner reports or public summaries. Determine which outputs require correction, notification or version update. The accepted corrected thesis does not automatically update a published article.
 
-## How submission and correction work loses control
+## Run the submission or corrections check
 
-- submitting because the planned date arrived despite failed critical checks;
-- preparing only a rehearsed summary rather than the evidence chain;
-- hiding limitations in anticipation of examiner criticism;
-- treating a render as a page-by-page inspection;
-- uploading a different file from the one checked;
-- silently replacing a submitted thesis;
-- paraphrasing corrections until their required meaning changes;
-- treating every suggestion as mandatory or every ambiguity as optional;
-- adding unrequested novelty during corrections;
-- changing a number without updating linked claims;
-- marking corrections complete before authorised acceptance; and
-- assuming thesis corrections automatically repair other outputs.
+For submission, use the linked checklist on the exact file you intend to upload. Resolve critical scholarly problems, permissions and declarations, inspect the full render, then retain the upload receipt.
 
-## When the thesis or correction is ready
+For corrections, bring any ambiguous examiner wording to the authorised contact with your proposed interpretation and evidence. Recheck every affected section and output after revision. A change is complete when the required response has been verified and accepted through the examination process.
 
-The thesis is ready to submit when the contribution and evidence chain are coherent and bounded; critical scholarly and formal checks pass; permissions and declarations are complete; the final package is inspected; and the exact upload is evidenced. Corrections are complete only when every requirement is traceable to a verified response and accepted by the authorised process.
-
-## Ask reviewers to test the examination case
-
-Bring the contribution map, sceptical-question audit, failed readiness checks, exact package identity, unresolved permissions/declarations, current official instructions and one specific readiness or process question. For corrections, bring the examiner wording, matrix, proposed interpretation and evidence.
-
-## Run the final consistency and package checks
-
-- [ ] Contribution, evidence, decisions and limits map to exact thesis locations.
-- [ ] Sceptical examiner questions have been tested.
-- [ ] Internal consistency checks pass.
-- [ ] Current formal requirements and eligibility are confirmed.
-- [ ] The exact final render is inspected page by page.
-- [ ] Permissions, declarations, confidentiality and embargoes are resolved.
-- [ ] Upload receipt identifies the intended file.
-- [ ] Post-submission errors use the formal route.
-- [ ] Every correction preserves the exact requirement and verification.
-- [ ] The corrections record closes only after acceptance, not after revision alone.
+[]{#how-submission-and-correction-work-loses-control}
+[]{#when-the-thesis-or-correction-is-ready}
+[]{#ask-reviewers-to-test-the-examination-case}
+[]{#run-the-final-consistency-and-package-checks}
 
 ## Try these resources
 
@@ -201,5 +174,4 @@ The broad account of doctoral contribution and varied assessment forms is inform
 
 ## References
 
-::: {#refs}
-:::
+[Full reference list](../../references.qmd).

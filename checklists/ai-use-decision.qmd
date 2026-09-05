@@ -3,7 +3,7 @@ title: "Can I use AI for this task?"
 last-reviewed: "2026-08-28"
 ---
 
-AI rules and tool practices change quickly. Recheck the current institution, funder, publisher, ethics, data, intellectual-property and contractual rules for every material use.
+Before using AI with research material, work through these questions. Check the current rules for your institution, funder, publisher, approvals and agreements.
 
 ## Start here
 
@@ -23,7 +23,7 @@ This includes personal, confidential, unpublished, embargoed, copyrighted, cultu
 - **Yes or unknown:** do not enter it. Determine whether an approved controlled environment and explicit authority exist. Prefer synthetic or minimum non-sensitive input.
 - **No:** continue, while checking provider handling and intellectual-property terms.
 
-### 3. Does the tool influence a consequential judgement?
+### 3. Could an error affect an important decision?
 
 - **Yes:** name the qualified human decision-maker, alternative evidence, error consequences and appeal or correction route. Do not delegate final judgement where the governing rule requires human expertise.
 - **No:** continue with proportionate checks.
@@ -41,7 +41,7 @@ This includes personal, confidential, unpublished, embargoed, copyrighted, cultu
 
 ## Decision
 
-- [ ] **Proceed:** authorised, minimal input, accountable and verifiable.
+- [ ] **Proceed:** the use is allowed, inputs are limited to what is needed, a person takes responsibility and the output can be checked.
 - [ ] **Proceed with controls:** list access, configuration, review and disclosure controls.
 - [ ] **Use a lower-risk alternative:** [ ]
 - [ ] **Pause for authoritative advice:** owner and date [ ]

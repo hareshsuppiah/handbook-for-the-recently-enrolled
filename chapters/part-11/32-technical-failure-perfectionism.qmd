@@ -3,13 +3,15 @@ title: "Technical problems, perfectionism and scope creep"
 last-reviewed: "2026-08-28"
 ---
 
-An analysis stops running, so you update packages, rewrite code, redesign the figure and consider changing software. Hours later the original error is still there and the task has doubled in size. Technical failure, perfectionism and scope creep can look similar because all produce more work. Stabilise the evidence, define the intended output and reduce the problem to the smallest failing example. Then decide whether you are fixing a defect, improving a justified quality criterion or pursuing work the project never needed.
+Your analysis stops running. You update packages, change some code and try another input. Hours later, the error is still there, but you can no longer remember which version last worked.
 
-## Name the blockage before spending more effort
+Pause the changes and save the failure. A small example and the exact error will help you find the cause. Later in this chapter, we look at a related problem: continuing to change a working analysis or draft because you cannot decide when it is good enough.
 
-For technical failure, preserve the evidence, reproduce the smallest failing case, compare it with the last known working state and change one controlled factor at a time. For perfectionism and scope creep, define the decision, acceptance criteria, stop conditions and excluded work before continuing.
+## Decide what needs fixing {#name-the-blockage-before-spending-more-effort}
 
-Both problems become expensive when the target is undefined. “Make the analysis work” and “make the chapter better” do not specify what success means.
+For a technical fault, compare the smallest failing case with the last working version. Change one thing at a time and check the output.
+
+For repeated polishing or extra tasks, agree what the current piece needs to achieve and how you will recognise that point. “Make the chapter better” gives you no place to stop; “resolve these two unsupported claims before review” does.
 
 ## Stabilise before troubleshooting
 
@@ -40,7 +42,7 @@ Remove irrelevant data, code, document sections or steps while keeping the failu
 
 A screenshot of “Error” is rarely enough. A reproducible case allows another person, including your future self, to test a hypothesis rather than guess.
 
-## Classify the technical failure
+## Narrow down the cause {#classify-the-technical-failure}
 
 | Class | Diagnostic question |
 |---|---|
@@ -67,7 +69,7 @@ For each test record:
 - interpretation; and
 - next branch.
 
-Compare a known-good input with the failing input, a clean environment with the cached one, and the current revision with the last working version. Automated tests and version-control diffs reduce memory-based diagnosis. After repair, rerun from the authoritative inputs in a clean environment and verify the consequential outputs. The disappearance of the error message is not enough.
+Compare a known-good input with the failing input, a clean environment with the cached one, and the current revision with the last working version. Automated tests and version-control diffs reduce memory-based diagnosis. After repair, rerun from the authoritative inputs in a clean environment and check the important outputs. The disappearance of the error message is not enough.
 
 ::: {.decision-card}
 **Smallest useful next action:** Save the exact failure and current state, then reproduce it with the smallest safe input before changing the environment.
@@ -95,7 +97,7 @@ If the original result cannot be reproduced, do not quietly substitute a new val
 
 ## Distinguish quality work from perfectionism
 
-Quality work is tied to a consequential requirement or credible failure mode. Perfectionistic work continues without a stable acceptance test, repeatedly reopens settled decisions or adds refinement whose opportunity cost exceeds its likely benefit.
+A useful revision fixes a specific problem or meets a requirement. Repeated polishing becomes a problem when the target keeps changing, settled decisions reopen or minor refinements displace more valuable work.
 
 Ask of each proposed improvement:
 
@@ -107,7 +109,7 @@ Ask of each proposed improvement:
 6. Is the change reversible?
 7. Who has authority to say it is sufficient?
 
-“It could be better” is true of nearly every research output. It is not a decision criterion.
+Name the specific improvement and what it would help the reader understand or do.
 
 ::: {.handbook-visual .original-meme}
 ::: {.meme-line}
@@ -150,71 +152,41 @@ Classify every proposed addition before accepting it into the current scope.
 
 Every addition should name its evidence, cost, owner and displacement. A new analysis can require new data checks, multiplicity decisions, figures, reporting, interpretation and reviewer work. Count the whole downstream cost.
 
-Set a scope freeze before consequential review or submission. After the freeze, admit only critical corrections, formal requirements or explicitly approved changes. Put attractive ideas into a later-work register instead of letting them reopen the package.
+Agree when to stop adding new work before a major review or submission. After the freeze, admit only critical corrections, formal requirements or explicitly approved changes. Put attractive ideas into a later-work register instead of letting them reopen the package.
 
 ## Example: the analysis only runs on one laptop
 
-**Failure:** The student can reproduce Table 3 only in an old interactive session. A clean run fails because an object called `analysis_data_final` is absent.
+Table 3 can be reproduced in an old interactive session, but a fresh run fails because `analysis_data_final` is missing. Keep the repository revision, notebook, reported table, source-data checksum, session information and full error.
 
-**Preserve:** Keep the repository revision and session information. Also retain the notebook, reported table, source-data checksum and full error.
+The missing object came from cells run manually in another notebook. Add that transformation to the documented workflow, declare the environment and add checks for the schema and row count. Rerun from the original inputs and compare every Table 3 value.
 
-**Diagnosis:** Hidden state. The object was created by manually running cells from another notebook and was never written by the documented pipeline.
-
-**Repair:** Trace the object to its transformation; implement the transformation in the ordered workflow; add schema and row-count tests; declare the environment; run from clean inputs; compare every Table 3 value.
-
-**Acceptance:** A second authorised user clones or restores the project, follows the README and reproduces Table 3 within defined tolerances. The original reported result and any discrepancy remain recorded.
-
-**Stop rule:** Do not spend three days styling the table until the clean-run and value checks pass.
+Ask a second authorised user to follow the README and reproduce the table within the stated tolerances. Record any discrepancy against the reported result. Leave table styling until those checks pass.
 
 ## Example: endless “final” thesis polishing
 
-**Current state:** The thesis passed substantive supervisor review, but the student has redesigned figures twice and repeatedly rewrites the opening. Submission has moved by six weeks.
+The thesis has passed substantive supervisor review, but figure redesigns and rewrites of the opening have pushed submission back six weeks. No critical claim or formal defect is recorded. The visual changes have introduced cross-reference errors, and the submission checks are unfinished.
 
-**Audit:** No unresolved critical claim or formal defect is recorded. Each visual change introduces new cross-reference errors. Examination-readiness checks are not yet complete.
-
-**Decision:** Freeze design. Run the submission checklist, fix only failed critical checks and documented accessibility/production defects, obtain final authorisation and submit. Record non-essential visual ideas as deferred.
-
-This is not lowering the scholarly standard. It redirects effort from unbounded preference to the actual submission gate.
+Agree to freeze the design. Run the submission checklist, repair failed critical checks and documented accessibility or production problems, and obtain final authorisation. Keep optional design ideas for later.
 
 ## When the issue is capacity or wellbeing
 
-Difficulty concentrating, persistent distress, illness, disability, caring demands or unsafe workload should not be disguised as a productivity defect. Reduce immediate risk, use appropriate health or support services, and discuss workload, leave, adjustments or candidature variation through the authorised route. The handbook does not diagnose or replace professional help.
+Difficulty concentrating, persistent distress, illness, disability, caring demands or unsafe workload should not be disguised as a productivity defect. Reduce immediate risk, use appropriate health or support services, and discuss workload, leave, adjustments or candidature variation through the authorised route.
 
-## How a small fault becomes uncontrolled rework
 
-- changing several variables before reproducing the failure;
-- seeking help with confidential data or credentials attached;
-- treating a disappeared error as proof of a correct result;
-- using manual spreadsheet edits that cannot be replayed;
-- relying on a notebook's hidden execution order;
-- upgrading everything without a rollback or comparison;
-- polishing before correctness and inference are stable;
-- defining good enough as a feeling of confidence;
-- adding scope without naming displaced work;
-- reopening accepted decisions because another option exists;
-- using perfectionism language to dismiss a real quality concern; and
-- treating health or unsafe workload as a technical optimisation problem.
+For questions about exhaustion and support, see [life during a PhD](../../stuck/life-during-a-phd.qmd#exhaustion).
 
-## When the fix has done its job
+[]{#when-the-difficulty-goes-beyond-the-task}
 
-A technical repair is complete when the cause or bounded workaround is recorded, the workflow runs from authoritative inputs in a clean state, consequential outputs pass defined checks and another person can reproduce the route. A research output is sufficient for its stage when the named purpose, critical requirements, evidence and risks pass. Optional refinements can remain explicitly deferred.
+## Check the result after the fix
 
-## Bring the smallest failing example
+Rerun from the documented inputs in a clean session and compare the important outputs with the expected values. Record the cause, or the limits of a workaround, so another person can repeat it. A disappeared error message alone tells you too little.
 
-Bring the smallest safe failing example, exact steps and error, expected/actual result, inputs and environment, last working state, tests attempted, suspected class, relevant deadline, acceptance test and one precise request. For scope, bring the proposed addition, defect it addresses, full downstream cost and what it would replace.
+When asking for help, send the smallest safe example, exact steps, expected and actual results, environment and tests already tried. For a proposed addition, explain the defect it addresses, its full cost and what it would replace. Keep real quality concerns visible; labelling them “perfectionism” does not resolve them.
 
-## Return to the defined target before continuing
-
-- [ ] Failure evidence is preserved before changes.
-- [ ] A smallest safe reproduction exists.
-- [ ] Input, environment, configuration, logic, state and dependency causes are separated.
-- [ ] Each test changes one controlled factor.
-- [ ] Repair is verified from authoritative inputs in a clean state.
-- [ ] Consequential outputs are checked as well as successful execution.
-- [ ] The stage and acceptance criteria are explicit.
-- [ ] Proposed refinements address an observable defect or requirement.
-- [ ] New scope includes cost and displacement.
-- [ ] Capacity, wellbeing and safety use appropriate support routes.
+[]{#how-a-small-fault-becomes-uncontrolled-rework}
+[]{#when-the-fix-has-done-its-job}
+[]{#bring-the-smallest-failing-example}
+[]{#return-to-the-defined-target-before-continuing}
 
 ## Try these resources
 
@@ -222,13 +194,8 @@ Use the [good-enough-for-this-stage rubric](../../checklists/good-enough-rubric.
 
 ## Sources and limits
 
-The troubleshooting and stage-gate structure is editorial synthesis. Its clean-run, environment and computational-reproducibility principles are aligned with NASEM and The Turing Way, with non-computational and discipline-specific limits stated [@nasem-reproducibility-2019; @turing-way-environments].
+The troubleshooting steps and readiness questions are editorial suggestions. Its clean-run, environment and computational-reproducibility principles are aligned with NASEM and The Turing Way, with non-computational and discipline-specific limits stated [@nasem-reproducibility-2019; @turing-way-environments].
 
 ## References
 
-::: {#refs}
-:::
-
-## When the difficulty goes beyond the task
-
-For practical prompts and a next conversation, see [the guide to life during a PhD](../../stuck/life-during-a-phd.qmd#exhaustion).
+[Full reference list](../../references.qmd).

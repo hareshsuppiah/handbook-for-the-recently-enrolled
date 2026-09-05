@@ -3,13 +3,15 @@ title: "Making work easier to review"
 last-reviewed: "2026-08-28"
 ---
 
-Sending a document with “any thoughts?” makes the reviewer guess whether you want help with the argument, the method, the structure or the commas. The result is often late, contradictory or pitched at the wrong level. A review contract names the state of the work, the decision you need, the questions the reviewer should answer and the deadline. It also makes clear what is outside scope. Reviewable work is not necessarily polished; it is organised so another person can inspect the right thing.
+“Any thoughts?” is an easy message to send with a draft. It leaves your reviewer with a harder job: working out whether you want help with the argument, the analysis or the wording.
 
-## Tell the reviewer what decision the draft must support
+Give them a short cover note. Say what stage the draft has reached, what you need help deciding and when you need a response. Then, when comments come back, work out the concern behind each one before choosing a revision. You can use advice carefully without following every suggested edit.
 
-Make the work reviewable for a named decision. State the purpose, audience, maturity, checks already completed, known gaps, feedback requested, material that is deliberately unfinished and the agreed response window. After review, translate comments into underlying issues and record a reasoned disposition.
+## Ask for the review you need {#tell-the-reviewer-what-decision-the-draft-must-support}
 
-Feedback is evidence for a revision decision—not an instruction stream to obey blindly or reject defensively. The student should understand, test and own the resulting argument while respecting decisions that belong to formal authorities.
+Tell the reviewer who the draft is for, what you have checked and what is still unfinished. Agree a realistic response window, especially when another task depends on it.
+
+You remain responsible for understanding the revised argument. Ask about advice you cannot yet explain, and respect decisions that belong to formal review or approval processes.
 
 ## Choose the review level
 
@@ -22,11 +24,11 @@ Feedback is evidence for a revision decision—not an instruction stream to obey
 | Reporting | Is the account complete, accurate and bounded? | substantive draft and reporting checks | cosmetic refinement |
 | Copy and production | Is the final expression and package correct? | stable near-final version | major conceptual redesign |
 
-Do not ask for every level simultaneously unless the reviewer has agreed to a full review and sufficient time.
+Choose the level that would help most now. A full review across every level needs the reviewer's agreement and enough time.
 
-## Create a review contract
+## Add a short cover note {#create-a-review-contract}
 
-Before sending consequential work, agree or state:
+Before sending a substantial draft, agree or state:
 
 - exact file, version and authoritative location;
 - purpose and intended reader;
@@ -57,7 +59,7 @@ A reviewable package should allow the reader to:
 6. comment without creating competing authoritative copies; and
 7. know what response will count as complete.
 
-Use stable headings, line numbers or section identifiers. For code or analysis, include the input state, exact command or notebook, expected output and failing test. For a design decision, provide options and trade-offs—not only prose defending the preferred answer.
+Use stable headings, line numbers or section identifiers. For code or analysis, include the input state, exact command or notebook, expected output and failing test. For a design decision, provide the options and their trade-offs alongside your recommendation.
 
 ## Diagnose vague feedback
 
@@ -71,7 +73,7 @@ Translate the wording into a testable underlying issue:
 | “Do more analysis” | uncertainty or alternative explanation remains unresolved | What inference would the proposed analysis change? |
 | “Simplify” | scope, terminology or sentence load exceeds the reader's need | Which idea or audience should govern the simplification? |
 
-Do not pretend to understand a consequential comment. Paraphrase the issue, propose a response and ask for correction.
+If a comment would change the argument or method and you are unsure what it means, paraphrase your understanding and ask the reviewer to check it.
 
 ## Process feedback in a response matrix
 
@@ -103,25 +105,15 @@ Do not silently implement the last or most senior comment merely to end discomfo
 
 ## Example: “rewrite the discussion”
 
-**Material:** Full discussion draft, 4,200 words.
+A student sends a 4,200-word discussion with “Could you give feedback?” One supervisor asks for a stronger practical recommendation. Another asks for a rewrite because the design cannot support that recommendation.
 
-**Original request:** “Could you give feedback?”
+The study is cross-sectional, the outcome is self-reported and subgroup estimates are imprecise. Start by asking what implication that evidence supports. The student could remove the recommendation or present it as a hypothesis for prospective evaluation. Additional evidence from another study would help only if it supports the proposed action.
 
-**Responses:** Supervisor A says the chapter needs a stronger practical recommendation. Supervisor B says the design cannot support recommendations and asks for a complete rewrite.
-
-**Underlying decision:** What strength of implication can the evidence support?
-
-**Audit:** The study is cross-sectional, the outcome is self-reported and subgroup estimates are imprecise. The current draft uses causal language and recommends implementation.
-
-**Options:** Remove the recommendation; reframe it as a hypothesis for prospective evaluation; or add evidence from another study if it genuinely supports the action. More confident wording is not an option.
-
-**Provisional response:** Accept the inferential concern, revise causal statements, distinguish observed association from proposed mechanism, and state a bounded implication for future evaluation. Ask both supervisors whether this resolves the disagreement before sentence-level editing.
-
-**Evidence of done:** Claim audit completed; discussion and abstract aligned; response matrix links every changed passage; both reviewers' unresolved objections recorded; final decision entered in the decision log.
+The student revises the causal language, separates association from mechanism and asks both supervisors whether the narrower implication resolves the disagreement. They then check the abstract and discussion together and link the changed passages in the response matrix. Any remaining objections stay in the decision record.
 
 ## Protect independence while using expertise
 
-Independence is not refusing help. It is increasingly being able to:
+As you gain experience, practise using feedback to:
 
 - diagnose the underlying problem;
 - seek the right expertise;
@@ -136,51 +128,18 @@ Supervisors remain responsible for their roles, and students should not be aband
 
 Record the agreed review window, its dependency and the decision date. Follow up with the exact material and requested decision. If delay threatens a milestone or repeats despite agreed arrangements, bring the record, impact, feasible alternatives and requested resolution to the appropriate supervision or graduate research process.
 
-Do not describe a document as approved because no response arrived. Silence is not acceptance.
+Keep the document marked as awaiting review until you receive a decision.
 
-## Why feedback arrives late or misses the point
+## Check the revision before sending it back
 
-- sending an unlabeled file with “thoughts?”;
-- requesting conceptual, methodological and copy feedback at once;
-- asking after sending whether the reviewer has capacity;
-- hiding known gaps that change how the draft should be read;
-- distributing several competing copies;
-- treating every comment as a literal instruction;
-- dismissing a comment because its proposed solution is weak;
-- resolving conflicts by hierarchy without examining the decision;
-- marking a comment done when text changed but the issue remains;
-- failing to update the abstract, methods or other linked sections;
-- repeatedly sending unreconciled drafts; and
-- treating silence as approval.
+Work through substantive comments and record whether you accepted, adapted or declined the suggestion, with your reason. Revisit the concern after editing: did the change answer it? Check the abstract and other linked sections too.
 
-## When the work is ready to send for review
+Send one current version with a short account of the changes, known gaps and any unresolved questions. If the request or timing has changed, agree the next review with the reviewer. Use the cover-note template below to make the request specific without adding a long administrative exercise.
 
-Work is reviewable when the reviewer can identify its purpose, state and decision; central evidence is inspectable; gaps are visible; the request fits the agreed time; and there is one authoritative response record. A developmental draft need not be polished, but it must be coherent enough for the requested judgement.
-
-## Make one precise request of the reviewer
-
-Bring:
-
-- the exact version and review level;
-- a concise cover note;
-- one to three priority questions;
-- changes since the previous review;
-- known gaps and checks completed;
-- the dependency and decision date; and
-- the location of the response matrix and authoritative draft.
-
-## Check the review contract before sharing
-
-- [ ] The requested review level matches the draft state.
-- [ ] The exact version and authoritative location are clear.
-- [ ] The reviewer knows the audience and decision.
-- [ ] Priority questions and exclusions are explicit.
-- [ ] The requested scope fits the agreed review window.
-- [ ] Central evidence and changes are inspectable.
-- [ ] Feedback is translated into underlying issues.
-- [ ] Every substantive comment has a reasoned disposition.
-- [ ] Conflicts have an owner and documented resolution path.
-- [ ] Completion is verified across linked sections and records.
+[]{#why-feedback-arrives-late-or-misses-the-point}
+[]{#when-the-work-is-ready-to-send-for-review}
+[]{#make-one-precise-request-of-the-reviewer}
+[]{#check-the-review-contract-before-sharing}
 
 ## Try these resources
 
@@ -188,9 +147,8 @@ Use the [supervisor review cover note](../../templates/supervisor-review-cover-n
 
 ## Sources and limits
 
-The review-level and response-matrix system is an editorial workflow. The distinction among goals, current performance and actionable next steps is informed by broader educational feedback research, whose effects are heterogeneous and not doctorate-specific [@hattie-timperley-2007; @wisniewski2020feedback].
+The review levels and response matrix are editorial suggestions. The distinction among goals, current performance and actionable next steps is informed by broader educational feedback research, whose effects are heterogeneous and not doctorate-specific [@hattie-timperley-2007; @wisniewski2020feedback].
 
 ## References
 
-::: {#refs}
-:::
+[Full reference list](../../references.qmd).

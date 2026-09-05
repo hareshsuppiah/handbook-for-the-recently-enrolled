@@ -1,11 +1,13 @@
 ---
 title: "Your first 90 days"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-06"
 ---
 
-The first weeks can feel strangely busy. There are accounts to activate, people to meet, training modules to complete and a proposal that suddenly looks less settled than it did during admission. It is easy to respond by filling the calendar or redesigning the entire project. Neither tells you whether the doctorate is becoming workable. Use this period to establish clear expectations, safe file storage, a decision record, an early map of the research problem and a short list of assumptions to test.
+The first weeks come with plenty to do: activate accounts, meet people, complete training and revisit the proposal that got you here. You may finish a busy day without having touched the research. Some of that setup is necessary, but it helps to know what you're setting up for.
 
-## Build the foundations before chasing momentum
+Use the first 90 days to get your files, supervision and early research questions into workable shape. The schedule below gives you a starting point; move things around to fit your programme and its deadlines.
+
+## Get set up for the work {#build-the-foundations-before-chasing-momentum}
 
 By the end of 90 days, you need a research environment that works, a functioning supervisory relationship and a provisional direction. You do not need to prove the thesis or lock every study into place.
 
@@ -29,7 +31,7 @@ If a task depends on approval, access, training, equipment, data, another person
 
 ## What to do at each phase
 
-### Day one: become findable and safe
+### Day one: contacts, files and first appointments {#day-one-become-findable-and-safe}
 
 Confirm your formal status, supervisory team, immediate contacts and next official milestone. Establish one approved location for research files and one trusted action register. Identify activities you must not begin without training or approval.
 
@@ -37,7 +39,7 @@ Do not spend the day optimising software. A plain, recoverable system that you c
 
 **Evidence of done:** you can show where the official requirement came from, who your supervisors are, where your project record lives and what your next appointment is.
 
-### First week: make expectations discussable
+### First week: talk about expectations {#first-week-make-expectations-discussable}
 
 Book or hold the first supervision meeting. Discuss:
 
@@ -49,7 +51,7 @@ Book or hold the first supervision meeting. Discuss:
 - immediate training, access, ethics, safety and data dependencies;
 - what should be true at the first 30- and 90-day reviews.
 
-Create an unresolved-questions list instead of forcing premature answers. “Unknown, owner: Haresh, review: Friday” is a legitimate project state. An assumption silently treated as fact is not.
+Keep a list of questions you can't answer yet. Give each one a person to follow up and a date to check again. You can leave a question open without losing track of it.
 
 **Evidence of done:** a short meeting record, agreed actions, a visible questions list and a date for the next review.
 
@@ -69,7 +71,7 @@ Begin a search log and decision log. Test access to storage, software, library s
 
 **Evidence of done:** an orientation map, source trail, assumption list, initial risk register, verified working environment and a revised set of questions.
 
-### First 90 days: decide whether the provisional plan can carry weight
+### First 90 days: review the plan {#first-90-days-decide-whether-the-provisional-plan-can-carry-weight}
 
 By the 90-day point, aim for a defensible provisional plan, not final certainty. Review:
 
@@ -96,20 +98,15 @@ Use the [First 90-day review](../../checklists/first-90-day-review.qmd) as a do-
 
 A doctoral researcher's application proposes analysing a partner organisation's records. During week one, nobody can identify a signed data-access agreement.
 
-The weak response is to begin selecting models and assume access will be resolved. The stronger response is to record data access as an unverified dependency, identify the institutional and partner owners, clarify the approval pathway and develop a bounded alternative question that uses accessible material.
+Before selecting models, the researcher asks who at the university and partner organisation can confirm access. They record the approval steps and draft a smaller question using material they can already access.
 
-At the 30-day review, the researcher has not “failed to start the analysis”. They have discovered that the original plan contained a critical assumption. The useful outputs are the access record, risk entry, alternative options and a decision date.
+At the 30-day review, the team can compare the two options and set a date for choosing between them. Finding the access problem early has given them time to respond.
 
 ## Early activity that does not create progress
 
-- **Starting with visible activity rather than consequential uncertainty.** Test access, approval and feasibility early.
-- **Reading without recording the question the reading serves.** Use an orientation map and search log.
-- **Building an elaborate productivity system.** Start with actions, decisions, questions, risks and recoverable files.
-- **Letting meetings end with shared impressions.** Record decisions, owners, dates and evidence of completion.
-- **Waiting to be told every next step.** Bring a recommendation and ask for correction.
-- **Treating the proposal as fixed.** Preserve what changed and why.
-- **Ignoring the wider research environment.** Meet peers, librarians, methodologists, data specialists and relevant communities where appropriate.
-- **Confusing workload distress with personal failure.** Surface constraints and use formal support routes before the situation becomes acute.
+Reading and setting up software can fill the week without answering an important question. Give each search a purpose and keep the file system simple enough to maintain. At meetings, bring a proposed next step and record what was agreed, including any change to the proposal.
+
+Make time to meet people beyond the supervisory team: peers, librarians, methodologists, data specialists and relevant communities. If workload or personal circumstances are making participation difficult, raise the constraint and use the available support early.
 
 ## What progress looks like
 
@@ -123,14 +120,7 @@ At the 30-day review, the researcher has not “failed to start the analysis”.
 
 ## Use supervision to settle the next decision
 
-Bring a one-page state report with the following fields.
-
-- **Decision needed:** the exact choice or uncertainty.
-- **What I checked:** sources, people, systems or tests.
-- **Current evidence:** the strongest relevant information.
-- **Options:** at least two realistic paths, including a smaller or delayed path where appropriate.
-- **Recommendation:** what you think should happen and why.
-- **Request:** the decision, feedback or introduction you need.
+Prepare a page with the decision needed, what you checked and the strongest evidence. Compare at least two realistic options, including a smaller or delayed study where relevant. Recommend one and say which decision, feedback or introduction you need.
 
 ## Get help now if
 
@@ -142,6 +132,10 @@ Bring a one-page state report with the following fields.
 
 Use the responsible candidature, ethics, integrity, safety, accessibility, wellbeing or complaints route. A supervisor may help you navigate the route but is not always the decision-maker or appropriate sole recipient.
 
+## Finding people to work alongside
+
+For practical prompts and a next conversation, see [the guide to life during a PhD](../../stuck/life-during-a-phd.qmd#isolation).
+
 ## Try these resources
 
 - [Starting candidature checklist](../../checklists/starting-candidature.qmd)
@@ -152,7 +146,3 @@ Use the responsible candidature, ethics, integrity, safety, accessibility, wellb
 - [Risk and issues register](../../templates/risk-issues-register.qmd)
 - [Unresolved-questions log](../../templates/unresolved-questions.qmd)
 - [I’m stuck](../../stuck/index.qmd)
-
-## Finding people to work alongside
-
-For practical prompts and a next conversation, see [the guide to life during a PhD](../../stuck/life-during-a-phd.qmd#isolation).

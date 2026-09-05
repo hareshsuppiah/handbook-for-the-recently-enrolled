@@ -8,7 +8,7 @@ last-reviewed: "2026-08-28"
 **Meeting/date/participants:** [ ]
 **Purpose:** [ ]
 
-### State changes
+### Decisions and follow-up
 
 **Decisions and rationale:** [IDs; what was decided and why]
 **Actions:** [ID, owner, due date, dependency, evidence of done]
@@ -30,7 +30,7 @@ If participants remember a discussion differently, the record reveals the actual
 
 ## Privacy boundary
 
-Record project state. Use the appropriate confidential process for sensitive personal or case material.
+Record the project's decisions and progress here. Keep sensitive personal or case details in the appropriate confidential process.
 
 ## Related guidance
 

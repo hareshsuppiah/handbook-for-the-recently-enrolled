@@ -21,7 +21,7 @@ last-reviewed: "2026-08-28"
 
 ## Scenario test
 
-Two indexes return different citing sets. The log preserves the resource used and prevents the result from being described as a universal citation network.
+Two indexes return different citing sets. Record which index you used, since neither result represents every citation.
 
 ## Related guidance
 

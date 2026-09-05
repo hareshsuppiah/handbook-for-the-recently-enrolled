@@ -24,7 +24,7 @@ last-reviewed: "2026-08-28"
 
 ## Scenario test
 
-When the project later pivots, the log distinguishes evidence-led change from arbitrary drift.
+If the project changes direction later, this record helps explain what you knew and why you chose that route.
 
 ## Related guidance
 

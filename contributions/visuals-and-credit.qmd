@@ -50,6 +50,8 @@ An AI-assisted original uses this pattern:
 
 ## The visual-assets register
 
+The current cover is an original AI-assisted illustration made for this project, with two researchers approaching an imagined library. Its worn-book appearance draws on vintage manuals; the illustration is not taken from a film. The project offers it under CC BY 4.0 where copyright subsists.
+
 The project records each embedded image in the [`visual-assets register`](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/blob/main/research/visual-assets-register.csv). This makes image source, licence, credit, alternative text and placement reviewable before publication.
 
 Review every visual for its teaching purpose, accuracy, safety, accessibility, rights and tone. A funny image that fails one of those checks does not go in.

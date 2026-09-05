@@ -9,9 +9,9 @@ last-reviewed: "2026-08-28"
 
 **Prior state of knowledge or practice:** [ ]
 
-**Consequential unresolved problem:** [ ]
+**Problem that still needs an answer:** [ ]
 
-**Bounded contribution:** For [audience], this thesis contributes [change] about [problem], supported by [evidence/components], under [conditions], enabling [credible use], while not establishing [non-claim].
+**Contribution:** This thesis adds [new knowledge, method or other contribution] for [audience]. The evidence is [studies or components]. It applies under [conditions] and could help with [use]. It does not establish [claims beyond the evidence].
 
 **Why it matters:** [ ]
 
@@ -20,7 +20,7 @@ last-reviewed: "2026-08-28"
 | Link | Statement | Exact thesis evidence | Sceptical test |
 |---|---|---|---|
 | Prior state | [what was known/possible] | [review location] | Is the search/scope sufficient? |
-| Problem | [what remained unresolved] | [evidence] | Is it consequential or merely absent? |
+| Problem | [what remained unresolved] | [evidence] | Why does answering it matter? |
 | Thesis action | [what the programme did] | [methods/components] | Was this actually completed? |
 | Evidence | [what was produced] | [results/artefact] | Is it valid and recoverable? |
 | New claim | [what can now be concluded] | [integration/conclusion] | Does the inference exceed the design? |

@@ -3,17 +3,17 @@ title: "Data management, storage and recovery"
 last-reviewed: "2026-08-28"
 ---
 
-“Everything is in Dropbox” can mean that files are synchronised. It does not tell you which copy is authoritative, whether an accidental deletion will spread, who can access sensitive material or whether recovery has ever been tested. Data management is the set of decisions that makes the project understandable and recoverable: what exists, where it belongs, who may use it, how it is backed up and what happens when the project ends. The test is not whether the files are somewhere. It is whether the right files can be found, restored and interpreted.
+You have files called `final` and `final2`, plus a copy on your laptop. Before sending one to a collaborator, you need to establish which is current and whether you can recover it if the wrong folder is deleted.
 
-## Plan how you would recover the data
+Start by choosing where the team keeps the working research record and who looks after it. Then test the backup. A synchronised folder can be useful, but you also need to know what happens when files are deleted, corrupted or shared with the wrong person. This chapter walks through those decisions before the project accumulates more data.
 
-A data-management plan is a living map of research materials, authority, movement, responsibility and end state. Storage is not safe merely because it is convenient or synchronised. Backup is proven only by a successful, recorded restore.
+## Start with a recovery plan {#plan-how-you-would-recover-the-data}
 
-For each data or material class, identify:
+Your data-management plan explains what you collect, where it goes, who can use it and what happens after the project ends. Trace one important file through this route:
 
-`source → collection/access → authoritative copy → transformations → working copies → access → backup → sharing → retention/disposal/archive`
+`collection → original copy → working copies → analysis → sharing → archive or disposal`
 
-If any arrow is unknown, the system is not yet controlled.
+For each step, name the storage location and person responsible. If you cannot fill in a step, you have a useful question to resolve before collecting more material.
 
 ## Inventory everything that matters
 
@@ -48,7 +48,7 @@ An authoritative copy should have:
 - rules for local or offline working copies; and
 - a handover process.
 
-Email attachments, downloads folders, chat uploads and personal desktop copies are not a data architecture.
+Agree how email attachments, downloads and offline copies return to the shared record. Otherwise, each person may end up working from a different version.
 
 ## Separate synchronisation, versioning and backup
 
@@ -78,7 +78,7 @@ Maintain an access register with person, role, location, permission level, appro
 
 ## Use a folder structure that expresses states
 
-A simple project may begin with:
+You can adapt this starter structure:
 
 ```text
 project/
@@ -100,7 +100,7 @@ project/
   logs/
 ```
 
-Do not copy this blindly. Identifiable or restricted data may need a different controlled system entirely, with only non-sensitive documentation or code in the project repository.
+Identifiable or restricted data may belong in a separate controlled system. In that case, keep only the permitted documentation and code in this project folder.
 
 The structure should make it difficult to overwrite raw material or mistake a working export for an approved release.
 
@@ -120,7 +120,7 @@ Use ISO dates, stable separators and documented controlled vocabulary. Avoid nam
 
 When a version-control system manages text or code, use meaningful filenames plus commits and releases instead of manually duplicating every version.
 
-## Make the data-management plan operational
+## Fill in the data-management plan {#make-the-data-management-plan-operational}
 
 The plan should answer:
 
@@ -140,13 +140,11 @@ ARDC good-data guidance covers planning, organisation, documentation, storage, a
 
 ## Example: “everything is in Dropbox”
 
-**Claim:** the project is safe because the folder synchronises to three laptops.
+Suppose a project folder synchronises to three laptops. During a review, you discover that raw interviews, the re-identification key and public presentation files share that folder. Everyone can edit it, including an assistant who has left. The laptop disks are unencrypted, nobody knows the deleted-file retention period, and nobody has tested a restore.
 
-**Audit finds:** raw identifiable interviews, the re-identification key and public presentation files share one folder; everyone has edit access; a departed assistant still has access; local disks are unencrypted; deleted files are recoverable only for an unknown period; and no restore has been tested.
+First, move the identifiable data and separately protected key to approved locations. Remove unnecessary local copies and access. Keep non-sensitive code and documentation in the collaboration space.
 
-**Redesign:** move identifiable data and the separately protected key into approved controlled locations; remove unnecessary local copies; establish role-based access and offboarding; keep non-sensitive code and documentation in the collaboration space; verify the institutional backup service; conduct a restore into a safe test location; record recovery time, completeness and permissions; schedule quarterly access and restore reviews.
-
-Three synchronised vulnerabilities are not three backups.
+Then check what the institutional backup service covers and restore a test copy to an approved location. Record how long recovery took, whether the files were complete and whether the permissions were right. Schedule quarterly reviews of access and recovery for this example project.
 
 ## Restore a file before trusting the backup
 
@@ -191,45 +189,15 @@ At closure decide, with authority:
 
 The Australian Code requires clear, accurate, secure and complete research records [@australian-code-2018]. A final clean dataset without the decisions and provenance needed to understand it may not meet that purpose.
 
-## Storage arrangements that look safer than they are
+## Check the setup with someone else
 
-- storing the only copy on a laptop, portable drive or departing account;
-- treating sync, version history and backup as identical;
-- putting identifiers, contact details and working data together;
-- giving the whole team permanent edit access;
-- using filenames as the only provenance record;
-- changing raw data in place;
-- encrypting data without a recoverable key process;
-- assuming an approved service authorises every data type or transfer;
-- scheduling backups without restore tests;
-- promising deletion or long-term sharing the system cannot deliver.
+Ask a colleague to locate one raw file, identify its current working version and recover a deleted test copy. Check that encryption keys can also be recovered and that a departing account holder will not take the only accessible copy with them.
 
-## Can you recover the data?
+Take the data-flow map, access register and restore result to your supervisor or data steward. Include your expected formats and volume, retention requirements, and the storage or recovery question you still need help with. Use the linked checklist for the full check before collection.
 
-Before collection or restricted-data access:
-
-- every material class is inventoried;
-- the authoritative copy and custodian are known;
-- locations and transfers are approved;
-- access is role-based and reviewable;
-- raw and identifying material are protected from accidental overwrite or release;
-- folder, naming, metadata and version rules are documented;
-- backup coverage and retention are verified;
-- one realistic restore has passed; and
-- retention, disposal, archive and handover decisions have identified authorities.
-
-## Bring your real storage plan
-
-Bring:
-
-- the [living data-management plan](../../templates/data-management-plan.qmd);
-- the complete data-flow and location map;
-- sensitivity and authority classification;
-- current access register;
-- backup-service evidence and last restore result;
-- expected volume, formats and collaboration pattern;
-- retention, disposal and handover constraints; and
-- one precise unresolved authority, security or recovery question.
+[]{#storage-arrangements-that-look-safer-than-they-are}
+[]{#can-you-recover-the-data}
+[]{#bring-your-real-storage-plan}
 
 ## Try these resources
 

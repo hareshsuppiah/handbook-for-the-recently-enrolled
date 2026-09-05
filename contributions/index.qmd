@@ -1,51 +1,25 @@
 ---
-title: "Suggest an improvement"
+title: "Help improve the handbook"
 ---
 
-Send one suggestion through the handbook's public GitHub form when something is missing, unclear, wrong or difficult to use. You do not need finished wording, and you will not be asked to edit the book.
+If an explanation is confusing or a question is missing, tell us. A few specific sentences can help the next researcher who gets stuck in the same place.
 
 [Suggest an improvement](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/issues/new?template=share-feedback.yml){.btn .btn-primary}
 
-The form requires a free GitHub account. GitHub calls your suggestion an **issue**. For this handbook, an issue is the public record of your suggestion and the editor's response.
+You'll need a free GitHub account. GitHub calls a suggestion an **issue**: a page where you and an editor can discuss the change. You don't need to know Git or rewrite the chapter yourself. The [step-by-step guide](how-to-help.qmd) walks you through it.
 
-## Use the form for
+## What to send
 
-Use the same form to:
+You can suggest a missing topic, correct advice, share a source, propose a shorter explanation or point out something that's hard to read. If advice only applies in your discipline or university, say so. The form works for all of these.
 
-- add a missing question, topic, checklist, template or example;
-- correct or clarify advice;
-- shorten, combine or remove material;
-- share a useful source or example;
-- report a reading, navigation, accessibility or technical problem; or
-- explain where advice needs a clearer institutional, disciplinary, methodological or jurisdictional limit.
+Include the page link, what you noticed and what would help. Send separate suggestions for unrelated changes so each gets a clear response.
 
-Send one distinct suggestion at a time. This lets the editor discuss and decide each change on its own merits.
+GitHub submissions are public. Keep personal details, participant data, private correspondence and confidential research out of the form. For a personal or urgent concern, use the services listed in [Local rules and specialist help](../support.qmd).
 
-## Before you open the form
+## After you submit
 
-GitHub submissions are public. Remove personal information, participant data, private correspondence, complaints casework, confidential research, passwords, unpublished results and details that identify another person. Describe the general problem instead.
+An editor reads the suggestion, checks existing coverage and may ask you for a detail or source. You'll receive a decision on the same page. Accepted ideas move to drafting, which a contributor or AI agent may help with. An authorised editor reviews the proposed edits before publication.
 
-Do not use the form for a private, urgent or personal matter. See [Local rules and specialist help](../support.qmd) and use the appropriate local route.
+You can choose how you'd like to be credited, including no public credit. The [suggestion tracker](tracker.qmd) shows the discussion and any published change.
 
-## What happens next
-
-1. An editor checks the suggestion for private information and looks for an existing suggestion or answer.
-2. The editor may ask you a question or request a source.
-3. The project lead accepts it for drafting, merges it with an existing suggestion, defers it or declines it.
-4. A human contributor or AI agent may prepare a proposed change.
-5. A human reviews the wording, evidence and relevant handbook checks.
-6. The project lead publishes it, requests another revision or rejects the proposed change.
-
-The first decision concerns the suggestion. Publication requires a separate review of the actual change.
-
-## First time using GitHub?
-
-Use the [first-time GitHub guide](how-to-help.qmd). It shows how to create an account, complete and preview the form, submit it, follow replies and update your suggestion. You can also read [what happens to a suggestion](editorial-workflow.qmd), [how AI assistance is used](ai-and-editorial-practice.qmd) and [how visuals and contributor credit are handled](visuals-and-credit.qmd).
-
-## Credit
-
-You can request credit under your GitHub username, your preferred name, an organisation or a pseudonym. You can also choose no public credit. A useful contribution can be credited even when the published wording differs from the suggestion.
-
-## Follow existing suggestions
-
-[Read the tracker guide](tracker.qmd) or [open the live GitHub issue tracker](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/issues). Read the decision and linked edits; an approved suggestion is not yet a published change.
+For more detail, read about [editorial decisions](editorial-workflow.qmd), [AI assistance](ai-and-editorial-practice.qmd) and [images and credit](visuals-and-credit.qmd).

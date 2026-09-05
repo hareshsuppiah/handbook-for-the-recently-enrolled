@@ -17,7 +17,7 @@ last-reviewed: "2026-08-28"
 
 ## Decision rules
 
-“Sent” is not “done” when the action requires approval, access or a response. Use **blocked** and name the dependency. Do not assign actions to “we”.
+If you need approval, access or a reply, keep the action open until it arrives. Mark it **blocked** when you cannot proceed. Give each action one named owner so everyone knows who will follow up.
 
 ## Scenario test
 

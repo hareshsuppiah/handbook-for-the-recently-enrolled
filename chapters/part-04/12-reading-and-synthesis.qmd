@@ -1,9 +1,11 @@
 ---
 title: "Reading, synthesis and citation"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-06"
 ---
 
-Your reference library grows, your notes grow, and the literature review still feels like a sequence of summaries. That happens because collecting sources and building an argument are different jobs. Read with a question, extract the claim and its support, then compare sources on the point that matters to your own reasoning. A synthesis does not prove that you read everything. It shows where evidence agrees, conflicts or stops, and what that means for the decision your research must make.
+Your reference library is growing, but the literature review still reads like one paper after another. You know what each author did. The harder part is explaining what the papers tell you together.
+
+Start with a question you want the literature to answer. Then compare the papers on that question: where they agree, why they differ and what they leave unresolved. This chapter takes you from reading notes to a paragraph with an argument.
 
 ## Organise the literature around claims
 
@@ -51,7 +53,7 @@ For systematic reviews, the Cochrane Handbook recommends accurate, complete and 
 
 ## Move from extraction to comparison
 
-An evidence matrix is not the synthesis. It is the comparison surface.
+An evidence matrix puts the relevant parts of each paper side by side. Use it to find comparisons worth explaining in the text.
 
 Choose columns that expose the distinctions relevant to your question: population, setting, construct, theory, method, intervention, comparator, outcome, mechanism, uncertainty or standpoint. Avoid a giant generic spreadsheet whose columns are never used.
 
@@ -98,7 +100,7 @@ For every consequential sentence, test:
 
 Cite an abstract only for information it contains. A review supports its own synthesis, not every study it summarises. Open and check a cited paper before adding it to your own reference list. If the original cannot be accessed, say what you actually consulted and follow the relevant citation convention.
 
-## Use reference software as infrastructure
+## Keep your reference library usable {#use-reference-software-as-infrastructure}
 
 A defensible record normally keeps:
 
@@ -114,16 +116,9 @@ Automated metadata imports are a starting point. Check names, title capitalisati
 
 ## Reading practices that never become synthesis
 
-- reading every item linearly before deciding relevance;
-- highlighting extensively without recording why a passage matters;
-- using identical extraction fields for every evidence type;
-- treating study quality as a single universal score;
-- converting association into causation during paraphrase;
-- writing one paragraph per paper and calling the sequence synthesis;
-- keeping only evidence that supports the preferred story;
-- inserting a citation suggested by software or AI without opening the source;
-- allowing a reference manager's incorrect metadata to enter the thesis unchanged;
-- storing copyrighted or culturally restricted material in an inappropriate shared location.
+Decide relevance before reading line by line. When highlighting, add why the passage matters; otherwise the next reading pass starts almost from scratch. Adapt extraction and appraisal to the evidence type rather than forcing every paper into one score or template.
+
+Compare contrary evidence as carefully as supporting evidence, and preserve the difference between association and causation when paraphrasing. Open each cited source, check its metadata and keep copyrighted or culturally restricted material in an appropriate location.
 
 ## When the synthesis can support your next claim
 

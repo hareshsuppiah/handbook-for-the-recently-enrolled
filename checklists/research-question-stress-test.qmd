@@ -1,5 +1,5 @@
 ---
-title: "Can this research question carry the study?"
+title: "Check your research question"
 last-reviewed: "2026-08-28"
 ---
 
@@ -14,7 +14,7 @@ last-reviewed: "2026-08-28"
 - [ ] **Problem link:** Answering the question would address a defined part of the research problem.
 - [ ] **Unit and context:** The people, material, cases, texts, systems or phenomena under study are sufficiently clear for this stage.
 - [ ] **Uncertainty:** The question identifies what is not known, understood, compared, interpreted, created or tested; it does not merely name a topic.
-- [ ] **Verb–evidence fit:** Verbs such as *cause*, *predict*, *experience*, *interpret*, *evaluate* or *develop* match evidence the planned design could support.
+- [ ] **Wording and evidence:** Verbs such as *cause*, *predict*, *experience*, *interpret*, *evaluate* or *develop* match evidence the planned design could support.
 - [ ] **Scope:** The question is not several studies disguised by “and”.
 - [ ] **Importance:** A relevant audience or body of knowledge would care about the answer for a stated reason.
 - [ ] **Feasibility:** Access, time, skills, resources and sample or corpus adequacy have a credible path.
@@ -27,7 +27,7 @@ last-reviewed: "2026-08-28"
 Do not lock the design while:
 
 - the question promises an inference the evidence cannot support;
-- one sentence contains several independently consequential questions;
+- one sentence contains several questions that each need a separate study;
 - essential access or approval is treated as assumed;
 - the affected community or governing authority disputes a framing that requires their involvement;
 - no consequence of answering the question can be stated.

@@ -1,9 +1,11 @@
 ---
 title: "Sampling, measurement and pilots"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-06"
 ---
 
-Sample size, measurement and piloting are often handled as separate technical chores. In practice they answer one question: will the study produce evidence that can support the intended inference? A large sample does not rescue the wrong population, and a reliable instrument may still measure the wrong construct. A pilot is useful when it tests a decision, not when it merely proves that the survey link opens. Design these pieces together and make their limits visible before the main study becomes expensive to change.
+The survey opens, the questions display and the results download. So the pilot worked? Perhaps. You still need to know whether the right people could take part, whether they understood the questions and whether the answers will help you address the research question.
+
+Sampling, measurement and piloting belong in the same conversation. Here we'll connect them, using a graduate wellbeing survey as an example.
 
 ## Test fitness for purpose before scale
 
@@ -89,7 +91,7 @@ If provenance cannot be reconstructed, narrow the intended use or stop.
 
 ## Make the pilot answer decisions
 
-A pilot is not a miniature main study performed for reassurance. Define the uncertainty, the test and the action before running it.
+Give the pilot a question to answer, such as whether participants understand an item or whether the recruitment route reaches enough eligible people. Decide what you'll change if the test fails.
 
 | Uncertainty | Pilot evidence | Possible decision |
 |---|---|---|
@@ -134,42 +136,17 @@ Do not decide to reuse pilot data after seeing attractive results. If material c
 
 ## Adequacy checks that create false confidence
 
-- quoting a universal sample-size rule without an inference-specific justification;
-- confusing convenience, diversity and representativeness;
-- ignoring attrition, missingness or excluded records;
-- treating a familiar instrument as valid for a new population or purpose;
-- piloting only the questionnaire and not the full workflow;
-- using pilot results to test the main substantive hypothesis when the pilot was not designed for it;
-- setting progression rules after seeing the data;
-- declaring success because the procedure ran once;
-- hiding feasibility failures to protect the original plan;
-- beginning recruitment or restricted-data work before written authority.
+Explain sample adequacy for your intended analysis, including likely losses and missing data. A convenient or diverse sample doesn't automatically represent a population, and an established instrument still needs evidence for your intended use.
+
+Test the full procedure under the required written approvals. Keep failed tests and decide what to change. Avoid treating a small feasibility pilot as a test of the main hypothesis or setting its progression rules after seeing the results.
 
 ## When the study is ready to leave the pilot stage
 
-Before main data generation, good enough means:
-
-- the target, frame, observed and analytic samples are distinguished;
-- adequacy is justified for the intended inference and analysis;
-- central constructs have operational definitions and provenance;
-- instrument or procedure evidence fits the population and purpose, or limitations are explicit;
-- the end-to-end workflow has been tested with realistic difficult cases;
-- progression, amendment and stop criteria were set before the pilot result;
-- approvals cover what will happen; and
-- pilot learning has been converted into documented decisions.
+Compare the pilot results with the criteria you set beforehand. Record what passed, what needs revision and whether approval covers the next activity. Use the checklist below before committing the full sample.
 
 ## Discuss what the result can mean
 
-Bring:
-
-- the intended inference and target;
-- the sampling pathway and anticipated losses;
-- the adequacy calculation or method-specific rationale with inputs;
-- the construct-to-record map for the most important measure;
-- evidence supporting the instrument or procedure in the relevant context;
-- the [pilot-readiness checklist](../../checklists/pilot-readiness.qmd);
-- progression, amendment and stop criteria; and
-- one result that would make you change the design.
+Bring your sampling rationale, anticipated losses and the evidence supporting your main measure. Include the inputs to any adequacy calculation, the [pilot-readiness checklist](../../checklists/pilot-readiness.qmd) and your progression criteria. Explain which result would make you revise or stop.
 
 ## Before committing the full sample
 

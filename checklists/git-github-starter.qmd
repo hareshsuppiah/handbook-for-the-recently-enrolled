@@ -14,7 +14,7 @@ Practise with invented, non-sensitive files. Verify institutional approval, repo
 - [ ] Safe example configuration replaces real credentials.
 - [ ] README, licence and support boundary are started.
 
-## First safe loop
+## Practise with a small change
 
 1. Initialise or clone the repository.
 2. Inspect status.
@@ -29,7 +29,7 @@ Practise with invented, non-sensitive files. Verify institutional approval, repo
 
 ## Branch and review simulation
 
-- [ ] Create an issue describing one bounded improvement and evidence of done.
+- [ ] Create an issue describing one specific improvement and how you will check it.
 - [ ] Create a branch tied to the issue.
 - [ ] Make a coherent change and run its test/render.
 - [ ] Inspect status, diff and staged diff.

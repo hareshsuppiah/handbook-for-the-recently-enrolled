@@ -54,7 +54,7 @@ If participant or community welfare, animal welfare, safety, confidentiality, da
 
 ## Scenario test
 
-A deviation appears to have no effect on the final result. It still remains in the log. Record the evidence supporting “no material effect”, who reviewed it and where it will be disclosed. Absence of an attractive difference is not evidence that the process never happened.
+A deviation appears to have no effect on the final result. It still remains in the log. Record the evidence supporting “no material effect”, who reviewed it and where it will be disclosed.
 
 ## Related guidance
 

@@ -2,7 +2,7 @@
 
 ## Editorial authority
 
-Haresh Suppiah is the project lead, founding editor, and final decision-maker for the handbook. Editorial decisions must remain traceable to a question, evidence, requirement, or documented product decision.
+Haresh Suppiah is the project lead and founding editor. Editorial roles describe the work needed as the contributor community grows; appointments and repository permissions must be granted explicitly. Editorial decisions must remain traceable to a question, evidence, requirement, or documented product decision.
 
 ## Review expectations
 
@@ -19,16 +19,16 @@ Record the competing positions, applicable contexts, evidence quality, uncertain
 
 Readers submit suggestions as GitHub issues; they are not expected to edit the handbook. Unsolicited pull requests are not the public contribution route.
 
-Only Haresh Suppiah can approve or decline a suggestion. Approval is recorded by posting the exact comment `/approve` or applying the `decision: approved` label. Decline is recorded with `/decline` followed by a concise reason. The workflow ignores decision commands from other users. An approval authorises an agent or maintainer to prepare a pull request. It does not authorise merging or publication.
+The current automation accepts approval and decline commands only from the founding editor's GitHub account (`hareshsuppiah`). Additional approving editors require an explicit workflow and permissions update. Approval is recorded by posting the exact comment `/approve` or applying the `decision: approved` label. Decline is recorded with `/decline` followed by a concise reason. The workflow ignores decision commands from other users. An approval authorises an agent or maintainer to prepare a pull request. It does not authorise merging or publication.
 
 The implementation sequence is:
 
 1. privacy, duplicate, coverage and evidence checks;
-2. an explicit editorial decision by Haresh;
+2. an explicit decision by an authorised editor;
 3. assignment to an agent or maintainer;
 4. a linked pull request containing the proposed change and verification evidence;
-5. review by Haresh;
-6. merge and publication only after Haresh accepts the pull request.
+5. review by an authorised editor;
+6. merge and publication only after an authorised editor accepts the pull request.
 
 Suggestions may also be deferred, declined, marked as duplicates, treated as local adaptations, held pending evidence or closed as out of scope. The editor must give a concise reason and, when released, link the published change and changelog entry.
 

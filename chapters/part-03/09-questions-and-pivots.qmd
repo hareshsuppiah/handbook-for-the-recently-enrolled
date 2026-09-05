@@ -1,15 +1,17 @@
 ---
 title: "Research questions, aims and pivots"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-06"
 ---
 
-Research questions often become harder to read as a project develops. A promising idea accumulates a population, three outcomes, a mechanism, a comparison and an intervention until one sentence contains several theses. The cure is not endless polishing. Ask what evidence would answer the question and what claim that evidence could support. When those answers do not line up, narrow or change the question and record why. A well-judged pivot is evidence of learning, not a confession that the original plan failed.
+Your research question has acquired another “and”. It now mentions three outcomes, a comparison and an intervention. Each addition sounds worthwhile; together they may be more than one project can answer.
+
+Put the wording aside for a moment and ask what evidence you could collect. We'll use that answer to narrow the question, separate it from the aim and objectives, and decide when a change of direction makes sense.
 
 ## Make the question answerable by the planned evidence
 
 A research question specifies the uncertainty the study can credibly reduce. The aim states the overall intended inquiry; objectives name the work needed to answer it; hypotheses state specified expectations where the design and tradition require them. None should promise more than the feasible evidence can support.
 
-Question development is iterative. Research on doctoral training describes several coexisting routes—including gap-spotting, assumption challenging, contrastive positioning and problem-solving with stakeholders—and notes that questions may develop across the candidature rather than at one fixed moment [@chevalier2024questions]. A justified revision is therefore not inherently a failure. The requirement is to preserve what changed, why, what else must change and which approvals govern it.
+Research on doctoral training describes several ways to develop questions, including finding gaps, challenging assumptions, comparing positions and solving problems with stakeholders. Questions can develop throughout the doctorate [@chevalier2024questions]. When yours changes, keep the old version and record the reason, any effects on the study and any approvals needed.
 
 ## Keep the elements distinct
 
@@ -110,19 +112,13 @@ The pivot record states:
 - required changes: question, method, ethics/governance check, timeline and contribution statement;
 - approval owner and review date.
 
-The change is auditable, not disguised.
+The record explains why the new study uses different evidence and makes a different contribution.
 
 ## How questions become overloaded or evasive
 
-- writing a question that merely names a topic;
-- using “and” to join several independently consequential questions;
-- choosing verbs for rhetorical strength rather than evidential fit;
-- making objectives a list of ordinary tasks;
-- promising population or causal claims from convenience evidence;
-- freezing a weak question to appear consistent;
-- changing the question after seeing results without transparency;
-- preserving an infeasible design because it was in the proposal;
-- calling any change a pivot without documenting its consequences.
+Check each “and” in the question. If it joins inquiries needing different evidence, separate them. Choose verbs the design can support, especially when making causal or population claims from a convenience sample.
+
+Revise an infeasible question even if it appeared in the proposal. Keep the previous version and the reason for the change, particularly when you've already seen results. Objectives should describe what the study will establish, rather than list routine tasks.
 
 ## Check again when the study changes
 

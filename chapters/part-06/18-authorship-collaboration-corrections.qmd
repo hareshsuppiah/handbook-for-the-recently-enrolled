@@ -1,15 +1,17 @@
 ---
 title: "Authorship, collaboration and corrections"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-06"
 ---
 
-Authorship disputes often appear at submission but begin much earlier, when contribution, ownership and decision rights were left implicit. A person may expect authorship for access, supervision or analysis that never occurred; another may do substantial work that no one records. Discuss credit when roles are agreed, revisit it when the work changes and separate authorship from acknowledgement and intellectual property. If the scholarly record is wrong, the same principle applies: identify the error, its consequence and the proportionate correction.
+You're preparing a paper and someone asks who will be listed as an author. The team remembers the original plan differently, and the person who ended up doing the analysis wasn't on it. This is an awkward time to reconstruct everyone's contribution.
 
-## Agree credit while the work can still be redesigned
+Talk about credit when you agree the work, then revisit it as roles change. We'll separate authorship from acknowledgement and ownership, work through a changed contribution, and cover how to correct a record when something is wrong.
+
+## Discuss credit early {#agree-credit-while-the-work-can-still-be-redesigned}
 
 Discuss contributions before substantial work begins, record provisional expectations, revisit them when work changes, and apply the authorship standard governing the output. Authorship is not a reward for status, access, supervision, funding or goodwill alone.
 
-If an error could affect evidence, attribution, participant or community interests, confidentiality, decisions or trust, preserve the facts and seek the appropriate correction route promptly. Do not wait until everyone agrees that the error is embarrassing enough.
+If an error affects evidence, attribution, participant or community interests, confidentiality or decisions, preserve the records and seek advice promptly. The correction process is covered later in this chapter.
 
 ## Separate contribution, authorship, acknowledgement and ownership
 
@@ -148,42 +150,17 @@ Avoid both minimisation (“just a minor issue”) and unsupported accusation. I
 
 ## How vague roles become authorship conflict
 
-- assigning authorship at the end from hierarchy or politics;
-- treating supervision, funding, editing or data ownership as automatic authorship;
-- using CRediT roles as a points system;
-- recording promised rather than completed contributions as fact;
-- failing to revisit order after major work changes;
-- calling extractive access a partnership;
-- allowing a contract to suppress findings contrary to integrity obligations;
-- correcting files without preserving the error and decision trail;
-- delaying disclosure until every cause and consequence is known;
-- using public accusation before confidential evidence-preserving advice.
+Revisit credit when the work changes, using completed contributions and the applicable criteria. Supervision, funding, editing and data ownership don't automatically establish authorship. CRediT describes roles; it doesn't award points towards an author position.
+
+Describe partnerships according to the decision power people had, and check contracts against research-integrity obligations. When correcting an error, preserve the originals and seek confidential advice promptly, even while its full extent is uncertain.
 
 ## When the contribution record is ready for the next stage
 
-Before an output advances:
-
-- the exact output and governing authorship standard are identified;
-- actual and expected contributions are separated;
-- provisional status and order have reasons;
-- every author can take the required accountability and approve the output;
-- non-author contributions and permission to acknowledge are addressed;
-- collaboration, data, IP and publication rights are consistent with ethics and integrity duties;
-- conflict and escalation routes are known; and
-- errors, changes and unresolved disagreement remain visible.
+Use the checklist below with the current contribution record. Resolve acknowledgement and permission to name non-authors too. Any unresolved disagreement should stay visible as the output moves to its next stage.
 
 ## Bring the contribution record into the conversation
 
-Take the following material into the conversation.
-
-- the exact output and current version;
-- the applicable authorship or contribution standard;
-- the completed [authorship conversation record](../../templates/authorship-conversation.qmd);
-- evidence of actual contributions;
-- expected work still outstanding;
-- the proposed decision and reason;
-- any contract, data, ethics or community constraint; and
-- a precise request for agreement, independent advice or formal process.
+Bring the current output, applicable authorship standard and [contribution record](../../templates/authorship-conversation.qmd). Separate completed work from outstanding commitments, explain the proposed decision and identify any contractual, data, ethics or community constraints. Say whether you need agreement, independent advice or a formal process.
 
 ## Revisit credit at every major handover
 

@@ -1,48 +1,31 @@
 ---
-title: "What happens to a suggestion"
+title: "How suggestions become edits"
 ---
 
-The [first-time GitHub guide](how-to-help.qmd) is enough for submitting and following a suggestion. This page describes the editorial process after it arrives.
+Every suggestion has a public GitHub page. That's where the editor asks questions, records a decision and links to the resulting edits. You can follow the whole discussion there.
 
-The GitHub issue is the public editorial record. It holds the reader's suggestion, the editor's questions, the evidence check, Haresh's decision, the proposed change and the final outcome.
+## Reviewing the idea
 
-## Who decides
+The editor checks whether the handbook already covers the question, whether the advice needs evidence and which pages would need to change. Sometimes a suggestion needs a little more detail. Sometimes it belongs with an existing discussion.
 
-Editors can check privacy, find duplicates, examine evidence, ask the contributor questions and recommend an outcome. Haresh Suppiah makes the decision to accept, merge, defer or decline a suggestion and the separate decision to publish a proposed change.
+The outcome may be acceptance for drafting, a request for evidence, deferral, decline or a link to a duplicate suggestion. The editor records the reason so you can understand the decision and respond.
 
-Haresh accepts a suggestion for drafting by posting `/approve` or applying the label `decision: approved`. He can decline it by posting `/decline` followed by a short reason. The automation ignores these commands when anyone else posts them.
+## Reviewing the draft
 
-Acceptance allows an agent or maintainer to prepare a change. Publication requires Haresh to review and merge the resulting pull request.
+An accepted suggestion goes to a contributor or an AI agent with an agreed scope. They prepare edits in a **pull request**, GitHub's name for a proposed change. The request shows the changed text, supporting sources and checks.
 
-The comment and label routes complete the same handoff. A `/approve` comment records the approval label and continues directly to assignment in that workflow run. It does not wait for the new label to trigger another run. Repeated approval actions for the same issue are queued, and the workflow checks existing work labels, assignees and hidden comment markers before posting or assigning anything again.
+An authorised editor then reads the actual edits and asks for revisions, accepts them for publication or rejects them. Accepting an idea gives permission to draft; publication follows this second review. The original suggestion links to the published result.
 
-## The workflow
+## Editorial roles
 
-1. **Submitted:** a reader completes the form.
-2. **Checked:** an editor looks for private material, duplicates and an existing answer in the handbook.
-3. **Assessed:** the editor identifies the affected pages and records the supporting evidence. The assessment also covers scope, risk and local limits. The editor may ask the contributor for more detail.
-4. **Decided:** Haresh accepts the suggestion for drafting, merges it with another suggestion, defers it or declines it. The issue records the reason.
-5. **Assigned:** an accepted suggestion receives a bounded brief. GitHub Copilot, Codex or a human contributor can prepare the change.
-6. **Drafted and tested:** the assignee works on a branch and opens a pull request linked to the suggestion. The pull request lists the evidence, files changed, checks and limitations.
-7. **Reviewed:** Haresh examines the actual change and may request revisions or reject it.
-8. **Published:** Haresh merges an accepted pull request. The issue links to the published change and closes with the outcome.
+Reviewers can check evidence, ask questions and recommend changes. Editors handle suggestions and draft reviews. Project leads manage publishing permissions and appoint additional editors as the project grows.
 
-## Agent options
+The current automation restricts approval and decline commands to the founding editor's GitHub account. Adding an editorial role in these pages does not grant account access. Any future editors who can approve work or publish changes must be explicitly authorised in the repository settings and workflow.
 
-When the GitHub Copilot coding agent and its owner-authorised project credential are available, `/approve` assigns the accepted suggestion to Copilot. Copilot works on a branch and opens a pull request for review. If the automated assignment fails, an editor can assign the same issue manually.
+## Working with an agent
 
-For Codex, Haresh can give Codex the approved issue URL and say: `Implement this approved handbook issue and return a tested pull request. Do not merge it.` Codex must confirm that the issue has the `decision: approved` label before changing files.
+An authorised `/approve` comment, or the `decision: approved` label, starts the assignment workflow. When the Copilot credential and account access are available, Copilot prepares a pull request. An assignment failure is recorded on the suggestion so an editor can check it or assign the work manually.
 
-Agent access is deliberately downstream of the editorial decision. Reader-submitted text is treated as untrusted input until the privacy, evidence and scope checks are complete.
+An editor can also give Codex an approved issue URL with this instruction: `Implement this approved handbook issue and return a tested pull request. Do not merge it.` The agent checks the approval and supporting evidence before drafting.
 
-## Status labels
-
-- `status: needs-triage`: submitted and awaiting an initial check;
-- `status: needs-evidence`: more support or clarification is required;
-- `status: awaiting-owner-decision`: ready for Haresh's decision;
-- `decision: approved`: implementation is authorised by Haresh's command or label;
-- `decision: deferred`, `decision: declined` or `decision: duplicate`: the recorded editorial outcome;
-- `work: agent-ready`: approved and ready to assign;
-- `work: in-progress`: an agent or maintainer is preparing a change;
-- `work: owner-review`: a pull request is ready for Haresh;
-- `work: released`: the accepted change has been published.
+See the [tracker guide](tracker.qmd) to interpret the labels attached to a suggestion.

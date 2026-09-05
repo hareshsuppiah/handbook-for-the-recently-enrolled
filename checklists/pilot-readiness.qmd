@@ -11,7 +11,7 @@ Use this before a feasibility test, instrument test, workflow rehearsal or pilot
 
 **Use:** Do-confirm. Every critical item needs evidence, not confidence.
 
-## Decision definition
+## What the pilot will test
 
 - [ ] The uncertainty the pilot must reduce is stated in one sentence.
 - [ ] Each pilot objective maps to a proceed, amend, pause or stop decision.
@@ -25,9 +25,9 @@ Use this before a feasibility test, instrument test, workflow rehearsal or pilot
 - [ ] The target construct and operational definition are written.
 - [ ] Instrument, translation, device, coding or observation evidence is appropriate to the intended population and purpose.
 - [ ] Expected ranges, missingness, units, timestamps and impossible values have checks.
-- [ ] The pilot size is justified by the feasibility decision—not by a generic sample-size slogan.
+- [ ] The pilot size is justified by what we need to learn about feasibility.
 
-## End-to-end operation
+## Rehearse the whole process
 
 - [ ] Recruitment or source access, information, consent, withdrawal and follow-up are rehearsed where relevant.
 - [ ] Burden, safety, distress, adverse events and escalation can be handled.
@@ -49,7 +49,7 @@ Do not start if authority, safety, secure handling, decision criteria or the pur
 
 ## Completed scenario
 
-A team plans five test interviews. The guide has been reviewed, but the secure recorder-to-storage transfer has not been rehearsed and no one knows whether recordings can be retained after withdrawal. The checklist fails. The team first obtains the applicable rule, tests a non-participant recording through transfer and deletion, documents roles, then reschedules the pilot. A good interview guide does not override a broken or unauthorised data pathway.
+A team plans five test interviews. The guide has been reviewed, but the secure recorder-to-storage transfer has not been rehearsed and no one knows whether recordings can be retained after withdrawal. The checklist fails. The team first obtains the applicable rule, tests a non-participant recording through transfer and deletion, documents roles, then reschedules the pilot.
 
 ## Evidence to retain
 

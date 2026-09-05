@@ -24,17 +24,17 @@ last-reviewed: "2026-08-28"
 | Critical evidence: are consequential sources, data and outputs verified? | [ ] | [ ] |
 | Risk: are safety, integrity, privacy, approval and material failure modes controlled? | [ ] | [ ] |
 | Requirements: do the current formal or local rules pass? | [ ] | [ ] |
-| Inspectability: can the relevant reviewer trace the reasoning and state? | [ ] | [ ] |
+| Review: can someone else follow the reasoning and see what is complete? | [ ] | [ ] |
 | Reproducibility/recovery: can the work be rerun or understood to the degree its purpose requires? | [ ] | [ ] |
-| Boundaries: are uncertainty, limitations and non-claims explicit? | [ ] | [ ] |
+| Limits: have I explained the uncertainty, limitations and what the work cannot show? | [ ] | [ ] |
 | Ownership: is the authorised reviewer or decision-maker identified? | [ ] | [ ] |
 | Opportunity cost: would further work displace something more consequential? | [ ] | [ ] |
 
 ## Decision rule
 
-Proceed when every critical test for the named stage passes or has a documented, authorised disposition. Defer refinements that do not address a failed test, material risk or formal requirement.
+Proceed when the essential checks for this stage pass. Any exception needs a recorded decision from the person authorised to make it. Leave optional refinements until they are needed.
 
-Do not proceed merely because the deadline is near. Do not delay merely because another improvement is imaginable.
+A deadline cannot waive a required approval. Equally, a draft ready for feedback can go to your supervisor before its formatting is perfect.
 
 ## Stage-specific evidence
 
@@ -58,7 +58,7 @@ Do not proceed merely because the deadline is near. Do not delay merely because 
 
 ## Failure scenario
 
-A manuscript looks polished but the primary table cannot be regenerated and author approval is incomplete. It fails the submit stage. The correct response is not more proofreading; restore the analysis and obtain exact-version approval.
+A manuscript looks polished but the primary table cannot be regenerated and author approval is incomplete. It fails the submit stage. Restore the analysis and obtain approval for the exact version before submitting.
 
 ## Stop conditions
 

@@ -1,29 +1,21 @@
 ---
 title: "Feedback, disagreement and independence"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-06"
 ---
 
-A draft comes back covered in comments. Some are precise, some say only “be more critical,” and two supervisors appear to want different things. It is tempting either to obey every comment or to defend the draft as it stands. Neither response builds independence. Feedback is evidence about how a reader encountered the work. Your task is to work out what problem each comment points to, decide what change is justified and make disagreement visible before it turns into silent rework.
+A draft comes back covered in comments. A few are easy to act on. Others say “be more critical”, and two supervisors seem to want different things. You can spend a long time revising before working out what either meant.
+
+Start by sorting the comments into problems you understand and questions you need to ask. Then decide which changes would improve the work. You can disagree with a suggested fix while still taking the reader's difficulty seriously.
 
 ## Turn comments into decisions you can explain
 
-Independence grows through prepared judgement. Show the question, evidence and your provisional reasoning; invite challenge; decide what changes; and keep a record. Independence is not the absence of feedback. It is the ability to seek, interpret and use feedback without outsourcing the decision.
+You build independence by explaining what you think, listening to the challenge and deciding what to change. Keep a brief record of the reasons, especially when you adapt or decline a suggestion.
 
 Feedback is not automatically useful. Reviews of educational feedback show substantial variation in its effects and emphasise the information it provides about goals, present performance and next steps rather than praise alone [@hattie-timperley-2007; @wisniewski2020feedback]. These studies are not doctoral-supervision trials, so apply the principle cautiously: make the goal and requested decision visible, then convert comments into testable changes.
 
 ## Before requesting feedback
 
-Send material that another person can evaluate:
-
-1. **State:** exploratory note, partial draft, full draft or near-final.
-2. **Purpose:** what decision or claim the material supports.
-3. **Target:** the relevant standard, question or intended reader.
-4. **Request:** argument, method, structure, interpretation, evidence or presentation.
-5. **Boundary:** what is not useful to review yet.
-6. **Timing:** the actual decision date and an agreed review window.
-7. **Recommendation:** what you currently think and why.
-
-“Any feedback welcome” transfers the work of defining the review to the supervisor and often produces diffuse comments.
+Say how far along the draft is, who it's for and what you want reviewed. Perhaps the argument needs attention while the wording can wait. Include your current view, any relevant standard and an agreed review window that allows time before the decision is due.
 
 ::: {.decision-card}
 **Smallest useful next action:** Attach the [Supervisor review cover note](../../templates/supervisor-review-cover-note.qmd) to the next draft and ask one decision-focused question.
@@ -83,7 +75,7 @@ The response matrix proposes:
 - end each section with the consequence for the present study;
 - ask the supervisor whether this addresses the intended meaning of “critical”.
 
-The feedback becomes an inspectable revision, not an instruction to “try harder”.
+The supervisor can now review a specific revision and clarify anything the student has misunderstood.
 
 ## When you disagree
 
@@ -97,12 +89,12 @@ Use the least formal route that is safe and proportionate:
 
 Do not use this ladder to delay immediate safety, welfare or integrity action.
 
-## Growing independence
+## Taking more responsibility over time {#growing-independence}
 
 | Earlier practice | Developing practice | Independent practice |
 |---|---|---|
 | asks what to do | brings options | recommends a path and names its limits |
-| submits work without a review question | requests targeted feedback | designs staged review around decision gates |
+| submits work without a review question | requests targeted feedback | arranges feedback before decisions need to be made |
 | treats comments as commands | classifies and tests comments | reconciles evidence and records justified disagreement |
 | waits silently for feedback | follows up against an agreement | manages continuity and escalates proportionately |
 | depends on one supervisor for every issue | seeks suggested specialists | builds a responsible network and knows authority boundaries |
@@ -111,19 +103,13 @@ Independence is domain-specific. You may be highly independent in analysis and a
 
 ## Feedback habits that create more confusion
 
-- requesting review before identifying the decision;
-- confusing a polished draft with a reviewable argument;
-- accepting every comment without checking whether recommendations conflict;
-- rejecting feedback because the proposed fix is imperfect;
-- hiding disagreement to preserve harmony;
-- treating supervisor silence as approval;
-- waiting indefinitely without stating the consequence;
-- using independence as a reason not to disclose a serious risk;
-- asking one relationship to supply every form of expertise and support.
+A polished draft still needs a clear request for feedback. Check whether suggested changes conflict before applying them, and ask about the problem behind a fix you disagree with. Record unresolved disagreement rather than hoping it will disappear.
+
+If comments are overdue, explain which next step depends on them. Seek other expertise where needed, and raise serious risks promptly. Increasing independence includes recognising when you need support.
 
 ## Check your response before returning the draft
 
-- [ ] Every consequential comment has an explicit disposition.
+- [ ] Each important comment has a response or a question for discussion.
 - [ ] The underlying issue, not only the proposed wording, was addressed.
 - [ ] Conflicts and unresolved questions are visible.
 - [ ] Declined suggestions have evidence-based reasons.

@@ -2,26 +2,22 @@
 title: "Local rules and specialist help"
 ---
 
-Use this handbook to prepare your thinking and your next conversation. Your university or another responsible body still has to make some decisions. This page lists those cases once, so the same warning does not interrupt every chapter.
+Some questions need an answer from someone who knows your project or university. Use this page to find a starting point.
 
-## Who decides what?
+## Who to ask {#who-decides-what}
 
-| Your question | Where the answer comes from |
+| You need help with… | Start with… |
 |---|---|
-| What are my candidature deadlines, leave options, examination rules or complaint routes? | Your university's current graduate research rules and the office responsible for them. |
-| Can this study, amendment, recruitment plan or data access proceed? | The relevant ethics, governance, safety, site, community or data authority. |
-| Does this design, sample, measure or analysis suit my research question? | The relevant research literature and a supervisor, methodologist or other qualified specialist who understands the study. |
-| May I store, link, share or dispose of these data? | The data owner or custodian and the current privacy, security, consent, ethics, contractual and institutional rules. |
-| May I use this software or AI tool with research material? | The tool's current terms and the rules set by your institution, project agreements, ethics approval, funder and intended publisher. |
-| Who qualifies as an author, and may this material be published or placed in a repository? | The authorship standard, author group, contracts, copyright owner, journal, funder, partner and university rules that apply to the output. |
-| What must remain accessible when the project ends? | The institution, record owner, data custodian, funder, community or partner responsible for retention, disposal and handover. |
+| Deadlines, leave, examination or complaints procedures | Your graduate research office and current university rules. |
+| Permission to start or change a study | The office or person responsible for the relevant ethics, site, safety, community or data approval. |
+| Study design, sampling or analysis | Your supervisor or a methods specialist, with the research literature and your proposed approach. |
+| Storing, sharing or deleting research data | Your data custodian or research data service. Bring the consent terms and project agreements. |
+| Software or AI use with research material | Your research or IT service. Check the tool's terms and your project, funder and publisher requirements. |
+| Authorship or publication | Your co-authors and supervisor. Check the authorship standard, publisher requirements and any copyright or partner agreements. |
+| Records and access after the project ends | Your research office and data custodian, including any funder, partner or community commitments. |
 
-Keep a copy or note the date when the answer affects an approval, submission, right, safety measure or irreversible step. Rules and software change. A link that was correct last year may not be enough for a decision today.
+When an answer affects an approval, submission or irreversible action, keep the advice and its date with your project records.
 
-## When someone may be harmed
+## If you need confidential support {#when-someone-may-be-harmed}
 
-Use emergency services for immediate danger. For serious distress, participant harm, bullying, harassment, discrimination, suspected misconduct, a privacy or security breach, or pressure to work outside an approval, contact the relevant confidential service rather than trying to investigate or resolve the case through the handbook.
-
-Keep names, private correspondence, identifiable information and case details out of the public GitHub form. You can still suggest a general improvement without describing the people involved.
-
-Use the handbook to prepare the question and gather the records. Take both to the person who can decide.
+For concerns about wellbeing, unsafe work, harassment, misconduct or a data breach, use [Getting support](stuck/wellbeing-or-safety.qmd). It explains who to contact and what to prepare. For immediate danger, contact local emergency services.

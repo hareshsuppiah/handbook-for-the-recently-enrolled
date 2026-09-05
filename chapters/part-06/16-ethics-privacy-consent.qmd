@@ -1,13 +1,15 @@
 ---
 title: "Ethics, privacy and consent"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-06"
 ---
 
-Ethics approval is a formal decision, but ethical responsibility does not begin or end with the form. A change from audio to video, a new recruitment route or an apparently harmless data linkage can alter what participants experience and what could identify them. Map the project from the perspective of the people and communities involved. Ask what is collected, who can see it, what they were told, what could change and which authority must approve that change before it happens.
+You're planning audio interviews, but the meeting software offers video recording and automatic transcription. It looks convenient. It also collects faces, backgrounds and other information that wasn't in the approved plan.
 
-## Treat protection as a continuing design responsibility
+Small practical choices can change what participants experience and who can identify them. This chapter follows those choices from recruitment through consent, storage and later use, so you can ask for the right advice before making a change.
 
-Ethics is the continuing work of making the project respectful, justifiable and accountable—not a form completed before research begins. Formal approval authorises only the work and versions within its scope and conditions.
+## Keep the study within its approval {#treat-protection-as-a-continuing-design-responsibility}
+
+Approval covers specified activities, documents and conditions. Keep checking whether the study you're conducting still matches them, especially when recruitment, procedures or data use changes.
 
 Do not begin participant-facing activity, restricted-data access, fieldwork or another governed activity on the assumption that approval is likely. Determine which review and permissions apply and retain the written decision.
 
@@ -26,7 +28,7 @@ Trace the complete pathway:
 9. analysis, quotation, visualisation and re-identification risk; and
 10. dissemination, return of results and future use.
 
-An application can be internally consistent while this lived pathway is unsafe or unclear. Test the participant or community experience, not only the document set.
+Walk through this sequence from a participant's perspective. Check whether the instructions make sense, withdrawal is possible as described and the team can respond if something goes wrong.
 
 ## Separate the authorities
 
@@ -138,42 +140,17 @@ When triggered, pause affected work if necessary, preserve facts and versions, c
 
 ## Where formal approval stops matching the real study
 
-- treating approval as retrospective permission;
-- submitting inconsistent protocols, forms, scripts and data plans;
-- describing all low-risk or public-data work as exempt without an authorised decision;
-- confusing a signature with informed and voluntary consent;
-- promising anonymity while retaining links or identifiable narratives;
-- collecting demographic variables “just in case”;
-- assuming a vendor's security claim establishes institutional approval;
-- moving data across accounts, platforms or countries without checking authority;
-- changing recruitment or procedure without an amendment decision;
-- concealing a deviation because no obvious harm occurred.
+Keep the protocol, consent forms, scripts and data plan consistent with the procedure people will experience. Obtain an authorised decision about exemptions or amendments before relying on one, including for public-data or apparently low-risk work. Report deviations even when no obvious harm occurred.
+
+Check data movements between accounts, platforms and countries. A vendor's security description doesn't establish institutional permission. Collect fields for a stated purpose, and promise anonymity only when identities cannot reasonably be known.
 
 ## When the next activity is ethically ready
 
-Before governed activity begins:
-
-- the complete participant/community and data pathway is mapped;
-- required authorities are identified and evidenced in writing;
-- all submitted and operational documents describe the same current study;
-- consent is appropriate to the people, power relationships and uses;
-- privacy terms and promises are accurate;
-- data collection is necessary and proportionate;
-- storage, access, transfer, retention and disposal are operationally tested;
-- incidents, deviations and amendment triggers have owners; and
-- the team knows when to stop and whom to contact.
+Use the checklist below alongside your approval conditions. Test storage, access, transfer, retention and disposal in practice, and name who will handle incidents or amendment requests. The team should know whom to contact before work begins.
 
 ## Give the ethics contact the exact proposed change
 
-Bring:
-
-- a one-page participant or community pathway;
-- a data-flow map from first contact or source access to disposal or release;
-- the current protocol and document version list;
-- identified authorities and written decisions already obtained;
-- the exact change or uncertainty;
-- your risk assessment and proposed control; and
-- a precise question about review, amendment, consent, privacy, governance or safety.
+Bring the participant pathway, data-flow map and current protocol versions, along with written decisions already obtained. Describe the exact change, its risks and your proposed response, then ask which review or amendment is needed.
 
 ## Stop and check before involving people or their data
 

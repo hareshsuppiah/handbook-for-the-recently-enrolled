@@ -1,9 +1,11 @@
 ---
 title: "From proposal to research plan"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-06"
 ---
 
-A proposal's job is to show that a project could be worth doing. Once you enrol, you can test whether access and recruitment are feasible, what ethics will allow, and whether you have enough time and expertise. Some assumptions will hold. Others will not. The research plan should show what you know, what you are still guessing, what could block the work and which decision comes next.
+A proposal gets you started. Once you enrol, you can find out whether the data are available, how recruitment might work and how much time the study will take. This usually gives you a few reasons to revise it.
+
+Start with the proposal you have. We'll turn its promises and guesses into things you can check, then build a plan you can update as you learn.
 
 ## Start by testing the proposal
 
@@ -29,9 +31,7 @@ Original illustration created for *The Handbook for the Recently Enrolled* with 
 
 ## What changes after enrolment
 
-The proposal was written to demonstrate that a worthwhile project might be possible. Candidature requires you to test that proposition. Access may differ from what was assumed. Literature may change the question. Ethical or technical constraints may rule out an attractive method. Supervisors may identify a stronger contribution.
-
-Changing the plan in response to evidence is not automatically drift. Changing it without a record of the decision is.
+Reading may change the question. An ethical or technical constraint may rule out a method, or your supervisors may suggest a stronger contribution. Record each substantial change and its reason so you can explain how the project developed.
 
 ## Sort promises from guesses
 
@@ -108,7 +108,7 @@ The proposal assumes 60 specialist participants can be recruited in six months. 
 - **Options:** original sample; fewer participants with a different design; additional sites; revised question.
 - **Stop condition:** do not represent access as secured without written confirmation or begin recruitment without approval.
 
-The plan becomes more honest before it becomes more detailed.
+The team can now check recruitment before spending months designing a study that depends on it.
 
 ## How to decide
 
@@ -121,15 +121,9 @@ The plan becomes more honest before it becomes more detailed.
 
 ## How plans drift away from reality
 
-- copying proposal headings into a Gantt chart without testing assumptions;
-- treating every date as equally certain;
-- planning activities without defining their outputs;
-- assigning actions to “the team”;
-- marking a sent request as completed when the needed approval or access has not arrived;
-- storing key decisions only in meeting memory or email;
-- changing direction without recording why;
-- adding tools instead of maintaining the minimum records;
-- interpreting sunk effort as evidence that the original path remains sound.
+A timeline can look settled while access, dates and responsibilities are still guesses. Mark uncertain dates, give each action a named person and leave requests open until the answer arrives. Keep decisions somewhere you can find them after the meeting.
+
+Review the plan when evidence changes, even if you've invested time in the original version. Record the reason for changing direction. Adding another planning tool won't help unless you maintain the records you already use.
 
 ## Pressure-test the plan
 
@@ -165,15 +159,14 @@ Laboratory, fieldwork, archival, computational, qualitative, creative and partic
 - [Topic due diligence](../../templates/topic-due-diligence.qmd)
 - [I’m stuck](../../stuck/index.qmd)
 
+## When funding does not match the plan
+
+For practical prompts and a next conversation, see [the guide to life during a PhD](../../stuck/life-during-a-phd.qmd#funding).
+
 ## Evidence
 
 The provisional-plan workflow is an editorial decision aid. Its separation of candidate, supervisor, organisation and collaborator responsibilities is consistent with—but not dictated by—the UKRI doctoral-training expectations; local candidature rules govern [@ukri-expectations-2024].
 
 ## References
 
-::: {#refs}
-:::
-
-## When funding does not match the plan
-
-For practical prompts and a next conversation, see [the guide to life during a PhD](../../stuck/life-during-a-phd.qmd#funding).
+[Full reference list](../../references.qmd).

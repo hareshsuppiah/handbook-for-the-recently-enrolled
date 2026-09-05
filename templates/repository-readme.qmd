@@ -15,7 +15,7 @@ Remove prompts from the final README. Do not disclose protected project details 
 
 **Support boundary:** [What help is and is not provided?]
 
-## What is here—and what is not
+## Files and data
 
 - source text/code: [ ]
 - configuration examples: [ ]
@@ -74,7 +74,7 @@ Remove prompts from the final README. Do not disclose protected project details 
 
 ## Scenario test
 
-A new collaborator clones the repository. They can render the home page but not the full book because the README omits the required TeX engine and environment step. The README fails. Add the verified dependency and restoration instruction, start from a fresh clone again, and record the successful build rather than explaining it privately in chat.
+A new collaborator clones the repository. They can render the home page but not the full book because the README omits the required TeX engine and environment step. Add the missing setup instructions, test them from a fresh clone and record the successful build.
 
 ## Related guidance
 

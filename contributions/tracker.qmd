@@ -14,7 +14,7 @@ Search for a few words from your question first. Open a matching issue to read t
 - [All open suggestions](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/issues?q=is%3Aissue%20is%3Aopen)
 - [Approved suggestions](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/issues?q=is%3Aissue%20label%3A%22decision%3A%20approved%22)
 - [Drafting in progress](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/issues?q=is%3Aissue%20label%3A%22work%3A%20in-progress%22)
-- [Ready for Haresh's review](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/issues?q=is%3Aissue%20label%3A%22work%3A%20owner-review%22)
+- [Ready for editorial review](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/issues?q=is%3Aissue%20label%3A%22work%3A%20owner-review%22)
 - [Closed suggestions and their outcomes](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/issues?q=is%3Aissue%20is%3Aclosed)
 
 A filter can be empty. That means no matching records are visible; it does not demonstrate that automation is working.
@@ -24,10 +24,10 @@ A filter can be empty. That means no matching records are visible; it does not d
 | Status | Meaning | What to look for next |
 |---|---|---|
 | Needs triage / needs evidence | The editor is checking the request or needs information | A question or assessment in the comments |
-| Awaiting owner decision | Ready for Haresh to decide | An approval, deferral, decline or duplicate decision |
+| Awaiting owner decision | Ready for an authorised editor to decide | An approval, deferral, decline or duplicate decision |
 | Approved / agent-ready | Drafting is authorised; assignment may still be pending | A named assignee and linked pull request |
 | In progress | Someone is preparing edits | The proposed change and checks |
-| Owner review | The proposed edits are ready for Haresh | Review, revision or publication decision |
+| Owner review | The proposed edits are ready for editorial review | Review, revision or publication decision |
 | Released | The accepted change has been published | The merged pull request and live page link |
 | Closed | The issue is no longer open | Read the reason: closed can also mean declined or duplicate |
 

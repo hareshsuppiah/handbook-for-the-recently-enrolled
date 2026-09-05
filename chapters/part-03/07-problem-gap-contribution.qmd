@@ -1,13 +1,15 @@
 ---
 title: "Problem, gap and contribution"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-06"
 ---
 
-An interesting topic is not yet a research problem. “There is little research on this population” may be true, but it does not tell the reader what is misunderstood, what decision is impaired or why another study would help. Before promising a contribution, link the situation to a consequential problem, a gap in what is known or possible, and the change your work could make. If one link is vague, the project may still be promising. It simply is not ready to carry the claim yet.
+You've found a topic you care about and a population few papers mention. That gives you somewhere to start. Now comes the harder question: what would another study help us understand?
+
+Try connecting four things: your topic, the problem within it, what existing research hasn't resolved and what you could add. You don't need a grand promise. A specific contribution you can explain and investigate is much easier to build a project around.
 
 ## Start with the problem
 
-A topic names an area. A problem identifies something consequential that is not adequately understood or resolved. A gap describes the specific limitation in present knowledge, practice, method or representation that matters to that problem. A contribution states what the research may add or change.
+Your topic names the area you're interested in. The problem explains why it needs attention. The gap identifies what we still need to know or do, and the contribution describes what your research could add. The example below puts those distinctions to work.
 
 A gap is not important merely because an empty space can be found. Filling it should plausibly improve explanation, evidence, method, practice, theory, policy, creative understanding or future inquiry for a relevant audience.
 
@@ -97,7 +99,7 @@ Due diligence finds that:
 - coaches already use the measure to make workload decisions;
 - the important uncertainty is not whether the combination is new, but whether error under those movement conditions changes the practical decision.
 
-The revised problem is consequential and testable. The contribution becomes a bounded validity and decision-interpretation claim, not occupancy of an empty literature cell.
+The student now has a reason to study that combination: the movement conditions may affect whether coaches can trust the measurement. The project can test that source of error and explain what it means for workload decisions.
 
 ## How to decide
 
@@ -110,15 +112,9 @@ The revised problem is consequential and testable. The contribution becomes a bo
 
 ## Gap claims that collapse under scrutiny
 
-- treating “under-researched” as self-evidently important;
-- using the last paragraph of one paper as the project justification;
-- claiming nobody has studied something without a defensible search;
-- confusing a social problem with a researchable uncertainty;
-- promising impact that the evidence cannot deliver;
-- defining affected people only as data sources;
-- inflating novelty instead of bounding the contribution;
-- choosing a familiar method before the problem and inference are clear;
-- hiding contrary evidence because it weakens the proposal.
+A paper's call for further research is a lead to investigate. Check the surrounding literature, including contrary findings, before building your justification around it. Explain what remains uncertain and what resolving it could change.
+
+Keep promised impact within reach of the evidence. A social problem may need several responses beyond research, and affected people may help define the question as well as contribute data. Choose the method after clarifying what you want to learn.
 
 ## Stress-test the gap before you rely on it
 
@@ -131,7 +127,7 @@ The revised problem is consequential and testable. The contribution becomes a bo
 - [ ] Novelty claims are bounded and supported.
 - [ ] Discipline, cultural-governance and local expectations are identified.
 
-## Invite criticism of the weakest link
+## Ask someone to test your case {#invite-criticism-of-the-weakest-link}
 
 Bring the four-statement chain, the strongest evidence for and against it, two plausible contribution types and the audience whose judgement matters. Ask: “Which link is least defensible, and what evidence would change your view?”
 

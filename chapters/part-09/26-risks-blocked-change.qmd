@@ -3,13 +3,13 @@ title: "Risks, blocked work and changing plans"
 last-reviewed: "2026-08-31"
 ---
 
-Not every delay is the same problem. Waiting for an approval, discovering an infeasible method and facing an uncertain risk require different responses. If you label all of them “blocked,” the next action stays vague. Classify what has happened, identify the decision-maker and record the smallest consequence that matters. Some work can continue around the blockage; some requires a formal change; some must stop until authority or safety is restored.
+Data access was meant to arrive this month. It hasn't, and the next study depends on it. You can follow up, prepare analysis code or test another dataset, but you also need a date for deciding whether the original plan still fits.
 
-## Name what has happened
+Contingency planning helps you make that decision before the time runs out. Start with the few disruptions that could stop the work. For each one, decide what would prompt you to act, what alternative you could use and what would need approval.
 
-Name the state accurately, record its consequence and give it an owner, trigger and next decision. A risk needs prevention and contingency. An issue needs response. Waiting needs a follow-up threshold. Blocked work needs another route or escalation. A material change needs an impact review and the required approval before affected work proceeds.
+## Work out what needs a response {#name-what-has-happened}
 
-The aim is not to keep a perfect register. It is to make uncertainty visible early enough to protect participants, evidence, people and time.
+The terms below help distinguish something that might happen from something that has already happened. Use whichever entries help your team decide what to do; you do not need a complicated register for every ordinary delay.
 
 | State | Meaning | Immediate response |
 |---|---|---|
@@ -22,7 +22,8 @@ The aim is not to keep a perfect register. It is to make uncertainty visible ear
 
 A single situation may move through several states. “Data access may be delayed” is a risk. Once the promised decision is overdue it is an issue. Work may be waiting on the custodian without being blocked if analysis preparation can continue. It becomes blocked when no available work can produce the milestone. A decision to use another dataset is a proposed change, not an automatic fix.
 
-Do not use “blocked” to mean difficult, unpleasant or not yet scheduled. Do not use “waiting” to hide a decision that nobody has taken ownership of.
+Reserve “blocked” for work you cannot move forward through the current route. If nobody owns the next decision, assigning it is the first task.
+
 
 ## Write the risk so someone can act on it
 
@@ -46,7 +47,7 @@ Numbers and red–amber–green labels can create false precision. Use them only
 
 ## Decide the fallback before you need it
 
-A contingency is the route you will take if a named trigger occurs. Writing “find another method” does not count. By the time a trigger is reached, you may have less time, fewer options and more pressure to protect work already done.
+A contingency is the alternative you will use if a specified event occurs. Make it concrete enough to test while there is still time: check an alternative dataset, rehearse a restore or arrange cover for an absent supervisor.
 
 For each risk that could threaten a study, milestone or duty of care, record:
 
@@ -60,11 +61,11 @@ For each risk that could threaten a study, milestone or duty of care, record:
 
 Official research-funding guidance treats uncertainty as part of research planning and asks applicants to identify alternative approaches, not merely rate the original plan [@ukri-stfc-case-contingency-2022]. Broader risk guidance also supports named owners, agreed triggers, monitoring and contingency arrangements [@hm-treasury-orange-book-2026]. These sources come from particular UK systems. The useful general lesson is to decide what will prompt action, who can decide and what must remain protected; they do not set the rules for your candidature.
 
-Run a cheap test while the first route is still available. Check whether the alternative dataset contains the required variables. Rehearse a restore. Ask whether another supervisor can cover the decisions due during an absence. Fit the proposed backup analysis to simulated data and state which claim it could support. A fallback that has never been checked is another uncertainty, not yet a plan.
+Run a cheap test while the first route is still available. Check whether the alternative dataset contains the required variables. Rehearse a restore. Ask whether another supervisor can cover the decisions due during an absence. Fit the proposed backup analysis to simulated data and state which claim it could support. Record what the test established and what is still uncertain.
 
-## Keep the non-negotiables in place
+## Check what the alternative changes {#keep-the-non-negotiables-in-place}
 
-A fallback may change the route, but it cannot quietly remove the conditions that made the research acceptable. Before activation, check whether it changes:
+The alternative needs to meet the study's ethical, scientific and practical requirements. Before activation, check whether it changes:
 
 - who can be approached and how consent is obtained;
 - participant burden, welfare, safety or withdrawal arrangements;
@@ -82,15 +83,33 @@ Research-continuity guidance makes the same practical point for disrupted teams:
 
 The examples below are starting points. Replace the sample triggers with thresholds that fit the method, remaining time and governing rules.
 
-| Disruption | Useful trigger | What to prepare before the trigger | If the trigger is reached |
-|---|---|---|---|
-| Data or site access is delayed | written access, variable availability or site permission is not confirmed by the last date that preserves the analysis window | test an authorised public or already-held source; identify the narrower question it could answer | take the access evidence and tested alternative to the relevant scientific, data and candidature decision-makers |
-| Recruitment falls short | eligible approaches, enrolments or retention fall below a prespecified rate at a dated review | verify the pool and route; identify approved ways to reduce burden or add sites; define the smallest still-informative design | do not relax eligibility, consent or contact rules informally; seek method and ethics advice on amendment, redesign, bounded analysis or stopping |
-| Equipment fails or data are lost | calibration fails, downtime exceeds the buffer, or the authoritative copy cannot be restored | rehearse restore; retain calibration and maintenance records; check access to a suitable alternative instrument or service | protect remaining material, record the incident and test comparability before combining or replacing measurements |
-| A supervisor is unavailable | a planned absence overlaps a decision gate, or minimum contact and decision coverage cannot be maintained | name the alternative contact; keep decisions, methods and next actions readable by the supervisory team | activate local continuity arrangements and seek formal replacement or additional supervision when required |
-| An analysis assumption fails | a prespecified diagnostic or data condition shows the planned analysis cannot support the intended claim | identify a defensible alternative analysis or narrower claim and decide how deviations will be recorded | consult the relevant method specialist; preserve the original plan; label exploratory work and update the claim rather than searching for a favourable result |
-| Personal circumstances reduce capacity | health, disability, caring, financial or other disruption makes the current workload, safety or deadline unworkable | know the confidential support and candidature routes; keep records understandable so work can pause or be handed over safely | protect immediate wellbeing and essential duties, then seek leave, adjustment, workload or timeline decisions through the authorised route; keep personal details out of the project register |
-| The timeline is compressed | the critical path plus a realistic correction buffer no longer fits the time remaining | rank studies and outputs by contribution; identify work that can be narrowed, reordered or removed without misrepresentation | re-plan the contribution and seek any formal extension or scope decision; do not recover time by skipping consent, quality checks, data controls or honest reporting |
+### Delayed access
+
+Set the last date for confirming access that still leaves enough analysis time. Test an authorised public or already-held source in advance and identify the narrower question it could answer. If the date passes, take that comparison to the scientific, data and candidature decision-makers.
+
+### Recruitment shortfalls
+
+Review eligible approaches, enrolment and retention against a prespecified rate and date. Check the pool and recruitment route, approved ways to reduce burden or add sites, and the smallest informative design. Seek method and ethics advice before changing eligibility, consent or contact rules. Redesigning, narrowing or stopping may be appropriate.
+
+### Equipment failure or data loss
+
+Use failed calibration, downtime beyond the buffer or failed recovery as a trigger. Rehearse restores and check access to alternative equipment beforehand. Protect remaining material, record the incident and test whether replacement measurements are comparable before combining them.
+
+### Supervisor absence
+
+Arrange another contact before an absence overlaps an important decision. Keep the methods, decisions and next actions readable by the supervisory team. If adequate contact or decision support is unavailable, activate local continuity arrangements and seek additional or replacement supervision.
+
+### Failed analysis assumptions
+
+Specify which diagnostics or data conditions would make the planned analysis unsuitable. Test a defensible alternative or narrower claim in advance. Consult a method specialist if the trigger occurs, preserve the original plan and document deviations. Label exploratory work; avoid choosing analyses because they produce a favourable result.
+
+### Reduced capacity
+
+Health, disability, caring, financial or other disruption may make a workload or deadline unworkable. Know the confidential support and candidature routes, and keep enough project documentation for a pause or handover. Seek the relevant leave, adjustment or timeline decision while protecting wellbeing and essential duties. Keep personal details out of the shared risk register.
+
+### A shorter timeline
+
+Review the plan when essential tasks and a realistic correction buffer no longer fit. Rank studies and outputs by contribution, then identify what could be narrowed, reordered or removed. Seek formal extensions or scope decisions where needed. Preserve consent, data controls, necessary quality checks and honest reporting when reducing the work.
 
 Recruitment deserves an early trigger rather than a late surprise. In a systematic review of 347 randomised trials approved in four countries, 31.1% were discontinued and poor recruitment was the most common reported reason. Those figures apply to the reviewed clinical trials, not to every doctoral study, but they show why recruitment assumptions should be checked while a redesign is still possible [@speich-2025-trial-discontinuation].
 
@@ -162,72 +181,24 @@ Small reversible adjustments do not need elaborate paperwork. The record should 
 
 ## Example: access has not arrived
 
-**Baseline:** The primary study uses a partner-controlled dataset. Written access confirmation was required by 15 September so analysis could begin in October.
+A study needs written access confirmation by 15 September to begin analysis in October. The custodian has acknowledged the request, but has yet to give a date for the legal decision. The data have not arrived.
 
-**Current evidence:** The custodian acknowledged the request but legal review has no decision date. The trigger has passed. No data have been transferred.
+The team can wait until a final decision date, narrow the study to already authorised variables, test a public-data alternative, reorder linked studies or seek a formal pause or removal. Before choosing, ask for a variable list and timetable. Try the planned code with synthetic data, check what the alternative dataset can answer and map the effects on ethics, contribution and milestones.
 
-**Classification:** The possible delay was a risk; the missed confirmation is now an issue. The primary analysis is waiting and will become blocked at the latest feasible start date.
+The student prepares the options; the custodian decides access. Supervisors advise on the research, while the relevant ethics, governance and candidature bodies decide changes within their remit. If the final date passes, take the tested alternative through that process.
 
-**Options:**
+Retain the dated decision and approvals, revise the question, method and milestones, and record which dataset and analysis now form the study.
 
-1. continue waiting with a final decision date and protect the buffer;
-2. narrow the original study to variables already authorised;
-3. activate a public-data alternative answering a bounded version of the question;
-4. reorder linked studies while retaining the access route; or
-5. pause or remove the study through the formal candidature process.
+## Take the options to the next discussion
 
-**Cheap tests:** Obtain a written variable list and decision timetable; run the planned pipeline against synthetic data; assess whether the alternative dataset can support the same inference; map effects on ethics, contribution and milestones.
+Write down what happened, the evidence, the affected milestone and the date by which you need a decision. Add the options you have tested and your recommendation. Include any approvals or specialist advice needed before the change can proceed.
 
-**Recommendation:** Continue preparation only until the named decision date while testing the public-data alternative. If access remains unconfirmed, submit a documented change recommendation rather than spending the remaining buffer on repeated informal follow-up.
+Bring bad news while alternatives are still available. An unanswered request is not permission, and time already spent is not enough reason to continue. When a change is agreed, update the protocol and the affected ethics, data, code, authorship and milestone records. Keep the earlier version and record how you checked that the new route works.
 
-**Authority boundary:** The student can prepare options and tests. The custodian controls access. Supervisors can recommend a scientific route. Ethics, governance and candidature authorities decide changes within their remit.
-
-**Evidence of completion:** A dated decision, any required approval, revised question and method records, updated milestones and risk status, and a reproducible record showing which dataset and analysis route became authoritative.
-
-## How waiting turns into unmanaged drift
-
-- keeping risks in someone's memory rather than a shared recoverable record;
-- listing a risk without a trigger, owner or contingency;
-- using “high risk” without stating the consequence;
-- copying unresolved items forward at every meeting;
-- treating an unanswered request as permission;
-- calling work blocked without identifying the required outcome;
-- escalating a vague complaint instead of a decision-ready problem;
-- implementing a material change before required approval;
-- updating the protocol but not the ethics, data, code, milestone or authorship records;
-- preserving the deadline by quietly weakening the inference;
-- treating sunk effort as a reason to continue an untenable route; and
-- hiding bad news until no feasible alternative remains.
-
-## Check that the response fits the risk
-
-Risk and change control are usable when consequential uncertainties and current problems are distinguished; every live item has an owner and next decision point; waiting has a follow-up threshold; blockers identify the affected outcome and alternatives; material changes have an impact analysis and authority path; and closure is supported by evidence rather than disappearance from a list.
-
-## Take a clear account of the problem
-
-Bring:
-
-- a one-sentence classification and consequence;
-- the relevant baseline and current evidence;
-- the trigger already reached or approaching;
-- actions already taken and their results;
-- two or more feasible options, including their trade-offs;
-- your provisional recommendation;
-- approvals or specialist advice that may be required; and
-- one precise decision request with a date.
-
-## Check the consequence before changing course
-
-- [ ] The item is classified as risk, issue, waiting, blocked, incident or proposed change.
-- [ ] The affected outcome and consequence are explicit.
-- [ ] Facts, assumptions and missing evidence are separated.
-- [ ] Each response has an owner and dated trigger.
-- [ ] Waiting work has a follow-up and escalation threshold.
-- [ ] A contingency can be activated before the critical buffer is exhausted.
-- [ ] Proposed changes are checked across question, design, ethics, data, people, time and outputs.
-- [ ] Required authority is identified before affected work proceeds.
-- [ ] Accepted changes update all linked records.
-- [ ] Closure requires observable evidence.
+[]{#how-waiting-turns-into-unmanaged-drift}
+[]{#check-that-the-response-fits-the-risk}
+[]{#take-a-clear-account-of-the-problem}
+[]{#check-the-consequence-before-changing-course}
 
 ## Try these resources
 
@@ -235,9 +206,8 @@ Use the [risk and issues register](../../templates/risk-issues-register.qmd), [u
 
 ## Sources and limits
 
-The risk-state and change-impact framework is an editorial decision aid. The contingency fields draw on official research-funder, public-sector risk and university continuity guidance [@ukri-stfc-case-contingency-2022; @hm-treasury-orange-book-2026; @cornell-research-continuity]. Those sources support general planning practices; they do not set doctoral rules. The Australian Code, National Statement, data-management guide and supervision guide support the authority, participant, data and supervision boundaries used here [@australian-code-2018; @national-statement-2025; @nhmrc-data-guide; @nhmrc-supervision-guide-2019]. Other jurisdictions and local processes differ. The recruitment statistic is evidence from clinical randomised trials, not an estimate for graduate research as a whole [@speich-2025-trial-discontinuation].
+The categories and change questions in this chapter are editorial decision aids. The contingency fields draw on official research-funder, public-sector risk and university continuity guidance [@ukri-stfc-case-contingency-2022; @hm-treasury-orange-book-2026; @cornell-research-continuity]. Those sources support general planning practices; they do not set doctoral rules. The Australian Code, National Statement, data-management guide and supervision guide support the authority, participant, data and supervision boundaries used here [@australian-code-2018; @national-statement-2025; @nhmrc-data-guide; @nhmrc-supervision-guide-2019]. Other jurisdictions and local processes differ. The recruitment statistic is evidence from clinical randomised trials, not an estimate for graduate research as a whole [@speich-2025-trial-discontinuation].
 
 ## References
 
-::: {#refs}
-:::
+[Full reference list](../../references.qmd).

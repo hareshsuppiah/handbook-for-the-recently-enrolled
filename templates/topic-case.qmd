@@ -6,7 +6,7 @@ last-reviewed: "2026-08-28"
 ## Blank case
 
 **Decision requested:** [proceed, test, narrow or redesign]
-**Problem:** [consequential issue, not only topic]
+**Problem:** [What needs to be understood or solved?]
 **What is known:** [strongest evidence]
 **What remains unresolved and why it matters:** [ ]
 **Provisional question:** [ ]
@@ -16,7 +16,7 @@ last-reviewed: "2026-08-28"
 **Governance and relationships:** [ ]
 **Strongest objection:** [ ]
 **Alternative:** [ ]
-**Recommendation and next gate:** [ ]
+**Recommendation and next decision:** [ ]
 
 ## Completed example
 
@@ -30,7 +30,7 @@ last-reviewed: "2026-08-28"
 
 ## Scenario test
 
-A sceptical reviewer can see the strongest objection and the evidence gate; the case does not rely on novelty language alone.
+The reviewer can see the strongest objection and what needs to be checked before the study proceeds.
 
 ## Related guidance
 

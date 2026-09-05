@@ -1,19 +1,19 @@
 ---
 title: "Rigour, bias and methodological choices"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-06"
 ---
 
-“Make it more rigorous” sounds useful until you have to decide what to do. Different methods expose different threats, and their quality traditions do not use the same vocabulary or tests. Start by naming the inference that could be wrong and the process that could make it wrong. Then choose checks that fit the method and were planned for that purpose. Rigour is not a decoration added to the methods section. It is the visible work of finding, reducing and reporting plausible threats to the claim.
+“Make it more rigorous” leaves a lot to work out. Should you recruit differently, check the instrument, try another analysis or explain your interpretation more clearly?
+
+Begin with a result you might get wrong and a plausible reason for that error. Then choose a check that addresses it. We'll look at how to do this across methods, and how to record changes when the study doesn't go as planned.
 
 ## Name the threat before choosing the quality check
 
-Rigour means designing, conducting and reporting the work so that the intended inference can survive the most relevant credible challenges. The challenges and responses depend on the research tradition.
-
-Do not collect quality labels. Identify the claim, the threat, the design response, the evidence that the response worked, and the uncertainty that remains.
+A study's quality depends on whether its methods address the problems that could undermine its conclusions. Those problems differ across research traditions. Explain which ones matter in your study, what you've done about them and what remains uncertain.
 
 The Australian Code requires methods appropriate to the aims, conclusions justified by results and clear, accurate, secure and complete research records [@australian-code-2018]. Those principles support transparency; they do not tell every discipline which validity framework, appraisal tool or analytic standard to use.
 
-## Build a threat-to-inference register
+## List what could undermine the conclusion {#build-a-threat-to-inference-register}
 
 For each important claim, ask:
 
@@ -64,7 +64,7 @@ Classify work as:
 
 Exploratory work is not inferior by definition. The integrity failure is presenting it as though it were prespecified or allowing an attractive result to erase the path that produced it.
 
-## Record deviations without criminalising adaptation
+## Record changes to the procedure {#record-deviations-without-criminalising-adaptation}
 
 A deviation is a difference between the approved, registered, agreed or current planned procedure and what occurred. It may be:
 
@@ -97,7 +97,7 @@ Never rewrite the protocol or overwrite a file to make the deviation disappear.
 
 **Defensible response:** pause the affected analysis; preserve the original outputs; identify devices, dates and participants affected; verify the time-conversion repair on known records; assess whether the protocol and approvals permit reprocessing; run planned and corrected analyses where meaningful; record the deviation and decision; state whether conclusions change.
 
-The correction may improve the evidence. Transparency about the change is part of rigour, not an admission that adaptation is forbidden.
+Reporting the repair lets readers judge both the corrected result and the effect of the original error.
 
 ## Use robustness checks to test a claim
 
@@ -153,41 +153,17 @@ Reporting guidelines can reveal missing design details, but completing a checkli
 
 ## Rigour language that hides weak decisions
 
-- using “rigorous” as an adjective without naming a threat or response;
-- applying one discipline's checklist as a universal hierarchy;
-- treating sample size as the only quality question;
-- adding every fashionable quality term without a concrete practice;
-- performing checks only after an unfavourable result;
-- confusing agreement between coders or measures with truth;
-- claiming triangulation because several sources were used;
-- hiding deviations, exclusions or failed analyses;
-- equating a null, messy or contradictory result with study failure;
-- claiming generalisability, transferability or causality beyond the design.
+Explain the practice behind each quality term you use. Agreement between coders or measures can be useful, but it doesn't establish truth; several sources need a reasoned comparison before you claim triangulation. Sample size is only one part of the quality question.
+
+Report exclusions, deviations and failed analyses, and keep checks planned before the result distinguishable from later investigation. Null, messy or contradictory findings can still be informative. Qualify generalisability, transferability and causality according to what the design supports.
 
 ## When you have done enough
 
-A rigour plan is ready for substantive review when:
-
-- each intended claim has its major plausible threats listed;
-- every selected quality criterion is defined within an appropriate tradition;
-- planned checks have a decision purpose;
-- exploratory work will be labelled;
-- deviations and versions have a recoverable record;
-- a credible contrary result or interpretation has been considered;
-- applicable method, disciplinary and local standards are distinguished; and
-- remaining uncertainty is reflected in the planned claim boundary.
+Use the checklist below to prepare for review. You should be able to explain each check in relation to your method and say how an unfavourable result would change your conclusion.
 
 ## Ask the specialist about a named threat
 
-Bring:
-
-- the three most consequential threats;
-- the evidence-to-claim link each threatens;
-- the proposed response and what it cannot resolve;
-- one alternative analysis or interpretation;
-- the current [methodological decision record](../../templates/method-decision.qmd);
-- any [protocol-deviation record](../../templates/protocol-deviation.qmd); and
-- the method-specific standards you believe apply, with their scope.
+Bring your three main concerns, the conclusions they affect and the checks you propose. Include an alternative analysis or interpretation, applicable methodological standards and your [decision](../../templates/method-decision.qmd) and [deviation records](../../templates/protocol-deviation.qmd). Ask what remains unresolved after those checks.
 
 ## Check the planned safeguards before analysis
 

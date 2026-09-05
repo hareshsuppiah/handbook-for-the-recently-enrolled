@@ -1,9 +1,11 @@
 ---
 title: "Research integrity, governance and AI"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-06"
 ---
 
-An AI tool can save time and still be the wrong tool for the task. The input may be confidential, the output may be impossible to verify, or the relevant policy may prohibit the use entirely. Before asking which model is best, classify what you want the system to do and what information it would receive. Then check permission, data handling, verification and disclosure. Responsible use is not achieved by adding an AI statement at the end. It begins with a decision that can be defended before the tool is used.
+You want help explaining an error message, finding search terms or revising a paragraph. AI may be useful for each task, but each needs a different check. An invented example is easy to share; an interview transcript or unpublished collaborator draft needs much more care.
+
+Start with the task and the information you'd supply. Then work out whether the use is allowed, how you'll check the answer and what to record or disclose.
 
 ## Decide on the task before choosing the tool
 
@@ -40,7 +42,7 @@ Do not ask only “Can I use AI?” Record the precise task.
 
 Risk depends on the task, inputs, output, consequence, tool configuration and governing rules—not on the product name alone.
 
-## Apply the stop-first screen
+## Check before sharing research material {#apply-the-stop-first-screen}
 
 Do not enter material into a tool until all of these are resolved:
 
@@ -154,45 +156,19 @@ Follow the exact journal, thesis, funder or institutional rule. Disclosure does 
 
 ## AI shortcuts that create hidden research risk
 
-- assuming an institutional licence authorises every data type and research use;
-- pasting unpublished, participant, reviewer or collaborator material into a public tool;
-- trusting citations because they have plausible metadata;
-- accepting code because it runs once;
-- using AI output to make a decision the researcher cannot explain;
-- treating a generic disclosure sentence as evidence of responsible practice;
-- recording sensitive prompts in an open repository;
-- assuming output ownership, copyright or confidentiality terms are stable;
-- using AI-detection scores as proof of misconduct;
-- allowing automated action to send, publish, delete or alter records without explicit authority and review.
+An institutional licence can still leave a particular data type or task outside its permitted use. Check current ownership, copyright and confidentiality terms, and keep sensitive prompts out of public records.
+
+Verify plausible-looking citations and code independently. You need to understand decisions made from the output and disclose material use accurately. Automated sending, publishing, deletion or record changes need explicit authority and review. AI-detection scores cannot establish misconduct.
 
 ## When an AI-assisted task is safe to begin
 
-Proceed only when:
-
-- the exact task and consequence are defined;
-- the use is permitted by all applicable authorities;
-- input handling and sensitivity are understood;
-- minimum necessary information will be used;
-- a competent person retains judgement and accountability;
-- verification is matched to the output and consequence;
-- disclosure and retention requirements are known; and
-- the decision, evidence and review date are recorded.
-
-If any critical condition is unknown, choose a lower-risk route or pause.
+Use the checklist below before proceeding. If you can't establish permission, understand how the tool handles the inputs or verify the result, use a lower-risk approach or pause the task.
 
 ## Describe the task, data and proposed safeguard
 
-Bring:
+Describe the task, input sensitivity and tool environment. Bring the policy or agreement, a way to use less input, and your verification and disclosure plan. Ask about the specific permission or handling question you can't resolve.
 
-- the exact task rather than a product-level question;
-- the proposed input categories and sensitivity classification;
-- the tool and account/environment information;
-- the applicable policy or agreement text;
-- the minimum-input alternative;
-- the verification and disclosure plan; and
-- one precise authority or risk question.
-
-## Run the stop-first screen before uploading anything
+## Before using the tool {#run-the-stop-first-screen-before-uploading-anything}
 
 - [ ] The tool role and consequence are classified.
 - [ ] Current institution, funder, publisher, ethics and contractual rules are checked.

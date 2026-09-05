@@ -3,24 +3,22 @@ title: "I’m stuck"
 last-reviewed: "2026-08-28"
 ---
 
-Use this five-minute triage to identify what is blocking the work and where the decision belongs. It says nothing about your ability.
+If you've spent the morning looking at the same paragraph, error message or unanswered email, start here. Choose the description closest to your problem, or try the short exercise below.
 
-## First: is this urgent or unsafe?
+## Urgent concerns {#first-is-this-urgent-or-unsafe}
 
-Use appropriate local help now for imminent danger, serious distress, participant harm, bullying or harassment, discrimination, suspected misconduct, privacy or data breach, legal threat, or pressure to act outside an approval. Do not wait to complete this diagnostic. The handbook cannot provide emergency response, investigate a case or guarantee confidentiality.
+For immediate danger, contact local emergency services. For wellbeing, safety, conduct or privacy concerns, go straight to [Getting support](wellbeing-or-safety.qmd).
 
 ## Five-minute diagnostic
 
-1. Write the observable outcome you are trying to produce.
-2. Name the smallest decision preventing movement.
-3. Separate what is known, assumed and missing.
-4. Classify the blockage: clarity, evidence, skill, access, permission, capacity, relationship, technical state or risk.
-5. Name who can act or decide.
-6. Choose one safe action that resolves the blockage or produces decisive evidence.
-7. Set the date at which you will change route or escalate.
+1. Write what you're trying to finish, such as a recruitment email or a results table.
+2. Name what's holding it up. Do you need an answer, a skill, access, permission or help from someone?
+3. Write what you know and what you still need to find out.
+4. Choose one action you can take, or one specific question for the person who can help.
+5. Set a date to review the result and try another route if needed.
 
 ::: {.decision-card}
-If the next action still reads “work on thesis”, make it smaller: verb + object + location/context + evidence of done.
+“Work on thesis” is hard to start. “Compare the two sampling options and send my recommendation to my supervisor” tells you what to do.
 :::
 
 ## Choose your pathway
@@ -39,11 +37,11 @@ If the next action still reads “work on thesis”, make it smaller: verb + obj
 
 ## What to take when asking for help
 
-Bring the outcome, blocked decision, evidence checked, constraints, options, provisional recommendation, deadline/risk and one precise request. Use the [escalation message builder](../templates/escalation-message.qmd) if an agreed route has failed or direct resolution is inappropriate.
+Explain what you're trying to do, what you've tried and what answer would help. Mention any deadline or risk. If the usual route hasn't worked, the [message template](../templates/escalation-message.qmd) can help you ask for further support.
 
 ## You are moving again when
 
-The next action has begun or the authorised decision has been made; its result is recorded; downstream work is updated; and a review threshold exists. A message sent or meeting booked is progress, but not necessarily resolution.
+You have an answer you can use or a specific task underway. Record the result and update any work that depends on it. If you're still waiting, keep the follow-up date in view.
 
 ## When the doctorate is difficult to live with
 

@@ -3,13 +3,15 @@ title: "Collaboration, handoffs and scope"
 last-reviewed: "2026-08-28"
 ---
 
-A collaborator sends a dataset, figure or analysis and everyone assumes someone else knows how it was produced. The work may be technically sound and still unusable because ownership, inputs, acceptance criteria and decision rights were never agreed. Good collaboration makes the interfaces visible. Define what will be handed over, in which form, who can approve it and what happens when the shared work changes. This protects the research argument as well as the relationship.
+A collaborator sends you an analysis script and its final table. You can open both, but you cannot recreate the result. The data version is missing, and the person who wrote the script is about to leave.
 
-## Make ownership and handoffs explicit
+You can prevent much of this trouble by agreeing what a handover includes before work starts. Name the output, the person responsible, the files and explanation the recipient needs, and a check they can run. The same conversation helps you decide where one study ends and the next begins.
 
-Design collaboration around interfaces, not goodwill alone. Each shared unit of work needs an outcome, inputs, owner, decision rights, constraints, expected output, acceptance test and recoverable record. A handoff is complete when the recipient can verify and use the output—not when a file or message is sent.
+## Agree what each person is doing {#make-ownership-and-handoffs-explicit}
 
-For a multi-study thesis, give each study a distinct inferential job and maintain the links among question, evidence, method and contribution. Shared infrastructure can support several studies, but it does not by itself make them coherent.
+For shared work, agree the outcome, inputs, responsibilities, limits and review date. Include instructions and enough history for the recipient to use and check the result.
+
+If the thesis contains several studies, explain how their questions and findings connect. Sharing a dataset or instrument can make the work easier, but each study still needs a reason to be there.
 
 ## Begin with the whole-project argument
 
@@ -37,14 +39,14 @@ Distinguish four relationships:
 
 Hard dependencies concentrate delay. Shared dependencies create single points of failure. Where possible, build an alternative path, test the critical interface early and avoid scheduling every study as a strict sequence.
 
-Example: a measurement study may be a hard dependency for a later trial if the trial cannot use any other valid measure. If an established instrument could support a narrower question, that is a fallback—not an identical substitute. Record the inferential trade-off.
+Example: a measurement study may be a hard dependency for a later trial if the trial cannot use any other valid measure. If an established instrument could support a narrower question, that gives you an alternative, although it changes what the study can establish. Record the inferential trade-off.
 
 ## Define ownership and decision rights
 
 “We are all working on the analysis” is not ownership. For each deliverable, name:
 
 - the **accountable owner** who ensures the outcome is reached;
-- contributors responsible for bounded components;
+- contributors responsible for specified parts;
 - reviewers whose expertise is required;
 - the person or body authorised to accept or approve it;
 - people who must be consulted before a decision; and
@@ -56,7 +58,7 @@ Authority should be attached to the decision, not assumed from seniority. Record
 
 ## Write down what each person will hand over
 
-An interface contract can be a short table, ticket or cover note. It should state:
+You can record the agreement in a short table or cover note:
 
 | Element | Prompt |
 |---|---|
@@ -88,14 +90,14 @@ A useful handoff includes:
 10. **acceptance:** the receiving person's test, result and unresolved exceptions.
 
 ::: {.decision-card}
-**Smallest useful next action:** Ask the intended recipient to recover one input, reproduce one consequential output and explain one decision using only the handoff package. Repair what fails.
+**Smallest useful next action:** Ask the intended recipient to recover one input, reproduce one key output and explain one decision using only the handoff package. Repair what fails.
 :::
 
-Sending is not acceptance. A ZIP file without execution instructions leaves the recipient stranded. So does a meeting whose decisions remain only in participants' memories.
+Give the recipient time to check the files and instructions. Record the decisions made in a handover meeting so they can refer back to them.
 
 ## Maintain project memory while work is active
 
-Project memory is the minimum recoverable explanation of how the current state came to exist. Maintain:
+Keep enough project history for a new colleague to understand the current work:
 
 - a current README or project map;
 - decision and change records;
@@ -123,31 +125,17 @@ Does the task serve the study's accepted question, design or required governance
 
 Was the work included in the agreed outcome, role and resource commitment? A partner request may be valuable but still require a separate decision, timeline or agreement.
 
-When new work appears, classify it as required, replacing existing scope, optional if capacity remains, deferred, separately resourced or declined. “Yes” without naming what moves is not a plan.
+When new work appears, classify it as required, replacing existing scope, optional if capacity remains, deferred, separately resourced or declined. If you accept extra work, agree which existing work or deadline will change.
 
 ## Example: a shared analysis changes hands
 
-**Situation:** A collaborator who developed the primary analysis is leaving. They have sent a script and one output table. The student can open the files but cannot recreate the table from the approved data extract.
+A collaborator is leaving and sends a script and output table. The student can open them but cannot recreate the table from the approved extract. They need the input version, package versions, execution order, variable definitions and analysis decisions.
 
-**Diagnosis:** This is not a completed handoff. Inputs, environment, execution order, package versions, variable derivations and decision history are missing. The collaborator is a single point of failure, and the primary result is not yet independently recoverable.
+Before the collaborator leaves, assemble the input location and checksum, dictionary, ordered scripts, environment instructions and expected test output. Include exclusions, deviations, failed approaches and access restrictions in the README or linked records.
 
-**Recovery package:**
+The student then runs the instructions in an approved clean environment, checks the key estimate against its stated tolerance and traces the variables to their sources. Record and resolve differences. Update the contribution record and transfer or remove access through the appropriate process.
 
-- authoritative input location and checksum;
-- data dictionary and derivation rules;
-- ordered scripts or pipeline entry point;
-- environment lockfile and setup instructions;
-- expected test output;
-- model decisions, exclusions and deviations;
-- known failed approaches;
-- access and confidentiality constraints; and
-- named recipient and acceptance date.
-
-**Acceptance test:** From an approved clean environment, the student runs the documented workflow, reproduces the key estimate within the stated tolerance and traces every reported variable to its source. Differences are recorded and resolved rather than manually overwritten.
-
-**Scope decision:** Further exploratory analyses suggested by the departing collaborator are logged as optional. They do not enter the thesis plan unless their inferential purpose, cost and displacement are accepted.
-
-**Evidence of completion:** Successful clean run, reviewed README, resolved exceptions, updated contribution record and removal or managed transfer of access according to the authorised process.
+Log any extra exploratory analyses as optional. Add them to the thesis plan only after agreeing their purpose, cost and effect on existing work.
 
 ## When collaboration becomes unsafe or unfair
 
@@ -155,49 +143,16 @@ Seek independent advice when there is coercion, retaliation, discriminatory cond
 
 Preserve factual records in an authorised secure location. Do not put sensitive allegations into a broadly shared project register. Ordinary project tools cannot replace institutional support, research-integrity, safety, complaints or emergency processes.
 
-## Where collaborative work falls between roles
+## Check the handover together
 
-- treating a list of studies as a coherent research programme;
-- making every study depend on one uncertain approval or person;
-- assigning tasks without decision rights or acceptance criteria;
-- assuming seniority establishes ownership;
-- sending files without versions, provenance, explanation or verification;
-- relying on a collaborator's private drive or undocumented software environment;
-- accepting screenshots or final tables without recoverable analysis;
-- allowing informal requests to expand thesis scope;
-- confusing promised contributions with completed contributions;
-- keeping disagreement out of the record until it becomes a dispute;
-- duplicating project state across unlabelled “final” files; and
-- making a departing person responsible for approving their own handoff.
+Ask the recipient to run the agreed check and note anything they cannot find or explain. Compare the delivered work with the original request, including any extra work proposed along the way. Distinguish completed contributions from promises when updating the contribution record.
 
-## When a handoff can be accepted with confidence
+For a supervision discussion, bring the study relationships, shared dependencies and missing records. Show the proposed inputs, outputs, reviewers and limits. Resolve the ownership or resource question before handing the work to someone else.
 
-A collaboration is workable when each consequential deliverable has an owner, authority path, interface and acceptance test; project memory can be recovered without one person's private knowledge; shared dependencies and fallbacks are visible; studies have distinct roles in the overall argument; and new work cannot enter unnoticed.
-
-## Write down the limits and what “done” means
-
-Bring:
-
-- the overall question and each study's role;
-- the dependency and single-point-of-failure map;
-- the proposed owner and decision rights;
-- exact inputs, outputs, constraints and acceptance test;
-- current project-memory gaps;
-- the scope impact of the request; and
-- one precise decision, handoff or resource request.
-
-## Verify the interface before transferring the work
-
-- [ ] Each study has a distinct role in the whole-project argument.
-- [ ] Hard, soft, shared and conceptual dependencies are visible.
-- [ ] Consequential deliverables have accountable owners and authorised acceptors.
-- [ ] Inputs, outputs, constraints and change routes are explicit.
-- [ ] Handoffs include provenance, operation, verification and known limitations.
-- [ ] The recipient has tested recovery or reproduction.
-- [ ] Project memory does not depend on one person's private knowledge or storage.
-- [ ] Candidature, study and collaboration scope boundaries are applied.
-- [ ] New work is accepted with displacement and resource consequences visible.
-- [ ] Sensitive disputes use an authorised independent route.
+[]{#where-collaborative-work-falls-between-roles}
+[]{#when-a-handoff-can-be-accepted-with-confidence}
+[]{#write-down-the-limits-and-what-done-means}
+[]{#verify-the-interface-before-transferring-the-work}
 
 ## Try these resources
 
@@ -205,9 +160,8 @@ Use the [repository README template](../../templates/repository-readme.qmd), [da
 
 ## Sources and limits
 
-The interface-contract and handoff structure is editorial synthesis. Its contribution, accountability, research-record and reproducibility boundaries draw on the Australian Code, CRediT and reproducibility guidance without treating any one as a universal project-management standard [@australian-code-2018; @credit-taxonomy; @nasem-reproducibility-2019].
+The agreements and handover checks are editorial suggestions. Its contribution, accountability, research-record and reproducibility boundaries draw on the Australian Code, CRediT and reproducibility guidance without treating any one as a universal project-management standard [@australian-code-2018; @credit-taxonomy; @nasem-reproducibility-2019].
 
 ## References
 
-::: {#refs}
-:::
+[Full reference list](../../references.qmd).

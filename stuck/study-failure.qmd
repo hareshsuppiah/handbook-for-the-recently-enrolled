@@ -5,20 +5,20 @@ last-reviewed: "2026-08-28"
 
 ## Work out what failed
 
-Freeze the record, then identify the failure precisely. It may concern access, recruitment, implementation, measurement, analysis, governance, prediction or planned precision.
+Keep the original records before trying a fix. Then describe what happened: perhaps access fell through, recruitment stalled, a measure failed or the estimate was too imprecise. A result that contradicts your prediction needs a different response from a broken procedure.
 
 ## Try this now
 
 1. Preserve protocol, approvals, data, code, deviations and trigger evidence.
-2. Trace the affected inference chain.
-3. Separate observation from explanation.
-4. State which claims remain defensible.
-5. Compare repair, narrow, redesign, report and stop.
-6. Obtain the required amendment or authority before changing the work.
+2. Check how the problem affects the data, analysis and conclusions.
+3. Separate what you observed from your explanation of it.
+4. Write what the remaining evidence can still support.
+5. Compare repairing the study, narrowing it, redesigning it, reporting what happened or stopping.
+6. Obtain any required amendment or approval before changing the work.
 
 ## What to take when asking
 
-Bring the expected-versus-observed account, failure evidence, remaining value, options, burden, approval effects and recommendation.
+Compare the expected outcome with the result and bring the surviving evidence. Explain your preferred response, the alternatives and their costs, including effects on participants or approvals.
 
 ## Stop or escalate
 
@@ -26,7 +26,7 @@ Use urgent processes for participant harm, breach or unsafe work. Do not redefin
 
 ## You are moving again when
 
-A dated authorised decision preserves the original record and updates question, method, approvals, analysis, contribution and closure obligations.
+The responsible people have agreed what to do. Keep that dated decision with the original record and update the question, method, approvals, analysis, expected contribution and any closure tasks it affects.
 
 Use [When studies fail](../chapters/part-11/31-failed-studies.qmd) and the [pivot aid](../checklists/pivot-continue-stop.qmd).
 

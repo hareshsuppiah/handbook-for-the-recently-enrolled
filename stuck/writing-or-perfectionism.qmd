@@ -5,28 +5,27 @@ last-reviewed: "2026-08-28"
 
 ## Find where the writing stalls
 
-Is the blockage question, argument, evidence, structure, feedback, sentence production or an undefined standard?
+Try explaining the paragraph aloud. If you know what you want to say but can't get it onto the page, start with rough sentences. If you can't explain the point yet, check the question, evidence or argument first.
 
 ## Try this now
 
-1. Name the reader's question.
-2. Write the bounded claim, evidence, warrant and boundary.
-3. Create paragraph-function headings before prose.
-4. Label gaps rather than inventing content.
-5. Choose the review stage and acceptance tests.
-6. Freeze optional refinements after the gate.
+1. Write the reader's question and your answer in plain words.
+2. Add the evidence, explain why it supports the answer and state its limits.
+3. Give each planned paragraph a temporary heading describing its job.
+4. Mark missing evidence or unresolved points so you can return to them.
+5. Agree what this draft needs to show before review. Once it meets that standard, send it rather than reopening optional refinements.
 
 ## What to take when asking
 
-Bring the draft state, argument map, known gaps, checks completed and one to three review questions.
+Send the draft with its argument map, known gaps and one to three questions you'd like the reviewer to answer.
 
 ## Stop or change route
 
-Stop copy editing when the argument is unstable. Stop reopening design when submission checks pass and no material defect is recorded.
+Polishing sentences won't settle an unresolved argument. Work on the argument first. When submission checks pass, reopen the design only if you've found a substantive problem.
 
 ## You are moving again when
 
-A bounded section or review package exists, passes the stage rubric and has a clear next reviewer or gate.
+You have a section ready for its intended review and know who will read it next.
 
 Use the [argument map](../templates/synthesis-argument-map.qmd), [review cover note](../templates/supervisor-review-cover-note.qmd) and [good-enough rubric](../checklists/good-enough-rubric.qmd).
 

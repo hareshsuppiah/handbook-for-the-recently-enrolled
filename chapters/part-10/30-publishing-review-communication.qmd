@@ -3,13 +3,15 @@ title: "Publishing and peer review"
 last-reviewed: "2026-08-28"
 ---
 
-A journal’s name, ranking or invitation can feel like a shortcut to the publication decision. It is not. Choose an outlet by the audience, scope, article type, editorial practice, cost and credibility that matter for this paper, then verify those details at the source. Once reviews arrive, treat each comment as a decision to accept, adapt, explain or challenge. The response should show what changed and why; it should never promise an analysis that the design cannot support.
+You have a paper ready to share. Choosing a journal means finding readers who will care about the work, then checking whether the journal's scope, review process, fees and publishing terms suit it.
 
-## Choose a journal that fits
+Start with a short list and a few recent articles like yours. Once you submit, keep the complete package and the receipt. If reviewer comments arrive, take them one at a time: identify the concern, decide what would answer it and show the editor what you changed.
 
-Choose an outlet by fit among contribution, readers, article type, editorial practice, reporting duties, access, rights, cost, timing and risk. Verify claims on official pages and preserve the decision. Before submission, reconcile the manuscript, approvals, contribution record, reporting checklist, data/code statements and author agreement.
+## Match the paper to its readers {#choose-a-journal-that-fits}
 
-Treat peer review as a new evidence-and-decision cycle. Respond to the underlying concern, show the exact change or reasoned disagreement and ensure that every response remains consistent with the study record.
+A journal's ranking or invitation gives you little information about whether it will suit this paper. Compare the audience, article type, rights, costs and likely timing. Verify current policies on the journal's own pages.
+
+Before submitting, check the manuscript against the research record and make sure every author approves the same version. The sections below take you through the choice, submission and response to review.
 
 ## Decide what publication is for
 
@@ -96,7 +98,7 @@ Run the manuscript readiness checkpoint, then verify:
 8. files open and render correctly; and
 9. every author approves the final package.
 
-Retain the submitted package, confirmation and manuscript identifier. A prepared upload is not a submission; a submission is not editorial acceptance.
+Retain the submitted package, confirmation and manuscript identifier. Record preparation, submission and acceptance separately so the team knows the current status.
 
 ## Turn reviewer comments into decisions
 
@@ -110,7 +112,7 @@ For each comment:
 6. explain the reasoning and evidence; and
 7. verify consistency across abstract, methods, results, discussion and supplement.
 
-Write for the editor and future reader, not to win an argument with the reviewer. Be specific, calm and complete. A polite response is not enough if the analysis is wrong; an extensive new analysis is not justified merely because it was requested.
+Help the editor and future reader understand the reasoning. Be specific, calm and complete. A polite response is not enough if the analysis is wrong; an extensive new analysis is not justified merely because it was requested.
 
 ## When a reviewer asks for the wrong analysis
 
@@ -134,12 +136,12 @@ Then decide among revise and resubmit, appeal when a material factual or process
 
 ## Communicate beyond the paper
 
-Start again from the audience and decision. A practitioner summary, policy brief, community report, presentation, dataset note or public post is not merely a shorter abstract.
+Start again from the audience and decision. A practitioner summary, policy brief or community report may need different context and explanation from the abstract.
 
 For each output specify:
 
 - who needs it and what they may decide;
-- the one bounded message;
+- the main message and its limits;
 - essential context and uncertainty;
 - what action is and is not justified;
 - accessibility, language and format needs;
@@ -151,51 +153,22 @@ Avoid causal or universal language that the study cannot support. Report null, a
 
 ## Example: choosing between two outlets
 
-**Paper:** A validated workflow for monitoring athlete-reported recovery, intended for applied researchers and practitioners.
+A paper presents a validated workflow for athlete-reported recovery. The team wants to reach applied researchers and practitioners.
 
-**Outlet A:** strong methods readership, transparent policies, no mandatory fee, permits repository deposit, average published timeline compatible with thesis. Recent articles use the relevant reporting standard.
+Outlet A has comparable methods papers, transparent policies, no mandatory fee, permitted repository deposit and a publication timetable compatible with the thesis. Outlet B has a stronger headline metric and sent a flattering invitation, but its review process is unclear. Board affiliations cannot be verified, its fee appeared only during submission and the repository policy is missing.
 
-**Outlet B:** broader headline metric and a flattering invitation, but unclear peer review, unverifiable board affiliations, fee disclosed only during submission and no clear repository policy.
+The team chooses A and saves the policy links with the date checked. If A rejects the paper, they will consider the manuscript concerns, revise valid issues, update the comparison and obtain author approval before submitting elsewhere.
 
-**Decision:** Choose A. The reason is not that every lower-profile outlet is safer; it is that A has verified audience fit, transparent process, feasible rights and cost, and suitable article precedent. Record URLs and the date checked because policies can change.
+## Discuss the shortlist with your co-authors
 
-**If rejected:** Separate fit from manuscript concerns, revise valid issues, update the due-diligence comparison and obtain author approval before the next submission.
+Bring at least two realistic outlets, comparable articles, verified fees and rights, and any timing constraint. Agree a preferred outlet and an alternative, then use the manuscript-submission checklist for the complete package.
 
-## Publishing shortcuts that create avoidable trouble
+After review, give each substantive comment a response and an exact location for the change. Recheck the affected claims, figures and supplementary files. Publication also leaves continuing duties: preserve the record, correct errors when needed and keep public communication within what the evidence supports.
 
-- choosing by metric or supervisor habit without checking the paper's readers;
-- treating an invitation as evidence of legitimacy;
-- relying on search-result snippets or third-party summaries for current policy;
-- checking fees only after acceptance;
-- using a reporting checklist as a design-quality certificate;
-- deciding authorship at the upload screen;
-- uploading a version not approved by all authors;
-- replying “done” without identifying the change;
-- adding analyses that do not address the review concern;
-- resubmitting an unchanged rejected manuscript;
-- translating findings into recommendations stronger than the evidence; and
-- treating publication as the end of correction, archiving or communication duties.
-
-## When the submission or response is ready
-
-A submission decision is ready when audience and contribution fit are evidenced; policies, rights, cost and integrity signals are checked on current official pages; reporting and authorship requirements are reconciled; the package passes independent verification; and the team has a documented fallback.
-
-## Take a reasoned shortlist to supervision
-
-Bring the completed outlet comparison, recent comparable articles, exact costs and rights, reporting requirements, current author/contribution record, remaining manuscript gaps, timing dependency, preferred outlet and fallback, and one precise approval request.
-
-## Verify the outlet and author group before submission
-
-- [ ] The intended reader and publication purpose are explicit.
-- [ ] At least two realistic outlets have been compared.
-- [ ] Scope, review, fees, rights, timing and integrity claims are verified.
-- [ ] The current reporting guideline and outlet instructions are reconciled.
-- [ ] Authorship and exact-version approval are complete.
-- [ ] All claims, figures and statements trace to the research record.
-- [ ] The submitted package and receipt will be retained.
-- [ ] Reviewer concerns receive reasoned, location-specific responses.
-- [ ] Rejection triggers diagnosis before resubmission.
-- [ ] Non-academic communication preserves evidence boundaries and privacy.
+[]{#publishing-shortcuts-that-create-avoidable-trouble}
+[]{#when-the-submission-or-response-is-ready}
+[]{#take-a-reasoned-shortlist-to-supervision}
+[]{#verify-the-outlet-and-author-group-before-submission}
 
 ## Try these resources
 
@@ -203,5 +176,4 @@ Use the [journal due-diligence template](../../templates/journal-due-diligence.q
 
 ## References
 
-::: {#refs}
-:::
+[Full reference list](../../references.qmd).

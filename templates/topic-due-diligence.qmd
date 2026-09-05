@@ -1,9 +1,9 @@
 ---
-title: "Topic due-diligence canvas"
+title: "Check a proposed topic"
 last-reviewed: "2026-08-28"
 ---
 
-## Blank canvas
+## Blank template
 
 **Problem and consequence:** [ ]
 **Possible contribution and audience:** [ ]
@@ -31,7 +31,7 @@ last-reviewed: "2026-08-28"
 
 ## Scenario test
 
-Informal partner support is recorded as an assumption, not access. The canvas prevents the project being called feasible until an authorised route exists.
+Record informal partner support as unconfirmed. Before calling the study feasible, check who can authorise access and whether the data can be supplied in time.
 
 ## Related guidance
 

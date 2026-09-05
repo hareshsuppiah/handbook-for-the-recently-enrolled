@@ -5,19 +5,18 @@ last-reviewed: "2026-08-28"
 
 ## Find the missing expectation
 
-Write the next expected outcome and who expects it. Separate formal requirements, supervisor preferences, disciplinary conventions and your assumptions.
+If an instruction such as “develop the proposal” leaves you unsure where to start, ask what the next version needs to show. University requirements, a supervisor's preferences and your own assumptions can easily get mixed together.
 
 ## Try this now
 
 1. Check the current candidature milestone or written task.
-2. Find one accepted example and identify what it demonstrates—not what to copy.
-3. List the decisions, evidence and acceptance criteria you can infer.
-4. Ask the responsible person to confirm the missing criterion.
-5. Record the agreed outcome, owner, date and evidence of done.
+2. Look at an accepted example to see the level of detail expected.
+3. Note what you think your version needs to show and ask the reviewer to confirm anything unclear.
+4. Record what you'll produce, by when, who will review it and how you'll know it's ready.
 
 ## What to take when asking
 
-Bring: “I understand the outcome to be [state]. I found [requirement/example]. I am uncertain about [one decision]. My proposed next deliverable is [artefact] by [date]. Is that the right standard?”
+Try: “I think this version needs to show [outcome]. I've checked [requirement/example], but I'm unsure about [point]. I propose sending [draft or other work] by [date]. Would that give you what you need to review?”
 
 ## Route
 
@@ -31,6 +30,6 @@ Escalate repeated non-response, irreconcilable instructions, unsafe expectations
 
 ## You are moving again when
 
-The next deliverable, acceptance test, reviewer and date are written and accepted.
+You and the reviewer agree on the next piece of work, the standard it needs to meet and the date.
 
 [Return to I’m stuck](index.qmd)

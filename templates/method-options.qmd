@@ -5,13 +5,13 @@ last-reviewed: "2026-08-28"
 
 Compare serious design options before commitment. Obtain method-specific, governance and community advice where consequences are material.
 
-## Decision frame
+## What the study needs to answer
 
 **Research question:** [ ]
 **Intended inference or claim:** [ ]
 **Target population, context, cases or corpus:** [ ]
-**Must-control risks:** [ ]
-**Verified binding constraints:** [ ]
+**Risks we must address:** [ ]
+**Confirmed limits on the study:** [ ]
 
 ## Comparison table
 
@@ -28,7 +28,7 @@ Compare serious design options before commitment. Obtain method-specific, govern
 | Analysis and skills required | [ ] | [ ] | [ ] |
 | Ethics, governance or cultural authority | [ ] | [ ] | [ ] |
 | Time, cost and dependency | [ ] | [ ] | [ ] |
-| Cheapest decisive test | [ ] | [ ] | [ ] |
+| Smallest useful feasibility test | [ ] | [ ] | [ ] |
 | Failure or stop condition | [ ] | [ ] | [ ] |
 
 **Provisional choice:** [ ]

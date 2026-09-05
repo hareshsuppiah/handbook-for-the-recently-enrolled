@@ -10,6 +10,10 @@ document.addEventListener("DOMContentLoaded", () => {
   const tablet = window.matchMedia("(min-width: 768px) and (max-width: 991.98px)");
   const sidebar = document.querySelector("#quarto-sidebar");
   const logo = sidebar?.querySelector(".sidebar-logo");
+  if (logo) {
+    logo.alt = "The Handbook for the Recently Enrolled: illustrated brown cover";
+    logo.closest("a")?.setAttribute("aria-label", "The handbook home page");
+  }
 
   const restorePersistentSidebars = () => {
     if (mobile.matches) return;

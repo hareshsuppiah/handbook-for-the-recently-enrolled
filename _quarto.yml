@@ -5,9 +5,6 @@ project:
 book:
   title: "The Handbook for the Recently Enrolled"
   subtitle: "An Operating Manual for Graduate Researchers"
-  author:
-    - name: "Haresh Suppiah"
-      roles: ["Project lead", "Founding editor"]
   date: last-modified
   favicon: assets/favicon.svg
   site-url: https://hareshsuppiah.github.io/handbook-for-the-recently-enrolled/
@@ -18,7 +15,7 @@ book:
     limit: 20
   sidebar:
     style: docked
-    logo: assets/cover-final.png
+    logo: assets/cover-2026-09.png
     collapse-level: 1
   chapters:
     - index.qmd
@@ -154,11 +151,11 @@ book:
         - stuck/writing-or-perfectionism.qmd
         - stuck/relationship-or-authorship.qmd
         - stuck/good-enough.qmd
+        - support.qmd
         - stuck/wellbeing-or-safety.qmd
         - stuck/life-during-a-phd.qmd
     - part: "Contributing to the handbook"
       chapters:
-        - support.qmd
         - contributions/index.qmd
         - contributions/how-to-help.qmd
         - contributions/tracker.qmd

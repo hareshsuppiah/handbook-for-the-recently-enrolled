@@ -3,7 +3,7 @@ title: "Risk and issues register"
 last-reviewed: "2026-08-31"
 ---
 
-Use this register for decision-relevant uncertainty and current problems, not as a warehouse for every worry. Read [Risks, blocked work and change](../chapters/part-09/26-risks-blocked-change.qmd) before first use.
+Use this register for risks and problems that could change what you do next. Read [Risks, blocked work and change](../chapters/part-09/26-risks-blocked-change.qmd) before first use.
 
 ## Classification key
 
@@ -21,7 +21,7 @@ Use this register for decision-relevant uncertainty and current problems, not as
 
 If likelihood or consequence ratings are required locally, define the scale beside the register. Do not present guessed numbers as measured probability.
 
-## Contingency card for a consequential risk
+## Plan a fallback
 
 Complete one card for any risk that could make a study infeasible, threaten an important deadline or interrupt a duty of care. Attach it to the matching register ID.
 
@@ -75,7 +75,7 @@ At each agreed review:
 
 ## Scenario test
 
-The access trigger passes without confirmation. The correct response is not to copy the row into next week's register unchanged. Reclassify it as an issue, execute the named follow-up, test the alternative and take a decision by the recorded threshold.
+The access trigger passes without confirmation. Reclassify it as an issue, follow up with the named contact, test the alternative and decide by the recorded date.
 
 If the custodian later approves a smaller variable set, do not simply close the issue. First determine whether the reduced data alter the question, method, ethics, analysis or contribution. Record and approve the resulting change where required.
 

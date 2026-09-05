@@ -3,13 +3,15 @@ title: "Closing and archiving the project"
 last-reviewed: "2026-08-28"
 ---
 
-Projects often end administratively before they end intellectually. Accounts close, people move, data retention clocks start and unfinished outputs become difficult to recover. Closure is the deliberate transfer of evidence, custody and responsibility. Decide what must be retained, transferred, published, disposed of or carried forward; test that the archive can be recovered; and record who owns continuing obligations. A well-closed doctorate leaves the next authorised person able to understand what exists and what still needs attention.
+After submission, there are still files to archive, accounts to transfer and unfinished papers to discuss. Try to settle these while you can still access the systems and the people who know the project.
 
-## Transfer custody, evidence and unfinished obligations
+Start with an inventory. Decide what must be kept, shared, transferred or disposed of, and who will look after it. Then ask the next custodian to use the handover instructions. If they cannot locate a key file or reproduce an output, you have found something to fix before your access ends.
 
-A project is closed only when every material record, asset, permission, responsibility, unresolved issue and continuing obligation has an authorised destination. Sending the files does not complete the handover. The recipient must demonstrate access, recovery and understanding.
+## Decide who looks after the work next {#transfer-custody-evidence-and-unfinished-obligations}
 
-Transition also requires a forward decision: which contribution, capability, relationship and unfinished question should continue, under what new authority and resources?
+Every important record, asset and continuing obligation needs a destination and a responsible person. Give the recipient time to test access and recovery before closing your accounts.
+
+You can also use this review to choose what you want to continue after candidature. A paper, collaboration or new question needs its own agreement, time and resources.
 
 ## Decide what “closed” means
 
@@ -32,7 +34,7 @@ List everything that belongs to the project:
 
 The inventory should name the authoritative copy, current state, custodian, permitted access, retention/disposal rule and next action.
 
-## Choose a disposition for every item
+## Decide what to keep, transfer or dispose of {#choose-a-disposition-for-every-item}
 
 | Disposition | Meaning | Evidence required |
 |---|---|---|
@@ -44,7 +46,7 @@ The inventory should name the authoritative copy, current state, custodian, perm
 | Dispose | destroy or delete through an authorised process | rule, approval, method and evidence of disposal |
 | Restrict/embargo | preserve but limit access for stated reasons and period | authority, conditions, review/end date and contact |
 
-“Keep everything just in case” can breach minimisation, consent, agreements or retention rules. “Delete old files” can destroy the research record. Apply the correct authority item by item.
+Check retention and disposal requirements before acting. Some material must be preserved; other material must be removed under consent, agreements or applicable rules.
 
 ## Build an archive manifest
 
@@ -70,14 +72,14 @@ The Australian research-data guide assigns responsibilities for managing, retain
 
 ## Test preservation and recovery
 
-Archiving a directory is not proof of recovery. Run a recovery test that covers the following.
+Test whether the archived material can be opened, understood and used. Try the following checks.
 
 1. permissions with the intended future role;
 2. representative files in their archival formats;
 3. checksums after transfer;
 4. restoration from backup or archive;
 5. environment reconstruction or documented emulation limits;
-6. one consequential analysis, figure or artefact;
+6. one key analysis, figure or artefact;
 7. links and persistent identifiers; and
 8. a recipient's ability to interpret limitations and permitted use.
 
@@ -136,35 +138,27 @@ Each continuing item needs an owner, authority, due/review date, contact path an
 
 ## Example: “everything is in Dropbox”
 
-**Claim:** The project is ready to hand over because the folder is synchronised.
+The new custodian can see the folder but cannot identify the approved dataset, distinguish current from superseded analysis, restore the software environment or tell whether participant quotations may be reused.
 
-**Recipient test:** The new custodian can see files but cannot identify the approved dataset, distinguish final from superseded analysis, restore the environment or determine whether participant quotations may be reused.
+Create a manifest, tag the final code release and record the source-data checksum and approved location. Add environment and execution instructions, link the consent and governance conditions, separate superseded outputs and assign continuing publication work.
 
-**Result:** Handover fails.
-
-**Repair:** Create the archive manifest; tag the final code release; record source-data checksum and approved location; add environment and one-command workflow instructions; link consent/governance conditions; archive superseded outputs separately; assign publication obligations; run a clean reproduction of Figure 3; obtain recipient acceptance.
-
-**Closure evidence:** Recipient signs or records acceptance after the test, personal access is removed, retention/disposal dates are scheduled and unresolved items remain in the continuing-obligations register.
+The recipient tries a clean reproduction of Figure 3 and records any problems. Once the handover works, record acceptance, remove personal access and schedule retention and disposal dates. Keep unresolved items assigned in the continuing-obligations register.
 
 ## Decide what continues after candidature
 
-Use four maps:
+Review four areas together:
 
-### Contribution map
+- Which findings, methods or resources are worth extending, and which questions are finished or disproven?
+- Which decisions can you now lead, and where would further training or collaboration help?
+- Which research relationships have a continuing purpose, and which roles need renegotiating?
+- Which papers, roles, fellowships or studies fit the available time, resources and permissions?
 
-Identify the claims or resources worth extending, along with those that are complete or disproven.
+Choose among opportunities by considering their audience, contribution, timing and cost, including what each would displace. You do not need to carry every unfinished idea into the next role.
 
-### Capability map
-
-Record the decisions you can now lead, where you still need collaboration and which skills would materially expand the next programme.
-
-### Relationship map
-
-Identify the supervisor, collaborator, partner, librarian, methodologist, community or practitioner relationships that have a legitimate continuing purpose. Renegotiate roles rather than assuming candidature arrangements continue.
-
-### Opportunity map
-
-For each possible paper, fellowship, role, partnership or study compare contribution, audience, resources, authority, timing, risk and displacement. Do not carry every unfinished idea into the next position.
+[]{#contribution-map}
+[]{#capability-map}
+[]{#relationship-map}
+[]{#opportunity-map}
 
 ## Create a 90-day transition plan
 
@@ -180,43 +174,21 @@ Choose a small set of outcomes:
 
 The plan should distinguish accepted position, submitted application, invited discussion and aspiration. Completion of a doctorate changes capability and credentials; it does not make uncertain opportunities confirmed.
 
-## How valuable work becomes stranded after candidature
 
-- treating thesis submission or graduation as project closure;
-- retaining everything without authority;
-- deleting duplicates that are actually the only provenance record;
-- archiving files without metadata or recovery tests;
-- transferring a folder without custody or responsibility;
-- leaving services tied to personal credentials;
-- publishing data because openness is assumed to override restriction;
-- forgetting correction, reporting or partner obligations;
-- claiming manuscripts or roles as completed before acceptance;
-- continuing collaborations without revisiting contribution and authority;
-- carrying every unfinished idea forward; and
-- treating exhaustion after completion as a personal planning failure.
+For career conversations and practical prompts, see [life during a PhD](../../stuck/life-during-a-phd.qmd#careers).
 
-## When the project can be safely handed over
+[]{#planning-work-beyond-the-doctorate}
 
-Closure is complete when every material item has an authorised disposition; archives pass integrity and recovery tests; custody and access are accepted; accounts and obligations have owners; restrictions and disposal are scheduled; and the project no longer depends on the departing candidate's private knowledge or credentials.
+## Complete the handover together
 
-Transition is actionable when verified contributions and capabilities inform a bounded next programme, relationships and authority are renegotiated, and the first 90 days have evidence-defined outcomes rather than an undifferentiated list of opportunities.
+Ask the recipient to locate the research record, recover a representative output and explain any restrictions on reuse. Record their acceptance and unresolved items. Remove personal access only after the transfer works, and keep continuing papers, corrections and reports assigned to someone.
 
-## Settle ownership before the final handover
+Take unresolved retention, ownership or access questions to the appropriate custodian before deleting or releasing material. For your own transition, choose a few achievable outcomes for the next 90 days and leave room to recover after completion.
 
-Bring the inventory, proposed dispositions, relevant retention/ownership rules, archive manifest, recipient test result, continuing-obligations register, account/access plan, unresolved risks and exact approvals or ownership decisions needed.
-
-## Test the archive before access disappears
-
-- [ ] Every material record, asset and obligation is inventoried.
-- [ ] Each item has retain, archive, share, transfer, continue, dispose or restrict status.
-- [ ] Custody, access, retention and disposal authority are evidenced.
-- [ ] Archive integrity and representative recovery are tested.
-- [ ] The recipient demonstrates use and accepts responsibility.
-- [ ] Personal credentials and single-person dependencies are removed safely.
-- [ ] Publications, corrections and reporting have continuing owners.
-- [ ] Sensitive and culturally governed material retains its protections.
-- [ ] Verified outcomes are separated from applications and aspirations.
-- [ ] The next 90 days contain bounded outcomes and recovery time.
+[]{#how-valuable-work-becomes-stranded-after-candidature}
+[]{#when-the-project-can-be-safely-handed-over}
+[]{#settle-ownership-before-the-final-handover}
+[]{#test-the-archive-before-access-disappears}
 
 ## Try these resources
 
@@ -224,9 +196,4 @@ Use the [project closure and handover checklist](../../checklists/project-closur
 
 ## References
 
-::: {#refs}
-:::
-
-## Planning work beyond the doctorate
-
-For practical prompts and a next conversation, see [the guide to life during a PhD](../../stuck/life-during-a-phd.qmd#careers).
+[Full reference list](../../references.qmd).

@@ -1,35 +1,15 @@
 ---
-title: "Human-led, AI-assisted"
+title: "How we use AI"
 ---
 
-This is a human-led handbook made with disclosed AI assistance.
+The handbook uses AI to help with research, writing and editing. People provide its purpose, questions, ideas and editorial direction, and decide what gets published.
 
-Graduate researchers, supervisors, professional staff, reviewers, community contributors and the project lead provide the questions, priorities and underlying ideas. AI tools help organise that material, find connected passages, search for sources, draft and edit prose, update technical files and run consistency checks.
+An AI agent can find related passages, look for sources, draft a change and check links or technical files. Its draft still needs review. Editors check the sources and wording; guidance with serious consequences also needs someone with the relevant expertise. A confident sentence is no evidence that the advice is right.
 
-## Human responsibility
+Each proposed change should identify the suggestion or editorial decision behind it, the evidence used, the AI assistance and the checks performed. An authorised editor reviews it before publication.
 
-People remain responsible for:
+## People and credit
 
-- deciding what the handbook is for and whose needs it should serve;
-- contributing questions, experience, evidence and criticism;
-- judging whether evidence is credible and advice is appropriately bounded;
-- deciding whether a suggestion should proceed;
-- reviewing consequential guidance with suitable expertise;
-- accepting or rejecting the actual proposed wording; and
-- deciding what is published and how contributors are credited.
+Haresh Suppiah is the project lead and founding editor. Contributors can receive credit for questions, evidence, review and creative work, even when their suggestion is rewritten before publication. They choose how they would like to be acknowledged through the [contribution form](index.qmd).
 
-AI-generated prose is not accepted as evidence. Fluent wording does not establish that a claim is true, current, safe or appropriate across contexts.
-
-## How AI assists
-
-An approved suggestion may become a structured brief for an AI agent. The agent can inspect the relevant chapters and resources, research permitted sources, prepare a change and run the handbook's checks. A human then reviews the proposed change and decides whether it is fit to publish.
-
-The project keeps the chain visible:
-
-`human question or editorial decision → evidence review → approved brief → AI-assisted or human draft → verification → human publication decision`
-
-## Credit
-
-Haresh Suppiah is credited as project lead and founding editor. People whose questions, evidence, review or creative work materially improve the handbook can be credited through the contributor record according to their preference.
-
-The production record discloses the AI tools used. People retain responsibility for the handbook's purpose, evidence and publication and receive authorship or contributor credit where appropriate.
+AI assistance is disclosed in the production record. It does not replace credit for people's ideas or responsibility for editorial decisions.

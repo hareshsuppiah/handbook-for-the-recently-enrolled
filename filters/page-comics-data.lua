@@ -396,18 +396,6 @@ return {
     title = "Permanence",
     asset_path = "assets/xkcd/910-permanence.png",
   },
-  ["resources.qmd"] = {
-    page_path = "resources.qmd",
-    comic_id = "2601",
-    title = "Instructions",
-    asset_path = "assets/xkcd/2601-instructions.png",
-  },
-  ["title:Practical resources"] = {
-    page_path = "resources.qmd",
-    comic_id = "2601",
-    title = "Instructions",
-    asset_path = "assets/xkcd/2601-instructions.png",
-  },
   ["checklists/index.qmd"] = {
     page_path = "checklists/index.qmd",
     comic_id = "2601",
@@ -462,7 +450,7 @@ return {
     title = "Is It Worth the Time?",
     asset_path = "assets/xkcd/1205-is-it-worth-the-time.png",
   },
-  ["title:Is this study ready to commit to?"] = {
+  ["title:Before committing to a study"] = {
     page_path = "checklists/before-study-commitment.qmd",
     comic_id = "1205",
     title = "Is It Worth the Time?",
@@ -474,7 +462,7 @@ return {
     title = "The General Problem",
     asset_path = "assets/xkcd/974-the-general-problem.png",
   },
-  ["title:Can this research question carry the study?"] = {
+  ["title:Check your research question"] = {
     page_path = "checklists/research-question-stress-test.qmd",
     comic_id = "974",
     title = "The General Problem",
@@ -654,7 +642,7 @@ return {
     title = "Communicating",
     asset_path = "assets/xkcd/1860-communicating.png",
   },
-  ["title:Decision-oriented meeting agenda"] = {
+  ["title:Supervision meeting agenda"] = {
     page_path = "templates/meeting-agenda.qmd",
     comic_id = "1860",
     title = "Communicating",
@@ -738,7 +726,7 @@ return {
     title = "Is It Worth the Time?",
     asset_path = "assets/xkcd/1205-is-it-worth-the-time.png",
   },
-  ["title:Topic due-diligence canvas"] = {
+  ["title:Check a proposed topic"] = {
     page_path = "templates/topic-due-diligence.qmd",
     comic_id = "1205",
     title = "Is It Worth the Time?",
@@ -1038,7 +1026,7 @@ return {
     title = "The General Problem",
     asset_path = "assets/xkcd/974-the-general-problem.png",
   },
-  ["title:My topic or question is not defensible yet"] = {
+  ["title:My topic still feels too vague"] = {
     page_path = "stuck/topic-or-question.qmd",
     comic_id = "974",
     title = "The General Problem",
@@ -1104,18 +1092,6 @@ return {
     title = "Optimization",
     asset_path = "assets/xkcd/1691-optimization.png",
   },
-  ["stuck/relationship-or-authorship.qmd"] = {
-    page_path = "stuck/relationship-or-authorship.qmd",
-    comic_id = "1028",
-    title = "Communication",
-    asset_path = "assets/xkcd/1028-communication.png",
-  },
-  ["title:A supervision, authorship or collaboration problem feels stuck"] = {
-    page_path = "stuck/relationship-or-authorship.qmd",
-    comic_id = "1028",
-    title = "Communication",
-    asset_path = "assets/xkcd/1028-communication.png",
-  },
   ["stuck/good-enough.qmd"] = {
     page_path = "stuck/good-enough.qmd",
     comic_id = "974",
@@ -1128,37 +1104,13 @@ return {
     title = "The General Problem",
     asset_path = "assets/xkcd/974-the-general-problem.png",
   },
-  ["stuck/wellbeing-or-safety.qmd"] = {
-    page_path = "stuck/wellbeing-or-safety.qmd",
-    comic_id = "828",
-    title = "Positive Attitude",
-    asset_path = "assets/xkcd/828-positive-attitude.png",
-  },
-  ["title:Workload, wellbeing, safety or conduct is affecting the work"] = {
-    page_path = "stuck/wellbeing-or-safety.qmd",
-    comic_id = "828",
-    title = "Positive Attitude",
-    asset_path = "assets/xkcd/828-positive-attitude.png",
-  },
-  ["support.qmd"] = {
-    page_path = "support.qmd",
-    comic_id = "2368",
-    title = "Bigger Problem",
-    asset_path = "assets/xkcd/2368-bigger-problem.png",
-  },
-  ["title:Local rules and specialist help"] = {
-    page_path = "support.qmd",
-    comic_id = "2368",
-    title = "Bigger Problem",
-    asset_path = "assets/xkcd/2368-bigger-problem.png",
-  },
   ["contributions/index.qmd"] = {
     page_path = "contributions/index.qmd",
     comic_id = "1060",
     title = "Crowdsourcing",
     asset_path = "assets/xkcd/1060-crowdsourcing.png",
   },
-  ["title:Suggest an improvement"] = {
+  ["title:Help improve the handbook"] = {
     page_path = "contributions/index.qmd",
     comic_id = "1060",
     title = "Crowdsourcing",
@@ -1182,7 +1134,7 @@ return {
     title = "Automation",
     asset_path = "assets/xkcd/1319-automation.png",
   },
-  ["title:How suggestions become handbook changes"] = {
+  ["title:How suggestions become edits"] = {
     page_path = "contributions/editorial-workflow.qmd",
     comic_id = "1319",
     title = "Automation",
@@ -1194,7 +1146,7 @@ return {
     title = "Trained a Neural Net",
     asset_path = "assets/xkcd/2173-trained-a-neural-net.png",
   },
-  ["title:Human-led, AI-assisted"] = {
+  ["title:How we use AI"] = {
     page_path = "contributions/ai-and-editorial-practice.qmd",
     comic_id = "2173",
     title = "Trained a Neural Net",

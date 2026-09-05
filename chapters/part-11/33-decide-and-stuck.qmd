@@ -3,13 +3,15 @@ title: "Deciding when you’re stuck"
 last-reviewed: "2026-08-28"
 ---
 
-Being busy is not the opposite of being stuck. You can read, polish and attend meetings while avoiding the one decision that would move the project. Start by identifying what is blocked. It may be a question, permission, method, result, relationship or capacity problem. Then ask what evidence would change the choice between persisting, pivoting, pausing or stopping. The right route protects the project from sunk-cost thinking and sends the problem to the person who can actually decide it.
+You have been reading, drafting and going to meetings, but the same decision is still waiting. Perhaps you need a clearer question, a method you can use, permission to access data or enough time to do the work.
 
-## Find the smallest blocked decision
+Start by naming that decision. Then choose one action that would give you the information or help you need. The questions below can help you decide whether to continue, simplify, change direction, pause or stop.
 
-Being stuck is a state of the work, not a diagnosis of the researcher. Name the outcome, identify the smallest blocked decision, classify the constraint and take one evidence-producing action. If the issue exceeds your control or authority, escalate with a concise factual record and a precise request.
+## Find the decision you need to make {#find-the-smallest-blocked-decision}
 
-Do not default to “work harder”. Different blockage classes require different interventions.
+Write down what you want to finish and what prevents it. Be specific enough that someone else could help: “I need to choose between these two methods” is easier to discuss than “I'm stuck on methods.”
+
+If the choice belongs to someone else, ask for that decision with the relevant facts and a date. If the difficulty involves your capacity or a working relationship, use the appropriate support route rather than assuming more effort will solve it.
 
 ## Run the five-minute diagnostic
 
@@ -22,10 +24,10 @@ Do not default to “work harder”. Different blockage classes require differen
 7. **Threshold:** When will you change route or escalate?
 
 ::: {.decision-card}
-**Smallest useful next action:** Write two columns—“known” and “uncertain”. Circle the uncertainty that would change what you do next, then assign one test, owner and decision date.
+**Try this:** Write two columns headed “known” and “uncertain”. Circle the uncertainty that would change your next step. Choose a test and a date to review it.
 :::
 
-## Route by blockage class
+## Match the problem to the help {#route-by-blockage-class}
 
 | Class | Diagnostic question | Useful first move |
 |---|---|---|
@@ -45,7 +47,7 @@ Choose the matching [I’m stuck pathway](../../stuck/index.qmd) for the full ro
 
 ### Persist
 
-Use when the outcome remains valuable, the route remains defensible and the problem is a bounded obstacle with a credible test. Set a review trigger; persistence without one becomes drift.
+Use when the outcome remains valuable, the route remains defensible and you have a specific obstacle and a credible way to test it. Set a review trigger; persistence without one becomes drift.
 
 ### Simplify
 
@@ -104,19 +106,11 @@ Leave out speculation, motive and unnecessary sensitive detail. Preserve support
 
 ## Example: waiting for supervisor feedback
 
-**Outcome:** Submit the ethics application by 30 September.
+An ethics application is due on 30 September. A draft and focused questions were sent on 2 September, with a two-week review window agreed. A follow-up on 17 September has received no response. The team needs five working days after the recruitment decision to finish the application.
 
-**Blocked decision:** Whether the recruitment route is ready for privacy review.
+Ask for an immediate review time or co-supervisor review. If neither is possible, consider a formal milestone change or work that can proceed without crossing the approval requirement. State the agreement, deadline, impact and preferred option in the request.
 
-**Evidence:** Draft and bounded questions sent on 2 September; two-week review window agreed; follow-up sent 17 September; no response. The application needs five working days after this decision.
-
-**Classification:** External dependency now threatens a milestone. This is waiting approaching blocked, not a writing-skill problem.
-
-**Options:** Agree an immediate review time; obtain review from the co-supervisor; move the milestone through the formal process; or revise sequence while preserving the approval boundary.
-
-**Escalation:** Send a concise decision request stating the deadline, prior agreement, impact, options and preferred resolution. If ordinary supervision cannot resolve the repeated delay, use the graduate research support route.
-
-**Evidence of done:** A recorded decision or formally revised milestone—not merely another message sent.
+If repeated delay cannot be resolved within the supervisory team, use the graduate research support route. Keep the item open until a decision or formally revised milestone is recorded.
 
 ## Example: method paralysis
 
@@ -130,43 +124,23 @@ More general reading is deferred unless one of those tests exposes a specific ev
 
 ## Problems that need a different route
 
-Use independent or formal support when the supervisor is implicated in bullying, harassment, discrimination, retaliation, unsafe conduct, authorship coercion, suspected misconduct or an unresolved conflict of interest. For imminent danger or urgent health needs, use emergency or health services. The handbook cannot assess urgency or guarantee confidentiality.
+Use independent or formal support when the supervisor is implicated in bullying, harassment, discrimination, retaliation, unsafe conduct, authorship coercion, suspected misconduct or an unresolved conflict of interest. For imminent danger or urgent health needs, use emergency or health services.
 
-## Ways of staying busy while remaining stuck
 
-- calling yourself stuck without naming the blocked outcome;
-- solving a clarity problem with more effort;
-- solving an authority problem with private workarounds;
-- solving a capacity problem by adding productivity tools;
-- reading indefinitely without a decision criterion;
-- escalating a full chronology without a request;
-- waiting until the deadline is already lost;
-- treating a sent escalation as resolved;
-- persisting because of sunk effort;
-- pivoting toward attractive results after seeing them;
-- stopping without closing obligations; and
-- routing a safety or misconduct concern only through ordinary supervision.
+If you are considering pausing or leaving, see [life during a PhD](../../stuck/life-during-a-phd.qmd#continue-or-leave).
 
-## When you have enough evidence to choose a route
+[]{#when-you-are-considering-leaving-or-pausing}
 
-You are unstuck when the next action can be started, its owner and authority are known, it produces observable evidence, and a review or escalation threshold exists. Feeling more hopeful can help, but it is not the completion test.
+## Choose one next action
 
-## Escalate the decision, evidence and deadline
+Aim for an action you can start, with a named person responsible and a date to review the result. For a consequential decision, compare at least two feasible routes. Include what would prompt you to stop waiting or seek further help.
 
-Bring the outcome, blocked decision, classification, facts and assumptions, checks already completed, realistic options, recommendation, risk/deadline and one precise request. Use the [escalation message builder](../../templates/escalation-message.qmd) when the ordinary route has failed or is inappropriate.
+When ordinary follow-up has failed, use the [escalation message builder](../../templates/escalation-message.qmd). State the decision, evidence, deadline, options and recommendation. Keep the matter open until there is a response or an agreed change to the plan.
 
-## Run the five-minute diagnostic
-
-- [ ] The required outcome is observable.
-- [ ] The smallest blocked decision is named.
-- [ ] Facts, assumptions and missing evidence are separated.
-- [ ] The blockage class matches the proposed response.
-- [ ] Control and authority are explicit.
-- [ ] At least two feasible routes are considered where consequential.
-- [ ] Sunk effort is excluded from the forward-value decision.
-- [ ] The next action produces evidence and has an owner.
-- [ ] Review and escalation thresholds are dated.
-- [ ] Urgent or unsafe matters use an independent authorised route.
+[]{#ways-of-staying-busy-while-remaining-stuck}
+[]{#when-you-have-enough-evidence-to-choose-a-route}
+[]{#escalate-the-decision-evidence-and-deadline}
+[]{#run-the-five-minute-diagnostic-1}
 
 ## Try these resources
 
@@ -174,13 +148,8 @@ Start at the [I’m stuck diagnostic](../../stuck/index.qmd), then use the [pivo
 
 ## Sources and limits
 
-The nine-class diagnostic is an editorial decision aid rather than a clinical or institutional escalation protocol. The candidate, supervisor and organisational responsibility boundaries are consistent with current doctoral-training guidance but must be replaced by the applicable local routes [@ukri-expectations-2024].
+The nine categories are editorial prompts for choosing a next step. They do not determine clinical care or institutional escalation. The candidate, supervisor and organisational responsibility boundaries are consistent with current doctoral-training guidance but must be replaced by the applicable local routes [@ukri-expectations-2024].
 
 ## References
 
-::: {#refs}
-:::
-
-## When you are considering leaving or pausing
-
-For practical prompts and a next conversation, see [the guide to life during a PhD](../../stuck/life-during-a-phd.qmd#continue-or-leave).
+[Full reference list](../../references.qmd).

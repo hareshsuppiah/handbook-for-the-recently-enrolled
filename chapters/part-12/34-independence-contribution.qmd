@@ -3,22 +3,24 @@ title: "Independence and contribution"
 last-reviewed: "2026-08-28"
 ---
 
-Independence does not mean doing everything alone or no longer needing advice. It appears in the quality of your decisions: you can frame the problem, compare options, seek the right expertise, explain your choice and recognise when authority belongs elsewhere. The same evidence helps define your contribution. In a team project, the thesis contribution, the team’s contribution and your own contribution may overlap without being identical. Make those boundaries visible rather than relying on a feeling that you have finally become independent.
+“Be more independent” is difficult feedback to act on. It becomes clearer when you attach it to a decision. Can you compare two methods, recommend one, explain why and recognise where you need specialist advice?
 
-## Show independence through decisions and evidence
+Independence develops unevenly. You might lead the conceptual work while still learning the analysis. Keeping examples of decisions you led will help you discuss your progress and explain your own contribution within a team project.
 
-Independence is not working alone. It is the increasing ability to frame consequential questions, make and record defensible decisions, recognise limits, seek appropriate expertise, integrate feedback and remain accountable for the resulting claims.
+## Look at the decisions you can lead {#show-independence-through-decisions-and-evidence}
 
-A thesis contribution is a bounded change in what a defined audience can know, explain, do, examine or build on, supported by the thesis evidence. Map the whole thesis, each study or component, and your own accountable contribution separately.
+As you gain experience, you should be able to frame questions, compare evidence, choose a route and explain the result. Seeking the right expertise is part of that work.
 
-## Use an evidence-based independence profile
+Your thesis also needs a clear account of what it contributes. Distinguish the overall contribution from each study's role and from the work you personally led. The tables below can help you make those accounts specific.
+
+## Review where you need support {#use-an-evidence-based-independence-profile}
 
 Assess capability across decisions rather than asking whether you “feel independent”:
 
 | Domain | Evidence of developing independence |
 |---|---|
-| Problem framing | distinguishes a consequential problem from a convenient gap |
-| Question and scope | proposes bounded questions and knows when to narrow or pivot |
+| Problem framing | explains why a problem is worth studying |
+| Question and scope | sets the scope of a question and knows when to narrow or change it |
 | Evidence | searches, verifies, compares and synthesises rather than accumulating citations |
 | Design | aligns inference, sample/material, measurement, analysis and claim |
 | Governance | recognises authority boundaries and acts within approval |
@@ -32,7 +34,7 @@ Assess capability across decisions rather than asking whether you “feel indepe
 
 Independence varies by domain. A candidate can lead the conceptual argument while correctly relying on statistical, cultural, clinical, technical or community expertise. Seeking qualified help is part of sound judgement.
 
-## Calibrate supervisory support
+## Agree how supervision can change {#calibrate-supervisory-support}
 
 Progression can move through:
 
@@ -86,7 +88,7 @@ Each study should have a distinct job in the whole-thesis argument. Use a matrix
 |---|---|---|---|---|---|---|
 | [ ] | [ ] | [ ] | [ ] | [ ] | define / develop / test / explain / integrate | [ ] |
 
-The whole-thesis contribution is not the sum of abstracts. Explain how components change one another's interpretation, resolve the central problem or establish a coherent boundary.
+Explain how one study changes your reading of another and how the combined findings answer the central question.
 
 ## Distinguish thesis, team and candidate contribution
 
@@ -98,69 +100,44 @@ Use output-specific contribution records and required thesis declarations. Do no
 
 ## Example: a multi-study contribution
 
-**Problem:** Athlete-reported recovery data are collected frequently, but interpretation varies across settings and workflows are difficult to audit.
+A project studies athlete-reported recovery data, where interpretation differs across settings and workflows are difficult to check.
 
 | Component | Role in the thesis |
 |---|---|
-| Study 1 | Defines practitioner decision needs and current variation. |
-| Study 2 | Evaluates measurement behaviour and identifies the conditions under which within-athlete change is interpretable. |
-| Study 3 | Implements a reproducible reporting workflow and tests whether another analyst can recover the decision record. |
+| Study 1 | Identifies practitioner decisions and how current practice varies. |
+| Study 2 | Examines the measure and when within-athlete change can be interpreted. |
+| Study 3 | Tests a reproducible reporting workflow and whether another analyst can recover its decisions. |
 
-**Weak contribution claim:** “This thesis revolutionises athlete monitoring.”
+The thesis can claim to identify decision requirements, clarify when changes can be interpreted and demonstrate a recoverable workflow. Those studies do not establish improved athlete health or performance.
 
-**Bounded contribution:** “For applied sport settings using repeated self-report measures, this thesis identifies decision requirements, bounds interpretation of within-athlete change and demonstrates a recoverable reporting workflow. It does not establish that using the workflow improves athlete health or performance.”
-
-**Candidate contribution:** framed the programme, led design and synthesis, implemented the workflow and integrated specialist measurement and practitioner input. Collaborator roles are reported separately.
+The candidate framed the programme, led design and synthesis, and implemented the workflow. Measurement specialists and practitioners contributed expertise, with their roles reported separately. That account shows what the candidate led without erasing the collaboration.
 
 ## Look for evidence of independence
 
 For each domain mark:
 
 - **lead independently:** can propose, execute and defend;
-- **lead with review:** can lead but needs consequential specialist or quality review;
+- **lead with review:** can lead with specialist or quality review of important decisions;
 - **supported:** still requires structured scaffolding;
 - **not applicable:** with reason; or
 - **unresolved:** evidence needed before completion.
 
-Attach an example decision or artefact. This converts “be more independent” into a development conversation.
+Attach an example decision or artefact. Use the example to agree which decisions you will lead next.
 
 ::: {.decision-card}
 **Smallest useful next action:** Complete one row of the thesis contribution map using an exact claim, thesis evidence, candidate role, boundary and sceptical challenge.
 :::
 
-## Myths that make independence impossible to demonstrate
+## Use the map in a supervision conversation
 
-- equating independence with isolation;
-- hiding specialist or supervisor contributions;
-- describing activity rather than contribution;
-- using “first”, “novel” or “significant” without a defensible scope;
-- treating publications as automatic proof of a coherent thesis;
-- claiming practical impact when only an intermediate outcome was studied;
-- listing limitations without showing how they bound the claim;
-- describing candidate contribution only through hours or tasks;
-- waiting until the conclusion to discover the thesis argument; and
-- treating uncertainty or correction as evidence of dependence.
+Choose a contribution claim and locate the thesis evidence behind it. Explain the decisions you led, the help you received and the limits of the finding. Ask your supervisor which part is least convincing and what evidence would strengthen it.
 
-## When the independence case is credible
+For areas where you still need support, agree what you will practise before completion. Check the required contribution declarations and local doctoral standard. Hours worked and papers published can describe activity, but the examiner also needs to see what the combined work establishes.
 
-The contribution is examination-ready when a defined audience, prior state, evidence, warranted change and boundary can be traced across the thesis; study roles integrate; candidate and collaborator contributions are transparent; and the candidate can defend major decisions while identifying where specialist authority remains necessary.
-
-## Ask which decisions you should now lead
-
-Bring the completed contribution map, whole-thesis claim, study-role matrix, candidate contribution evidence, three sceptical challenges, unresolved boundaries and one request: for example, “Which link in this contribution chain is least supported by the submitted thesis?”
-
-## Check the record of your decisions
-
-- [ ] Independence is evidenced across decisions, not equated with working alone.
-- [ ] The contribution names audience, change, evidence and boundary.
-- [ ] Every contribution claim links to an exact thesis location.
-- [ ] Study-level roles combine into a whole-thesis argument.
-- [ ] Thesis, team and candidate contributions are distinguished.
-- [ ] Specialist input and candidate verification are transparent.
-- [ ] Sceptical alternatives and non-claims are explicit.
-- [ ] Originality language is supported at the stated scope.
-- [ ] Remaining supported domains have a completion plan.
-- [ ] Formal declarations and local standards are identified.
+[]{#myths-that-make-independence-impossible-to-demonstrate}
+[]{#when-the-independence-case-is-credible}
+[]{#ask-which-decisions-you-should-now-lead}
+[]{#check-the-record-of-your-decisions}
 
 ## Try these resources
 
@@ -168,5 +145,4 @@ Use the [thesis contribution map](../../templates/thesis-contribution-map.qmd), 
 
 ## References
 
-::: {#refs}
-:::
+[Full reference list](../../references.qmd).

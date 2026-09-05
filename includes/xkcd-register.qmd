@@ -17,17 +17,16 @@ Every embedded xkcd comic is by Randall Munroe and is reused from [xkcd](https:/
 | [xkcd #481: Listen to Yourself](https://xkcd.com/481/) | Feedback, disagreement and independence; Feedback response matrix |
 | [xkcd #552: Correlation](https://xkcd.com/552/) | Matching the design to the claim; Is this study ready for analysis? |
 | [xkcd #722: Computer Problems](https://xkcd.com/722/) | Risks, blocked work and changing plans; I’m stuck |
-| [xkcd #828: Positive Attitude](https://xkcd.com/828/) | Workload, wellbeing, safety or conduct is affecting the work |
 | [xkcd #882: Significant](https://xkcd.com/882/) | Sampling, measurement and pilots; Is this pilot ready to run? |
 | [xkcd #910: Permanence](https://xkcd.com/910/) | About this edition; Closing and archiving the project; Is this project ready to close or hand over?; Meeting record |
-| [xkcd #974: The General Problem](https://xkcd.com/974/) | Can this research question carry the study?; Is this good enough for its next use?; My topic or question is not defensible yet; Unsure whether the work is good enough |
+| [xkcd #974: The General Problem](https://xkcd.com/974/) | Check your research question; Is this good enough for its next use?; My topic still feels too vague; Unsure whether the work is good enough |
 | [xkcd #979: Wisdom of the Ancients](https://xkcd.com/979/) | Reproducible literature searches; Search-concept table; Search log; Citation-chaining log |
-| [xkcd #1028: Communication](https://xkcd.com/1028/) | Supervisor expectations conversation guide; Supervision agreement; Escalation message builder; A supervision, authorship or collaboration problem feels stuck |
+| [xkcd #1028: Communication](https://xkcd.com/1028/) | Supervisor expectations conversation guide; Supervision agreement; Escalation message builder |
 | [xkcd #1052: Every Major's Terrible](https://xkcd.com/1052/) | What a doctorate asks of you |
-| [xkcd #1060: Crowdsourcing](https://xkcd.com/1060/) | Suggest an improvement |
-| [xkcd #1205: Is It Worth the Time?](https://xkcd.com/1205/) | Choosing a topic worth pursuing; Milestones, dependencies and weekly progress; What should I check after 90 days?; Is this study ready to commit to?; Topic due-diligence canvas |
+| [xkcd #1060: Crowdsourcing](https://xkcd.com/1060/) | Help improve the handbook |
+| [xkcd #1205: Is It Worth the Time?](https://xkcd.com/1205/) | Choosing a topic worth pursuing; Milestones, dependencies and weekly progress; What should I check after 90 days?; Before committing to a study; Check a proposed topic |
 | [xkcd #1282: Monty Hall](https://xkcd.com/1282/) | Research questions, aims and pivots; Deciding when you’re stuck; Should I continue, pivot or stop?; Decision log; Methodological decision record; I cannot choose a method |
-| [xkcd #1319: Automation](https://xkcd.com/1319/) | How suggestions become handbook changes |
+| [xkcd #1319: Automation](https://xkcd.com/1319/) | How suggestions become edits |
 | [xkcd #1425: Tasks](https://xkcd.com/1425/) | Your first 90 days; What should I set up when candidature begins?; Action register; Starting point or expectations are unclear |
 | [xkcd #1447: Meta-Analysis](https://xkcd.com/1447/) | Reading, synthesis and citation; Paper triage and extraction; Evidence matrix; Synthesis and argument map |
 | [xkcd #1478: P-Values](https://xkcd.com/1478/) | Rigour, bias and methodological choices |
@@ -36,15 +35,15 @@ Every embedded xkcd comic is by Randall Munroe and is reused from [xkcd](https:/
 | [xkcd #1691: Optimization](https://xkcd.com/1691/) | I cannot start writing or stop revising |
 | [xkcd #1782: Team Chat](https://xkcd.com/1782/) | Collaboration, handoffs and scope; Matters-arising register |
 | [xkcd #1838: Machine Learning](https://xkcd.com/1838/) | Research integrity, governance and AI; Can I use AI for this task?; AI-use and verification log |
-| [xkcd #1860: Communicating](https://xkcd.com/1860/) | Supervision meetings that lead somewhere; Decision-oriented meeting agenda; Supervisor review cover note |
+| [xkcd #1860: Communicating](https://xkcd.com/1860/) | Supervision meetings that lead somewhere; Supervision meeting agenda; Supervisor review cover note |
 | [xkcd #2025: Peer Review](https://xkcd.com/2025/) | Authorship, collaboration and corrections; Making work easier to review; Examination and corrections; Is this manuscript ready to submit?; Authorship conversation record; Reviewer-response matrix |
 | [xkcd #2086: History Department](https://xkcd.com/2086/) | References |
-| [xkcd #2173: Trained a Neural Net](https://xkcd.com/2173/) | Human-led, AI-assisted |
+| [xkcd #2173: Trained a Neural Net](https://xkcd.com/2173/) | How we use AI |
 | [xkcd #2304: Preprint](https://xkcd.com/2304/) | Publishing and peer review; Journal selection due diligence |
 | [xkcd #2347: Dependency](https://xkcd.com/2347/) | Data management, storage and recovery |
-| [xkcd #2368: Bigger Problem](https://xkcd.com/2368/) | Problem, gap and contribution; Unresolved-questions log; Risk and issues register; One-page case for a proposed topic; Local rules and specialist help |
+| [xkcd #2368: Bigger Problem](https://xkcd.com/2368/) | Problem, gap and contribution; Unresolved-questions log; Risk and issues register; One-page case for a proposed topic |
 | [xkcd #2456: Types of Scientific Paper](https://xkcd.com/2456/) | Writing an argument; Is this study ready to write up?; Contribution statement; Thesis contribution map |
 | [xkcd #2582: Data Trap](https://xkcd.com/2582/) | Data states, codebooks and provenance; Living data-management plan; Data dictionary and codebook |
-| [xkcd #2601: Instructions](https://xkcd.com/2601/) | Practical resources; How the checklists work; How to suggest an improvement |
+| [xkcd #2601: Instructions](https://xkcd.com/2601/) | How the checklists work; How to suggest an improvement |
 
 The machine-readable page-by-page placement and asset path are recorded in the [`page-visuals register`](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/blob/main/research/page-visuals.csv).

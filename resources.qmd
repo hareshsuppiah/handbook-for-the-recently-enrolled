@@ -4,7 +4,7 @@ title: "Practical resources"
 
 These 53 checklists, decision aids and templates are linked to the decisions and pause points where they can help.
 
-The checklists are organised around **consequential pause points**, when a short check can still prevent avoidable harm, rework or an indefensible decision.
+Use a checklist before starting a study, analysing data or submitting your work. Each one helps you catch omissions while there's still time to fix them.
 
 ## Phase checkpoints
 
@@ -35,8 +35,8 @@ Read [how these checklists work](checklists/index.qmd) before using them.
 
 ## Templates
 
-The 33 templates cover supervision agreements and records; topic, question and contribution due diligence; searching and synthesis; method decisions and deviations; data, file and repository documentation; AI-use records; feedback, authorship and journal decisions; reviewer responses; escalation; and thesis contribution mapping. Browse them in the left book contents under **Practical resources: Templates**.
+Open **Templates** in the book contents to find meeting agendas, search logs, research plans, data records and writing tools. You can copy them into whatever system you already use.
 
-Priority templates show both a blank structure and a completed example. Each resource explains when to use it, what a defensible entry looks like, and what it cannot decide for you.
+Priority templates include a completed example alongside the blank version. Adapt the fields to your project.
 
 The public repository keeps the row-by-row status in [`planning/requirements-checklist.csv`](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/blob/main/planning/requirements-checklist.csv).

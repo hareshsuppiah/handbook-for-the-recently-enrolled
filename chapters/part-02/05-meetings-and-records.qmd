@@ -1,9 +1,11 @@
 ---
 title: "Supervision meetings that lead somewhere"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-06"
 ---
 
-A supervision meeting can be warm, intelligent and completely unhelpful. You discuss ethics, methods and a promising paper, then leave unsure what was decided or who will do what. The fix is simple enough to describe: use the meeting to make decisions, then keep a short record that survives everyone’s memory. The real skill is deciding what belongs on the agenda, what needs a decision and what can wait. A useful meeting changes the state of the project.
+You've had a good conversation about ethics, methods and a promising paper. Back at your desk, you're less sure what to do next. Was that a suggestion, a decision, or something to revisit?
+
+A short agenda and a few clear notes can save you that guesswork. This chapter shows what to prepare, how to confirm an outcome during the meeting and what to record afterwards.
 
 ## Design the meeting around decisions
 
@@ -11,7 +13,7 @@ Build the agenda around a change you need from the meeting. It may resolve or sh
 
 The meeting record should be brief enough to maintain and precise enough to answer: what was decided, why, who does what, by when, what evidence will show completion and what remains unresolved.
 
-## Five records with different jobs
+## What to put in your meeting notes {#five-records-with-different-jobs}
 
 | Record | Use it for | Minimum fields |
 |---|---|---|
@@ -22,7 +24,7 @@ The meeting record should be brief enough to maintain and precise enough to answ
 | Decision log | Reasoning that must survive the meeting | decision, options, evidence, rationale, owner, review trigger |
 | Unresolved-questions log | Unknowns that require investigation or a later decision | question, consequence, next check, owner, decision date |
 
-Do not combine these so completely that their different states disappear. A question is not an action. A recommendation is not a decision. A sent request is not a completed dependency.
+These can be sections in one document. Keep open questions, agreed actions and decisions distinguishable, and mark a request as waiting until the answer arrives.
 
 ::: {.decision-card}
 **Smallest useful next action:** Draft the next agenda with no more than three decision or feedback requests. For each, state what you want from the meeting.
@@ -72,7 +74,7 @@ End with a two-minute do-confirm pause:
 
 Circulate the record promptly within the agreed window. Invite corrections to factual errors. Transfer actions, decisions and unresolved questions into their persistent registers rather than leaving them stranded in minutes.
 
-Do not write a transcript. Record project state. Sensitive personal material should use the appropriate confidential channel and not be copied indiscriminately into a shared research record.
+A few lines on decisions and next steps are usually enough; you don't need to transcribe the conversation. Keep sensitive personal matters in the appropriate confidential channel.
 
 ## Example: “Discuss ethics”
 
@@ -88,7 +90,7 @@ Do not write a transcript. Record project state. Sensitive personal material sho
 
 **Evidence of done:** consultation record and revised recruitment flow saved in the approved location.
 
-The meeting did not “complete ethics”. It changed the project from an unclear topic to an owned sequence with a stop condition.
+The student leaves knowing whom to contact, what to revise and when the supervisor will read it. Recruitment waits until the required approval is in place.
 
 ## Meeting cadence
 
@@ -103,15 +105,9 @@ Frequency alone does not establish quality. A weekly meeting can waste time; a m
 
 ## Why good conversations produce no movement
 
-- agendas that list domains rather than decisions;
-- papers sent too late or without a review question;
-- meeting notes that record discussion but not outcomes;
-- actions assigned to “we” or “the team”;
-- dates without dependencies or evidence of done;
-- silent disagreement interpreted as consensus;
-- old matters copied forward without deciding to close, continue, escalate or remove them;
-- sensitive details placed in broadly shared records;
-- every meeting becoming a report to supervisors rather than a place to test judgement.
+Give supervisors enough time to read the material and a question to focus on. In the meeting, confirm who will do what, by when, and what they're waiting for. Invite disagreement before treating a suggestion as agreed.
+
+Review older items rather than copying them into every agenda. Close them, continue them, seek help or remove them with a reason. Leave room to discuss your reasoning as well as report activity.
 
 ## Before anyone leaves the meeting
 
@@ -146,9 +142,8 @@ Creative practice, fieldwork, laboratory, clinical, community and industry proje
 
 ## Sources and limits
 
-The five-record meeting system is an editorial workflow, not a universal supervision rule. It operationalises transparent decisions and responsibilities within the broader doctoral-training role expectations described by UKRI [@ukri-expectations-2024].
+The record types above are suggestions for organising meetings. They draw on the explicit responsibilities described in UKRI's doctoral-training expectations [@ukri-expectations-2024]. Your programme may require its own meeting or progress record.
 
 ## References
 
-::: {#refs}
-:::
+[Full reference list](../../references.qmd).

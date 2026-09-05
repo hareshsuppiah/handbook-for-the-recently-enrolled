@@ -5,28 +5,27 @@ last-reviewed: "2026-08-28"
 
 ## Preserve the evidence first
 
-Preserve the exact command, error, inputs, revision, environment, expected result, actual result and last working state.
+Save the error message and the command that produced it before changing anything. Note the input files, code version, software environment, what you expected and what happened. Keep the last working version if you have it.
 
 ## Try this now
 
 1. Reproduce the failure.
-2. Build the smallest safe example.
-3. Classify input, environment, configuration, logic, state, dependency, resource or output.
-4. Test one controlled hypothesis.
-5. Record result and next branch.
-6. After repair, run cleanly from authoritative inputs and compare consequential outputs.
+2. Reduce it to a small example that contains no protected data.
+3. Check where it begins: the inputs, software, settings, code logic, saved session state, dependencies, available resources or output step.
+4. Change one thing and record what happened.
+5. Once it works, rerun from the original approved inputs in a fresh session and check the important outputs.
 
 ## What to take when asking
 
-Bring reproduction steps, full error, non-sensitive inputs, environment, attempts and one precise question. Never share credentials or protected data.
+Share the steps, full error, safe example data, software details and fixes you've tried. Remove credentials and protected data before asking online.
 
 ## Stop or escalate
 
-Escalate irreproducible reported results, possible data loss, security incident or governance control. Do not “fix” permissions by bypassing them.
+Contact the appropriate research or IT service for possible data loss, a security incident or a permission problem. Tell your supervisor if reported results can't be reproduced. Bypassing access controls is not a repair.
 
 ## You are moving again when
 
-A clean run produces verified outputs and another authorised person can reproduce the route.
+The work runs from a fresh session, you've checked its outputs and another authorised person can follow the same steps.
 
 Use [Technical failure](../chapters/part-11/32-technical-failure-perfectionism.qmd) and the [before-analysis checklist](../checklists/before-analysis.qmd).
 
