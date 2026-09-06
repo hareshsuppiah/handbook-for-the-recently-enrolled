@@ -6,7 +6,9 @@ Every suggestion has a public GitHub page. That's where the editor asks question
 
 ## Reviewing the idea
 
-The editor checks whether the handbook already covers the question, whether the advice needs evidence and which pages would need to change. Sometimes a suggestion needs a little more detail. Sometimes it belongs with an existing discussion.
+An AI assistant is configured to compare the suggestion with nearby chapters and existing requests. It proposes what to change, what needs researching and how to check the result. If an important detail is missing, it can ask up to two questions. You can answer in a comment; you don't need to complete another form.
+
+An editor reviews that proposal. The assistant cannot approve its own work. If the assistant is unavailable, the suggestion stays open for the editorial team.
 
 The outcome may be acceptance for drafting, a request for evidence, deferral, decline or a link to a duplicate suggestion. The editor records the reason so you can understand the decision and respond.
 
@@ -15,6 +17,8 @@ The outcome may be acceptance for drafting, a request for evidence, deferral, de
 An accepted suggestion goes to a contributor or an AI agent with an agreed scope. They prepare edits in a **pull request**, GitHub's name for a proposed change. The request shows the changed text, supporting sources and checks.
 
 An authorised editor then reads the actual edits and asks for revisions, accepts them for publication or rejects them. Accepting an idea gives permission to draft; publication follows this second review. The original suggestion links to the published result.
+
+A separate AI review is configured to check the proposed text against the approved request and the supplied evidence record. It can request up to two revisions from Copilot. It does not independently verify every cited source. The editor still checks the content, sources and build results before publishing. Changes to the automation itself are reserved for human review.
 
 ## Editorial roles
 
@@ -25,6 +29,8 @@ The current automation restricts approval and decline commands to the founding e
 ## Working with an agent
 
 An authorised `/approve` comment, or the `decision: approved` label, starts the assignment workflow. When the Copilot credential and account access are available, Copilot prepares a pull request. An assignment failure is recorded on the suggestion so an editor can check it or assign the work manually.
+
+For the full automated review route, use a comment containing `/approve`. Use `/defer reason` to leave an unapproved suggestion open for later, or `/decline reason` to close it. These commands are for authorised editors, not something readers need to learn. Deferring an already approved suggestion does not cancel an active agent session.
 
 An editor can also give Codex an approved issue URL with this instruction: `Implement this approved handbook issue and return a tested pull request. Do not merge it.` The agent checks the approval and supporting evidence before drafting.
 

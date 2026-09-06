@@ -35,7 +35,7 @@ jobs:
               . == "work: in-progress" or
               . == "work: owner-review" or
               . == "work: released") or
-            any(.assignees[]?.login; . == "copilot-swe-agent[bot]")
+            any(.assignees[]?.login; . == "copilot-swe-agent[bot]" or . == "Copilot")
           ' <<<"$ISSUE_JSON")"
           HANDOFF_EXISTS="$(jq -r '
             any(.[][]?;
@@ -74,6 +74,8 @@ jobs:
         run: |
           gh issue edit "$ISSUE_NUMBER" --remove-label "status: needs-triage" || true
           gh issue edit "$ISSUE_NUMBER" --remove-label "status: awaiting-owner-decision" || true
+          gh issue edit "$ISSUE_NUMBER" --remove-label "status: needs-evidence" || true
+          gh issue edit "$ISSUE_NUMBER" --remove-label "decision: deferred" || true
           gh issue edit "$ISSUE_NUMBER" --add-label "work: agent-ready"
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -169,3 +171,27 @@ jobs:
           GH_REPO: ${{ github.repository }}
           ISSUE_NUMBER: ${{ github.event.issue.number }}
           COMMENT_BODY: ${{ github.event.comment.body }}
+
+  record-defer:
+    if: >-
+      github.actor == 'hareshsuppiah' &&
+      github.event_name == 'issue_comment' &&
+      github.event.issue.pull_request == null &&
+      (github.event.comment.body == '/defer' || startsWith(github.event.comment.body, '/defer '))
+    runs-on: ubuntu-latest
+    steps:
+      - name: Keep the suggestion open for a later decision
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          COMMENT_BODY: ${{ github.event.comment.body }}
+        run: |
+          STATE="$(gh issue view "$ISSUE_NUMBER" --json labels --jq '.labels[].name')"
+          if [[ "$STATE" == *"decision: approved"* ]]; then
+            gh issue comment "$ISSUE_NUMBER" --body "Drafting was already approved. Deferral has not cancelled an agent session; the editor should review the active pull request."
+            exit 0
+          fi
+          gh issue edit "$ISSUE_NUMBER" --add-label "decision: deferred"
+          REASON="${COMMENT_BODY#/defer}"
+          gh issue comment "$ISSUE_NUMBER" --body "An authorised editor has deferred this suggestion.${REASON:- No reason was supplied.} It remains open; drafting has not been authorised."

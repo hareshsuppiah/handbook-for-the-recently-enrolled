@@ -5,6 +5,8 @@ last-reviewed: "2026-09-05"
 
 You can send a useful suggestion without knowing Git or editing the handbook. The form asks where the problem appears, what you noticed, what you would change and how the change would help.
 
+You don't need a finished paragraph, a reading list or instructions for an AI agent. Tell us what you were hoping to understand. The editorial team can work out the research and writing needed from there.
+
 [Suggest an improvement](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/issues/new?template=share-feedback.yml){.btn .btn-primary}
 
 GitHub uses issue forms to turn structured answers into a public record [@github-creating-issue; @github-issue-forms]. GitHub calls that record an **issue**. For this handbook, it means a reader suggestion.
@@ -42,6 +44,12 @@ If you are new to GitHub, [create a free personal account](https://github.com/si
 The diagram follows the handbook form. GitHub may move its buttons as the interface changes.
 
 ## Worked examples
+
+### The chapter starts too far ahead
+
+> In “What a doctorate asks of you”, I expected an introduction to what a PhD is before advice about doing one. Could you explain its purpose, including the philosophical idea of contributing knowledge and how universities in different countries describe it? I don't have particular sources to recommend. A short introduction would help a new student understand the advice that follows.
+
+This is enough to start a review. You don't need to choose the universities or decide how many words to add. Those choices can be proposed on the suggestion page before drafting begins.
 
 ### A question is missing
 
