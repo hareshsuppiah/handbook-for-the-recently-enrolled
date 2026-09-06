@@ -111,7 +111,21 @@ def model(mode, context):
             cwd=directory, env=env, text=True, capture_output=True, timeout=240)
     if result.returncode:
         # Never print raw CLI output: it may contain submitted text or credentials.
-        raise RuntimeError("Copilot CLI failed; check Copilot Requests permission, seat access and usage limits")
+        message = (result.stderr + result.stdout).lower()
+        categories = [
+            ("unknown option", "unsupported CLI option"),
+            ("invalid", "CLI rejected an argument or configuration"),
+            ("copilot requests", "Copilot Requests permission required"),
+            ("401", "authentication rejected (401)"),
+            ("403", "access forbidden (403)"),
+            ("authenticate", "authentication required"),
+            ("token", "token authentication failed"),
+            ("home", "CLI home configuration failed"),
+            ("quota", "usage quota reached"),
+            ("network", "network failure"),
+        ]
+        category = next((label for match, label in categories if match in message), "unclassified CLI failure")
+        raise RuntimeError("Copilot CLI stopped: " + category)
     return validate(result.stdout, mode)
 
 
