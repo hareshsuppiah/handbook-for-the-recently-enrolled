@@ -114,12 +114,12 @@ def model(mode, context):
         message = (result.stderr + result.stdout).lower()
         categories = [
             ("unknown option", "unsupported CLI option"),
-            ("invalid", "CLI rejected an argument or configuration"),
             ("copilot requests", "Copilot Requests permission required"),
             ("401", "authentication rejected (401)"),
             ("403", "access forbidden (403)"),
             ("authenticate", "authentication required"),
             ("token", "token authentication failed"),
+            ("invalid", "CLI rejected an argument or configuration"),
             ("home", "CLI home configuration failed"),
             ("quota", "usage quota reached"),
             ("network", "network failure"),
