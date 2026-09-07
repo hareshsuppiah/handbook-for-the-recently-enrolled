@@ -1,6 +1,6 @@
 ---
 title: "Supervision meetings that lead somewhere"
-last-reviewed: "2026-09-06"
+last-reviewed: "2026-09-08"
 ---
 
 You've had a good conversation about ethics, methods and a promising paper. Back at your desk, you're less sure what to do next. Was that a suggestion, a decision, or something to revisit?
@@ -9,7 +9,9 @@ A short agenda and a few clear notes can save you that guesswork. This chapter s
 
 ## Design the meeting around decisions
 
-Build the agenda around a change you need from the meeting. It may resolve or sharpen a decision, test reasoning, assign an action, expose a dependency or identify an escalation. A list of topics rarely does that by itself.
+Build the agenda around what you need to understand or do differently after the meeting. It may resolve or sharpen a decision, test reasoning, assign an action, expose a dependency or identify an escalation. A list of topics rarely does that by itself.
+
+Some meetings are for thinking together. You can bring an uncertain interpretation, a piece of creative work or a question you cannot yet frame neatly. The useful outcome may be a better question and one way to investigate it.
 
 The meeting record should be brief enough to maintain and precise enough to answer: what was decided, why, who does what, by when, what evidence will show completion and what remains unresolved.
 
@@ -48,7 +50,7 @@ Name:
 
 ### Bring a recommendation
 
-For a decision, present the relevant evidence, realistic options, trade-offs and your provisional recommendation. “What should I do?” makes the supervisor reconstruct work you could have prepared.
+For a decision, present the relevant evidence, realistic options, trade-offs and your provisional recommendation where you can. If you cannot yet compare options, show where your understanding runs out: “I can explain A, but I don't know what would justify choosing B. Could we work through that distinction?”
 
 ## During the meeting
 
@@ -75,6 +77,10 @@ End with a two-minute do-confirm pause:
 Circulate the record promptly within the agreed window. Invite corrections to factual errors. Transfer actions, decisions and unresolved questions into their persistent registers rather than leaving them stranded in minutes.
 
 A few lines on decisions and next steps are usually enough; you don't need to transcribe the conversation. Keep sensitive personal matters in the appropriate confidential channel.
+
+For example: “We have not selected the interview approach. I will compare the two options against the question and send a one-page note before the next meeting. The supervisor will identify someone who can advise on the unfamiliar method.” That is a useful record even though the method is still undecided. Add the agreed names and dates.
+
+If you use recording, transcription or AI-generated notes, first confirm consent and the applicable privacy and tool rules. Check the notes against what was actually agreed before treating them as the meeting record; see [responsible AI use](../part-06/17-integrity-governance-ai.qmd).
 
 ## Example: “Discuss ethics”
 
@@ -131,6 +137,8 @@ Escalate when required decisions repeatedly cannot be made; essential actions re
 Creative practice, fieldwork, laboratory, clinical, community and industry projects may need different records. Cultural governance or partner agreements may determine who can receive notes and how decisions are validated. Formal progress systems may require separate entries. Keep the underlying distinctions even when the format changes.
 
 ## Try these resources
+
+Before your next meeting, draft one agenda item with a question, the material to look at and the help you need. At the end, read back its decision or next check.
 
 - [Decision-oriented meeting agenda](../../templates/meeting-agenda.qmd)
 - [Meeting record](../../templates/meeting-record.qmd)

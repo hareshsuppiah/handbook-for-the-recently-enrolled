@@ -1,6 +1,6 @@
 ---
 title: "Reproducible research workflows"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
 
 The report runs on your laptop. Your supervisor opens the same project and gets an error about a missing file. This is a useful test: something the workflow needs has stayed on your computer.
@@ -25,6 +25,8 @@ Name:
 
 “Reproduce the thesis” is too broad. “Regenerate Tables 2–4 from analysis-ready dataset release 1.2 using pipeline release 0.6 in the recorded environment” can be tested.
 
+For a first attempt, choose an even smaller target: one table with an input file, a documented command or sequence, and an expected result. *Tolerance* means any difference you would accept and why. A participant count should agree exactly; some numerical results may need a justified tolerance. Decide that before inspecting a rerun, so an unexpected difference does not quietly become acceptable.
+
 ## Make each step visible
 
 Aim for a visible dependency chain:
@@ -43,6 +45,8 @@ Each stage should identify:
 - responsible person.
 
 Avoid hidden state: objects created interactively, absolute paths, undocumented spreadsheet edits, manual menu sequences, unrecorded environment variables, cached results and files selected by “latest” timestamps.
+
+Hidden state is work the computer remembers but the project does not explain. For example, a notebook might use a cleaned table you created yesterday in a cell that is now deleted. Starting a fresh session exposes that dependency. Save the step that creates the table in the workflow, rather than relying on the open session to keep it alive.
 
 ## Separate code, configuration, credentials and data
 
@@ -100,6 +104,8 @@ A workflow needs:
 - **reproduction checks** from a fresh session or environment.
 
 Tests show only what they cover. A green build does not validate the research question, measurement, model or interpretation.
+
+You can begin with a tiny invented dataset. If a rule should total `2`, `4` and `6`, the expected answer is `12`. Check the rule itself, then check whether the exported table still shows `12`. Next remove an expected input: the workflow should follow the documented missing-input rule, not silently use an old result. These small checks test different links in the chain; none establishes that summing this variable is scientifically appropriate.
 
 ## Try a fresh start {#run-the-clean-room-test}
 
@@ -167,5 +173,7 @@ Bring a failed run, its full log and the expected output to a technical review. 
 []{#ask-someone-to-test-a-defined-recovery-target}
 
 ## Try these resources
+
+Write the one result you want someone else to reproduce, its input version and how you'll compare the outputs. That short specification is enough to organise a first attempt.
 
 Use [Before analysis](../../checklists/before-analysis.qmd), [Before project closure and handover](../../checklists/project-closure-handover.qmd), the [backup and restore audit](../../checklists/backup-restore.qmd) and [data dictionary](../../templates/data-dictionary.qmd). The technology chapters show how Quarto and version control can support this reasoning without replacing it.

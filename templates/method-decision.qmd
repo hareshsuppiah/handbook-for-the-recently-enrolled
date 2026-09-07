@@ -1,9 +1,71 @@
 ---
 title: "Methodological decision record"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
 
+Use this once you have compared plausible designs and need to record a provisional choice. Start with the conclusion the study should support, then explain how the selected evidence could support it.
+
 Record a provisional methodological commitment and the conditions for reconsidering it. Keep the protocol, ethics application, preregistration and discipline-specific justification as separate records where they are needed.
+
+
+<details class="template-copy">
+<summary>Open the blank copyable template</summary>
+
+Copy this plain-text version into your approved project record. Repeat entry fields as needed and remove prompts that do not apply. The guidance and examples below help you complete it.
+
+```text
+Methodological decision record
+
+Keep the protocol, ethics application, preregistration and discipline-specific justification as separate records where needed.
+
+Blank record
+
+Decision ID and date: [ ]
+Owner and reviewers: [ ]
+Research question: [ ]
+Intended inference: [ ]
+Chosen design: [ ]
+
+Evidence-to-claim chain:
+
+Entry 1
+Link: Target and unit of inference
+Decision: [ ]
+Main assumption or threat: [ ]
+
+Entry 2
+Link: Source or sampling
+Decision: [ ]
+Main assumption or threat: [ ]
+
+Entry 3
+Link: Measurement, observation or generation
+Decision: [ ]
+Main assumption or threat: [ ]
+
+Entry 4
+Link: Analysis or interpretation
+Decision: [ ]
+Main assumption or threat: [ ]
+
+Entry 5
+Link: Claim boundary
+Decision: [ ]
+Main assumption or threat: [ ]
+
+Alternatives considered: [ ]
+Strongest rejected alternative and reason: [ ]
+Verified constraints: [ ]
+Unverified assumptions: [ ]
+Ethics, governance, community and cultural authority: [ ]
+Feasibility evidence already obtained: [ ]
+Pilot or early failure test: [ ]
+Stop, adapt or escalation condition: [ ]
+Next review point: [ ]
+Evidence that will close this decision: [ ]
+```
+
+</details>
 
 ## Blank record
 
@@ -36,6 +98,8 @@ Record a provisional methodological commitment and the conditions for reconsider
 
 ## Completed example
 
+*Illustrative example; replace these details with your own verified record.*
+
 **Decision ID and date:** METH-004, 28 August 2026
 **Research question:** Can enrolment records identify candidates at elevated near-term withdrawal risk within University X?
 **Intended inference:** predictive discrimination and calibration in a defined historical institutional cohort.
@@ -53,6 +117,10 @@ Record a provisional methodological commitment and the conditions for reconsider
 **Pilot:** manually reconcile a stratified sample of outcome histories before modelling.
 **Stop condition:** the outcome date cannot be reconstructed reliably or lawful access conditions prohibit the proposed use.
 **Next review:** after outcome audit and data-governance confirmation.
+
+## Check your record
+
+Check that a reader can find the rejected alternative, the weakest assumption and the condition that would make you change course.
 
 ## Scenario test
 

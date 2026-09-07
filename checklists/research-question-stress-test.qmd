@@ -1,6 +1,6 @@
 ---
 title: "Check your research question"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
 
 **Pause point:** Before a question anchors a proposal, design, ethics application, analysis plan or major study commitment.
@@ -8,6 +8,8 @@ last-reviewed: "2026-08-28"
 **Prevents:** A broad topic, compound question or unsupported causal promise being mistaken for an answerable research question.
 
 **Use:** Do-confirm. Repeat after consequential changes to access, design, measures, data or intended contribution.
+
+Put the exact question and a one-sentence description of the proposed evidence beside this checklist. Test those versions together. If an item fails, record what must change in the question or design; replacing one ambitious verb is not enough if the study remains incoherent.
 
 ## Critical checks
 
@@ -41,6 +43,8 @@ The stress test finds an undefined exposure, two outcomes, a causal claim, an un
 **Provisional revision:** “How do first-year students in one programme describe the ways social-media use affects their study routines during assessment periods?”
 
 The revision supports an interpretive study but cannot estimate prevalence or demonstrate causation. If causal estimation is essential, the project needs a different design rather than stronger wording.
+
+The wording still needs review with the intended participants, context and method in mind. “Describe the ways… affects” asks about participants' accounts of influence; report it as their interpretation rather than evidence that social media caused the change.
 
 ## Evidence to retain
 

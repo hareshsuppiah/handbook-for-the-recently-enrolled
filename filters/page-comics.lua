@@ -28,8 +28,9 @@ end
 local function comic_block(entry, page_path)
   local original = "https://xkcd.com/" .. entry.comic_id .. "/"
   local license = "https://creativecommons.org/licenses/by-nc/2.5/"
-  local image_alt = "xkcd comic titled “" .. entry.title .. "”. A full transcript is available at the linked original."
+  local image_alt = entry.alt_text or ("xkcd comic titled “" .. entry.title .. "”.")
   local image = pandoc.Image({pandoc.Str(image_alt)}, relative_asset(page_path, entry.asset_path), entry.title)
+  image.attributes["loading"] = "lazy"
   local linked_image = pandoc.Link({image}, original, "Open the original xkcd comic and transcript")
 
   return pandoc.Div({
@@ -56,17 +57,7 @@ function Pandoc(doc)
     return doc
   end
 
-  local insertion = #doc.blocks + 1
-  local seen_first_h2 = false
-  for index, block in ipairs(doc.blocks) do
-    if block.t == "Header" and block.level == 2 then
-      if seen_first_h2 then
-        insertion = index
-        break
-      end
-      seen_first_h2 = true
-    end
-  end
-  table.insert(doc.blocks, insertion, comic_block(entry, page_path))
+  -- Optional humour follows the chapter's explanation and practical actions.
+  table.insert(doc.blocks, comic_block(entry, page_path))
   return doc
 end

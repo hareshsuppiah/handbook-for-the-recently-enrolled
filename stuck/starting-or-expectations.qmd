@@ -1,6 +1,6 @@
 ---
 title: "Starting point or expectations are unclear"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
 
 ## Find the missing expectation
@@ -13,6 +13,8 @@ If an instruction such as “develop the proposal” leaves you unsure where to 
 2. Look at an accepted example to see the level of detail expected.
 3. Note what you think your version needs to show and ask the reviewer to confirm anything unclear.
 4. Record what you'll produce, by when, who will review it and how you'll know it's ready.
+
+For example, “develop the proposal” could become “send a two-page question and design sketch for a decision on feasibility”. An accepted thesis can show the eventual standard, but it may be the wrong model for this early draft. Confirm the stage as well as the format.
 
 ## What to take when asking
 
@@ -27,6 +29,8 @@ Try: “I think this version needs to show [outcome]. I've checked [requirement/
 ## Stop or escalate
 
 Escalate repeated non-response, irreconcilable instructions, unsafe expectations or formal milestones threatened by missing direction.
+
+If the expected timing assumes hours, travel or access you do not have, make that mismatch visible early. Ask which output or date can change, and use the relevant support service for confidential circumstances or adjustments.
 
 ## You are moving again when
 

@@ -1,6 +1,6 @@
 ---
 title: "Collaboration, handoffs and scope"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
 
 A collaborator sends you an analysis script and its final table. You can open both, but you cannot recreate the result. The data version is missing, and the person who wrote the script is about to leave.
@@ -15,7 +15,7 @@ If the thesis contains several studies, explain how their questions and findings
 
 ## Begin with the whole-project argument
 
-A set of publishable studies is not automatically a thesis. Map the programme before optimising individual studies:
+A set of publishable studies still needs a whole-thesis argument. Explain how the programme fits together before refining each study:
 
 | Layer | Question |
 |---|---|
@@ -95,6 +95,14 @@ A useful handoff includes:
 
 Give the recipient time to check the files and instructions. Record the decisions made in a handover meeting so they can refer back to them.
 
+For a remote team, put the request, current version and decision in an agreed shared location. State when a response is needed and which time zone applies. Ask collaborators about realistic review windows and accessible file formats; attendance at an unscheduled call should not be the only way to find out that the project changed.
+
+## Adapt the handover to the kind of research
+
+The same principle applies when there is no script to run. For an interview study, an authorised colleague might trace a theme from the analysis memo to the permitted excerpts and see how interpretations changed. For archival work, they might locate a source using its collection reference, understand your transcription choices and check reproduction restrictions. For creative practice, they might recover the work, the process record and the explanation connecting it to the research question.
+
+Choose a check that suits the method. Agreement with your interpretation is a different question from whether someone can follow how you reached it. Access to confidential material must still fit the project's permissions.
+
 ## Maintain project memory while work is active
 
 Keep enough project history for a new colleague to understand the current work:
@@ -109,7 +117,7 @@ Keep enough project history for a new colleague to understand the current work:
 - authorship and contribution records by output; and
 - links from current artefacts to their authoritative evidence.
 
-Do not duplicate the same truth across many files without naming which version governs. Prefer links and stable identifiers. Archive superseded material without making it look current.
+Choose one current location for each important record and link to it from other files. If you need copies, make it clear which version governs. Keep superseded material in an archive where it cannot be mistaken for the current work.
 
 ## Set the scope at three levels
 
@@ -160,7 +168,7 @@ Use the [repository README template](../../templates/repository-readme.qmd), [da
 
 ## Sources and limits
 
-The agreements and handover checks are editorial suggestions. Its contribution, accountability, research-record and reproducibility boundaries draw on the Australian Code, CRediT and reproducibility guidance without treating any one as a universal project-management standard [@australian-code-2018; @credit-taxonomy; @nasem-reproducibility-2019].
+The agreements and handover checks are editorial suggestions. Their contribution, accountability, research-record and reproducibility boundaries draw on the Australian Code, CRediT and reproducibility guidance without treating any one as a universal project-management standard [@australian-code-2018; @credit-taxonomy; @nasem-reproducibility-2019].
 
 ## References
 

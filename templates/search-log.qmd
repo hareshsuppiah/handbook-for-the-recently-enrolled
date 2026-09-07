@@ -1,7 +1,38 @@
 ---
 title: "Search log"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
+
+Create an entry when you run a search, while the exact query, platform and result count are available. Keep each changed strategy and export linked to its own run.
+
+
+<details class="template-copy">
+<summary>Open the blank copyable template</summary>
+
+Copy this plain-text version into your approved project record. Repeat entry fields as needed and remove prompts that do not apply. The guidance and examples below help you complete it.
+
+```text
+Search log
+
+Blank register
+
+ID: S-001
+Source/database: [ ]
+Platform: [ ]
+Exact date: [ ]
+Strategy version: [link]
+Limits: [and justification]
+Results: [n]
+Export file: [ ]
+Notes/change reason: [ ]
+
+Review purpose and protocol: [ ]
+Deduplication batch and result: [ ]
+Supplementary methods: [ ]
+Update and stopping rule: [ ]
+```
+
+</details>
 
 ## Blank register
 
@@ -16,9 +47,15 @@ last-reviewed: "2026-08-28"
 
 ## Completed example
 
+*Illustrative example; replace these details with your own verified record.*
+
 | ID | Source/database | Platform | Exact date | Strategy version | Limits | Results | Export file | Notes/change reason |
 |---|---|---|---|---|---|---|---|---|
 | S-004 | Scopus | Elsevier | 2026-08-28 | v3 | none | 812 | S004_scopus_v3.ris | added withdrawal term after known-record failure |
+
+## Check your record
+
+Open the saved strategy and export from the log. They should identify what you ran and retained, even when the live database later changes.
 
 ## Scenario test
 

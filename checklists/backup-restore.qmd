@@ -1,11 +1,13 @@
 ---
 title: "Could I restore this work?"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
 
 Restore protected data only into an approved test location. Coordinate with the responsible IT, security, data and records teams.
 
-**Pause point:** Before collection, quarterly during active work, after material storage changes and before handover.
+**Pause point:** Before collection, at an agreed interval during active work, after material storage changes and before handover. Quarterly is one planning example; set the interval from the project's risks and current local requirements.
+
+**Use:** Do-confirm for backup coverage; read-do for a supervised restore test. Copy the test fields into your approved record and complete them as you go. [How the checklists work](index.qmd#what-a-tick-means) explains unknown and not-applicable items.
 
 ## Coverage checks
 
@@ -31,10 +33,20 @@ Restore protected data only into an approved test location. Coordinate with the 
 - [ ] Sensitive material was not exposed during testing.
 - [ ] Someone else can understand the restored files using the accompanying documentation.
 
+Test a copy in a separate approved location. Keep the authoritative files intact while you establish whether recovery works, and check with the responsible team before restoring permissions, shared folders or production systems.
+
 **Failure observed:** [ ]
 **Corrective action, owner and due date:** [ ]
 **Retest evidence:** [ ]
 **Next scheduled test:** [ ]
+
+## Stop condition
+
+Do not begin or continue irreplaceable collection if critical data have no verified recoverable route. Escalate any restore that exposes protected material or reveals corrupted, incomplete or inaccessible authoritative records.
+
+## Completed scenario
+
+A team restores a deleted analysis folder. The files return, but the environment lockfile and data dictionary are absent, and the restored output cannot be reproduced. The audit fails. Backup scope is expanded to include documentation and environment records; a clean reproduction is completed; then the restore is retested and recorded.
 
 ::: {.handbook-visual .original-meme}
 ::: {.meme-line}
@@ -51,14 +63,6 @@ Restore protected data only into an approved test location. Coordinate with the 
 Original illustration created for *The Handbook for the Recently Enrolled* with human editorial direction and AI-assisted production.
 :::
 :::
-
-## Stop condition
-
-Do not begin or continue irreplaceable collection if critical data have no verified recoverable route. Escalate any restore that exposes protected material or reveals corrupted, incomplete or inaccessible authoritative records.
-
-## Completed scenario
-
-A team restores a deleted analysis folder. The files return, but the environment lockfile and data dictionary are absent, and the restored output cannot be reproduced. The audit fails. Backup scope is expanded to include documentation and environment records; a clean reproduction is completed; then the restore is retested and recorded.
 
 ## Related guidance
 

@@ -1,6 +1,6 @@
 ---
 title: "Authorship, collaboration and corrections"
-last-reviewed: "2026-09-06"
+last-reviewed: "2026-09-08"
 ---
 
 You're preparing a paper and someone asks who will be listed as an author. The team remembers the original plan differently, and the person who ended up doing the analysis wasn't on it. This is an awkward time to reconstruct everyone's contribution.
@@ -12,6 +12,8 @@ Talk about credit when you agree the work, then revisit it as roles change. We'l
 Discuss contributions before substantial work begins, record provisional expectations, revisit them when work changes, and apply the authorship standard governing the output. Authorship is not a reward for status, access, supervision, funding or goodwill alone.
 
 If an error affects evidence, attribution, participant or community interests, confidentiality or decisions, preserve the records and seek advice promptly. The correction process is covered later in this chapter.
+
+An opening can be as simple as: “Before we start this paper, can we record who expects to do which work, which authorship criteria apply and when we'll revisit the list?” You don't need to settle every future contribution in that meeting. You do need to make the provisional nature of the arrangement clear and give people a way to correct the record.
 
 ## Separate contribution, authorship, acknowledgement and ownership
 
@@ -79,6 +81,8 @@ Changes are normal. Secret or status-driven changes are not.
 **Defensible response:** update the contribution record; apply the governing authorship criteria to completed work; invite B to clarify and, if appropriate, complete remaining author responsibilities; assess D's actual intellectual contribution and accountability; discuss revised order with all proposed authors; retain the decision and dissent; acknowledge non-author contributions appropriately.
 
 The initial conversation created expectations, not permanent entitlement.
+
+The revised record could begin: “D completed the model reconstruction and technical methods draft; B's completed contribution is the initial design consultation. Authorship status and order remain under review against the named standard.” This separates an observable change in work from a decision the team has yet to make. Keep the discussion and any disagreement with the record; this wording does not resolve the criteria on its own.
 
 ## Design collaboration before conflict
 
@@ -177,4 +181,4 @@ Bring the current output, applicable authorship standard and [contribution recor
 
 ## Try these resources
 
-Use the [authorship conversation record](../../templates/authorship-conversation.qmd), [contribution statement template](../../templates/contribution-statement.qmd), [protocol-deviation log](../../templates/protocol-deviation.qmd) and [decision log](../../templates/decision-log.qmd). For suspected breaches or unsafe disputes, use the authorised confidential local process.
+Choose the next output you expect to share and update its [authorship conversation record](../../templates/authorship-conversation.qmd), including the copyable record of who did what. The separate [contribution statement template](../../templates/contribution-statement.qmd) describes what the research adds to knowledge; it does not declare author roles. Use the [protocol-deviation log](../../templates/protocol-deviation.qmd) and [decision log](../../templates/decision-log.qmd) for related changes. For suspected breaches or unsafe disputes, use the authorised confidential local process.

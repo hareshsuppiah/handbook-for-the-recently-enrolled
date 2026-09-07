@@ -1,6 +1,6 @@
 ---
 title: "Recruitment, data or a study has failed"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
 
 ## Work out what failed
@@ -15,6 +15,8 @@ Keep the original records before trying a fix. Then describe what happened: perh
 4. Write what the remaining evidence can still support.
 5. Compare repairing the study, narrowing it, redesigning it, reporting what happened or stopping.
 6. Obtain any required amendment or approval before changing the work.
+
+For example, a small sample may leave a group comparison too imprecise while still providing a useful account of recruitment. It does not automatically explain why recruitment was low. Keep the result, the limitation and any proposed new question separate. You can discuss the disappointment with someone as well as preparing the research decision.
 
 ## What to take when asking
 

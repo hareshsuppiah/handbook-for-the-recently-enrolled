@@ -1,6 +1,6 @@
 ---
 title: "Sampling, measurement and pilots"
-last-reviewed: "2026-09-06"
+last-reviewed: "2026-09-08"
 ---
 
 The survey opens, the questions display and the results download. So the pilot worked? Perhaps. You still need to know whether the right people could take part, whether they understood the questions and whether the answers will help you address the research question.
@@ -23,6 +23,8 @@ First distinguish four things:
 - **analytic sample:** what remains for a particular analysis after exclusions, missingness or unusable material.
 
 Then identify the selection pathway between them. Ask who or what cannot appear, who chooses to participate, who is screened out, which records are missing, and whether attrition changes the evidence.
+
+In the wellbeing example, your target might include all candidates, while the mailing list contains only currently enrolled candidates. Those on leave cannot respond through that route. Respondents then form the observed sample; a particular analysis may use a smaller group with the required responses. Draw those four groups before discussing sample size. A larger response from the same mailing list would still leave the access gap.
 
 ### Adequacy is purpose-specific
 
@@ -98,7 +100,7 @@ Give the pilot a question to answer, such as whether participants understand an 
 | Can eligible people be reached safely? | recruitment attempts, eligibility and refusal reasons | proceed, change route, narrow target or stop |
 | Are questions understood as intended? | cognitive testing, debriefs or difficult-case review | revise wording, translation or construct definition |
 | Does the procedure work end to end? | timed rehearsal from consent/source access to secure output | retrain, simplify, repair systems or pause |
-| Is the data usable? | missingness, range, provenance, signal or coding audit | change collection, analysis or claim |
+| Are the data usable? | missingness, range, provenance, signal or coding audit | change collection, analysis or claim |
 | Can the analysis answer the question? | dry run on realistic simulated or permitted data | revise model, outputs, sample logic or question |
 | Is burden or risk acceptable? | participant/team feedback and incidents | reduce burden, add controls or stop |
 
@@ -120,6 +122,8 @@ For randomised pilot and feasibility trials, the CONSORT extension frames feasib
 **Redesigned pilot:** verify instrument purpose and permissions; conduct comprehension testing with deliberately varied candidates; test the full recruitment, consent, completion, withdrawal, distress and storage workflow; estimate response and item-missingness patterns; define green, amend and stop thresholds before launch.
 
 **Possible outcome:** overall completion is acceptable, but international part-time candidates misinterpret two items and the distress route is not visible on mobile. Decision: revise or select the instrument, repair the mobile materials, repeat those tests, and do not begin the main collection yet.
+
+Turn “repair the mobile materials” into something you can check: “On each supported phone layout, a tester can find the approved distress contact from the survey and exit through the approved route.” Retest that exact step after the repair. This is an illustrative criterion for this problem, not a substitute for the study's approved risk response or method-specific progression rules.
 
 ## Decide whether pilot data can enter the main study
 
@@ -161,5 +165,7 @@ Bring your sampling rationale, anticipated losses and the evidence supporting yo
 - [ ] Pilot results and resulting decisions are retained.
 
 ## Try these resources
+
+Write one sentence before planning the pilot: “We need to find out whether [uncertainty]; if [observable problem] occurs, we will [change or stop].” If you cannot name the resulting decision, refine the pilot question first.
 
 Use the [pilot-readiness checklist](../../checklists/pilot-readiness.qmd), [before data collection checklist](../../checklists/before-data-collection.qmd), [method-options comparison](../../templates/method-options.qmd) and [methodological decision record](../../templates/method-decision.qmd). If adequacy cannot yet be defended, use [I’m stuck](../../stuck/index.qmd) before launching the main study.

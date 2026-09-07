@@ -1,6 +1,6 @@
 ---
 title: "Is this good enough for its next use?"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
 
 **Pause point:** When uncertainty about quality is causing delay, repeated refinement or premature release.
@@ -9,13 +9,19 @@ last-reviewed: "2026-08-28"
 
 ## Name the stage
 
-- [ ] Explore: test an idea or uncertainty cheaply.
-- [ ] Decide: choose among realistic options.
-- [ ] Review: obtain a bounded judgement from another person.
-- [ ] Submit or act: meet a formal external gate.
-- [ ] Archive or hand over: leave a recoverable, verifiable record.
+Choose the next use of one named piece and version of your work. These are alternatives, not a sequence of boxes to tick today.
+
+- **Explore:** test an idea or uncertainty cheaply.
+- **Decide:** choose among realistic options.
+- **Review:** obtain a bounded judgement from another person.
+- **Submit or act:** meet a formal external gate.
+- **Archive or hand over:** leave a recoverable, verifiable record.
+
+- [ ] I have named the work, its version, its next use and the person who will use or review it.
 
 ## Critical questions
+
+Copy the table into your project notes. Add the evidence and a pass, fail or justified not-applicable judgement for each test. An unknown needs a next check; it should not be counted as a pass. Keep these judgements separate from the browser's tick count.
 
 | Test | Evidence | Pass / fail / not applicable |
 |---|---|---|

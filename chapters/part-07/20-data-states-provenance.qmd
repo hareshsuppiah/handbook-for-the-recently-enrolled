@@ -1,6 +1,6 @@
 ---
 title: "Data states, codebooks and provenance"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
 
 A file called `final_clean_v7` leaves quite a few questions unanswered. You need to know where it came from, what changed in version seven and why rows are missing.
@@ -112,6 +112,16 @@ The custodian explains that `I` changed from “inactive” to “interrupted”
 
 Keep each original extract and its period-specific definitions. Create separate fields for the source status and the harmonised status, retaining “unknown” where you cannot establish the meaning. Check a sample against the recorded histories. If the years cannot be compared reliably, restrict the analysis period or narrow the claim.
 
+A small transformation record might look like this. The values are invented to illustrate the decision.
+
+| Source year and value | Meaning confirmed for that source | Analysis value | Reason retained |
+|---|---|---|---|
+| 2025: `I` | interrupted | interrupted | custodian's 2025 definition and lookup version recorded |
+| legacy extract: `T` | transfer or completion; cannot separate | unknown | preserve the ambiguity rather than guess |
+| 2025: `0` | export default | unknown | retain the original zero separately from a substantive category |
+
+You can now answer both “What did the file contain?” and “What did our analysis use?” Keep the unknown cases visible when describing exclusions and uncertainty.
+
 ## Record exclusions as data decisions
 
 For every exclusion rule, document:
@@ -171,5 +181,7 @@ Before analysis, fix the input version for that analysis and reconcile the exclu
 []{#show-the-exact-transformation-in-dispute}
 
 ## Try these resources
+
+Choose one important field and complete its dictionary entry before cleaning another version of the dataset. If the definition is missing, record the question and ask the custodian while the source is still available.
 
 Use the [data dictionary and codebook](../../templates/data-dictionary.qmd), [folder and file-naming starter](../../templates/folder-file-naming.qmd), [protocol-deviation log](../../templates/protocol-deviation.qmd) and [Before analysis](../../checklists/before-analysis.qmd). Continue to [Reproducible workflows](21-reproducible-workflows.qmd) for code, environments and clean-run checks.

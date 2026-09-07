@@ -1,5 +1,6 @@
 ---
 title: "How the checklists work"
+last-reviewed: "2026-09-08"
 ---
 
 You're about to collect data or submit a paper. You've done the work, but have you missed anything that would be difficult to fix later? A short checklist gives you a moment to check.
@@ -16,6 +17,14 @@ Start with [the whole-doctorate checklist](doctoral-journey.qmd) for a chronolog
 
 Each checklist tells you when to use it, what to check and what would mean pausing the work. It also tells you which records to keep. Adapt it with your team so it fits your method and local requirements.
 
+## What a tick means
+
+Tick an item when you have checked it and can point to the evidence. If the answer is unknown, leave it unticked and record the next question, the person who can answer it and a follow-up date in your project notes. If it does not apply, record why; seek confirmation when that judgement concerns a formal requirement. An unticked box is not automatically a failure.
+
+Use the stop condition to decide whether affected work must pause. A nearly complete checklist can still have one item that prevents proceeding. The number of ticks is a reminder of what you have checked, not a readiness score or formal approval.
+
+Where interactive controls are available, ticks last for the current page session by default. Select **Remember ticks on this device** only if you want this browser to retain them. That saves tick states on this device, not evidence, written notes or an institutional record; it does not synchronise across devices. You can reset them, copy the checklist or print it. Keep the dated decision and supporting evidence in your approved project system, especially when repeating a checklist for another study.
+
 ## Choose a checklist {#the-phase-system}
 
 | Pause point | Primary purpose | Format |
@@ -31,6 +40,21 @@ Each checklist tells you when to use it, what to check and what would mean pausi
 | [Before thesis submission](before-thesis-submission.qmd) | Verify the exact final thesis and its formal requirements | Do-confirm |
 | [Before project closure and handover](project-closure-handover.qmd) | Leave a recoverable, lawful and intelligible research record | Do-confirm |
 
+## Find a check for a specific problem
+
+| What you need to work out | Start here |
+|---|---|
+| Whether a draft is ready for its next use | [Good-enough rubric](good-enough-rubric.qmd) |
+| Whether the question can be answered | [Research-question stress test](research-question-stress-test.qmd) |
+| How much searching the decision needs | [Search-ladder decision aid](search-ladder.qmd) |
+| Whether a pilot can answer its feasibility question | [Pilot readiness](pilot-readiness.qmd) |
+| Whether to continue, change direction or stop | [Pivot, continue or stop](pivot-continue-stop.qmd) |
+| Whether the work can be recovered | [Backup and restore audit](backup-restore.qmd) |
+| Whether repository sharing is ready | [Git and GitHub starter](git-github-starter.qmd) |
+| Whether an AI task is allowed and checkable | [AI-use decision](ai-use-decision.qmd) |
+
 ## Keep it usable {#adapt-without-weakening}
 
 Add checks your project needs, then try the checklist in practice. If an item needs a long explanation, link to the guidance. Keep the checklist itself short enough that you'll use it.
+
+For a qualitative, archival, theoretical or practice-led project, translate terms such as *dataset*, *sample* and *analysis* into the material and reasoning your method uses. Keep the underlying checks on authority, evidence, traceability and interpretation. Do not invent numerical thresholds or requirements simply to make an item look applicable.

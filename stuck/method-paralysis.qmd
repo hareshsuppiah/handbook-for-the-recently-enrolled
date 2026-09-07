@@ -1,6 +1,6 @@
 ---
 title: "I cannot choose a method"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
 
 ## Start with the claim
@@ -14,6 +14,8 @@ Before comparing methods, write what you want to find out. Do you need to estima
 3. Check their assumptions, access needs, expertise, participant burden, risks and time.
 4. Test the most uncertain requirement with a small, affordable trial where permitted.
 5. Take the comparison to a methods adviser. Record your provisional choice and what would make you revisit it.
+
+If your question is how students interpret feedback, compare ways to examine their accounts. If it is how often a response occurs in a defined population, examine the sampling and measurement that an estimate would need. Neither question is inherently better; deciding which answer you need makes the method comparison more useful.
 
 ## What to take when asking
 

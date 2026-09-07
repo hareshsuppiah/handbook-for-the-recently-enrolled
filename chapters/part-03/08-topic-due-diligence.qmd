@@ -1,9 +1,9 @@
 ---
 title: "Choosing a topic worth pursuing"
-last-reviewed: "2026-09-06"
+last-reviewed: "2026-09-08"
 ---
 
-Before you commit to a topic, check whether you can get the data, recruit enough people and find the expertise you need. Search for studies that might already have answered the question.
+You've found a topic that seems worth several years of work. Before you commit, check whether you can obtain the data, texts, materials or access it needs, and find the expertise to use them well. If it involves recruitment, test whether the relevant people can realistically take part. Search for work that might already have answered the question.
 
 These checks are often called due diligence. You can do many of them with a short search, a sample file or a conversation with the right person. Finding a problem now leaves you more room to change the project.
 
@@ -64,6 +64,10 @@ Before major commitment:
 
 For each test, decide in advance what result would let you continue and what would make you revise or stop. That gives the test a useful endpoint.
 
+“Cheap” does not mean informal access to protected material. A conversation about permission, a public catalogue or a synthetic file may answer the immediate feasibility question without beginning the research activity that needs approval.
+
+For an archival project, for example, a catalogue entry may establish that a collection exists while leaving access, copying, language and publication permissions unresolved. Your first useful output could be a one-page access note: what can be consulted, by whom, when, at what cost, and under which conditions. For a practice-led project, test access to materials, spaces and documentation methods with the same care.
+
 ## Example: the prestigious but inaccessible dataset
 
 A project proposes a novel analysis of a national administrative dataset. The proposal assumes access within six months.
@@ -118,6 +122,8 @@ Bring the one-page topic case, completed canvas, strongest contrary evidence, ma
 Access, ethics, privacy, safety, cultural governance, legal obligations, specialist methods, intellectual property, funding or partner authority exceeds the team's competence or decision rights.
 
 ## Try these resources
+
+Pick the assumption that would be most costly to discover was wrong six months from now. Arrange the smallest authorised check that could settle it, and record what you will do if it fails.
 
 - [Topic due-diligence canvas](../../templates/topic-due-diligence.qmd)
 - [One-page topic case](../../templates/topic-case.qmd)

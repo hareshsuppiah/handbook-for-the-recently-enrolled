@@ -1,6 +1,6 @@
 ---
 title: "Track a suggestion"
-last-reviewed: "2026-09-05"
+last-reviewed: "2026-09-08"
 ---
 
 The public tracker is the handbook's GitHub Issues list. You can read it without creating an account. Sign in to submit a suggestion or reply.
@@ -8,6 +8,10 @@ The public tracker is the handbook's GitHub Issues list. You can read it without
 [Open the live tracker](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/issues){.btn .btn-primary}
 
 Search for a few words from your question first. Open a matching issue to read the editor's response. If it covers your point, add useful detail there rather than submit the same suggestion again.
+
+![An actual suggestion page shows its issue number, Open status, initial text, labels and notification control.](../assets/contributions/github-tracker-2026-09.png){fig-alt="GitHub issue 3 is Open with needs-triage and reader-feedback labels. Its main column contains the reader's answers. The side column shows no assignee and notification controls. This is a dated example, not a live progress display." width=820}
+
+*Captured 8 September 2026 from a real suggestion. The owner sees additional editing controls. If you already follow an issue, GitHub shows **Unsubscribe**; otherwise use **Subscribe** to follow it. The labels and outcome may have changed since this capture.*
 
 ## Find the work you want to follow
 

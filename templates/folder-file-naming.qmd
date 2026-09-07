@@ -1,9 +1,70 @@
 ---
 title: "Folder and file-naming starter"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
 
+Use this when setting up a project or agreeing where an existing team keeps its current files. Copy the starter, then adapt the locations and permissions to the approved storage system.
+
 Adapt the structure to approved storage, data sensitivity, method and team practice. Identifiable or restricted material may need a separate controlled system.
+
+
+<details class="template-copy">
+<summary>Open the blank copyable template</summary>
+
+Copy this plain-text version into your approved project record. Repeat entry fields as needed and remove prompts that do not apply. The guidance and examples below help you complete it.
+
+```text
+Folder and file-naming starter
+
+Identifiable or restricted material may need a separate approved controlled system. A folder name does not enforce permissions.
+
+Starter structure
+
+project/
+  README.md
+  admin/
+  protocol/
+  data/
+    00_incoming/
+    01_raw_read_only/
+    02_interim/
+    03_analysis_ready/
+    04_release/
+  code/
+  outputs/
+    figures/
+    tables/
+    reports/
+  metadata/
+  logs/
+
+Authoritative copy for each folder: [ ]
+Folders prohibited from sync, repository or local device: [ ]
+Read-only enforcement for raw material: [ ]
+Access owner and review date: [ ]
+
+Naming convention
+
+Pattern: [project]_[item]_[context]_[YYYY-MM-DD]_[status-or-version].[ext]
+
+Allowed separators and case: [ ]
+Controlled status/version terms: [draft / reviewed / approved / raw / derived / release]
+Leave these out. Participant names, sensitive attributes, credentials, unexplained initials, final2 and latest.
+
+README prompts
+
+- purpose and scope of the project;
+- owner, contact and last review date;
+- where restricted data actually live;
+- folder and data-state meanings;
+- setup or processing sequence;
+- naming, version and metadata rules;
+- prohibited actions;
+- backup and recovery route; and
+- closure or handover instructions.
+```
+
+</details>
 
 ## Starter structure
 
@@ -76,7 +137,13 @@ Original illustration created for *The Handbook for the Recently Enrolled* with 
 
 ## Completed scenario
 
+*Illustrative example; replace these details with your own verified record.*
+
 Two files are named `clean_data_final.csv` and `clean_data_final_NEW.csv`. Inspection shows that one excludes withdrawals and the other changes timezone conversion. Rename neither until provenance is reconstructed. Preserve both, record checksums and origins, reproduce transformations from raw data, create a defined analysis-ready output and document the exclusions and timezone rule. Naming cannot substitute for a derivation record.
+
+## Check your record
+
+Ask another team member to locate the authoritative original and current working output. A clearer filename cannot repair missing provenance or enforce read-only access.
 
 ## Related guidance
 

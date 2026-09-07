@@ -1,15 +1,17 @@
 ---
 title: "Can I use AI for this task?"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
 
 Before using AI with research material, work through these questions. Check the current rules for your institution, funder, publisher, approvals and agreements.
 
+**Use:** Read-do. Record the answers in an approved project note; the boxes on this page are a reminder, not a place to store protected information. Repeat the decision when the task, input, tool or applicable rules change.
+
 ## Start here
 
-**What exact task will the tool perform?** [ ]
+**What exact task will the tool perform?** Name one task, such as explaining an error in synthetic example code.
 
-**What research decision, evidence, analysis, text, code, image, communication or external action could it affect?** [ ]
+**What research decision, evidence, analysis, text, code, image, communication or external action could it affect?** Include anything the tool can change or send, as well as what it can read.
 
 ### 1. Is the use authorised?
 
@@ -41,11 +43,15 @@ This includes personal, confidential, unpublished, embargoed, copyrighted, cultu
 
 ## Decision
 
-- [ ] **Proceed:** the use is allowed, inputs are limited to what is needed, a person takes responsibility and the output can be checked.
-- [ ] **Proceed with controls:** list access, configuration, review and disclosure controls.
-- [ ] **Use a lower-risk alternative:** [ ]
-- [ ] **Pause for authoritative advice:** owner and date [ ]
-- [ ] **Do not use:** reason [ ]
+Choose one outcome and record its reason. These are alternatives, not five tasks to complete.
+
+- **Proceed:** the use is allowed, inputs are limited to what is needed, a person takes responsibility and the output can be checked.
+- **Proceed with controls:** list access, configuration, review and disclosure controls.
+- **Use a lower-risk alternative:** name the alternative and why it meets the need.
+- **Pause for authoritative advice:** name the person to ask and a follow-up date.
+- **Do not use:** record which requirement the proposed use cannot meet.
+
+- [ ] I have recorded one outcome, its supporting checks and any controls or follow-up needed before use.
 
 ## Scenario test
 

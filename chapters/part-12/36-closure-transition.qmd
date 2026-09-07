@@ -1,6 +1,6 @@
 ---
 title: "Closing and archiving the project"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
 
 After submission, there are still files to archive, accounts to transfer and unfinished papers to discuss. Try to settle these while you can still access the systems and the people who know the project.
@@ -32,7 +32,7 @@ List everything that belongs to the project:
 - open corrections, publications, reporting and access requests; and
 - complaints, safety, integrity or legal matters in their authorised processes.
 
-The inventory should name the authoritative copy, current state, custodian, permitted access, retention/disposal rule and next action.
+For each item, name the official copy, its current state, the person or team responsible, who may access it, how long it must be kept and what happens next. Check the applicable disposal rule before scheduling deletion.
 
 ## Decide what to keep, transfer or dispose of {#choose-a-disposition-for-every-item}
 
@@ -49,6 +49,8 @@ The inventory should name the authoritative copy, current state, custodian, perm
 Check retention and disposal requirements before acting. Some material must be preserved; other material must be removed under consent, agreements or applicable rules.
 
 ## Build an archive manifest
+
+An archive manifest is the contents list that makes a collection usable: what is there, where it came from, who may use it and how to check it. You can begin with a spreadsheet or README in the approved archive. Choose a format your future custodian can open.
 
 For each retained collection record:
 
@@ -136,6 +138,8 @@ Create an output register for the following work.
 
 Each continuing item needs an owner, authority, due/review date, contact path and evidence of completion. Graduation does not automatically terminate publication ethics, confidentiality, data stewardship or correction responsibilities.
 
+Continuing work also needs an explicit, feasible agreement. For an unfinished paper, settle who leads it, what contribution you can commit, how access will work and whether the work requires employment or another arrangement. Keeping a corresponding-author contact is different from promising unlimited unpaid analysis after you leave.
+
 ## Example: “everything is in Dropbox”
 
 The new custodian can see the folder but cannot identify the approved dataset, distinguish current from superseded analysis, restore the software environment or tell whether participant quotations may be reused.
@@ -173,6 +177,10 @@ Choose a small set of outcomes:
 - establish the new project's governance and data plan before work begins.
 
 The plan should distinguish accepted position, submitted application, invited discussion and aspiration. Completion of a doctorate changes capability and credentials; it does not make uncertain opportunities confirmed.
+
+Your transition does not have to be a new research programme. If you are moving into another kind of work, focus on closing obligations and selecting permitted examples that show what you can do. A public paper, a synthetic-data demonstration or a description of a decision you led may be more appropriate than copying project files to a personal account. Check permission before retaining or sharing any non-public material.
+
+Leave room for rest, relationships and practical changes as well as professional tasks. If you do not yet know what comes next, choose one useful conversation and one closure task. The plan can remain provisional.
 
 
 For career conversations and practical prompts, see [life during a PhD](../../stuck/life-during-a-phd.qmd#careers).

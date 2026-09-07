@@ -1,7 +1,31 @@
 ---
 title: "Matters-arising register"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
+
+Use this to carry an unresolved matter from one meeting to the next without repeating the whole discussion. Link its actions, questions and decisions instead of maintaining separate conflicting copies.
+
+
+<details class="template-copy">
+<summary>Open the blank copyable template</summary>
+
+Copy this plain-text version into your approved project record. Repeat entry fields as needed and remove prompts that do not apply. The guidance and examples below help you complete it.
+
+```text
+Matters-arising register
+
+Blank register
+
+ID: M-001
+Origin/date: [ ]
+Matter: [ ]
+Current evidence: [ ]
+Next step: close / continue / escalate / transfer
+Owner: [ ]
+Next review: [ ]
+```
+
+</details>
 
 ## Blank register
 
@@ -11,9 +35,15 @@ last-reviewed: "2026-08-28"
 
 ## Completed example
 
+*Illustrative example; replace these details with your own verified record.*
+
 | ID | Origin/date | Matter | Current evidence | Next step | Owner | Next review |
 |---|---|---|---|---|---|---|
 | M-004 | Meeting 3 | Data-access confirmation | partner has not signed | escalate to partner lead | supervisor | Friday |
+
+## Check your record
+
+At the next review, update the evidence and choose whether to close, continue, transfer or escalate the matter. Give any follow-up action an owner and date.
 
 ## Scenario test
 

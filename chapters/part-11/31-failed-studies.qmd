@@ -1,6 +1,6 @@
 ---
 title: "When a study fails"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
 
 Recruitment has stalled, the instrument is giving unreliable readings, or a partner has withdrawn access. It is hard to see months of work in trouble. Before deciding what to change, work out which part of the study failed and what you can still learn from it.
@@ -28,6 +28,8 @@ Keep planned, amended and exploratory work distinct. Preserve the original quest
 | Governance failure | work occurred outside approval, consent, agreement or required control | what immediate containment and formal reporting are required? |
 
 Use the table to locate the problem before changing other parts of the study.
+
+You may need time to absorb the disappointment as well as help with the research decision. You can tell your supervisor that both are difficult. The record describes what happened to the study; it is not a judgement of your worth or a requirement to repair everything alone.
 
 ## Freeze the record before redesigning
 
@@ -110,6 +112,8 @@ Use when a different design or question can produce a worthwhile contribution. R
 
 Use when the process itself provides credible evidence about recruitment, acceptability, measurement, implementation or system constraints. Pilot and feasibility work should be judged against prespecified feasibility objectives, not only a later efficacy outcome [@eldridge2016pilot].
 
+Calling the remaining work a pilot does not make it one retrospectively. Explain the original aim, why it became unanswerable and which feasibility questions the existing records can now address. If you did not ask people why they declined, for example, the number of refusals cannot establish their reasons.
+
 ### Stop
 
 Use when no important, feasible and responsible contribution remains, harm or burden is disproportionate, approvals cannot support the route, or repair would consume resources needed for a stronger programme. Stopping responsibly includes closure, reporting and preservation.
@@ -131,6 +135,12 @@ Keep the original recruitment record. Update the protocol, registration and anal
 ## Example: data access disappears
 
 A partner withdraws access before transfer. The preferred dataset never became project data. The team should not describe it as “lost data”. Preserve the agreement and access history, close unauthorised routes, test whether a public dataset supports the same inference, and use formal change control if the question or contribution changes. Pressure or informal credentials do not create permission.
+
+## Example: an interview study loses a key perspective
+
+You planned to compare the experiences of students and supervisors, but have interviewed only students. Their accounts may support a useful analysis of student experience. They cannot establish what the absent supervisors thought or why they acted as they did.
+
+Compare an approved recruitment change with a narrower, explicitly student-focused question. Ask what the revised material can support under the chosen qualitative method; counting the interviews alone will not settle that question. Retain the original comparison aim and explain any change, including its effect on consent, analysis and the thesis contribution.
 
 ## When the failure may involve harm or breach
 

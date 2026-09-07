@@ -1,9 +1,9 @@
 ---
 title: "From proposal to research plan"
-last-reviewed: "2026-09-06"
+last-reviewed: "2026-09-08"
 ---
 
-A proposal gets you started. Once you enrol, you can find out whether the data are available, how recruitment might work and how much time the study will take. This usually gives you a few reasons to revise it.
+A proposal gets you started. Once you enrol, you can find out whether the data, archives or materials are available, how recruitment or access might work and how much time the study will take. This usually gives you a few reasons to revise it.
 
 Start with the proposal you have. We'll turn its promises and guesses into things you can check, then build a plan you can update as you learn.
 
@@ -12,22 +12,6 @@ Start with the proposal you have. We'll turn its promises and guesses into thing
 Read the proposal as an opening argument. Go through it line by line and separate commitments, evidence, assumptions, options and unknowns. Then add the dependencies and review points that were probably invisible when the proposal was written.
 
 A useful plan makes the next important decisions visible. It also says what evidence would support them and what could get in the way.
-
-::: {.handbook-visual .original-meme}
-::: {.meme-line}
-**The project plan was a straight line.**
-:::
-
-![](../../assets/original-memes/plan-versus-reality.jpg){fig-alt="Two panels show the same graduate researcher: first arranging a simple linear sequence of cards, then navigating a looping network of revisions and returned folders."}
-
-::: {.meme-line}
-**The project had other ideas.**
-:::
-
-::: {.visual-credit}
-Original illustration created for *The Handbook for the Recently Enrolled* with human editorial direction and AI-assisted production.
-:::
-:::
 
 ## What changes after enrolment
 
@@ -48,7 +32,7 @@ Mark each important statement using one of five states:
 “The study will recruit 100 participants” may be an assumption, not a commitment. “No participant contact before ethics approval” may be a firm constraint. Treating both as ordinary tasks conceals their different status.
 
 ::: {.decision-card}
-**Smallest useful next action:** Annotate the proposal using the five states above. Move every assumption and unknown into a visible register rather than quietly carrying it into the timeline.
+**Smallest useful next action:** Start with the five statements in your proposal that the project most depends on. Label them using the states above, then work through the remaining promises. Give every assumption and unknown a visible place in your notes before carrying it into the timeline.
 :::
 
 ## Build a plan you can revise
@@ -93,7 +77,9 @@ Begin with five recoverable records:
 4. **Risk and issues register:** potential and actual problems, consequence, response, owner and escalation point.
 5. **Source trail:** where claims, requirements and evidence came from.
 
-These records may live in a spreadsheet, database, plain-text files or an approved project platform. The tool matters less than recoverability, access control and consistent use.
+These records can begin as five sections in one approved document. You do not need five applications or five administrative routines. Link an action to the decision it serves instead of copying the same explanation into several places.
+
+As the project grows, the records may live in a spreadsheet, database, plain-text files or an approved project platform. The tool matters less than recoverability, access control and consistent use.
 
 Put time-specific commitments in the calendar, current work states in the action register, and reasoning in the decision log. Email is evidence of communication, not a complete project-management system.
 
@@ -109,6 +95,30 @@ The proposal assumes 60 specialist participants can be recruited in six months. 
 - **Stop condition:** do not represent access as secured without written confirmation or begin recruitment without approval.
 
 The team can now check recruitment before spending months designing a study that depends on it.
+
+One row is enough to start the working plan:
+
+| Next outcome | Evidence of completion | Dependency | Review decision |
+|---|---|---|---|
+| Establish whether the proposed recruitment route is viable | Written access position and a documented estimate of the eligible pool, with its assumptions | Partner contact can confirm access and pool information through an authorised route | Retain the original design, investigate another site or bring a smaller design to supervision |
+
+Add the named people and agreed dates for your project. “Ask the partner” is an action; a reply that settles access is the evidence you are waiting for.
+
+::: {.handbook-visual .original-meme}
+::: {.meme-line}
+**The project plan was a straight line.**
+:::
+
+![](../../assets/original-memes/plan-versus-reality.jpg){fig-alt="Two panels show the same graduate researcher: first arranging a simple linear sequence of cards, then navigating a looping network of revisions and returned folders."}
+
+::: {.meme-line}
+**The project had other ideas.**
+:::
+
+::: {.visual-credit}
+Original illustration created for *The Handbook for the Recently Enrolled* with human editorial direction and AI-assisted production.
+:::
+:::
 
 ## How to decide
 
@@ -150,6 +160,8 @@ Escalate when a required decision sits outside the supervisory team's authority;
 Laboratory, fieldwork, archival, computational, qualitative, creative and participatory projects have different dependencies and evidence. A practice-led project may use cycles of making and critical reflection; a computational project may use datasets, repositories and validation gates; a community partnership may require shared governance and longer relationship-building. Do not force all of them into a task-only project template.
 
 ## Useful templates
+
+Start with the action register and decision log in the same file. Add the other sections when you need to hold a question, risk or source that those two cannot capture clearly.
 
 - [Action register](../../templates/action-register.qmd)
 - [Decision log](../../templates/decision-log.qmd)

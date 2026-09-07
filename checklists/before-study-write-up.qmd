@@ -1,8 +1,11 @@
 ---
 title: "Is this study ready to write up?"
+last-reviewed: "2026-09-08"
 ---
 
-**Pause point:** After the study and its main analyses, before drafting the account that others will rely on.
+**Pause point:** After the study and its main analyses, before treating the written account as a supported report of what happened.
+
+You can draft methods, notes and provisional interpretations throughout the study. Use this pause to reconcile those drafts with the actual record before another person relies on the account. You do not need to postpone writing until every analysis is complete.
 
 **Prevents:** Writing from memory, smoothing over deviations, overstating ambiguous results, or losing the connection between the research record and the reported claim.
 
@@ -28,3 +31,11 @@ Pause if the preferred account cannot be reconciled with the study record, mater
 ## Evidence to retain
 
 Keep the reporting checklist, claim-evidence map, verified tables and figures, deviation record, contributor discussion and the version used for substantive review.
+
+## Scenario test
+
+The draft methods describe the planned interviews, but some sessions used a revised guide after a problem in the pilot. Keep both versions, explain when and why the guide changed, check any approval implications and assess what the change means for interpretation. Revise the account before presenting the interviews as if everyone experienced the same procedure.
+
+## Related guidance
+
+Use [Writing and argument](../chapters/part-10/28-writing-and-argument.qmd) to turn the reconciled record into a claim the evidence can support.

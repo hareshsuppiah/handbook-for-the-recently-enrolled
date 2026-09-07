@@ -1,9 +1,66 @@
 ---
 title: "Data dictionary and codebook"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
 
+Start with the field or code most likely to be misunderstood. Complete the dataset header, then repeat the relevant variable or qualitative-code entry for the material you use.
+
 Adapt this to tabular, qualitative, image, sensor, archival or other material. Keep sensitive variable descriptions and examples in an approved location.
+
+
+<details class="template-copy">
+<summary>Open the blank copyable template</summary>
+
+Copy this plain-text version into your approved project record. Repeat entry fields as needed and remove prompts that do not apply. The guidance and examples below help you complete it.
+
+```text
+Data dictionary and codebook
+
+Keep sensitive variable descriptions and examples in an approved location. A dictionary documents meaning; it does not establish that a measure is valid.
+
+Dataset or corpus header
+
+Dataset/corpus ID and version: [ ]
+Purpose and authorised use: [ ]
+Source, custodian and coverage period: [ ]
+Unit of observation or material: [ ]
+Authoritative location: [ ]
+Related schema, code, consent, licence or protocol: [ ]
+Owner and last review: [ ]
+
+Variable dictionary
+
+Field: [ ]
+Definition and construct: [ ]
+Type/unit/allowed values: [ ]
+Source or derivation: [ ]
+Time and level: [ ]
+Missing/unknown rules: [ ]
+Validation: [ ]
+Sensitivity/release: [ ]
+Limitation: [ ]
+
+Qualitative or interpretive codebook
+
+Code: [ ]
+Definition: [ ]
+Include: [ ]
+Exclude: [ ]
+Positive/boundary example: [protected or synthetic]
+Related codes: [ ]
+Decision history or disagreement: [ ]
+
+Change record
+
+Version/date: [ ]
+Field or code: [ ]
+Change: [ ]
+Reason/evidence: [ ]
+Downstream effect: [ ]
+Reviewer: [ ]
+```
+
+</details>
 
 ## Dataset or corpus header
 
@@ -29,11 +86,17 @@ Adapt this to tabular, qualitative, image, sensor, archival or other material. K
 
 ## Completed example
 
+*Illustrative example; replace these details with your own verified record.*
+
 | Field | Definition | Values | Derivation | Time/level | Missing rules | Validation | Limitation |
 |---|---|---|---|---|---|---|---|
 | `status_source` | status exactly as received | `A`,`I`,`W`,`T`,`0`,blank | preserved from annual extract | candidate-record at extract date | blank and `0` retained separately | frequency by year and source-system check | meaning changes across systems |
 | `status_harmonised` | bounded common status for approved analysis | active, interrupted, withdrawn, unknown | period-specific lookup v2.1 | candidate at extract date | unresolved codes become unknown | sample reconciled to status histories | transfer/completion not separable in legacy period |
 | `withdrawal_12m` | verified withdrawal within 365 days after index | 0,1,unknown | status-history function commit `abc123` | candidate-index episode | incomplete follow-up becomes unknown | known-case unit tests and manual audit | not a measure of reason for withdrawal |
+
+## Check your record
+
+Ask a colleague to interpret a difficult value or apply a code using only the entry. Record the missing definition or disagreement rather than silently filling it from memory.
 
 ## Scenario test
 

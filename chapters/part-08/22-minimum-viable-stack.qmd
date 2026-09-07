@@ -1,6 +1,6 @@
 ---
 title: "Choosing a research toolkit"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
 
 A new app looks useful. You try it, move some notes across and connect a few plugins. A week later, you have two reference libraries and three places to look for the current draft.
@@ -56,6 +56,17 @@ Create a stack register:
 | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 
 If two tools hold the current manuscript or dataset, agree which one to edit and how the other copy will be updated.
+
+For a student beginning a literature review, the first version could be this small:
+
+| Work | Agreed home | A useful first check |
+|---|---|---|
+| Verified references | one reference library | export and reopen a record with its identifier |
+| Reading notes and decisions | approved project folder or notebook | find the source and page behind one note |
+| Review draft | one manuscript source | send a version a supervisor can comment on |
+| Recovery | the approved backup route | restore a disposable test file |
+
+This is an illustrative starting point. Add analysis, capture and other capabilities before the project needs them. If you are already collecting governed material, begin with those storage and access requirements rather than this literature-only example.
 
 ## Apply the adoption test
 
@@ -179,5 +190,7 @@ For a tool-selection conversation, bring that example, its storage locations, co
 []{#test-the-workflow-before-adopting-another-tool}
 
 ## Try these resources
+
+List your current tools and give each a job. Start the next improvement with the first job that has no reliable owner or recoverable output. You may discover that an export or a clearer agreement solves the problem without another subscription.
 
 Use the [living data-management plan](../../templates/data-management-plan.qmd), [backup and restore audit](../../checklists/backup-restore.qmd), [AI-use decision tree](../../checklists/ai-use-decision.qmd) and [Before project closure and handover](../../checklists/project-closure-handover.qmd). The next chapters compare [analysis, review and Quarto](23-analysis-review-quarto.qmd) and [Git, GitHub and AI-assisted workflows](24-git-github-ai.qmd).

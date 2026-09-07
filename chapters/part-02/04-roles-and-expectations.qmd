@@ -1,6 +1,6 @@
 ---
 title: "Roles, expectations and boundaries"
-last-reviewed: "2026-09-06"
+last-reviewed: "2026-09-08"
 ---
 
 You send a draft and hope for comments next week. Your supervisor plans to read it next month. Nobody has broken an agreement, because you haven't made one yet.
@@ -10,22 +10,6 @@ Supervision gets easier when you talk about these everyday expectations early. A
 ## Make the working relationship explicit
 
 Your supervisors can help you develop ideas, challenge your reasoning and review progress. You bring prepared work and questions, follow up decisions and gradually take on more independent work. The university also has responsibilities for formal progress, services and support. UKRI's 2024 expectations set these roles out for its funded doctoral training [@ukri-expectations-2024]; check your own programme's arrangements when drafting an agreement.
-
-::: {.handbook-visual .original-meme}
-::: {.meme-line}
-**Ask a five-minute question.**
-:::
-
-![](../../assets/original-memes/two-buttons.jpg){fig-alt="A graduate researcher sweats while trying to choose between two oversized unlabelled buttons on a desk."}
-
-::: {.meme-line}
-**Or spend three days guessing.**
-:::
-
-::: {.visual-credit}
-Original illustration created for *The Handbook for the Recently Enrolled* with human editorial direction and AI-assisted production.
-:::
-:::
 
 ## What each role commonly contributes
 
@@ -80,7 +64,7 @@ Discuss these areas before a pattern hardens:
 - How concerns can be raised without waiting for the relationship to fail.
 
 ::: {.decision-card}
-**Smallest useful next action:** Complete the [Supervisor expectations conversation guide](../../templates/supervisor-expectations.qmd), then ask every supervisor to correct the draft. Do not ask them to approve a blank form.
+**Smallest useful next action:** Add what you already know to the [Supervisor expectations conversation guide](../../templates/supervisor-expectations.qmd), then invite every supervisor to fill the gaps and correct your assumptions. A rough draft gives you something concrete to discuss.
 :::
 
 ## Agree who decides what
@@ -109,6 +93,36 @@ The team agrees:
 - urgent milestone risks are raised through the graduate research contact if continuity cannot be maintained.
 
 Both supervisors can work in their usual way, and the student knows when and how to request comments.
+
+The turnaround times in this example are an agreement to discuss, not a standard you can assume. Include your own availability too: part-time study, fieldwork, caring and time zones affect when you can prepare work and respond to it.
+
+::: {.handbook-visual .original-meme}
+::: {.meme-line}
+**Ask a five-minute question.**
+:::
+
+![](../../assets/original-memes/two-buttons.jpg){fig-alt="A graduate researcher sweats while trying to choose between two oversized unlabelled buttons on a desk."}
+
+::: {.meme-line}
+**Or spend three days guessing.**
+:::
+
+::: {.visual-credit}
+Original illustration created for *The Handbook for the Recently Enrolled* with human editorial direction and AI-assisted production.
+:::
+:::
+
+## If you do not know how to start the conversation
+
+You can be direct without arriving with every answer:
+
+> I can prepare a short section for our next meeting. Could we agree what would make it useful to review and when you would be able to read it?
+
+If a request is still unclear, try:
+
+> I understand the outcome we need, but I don't yet know how to judge whether this part is ready. Could we look at one example together?
+
+Learning what counts as good work is part of supervision. Preparation helps the conversation; it is not a condition you must meet before asking for help.
 
 ## How to decide
 
@@ -155,6 +169,8 @@ Expectations differ for laboratory groups, individual humanities projects, commu
 For practical prompts and a next conversation, see [the guide to life during a PhD](../../stuck/life-during-a-phd.qmd#supervision).
 
 ## Try these resources
+
+Pick one expectation you are currently guessing about and put it on the next agenda. Record the agreed answer and when to revisit it.
 
 - [Supervisor expectations conversation guide](../../templates/supervisor-expectations.qmd)
 - [Supervision agreement](../../templates/supervision-agreement.qmd)

@@ -1,6 +1,6 @@
 ---
 title: "I keep searching but cannot build an argument"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
 
 ## Identify the search problem
@@ -14,6 +14,8 @@ What do you need from the next paper? You might need search terms, a missing stu
 3. Screen papers for relevance before taking detailed notes.
 4. Compare relevant studies in an evidence matrix.
 5. Draft what the evidence supports, why it supports it, where studies disagree and what remains uncertain.
+
+Begin with two papers you have already checked. Complete one sentence: “These studies agree about…, differ in…, and leave… unresolved.” The unfinished part tells you whether you need another source, a closer reading or help with the argument.
 
 ::: {.handbook-visual .original-meme}
 ::: {.meme-line}
@@ -37,7 +39,7 @@ Show your question, search terms and databases, screening rules and results. Exp
 
 ## Stop or change route
 
-If similar searches keep returning the same useful material, move to reading and writing. Ask a librarian when translating terms between databases, indexing or coverage is the difficulty.
+For an exploratory search, repeated returns of the same useful material can be a prompt to read and write before searching again. If you are conducting a systematic or other protocol-led review, complete its planned coverage and checks; repeated results alone are not a stopping rule. Record and justify any change to the search plan. Ask a librarian when translating terms between databases, indexing or coverage is the difficulty.
 
 ## You are moving again when
 

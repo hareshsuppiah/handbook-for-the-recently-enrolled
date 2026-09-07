@@ -1,6 +1,6 @@
 ---
 title: "Matching the design to the claim"
-last-reviewed: "2026-09-06"
+last-reviewed: "2026-09-08"
 ---
 
 You have access to a large dataset and a model that predicts who withdraws from a doctorate. Can it tell you why they leave? That extra word, “why”, asks much more of the study.
@@ -17,9 +17,16 @@ Check each step. For example, a large sample can't repair a measure that records
 
 The Australian Code states that researchers should adopt methods appropriate to their aims and ensure conclusions are justified by their results [@australian-code-2018]. That is a governing principle in Australia, not a complete design manual and not a universal institutional rule.
 
-## Start with the intended inference
+## Write the conclusion you hope to support {#start-with-the-intended-inference}
 
 Rewrite the research question as the claim you would like to be able to make if the study succeeds.
+
+For the withdrawal study, compare these two sentences:
+
+- “The model identifies candidates who are more likely to withdraw within this institution.”
+- “Delayed milestones cause candidates to withdraw.”
+
+The first asks whether a prediction works in a defined setting. The second asks what would happen if the delay were changed while other relevant conditions were accounted for. A model that predicts well has not, by that fact alone, answered the second question. Keep your draft conclusion beside you while comparing methods; it makes a vague disagreement about design much easier to discuss.
 
 | Question verb | Possible intended inference | What the design must make possible |
 |---|---|---|
@@ -47,6 +54,8 @@ Name:
 
 If the target is “doctoral wellbeing” but the available dataset contains only one administrative withdrawal code, the data do not become a valid measure merely because they are accessible.
 
+Also check what one row represents. A row for each milestone is not a row for each candidate: one person may appear several times. If your conclusion concerns people, explain how those repeated records will be handled. This is the practical point behind naming the *unit of observation* and the *unit of inference*.
+
 ## Compare design families by what they can establish
 
 Do not begin with “qualitative versus quantitative”. Begin with rival ways to obtain the needed evidence.
@@ -70,14 +79,14 @@ Complete one row per research question.
 
 | Element | Decision | Alignment test |
 |---|---|---|
-| Problem | [consequential uncertainty] | Would resolving it matter? |
+| Problem | [what is unknown and why it matters] | Would resolving it matter? |
 | Question | [bounded question] | Is every term interpretable and researchable? |
 | Intended inference | [claim form] | Does it preserve the question's scope and verb? |
 | Evidence needed | [observations, accounts, traces, documents, measures] | Could it distinguish the important alternatives? |
 | Source or sample | [who or what, where, when] | Does it connect to the target of inference? |
 | Measurement or generation | [how evidence becomes observable] | Are construct and observation being confused? |
 | Analysis or interpretation | [comparison, model, coding, reconstruction] | Does it transform the evidence into the intended inference? |
-| Claim boundary | [where conclusion stops] | Is it narrower than or equal to what the design warrants? |
+| Claim boundary | [where the conclusion stops] | Is it narrower than or equal to what the design warrants? |
 
 Read the map in both directions. Forward reading tests feasibility. Backward reading tests whether each design choice is necessary for the final claim.
 
@@ -159,5 +168,7 @@ Seek specialist advice early when the project depends on causal identification, 
 - [ ] The decision and conditions for reconsideration are recorded.
 
 ## Try these resources
+
+Start by filling in just the question, intended conclusion and weakest link. Take that short version to the next design conversation, then complete the map as choices become clearer.
 
 Use the [method-options comparison table](../../templates/method-options.qmd) before committing and the [methodological decision record](../../templates/method-decision.qmd) once a provisional choice is made. If no option seems defensible, use [I’m stuck](../../stuck/index.qmd) rather than silently selecting the familiar method.

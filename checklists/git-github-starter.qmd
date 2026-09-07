@@ -1,9 +1,11 @@
 ---
 title: "Is this project ready for Git and GitHub?"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
 
 Practise with invented, non-sensitive files. Verify institutional approval, repository ownership and data rules before adding research material.
+
+**Use:** Read-do for the practice sequence, with the privacy checks completed before any push. If you only want to suggest an improvement to this handbook, start with [the contribution guide](../contributions/index.qmd); you do not need to set up a research repository or learn every step below.
 
 ## Before initialising
 
@@ -13,6 +15,15 @@ Practise with invented, non-sensitive files. Verify institutional approval, repo
 - [ ] `.gitignore` covers local data, secrets, caches, generated outputs and editor files.
 - [ ] Safe example configuration replaces real credentials.
 - [ ] README, licence and support boundary are started.
+
+A `.gitignore` helps keep matching untracked files out of future commits. It does not remove a file that is already tracked or erase it from history. Check what Git has actually recorded before relying on the ignore rules.
+
+## Privacy pre-push
+
+- [ ] No data, identifiers, consent, confidential text or partner material is included without explicit authority.
+- [ ] No passwords, tokens, keys, internal URLs or sensitive paths appear in files, history, logs or generated output.
+- [ ] Generated HTML, PDFs, notebooks, caches and logs contain no hidden protected content.
+- [ ] Repository visibility and collaborator access are correct.
 
 ## Practise with a small change
 
@@ -27,6 +38,8 @@ Practise with invented, non-sensitive files. Verify institutional approval, repo
 9. Verify repository visibility, files and commit remotely.
 10. Clone into a fresh test location and follow the README.
 
+After the fresh clone, explain the difference in your own words: a commit records a change locally; a push sends commits to a remote repository; a pull request asks for review of a proposed change. Check the visible result of each step before moving on.
+
 ## Branch and review simulation
 
 - [ ] Create an issue describing one specific improvement and how you will check it.
@@ -36,13 +49,6 @@ Practise with invented, non-sensitive files. Verify institutional approval, repo
 - [ ] Open a pull request explaining what, why, risk and verification.
 - [ ] Have another person review the diff and rendered result.
 - [ ] Resolve findings, merge and verify the remote result.
-
-## Privacy pre-push
-
-- [ ] No data, identifiers, consent, confidential text or partner material is included without explicit authority.
-- [ ] No passwords, tokens, keys, internal URLs or sensitive paths appear in files, history, logs or generated output.
-- [ ] Generated HTML, PDFs, notebooks, caches and logs contain no hidden protected content.
-- [ ] Repository visibility and collaborator access are correct.
 
 ## Scenario test
 

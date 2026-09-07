@@ -1,6 +1,6 @@
 ---
 title: "Rigour, bias and methodological choices"
-last-reviewed: "2026-09-06"
+last-reviewed: "2026-09-08"
 ---
 
 “Make it more rigorous” leaves a lot to work out. Should you recruit differently, check the instrument, try another analysis or explain your interpretation more clearly?
@@ -12,6 +12,8 @@ Begin with a result you might get wrong and a plausible reason for that error. T
 A study's quality depends on whether its methods address the problems that could undermine its conclusions. Those problems differ across research traditions. Explain which ones matter in your study, what you've done about them and what remains uncertain.
 
 The Australian Code requires methods appropriate to the aims, conclusions justified by results and clear, accurate, secure and complete research records [@australian-code-2018]. Those principles support transparency; they do not tell every discipline which validity framework, appraisal tool or analytic standard to use.
+
+Suppose one recruitment site uses a different device version. The concern is concrete: an apparent difference between sites might come from the devices. You can check the versions and compare known test records before interpreting the difference. In an interview study, the concern might instead be that your preferred explanation overlooks a participant's conflicting account. Return to that account, document your interpretation and consider whether the explanation needs to change. The quality check follows the problem in each case.
 
 ## List what could undermine the conclusion {#build-a-threat-to-inference-register}
 
@@ -122,6 +124,8 @@ Before running one, write:
 - which part of the claim could change; and
 - what decision follows.
 
+For the wearable example, a useful question is: “Does correcting the timestamps change which days or participants enter the analysis?” If it does, compare the affected results and reconsider the claim. If it does not, retain the check as evidence about this particular error. Either outcome teaches you more than running an unrelated extra model.
+
 Running many arbitrary analyses and highlighting the reassuring ones is not robustness.
 
 ## Separate universal, method, discipline and local guidance
@@ -178,5 +182,7 @@ Bring your three main concerns, the conclusions they affect and the checks you p
 - [ ] Final claim boundaries reflect unresolved threats.
 
 ## Try these resources
+
+Choose your most important conclusion and write the strongest plausible objection to it. Pair that objection with one check and the change you would make if it failed. This gives a specialist something specific to improve.
 
 Use the [methodological decision record](../../templates/method-decision.qmd), [protocol-deviation log](../../templates/protocol-deviation.qmd), [pilot-readiness checklist](../../checklists/pilot-readiness.qmd) and [before-analysis checklist](../../checklists/before-analysis.qmd). If no quality criterion seems to fit, use [I’m stuck](../../stuck/index.qmd) and seek method-specific advice.

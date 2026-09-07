@@ -21,4 +21,18 @@ If something is missing, unclear, incorrect or no longer useful, you can [sugges
 
 ## Project records
 
-For readers who want the underlying quality records, the project maintains a [`requirements register`](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/blob/main/planning/requirements-checklist.csv) and a [`release verification record`](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/blob/main/planning/release-verification-2026-08-28.md).
+For readers who want the underlying quality records, the project maintains a [`requirements register`](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/blob/main/planning/requirements-checklist.csv) and the [September content and reader-experience review](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/blob/main/planning/audit-2026-09-08.md).
+
+## Read, save and reuse
+
+The web edition has search, page contents, interactive checklist ticks and downloadable Markdown templates. Ticks stay in the current page visit unless you choose to remember them on this device. Saved ticks belong to this browser only, can be reset, and are not evidence of approval or readiness. The handbook does not collect your checklist answers. Avoid saving them on a shared device.
+
+Use **Print this page** for a paper copy or your browser's Save as PDF option. Practice explanations are included in print. The offline EPUB is for reading; browser controls and saved ticks do not travel with it.
+
+::: {.content-visible when-format="html"}
+
+[Download the offline book (EPUB)](The-Handbook-for-the-Recently-Enrolled.epub)
+
+:::
+
+This edition was reviewed with AI assistance and checked for links, citations, coverage and selected browser behaviours. Those checks do not substitute for independent reader testing, specialist review of consequential advice or your institution's requirements.

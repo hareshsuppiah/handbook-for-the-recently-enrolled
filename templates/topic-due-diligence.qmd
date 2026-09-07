@@ -1,7 +1,37 @@
 ---
 title: "Check a proposed topic"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
+
+Use this to test a promising topic before committing the project to it. Begin with the assumptions whose failure would change the question, access route or timetable.
+
+
+<details class="template-copy">
+<summary>Open the blank copyable template</summary>
+
+Copy this plain-text version into your approved project record. Repeat entry fields as needed and remove prompts that do not apply. The guidance and examples below help you complete it.
+
+```text
+Check a proposed topic
+
+Blank template
+
+Problem and consequence: [ ]
+Possible contribution and audience: [ ]
+Strongest existing evidence: [ ]
+Contrary evidence or alternative framing: [ ]
+Question and intended inference: [ ]
+Access and recruitment evidence: [authority, date, record]
+Method options and capability: [ ]
+Ethics, governance, culture, privacy and safety: [owner and path]
+Time, cost and workload: [include failure]
+Critical assumptions: [test, owner, date]
+Alternative project route: [ ]
+Decision: proceed / narrow / test / redesign / pause / stop
+Review trigger: [ ]
+```
+
+</details>
 
 ## Blank template
 
@@ -21,6 +51,8 @@ last-reviewed: "2026-08-28"
 
 ## Completed example
 
+*Illustrative example; replace these details with your own verified record.*
+
 **Problem:** Workload decisions rely on a wearable measure whose error may change in sport-specific movement.
 **Contribution:** Bounded validity evidence for interpreting that measure in the setting.
 **Contrary evidence:** Similar devices perform adequately in related tasks.
@@ -28,6 +60,10 @@ last-reviewed: "2026-08-28"
 **Critical assumption:** Error is large enough to change the practical classification; test with non-participant bench and simulated data first.
 **Alternative:** Method study using existing recordings.
 **Decision:** test before committing to the main study.
+
+## Check your record
+
+Distinguish written authority, practical access and informal interest. Leave unresolved assumptions visible with a test, owner and date.
 
 ## Scenario test
 

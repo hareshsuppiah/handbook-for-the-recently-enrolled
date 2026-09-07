@@ -14,6 +14,8 @@ This repository contains a living public edition of an institution-neutral, evid
 - A single chronological checklist links the doctorate from pre-start decisions through final handover.
 - Five coverage passes, two external-discovery passes and automated content/link/render checks are recorded.
 - Readers can suggest improvements through one structured GitHub form.
+- The September review covers all 113 pages, with real GitHub screenshots, optional checklist memory, 33 editable blank downloads, worked practice prompts and an offline EPUB.
+- See [the audit and its evidence limits](planning/audit-2026-09-08.md) and [the shared editorial contract](AGENTS.md) before extending the book.
 
 ## Preview locally
 
@@ -23,13 +25,23 @@ Install [Quarto](https://quarto.org/) and run:
 quarto preview
 ```
 
-Build the complete HTML book with:
+Build the complete HTML and EPUB editions with:
 
 ```bash
 quarto render
 ```
 
-The rendered site is written to `_site/`.
+The rendered site and EPUB are written to `_site/`. The build generates blank downloads and repairs EPUB cross-references from the same source. Before publishing, run:
+
+```bash
+python3 scripts/verify_book.py
+python3 scripts/verify_editorial_workflow.py
+python3 scripts/test_editorial_agent.py
+python3 scripts/test_finish_epub.py
+python3 scripts/verify_reader_experience.py
+```
+
+For an HTML-only iteration that preserves an existing EPUB, use `quarto render --to html --no-clean`. Always build both formats for release.
 
 ## Project map
 
@@ -40,7 +52,9 @@ The rendered site is written to `_site/`.
 - `examples/`: completed examples for priority resources.
 - `research/`: questions, coverage, sources, community requests, decisions, and audit records.
 - `research/visual-assets-register.csv`: image provenance, licence, credit, alternative text, and placement review.
-- `research/page-visuals.csv`: the comic selected for every rendered page and the editorial reason it belongs there.
+- `research/page-visuals.csv`: the seven retained optional comic placements and their editorial reasons.
+- `resources/downloads/`: generated blank Markdown templates; edit their source in `templates/`.
+- `.agents/skills/handbook-editor/`: reusable editorial workflow for future agents.
 - `planning/`: authoritative requirements, decisions, roadmap, style, and maintenance plans.
 - `contributions/`: plain-language routes for sharing feedback and understanding the editorial workflow.
 

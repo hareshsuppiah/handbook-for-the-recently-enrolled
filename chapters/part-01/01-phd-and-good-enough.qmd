@@ -1,23 +1,39 @@
 ---
 title: "What a doctorate asks of you"
-last-reviewed: "2026-09-06"
+last-reviewed: "2026-09-08"
 ---
 
-You've written a page, crossed most of it out and started comparing it with a finished thesis. That's a demanding standard for a Tuesday afternoon. Early work needs to help you think, try an idea or get feedback. It can do those jobs while still being rough.
+You may know the topic you want to study and still wonder what makes the work a PhD. A Doctor of Philosophy is a research degree in which you develop the ability to investigate a question and make an original contribution to knowledge. You learn the field, justify an approach, work out what the evidence supports and present a case that other researchers can scrutinise. You do this with supervision while developing your own judgement [@stanford-doctoral-requirements].
 
-The trick is knowing which standard applies. Notes for yourself, a draft for supervision, an ethics application and a thesis chapter each need different kinds of care. Here we'll work out what your current piece needs before you spend another afternoon polishing it.
+The contribution gives the work its purpose: someone should be able to understand something more clearly, investigate it more reliably or reconsider an existing explanation because of what you have done. That might involve new evidence, a better method, a carefully supported interpretation or an original application of knowledge. The form depends on your field and degree [@qaa-doctoral-2020]. You will need to explain what you added, how you know and where its limits lie.
+
+This chapter explains that destination, then helps you judge the work in front of you today. An early idea can be useful long before it is ready to become an examined claim.
+
+## What universities mean by a doctorate
+
+Official descriptions differ in wording and jurisdiction, but they converge on several features: advanced knowledge, original research or application, critical judgement, responsible conduct, and the ability to communicate and defend the work. The UK Quality Assurance Agency, for example, describes original contribution as common across research, professional, practice-based and practice-led doctorates [@qaa-doctoral-2020]. Australia places doctoral qualifications at Level 10 of its qualifications framework, but the precise award requirements are still set by the enrolling institution [@aqf-review-2019].
+
+These three institutional examples show both the shared purpose and some differences. They are not descriptions of every doctorate in each country.
+
+| Institutional example | What the university asks the work to demonstrate | A difference to notice |
+|---|---|---|
+| **La Trobe University, Australia** | An original contribution, critical understanding of the literature, justified methods with their shortcomings recognised, and clear scholarly communication. | Its policy recognises thesis and practice-based submission modes; oral examination is not normally part of examination, with exceptions for some joint arrangements [@latrobe-research-examinations]. |
+| **University of Oxford, United Kingdom** | A significant and substantial contribution to the field, general knowledge of that field, and a clearly presented scholarly thesis. | Its DPhil examination includes an oral examination, commonly called a viva [@oxford-dphil-examination-2025]. |
+| **Stanford University, United States** | Advanced scholarship, independent investigation and a dissertation that adds to scholarship or scientific knowledge. | Admission to the programme and admission to candidacy are distinct; programme requirements and a university oral examination also apply [@stanford-doctoral-requirements]. |
+
+Check your own degree's current requirements before borrowing another student's timeline, publication expectations or examination advice. **For now, find the official description and highlight what it says you must demonstrate.** Ask your supervisor which parts need interpreting for your field.
 
 ## Judge the work by its current job
 
-A doctorate asks you to make and defend an original contribution through research. It does not ask you to begin as an independent expert or to produce a flawless version of the thesis in your first year.
-
-Official descriptions differ in wording and jurisdiction, but they converge on several features: advanced knowledge, original research or application, critical judgement, responsible conduct, and the ability to communicate and defend the work. The UK Quality Assurance Agency, for example, describes original contribution as common across research, professional, practice-based and practice-led doctorates [@qaa-doctoral-2020]. Australia places doctoral qualifications at Level 10 of its qualifications framework, but the precise award requirements are still set by the enrolling institution [@aqf-review-2019].
+A doctorate asks you to make and defend an original contribution through research. It does not ask you to begin as an independent expert or to produce a flawless version of the thesis in your first year. “Defend” here means justify the work under scrutiny; the table shows why you should not assume every institution uses the same oral examination.
 
 You should be able to explain how these parts of the work connect.
 
 > question → decision → method → evidence → interpretation → contribution
 
 As you learn, you may change the question, method or interpretation. Keep enough of the reasoning to explain those changes later.
+
+Now imagine comparing a page you drafted this morning with a finished thesis. Early work needs to help you think, try an idea or get feedback, and it can do those jobs while still being rough. Notes for yourself, a supervision draft, an ethics application and a thesis chapter each need different kinds of care. The useful question is which standard applies to this piece, at this stage.
 
 ## What you need to decide
 
@@ -45,6 +61,17 @@ This prevents two common mistakes. The first is treating an early idea as though
 | Thesis or publication claim | Entering the scholarly record | Supported, transparent, appropriately qualified and able to withstand review |
 
 Do not use a low-risk drafting standard for ethics, safety, consent, privacy or integrity decisions. Those are stop points: the applicable approval or specialist advice comes before the activity.
+
+### Try it: which standard applies?
+
+Your literature review has an unfinished paragraph, but the main argument and source locations are visible. Your supervisor has agreed to comment on the structure. Does the unfinished paragraph have to delay that review?
+
+<details class="practice-check">
+<summary>Compare your judgement</summary>
+
+Usually, you can send it with the gap labelled and a clear request for structural feedback. The draft's present job is to reveal the argument. If the missing paragraph contains the evidence on which that argument depends, explain that limitation so the reviewer knows what they can judge. An ethics application with an unresolved consent process would need a different decision: a labelled gap does not make it ready to submit.
+
+</details>
 
 ## A practical way forward
 
@@ -88,6 +115,8 @@ Proceed when the threshold is met. Escalate when the uncertainty concerns approv
 
 The supervisor now has something specific to discuss: which definition fits the project. Approval and data collection will need a settled definition and further preparation.
 
+Try the same move with your own work. Replace “make the chapter better” with a sentence such as “make the relationship between these two explanations clear enough for my supervisor to challenge”. You now have something to finish and a reason to stop.
+
 ## Traps that make the doctorate feel impossible
 
 If you keep polishing without feeling ready, return to the purpose of the piece. Tell your reviewer which decision you need help with, and decide what further information could change it. That gives both editing and reading a stopping point.
@@ -127,6 +156,8 @@ Doctoral forms vary. A monograph, thesis by publication, creative practice docto
 
 For practical prompts and a next conversation, see [the guide to life during a PhD](../../stuck/life-during-a-phd.qmd#comparison).
 
+**Your next step:** Choose one piece of work you are hesitating to share. Use the [good-enough rubric](../../checklists/good-enough-rubric.qmd) to name its next use and the checks that matter at that stage.
+
 ## Sources and limits
 
-The qualification sources support the broad description of doctoral outcomes, not a universal examination rubric. The checklist sources support the design of pause-point checks, not the substantive requirements of research governance. Local rules and case-specific specialist advice take priority where required.
+The qualification sources support the broad description of doctoral outcomes, not a universal examination rubric. The institutional comparison was checked on 8 September 2026 and is deliberately selective; requirements can change and may differ by programme or entry cohort. The checklist sources support the design of pause-point checks, not the substantive requirements of research governance. Local rules and case-specific specialist advice take priority where required.

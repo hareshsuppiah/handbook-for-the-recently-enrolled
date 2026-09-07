@@ -1,7 +1,127 @@
 ---
 title: "Thesis contribution map"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
+
+Use this when you need to explain what the whole thesis adds and how its components work together. Draft the contribution sentence first, then test it against the completed evidence.
+
+
+<details class="template-copy">
+<summary>Open the blank copyable template</summary>
+
+Copy this plain-text version into your approved project record. Repeat entry fields as needed and remove prompts that do not apply. The guidance and examples below help you complete it.
+
+```text
+Thesis contribution map
+
+Whole-thesis claim
+
+Defined field/audience: [ ]
+
+Prior state of knowledge or practice: [ ]
+
+Problem that still needs an answer: [ ]
+
+Contribution: This thesis adds [new knowledge, method or other contribution] for [audience]. The evidence is [studies or components]. It applies under [conditions] and could help with [use]. It does not establish [claims beyond the evidence].
+
+Why it matters: [ ]
+
+Contribution chain
+
+Entry 1
+Link: Prior state
+Statement: [what was known/possible]
+Exact thesis evidence: [review location]
+Sceptical test: Is the search/scope sufficient?
+
+Entry 2
+Link: Problem
+Statement: [what remained unresolved]
+Exact thesis evidence: [evidence]
+Sceptical test: Why does answering it matter?
+
+Entry 3
+Link: Thesis action
+Statement: [what the programme did]
+Exact thesis evidence: [methods/components]
+Sceptical test: Was this actually completed?
+
+Entry 4
+Link: Evidence
+Statement: [what was produced]
+Exact thesis evidence: [results/artefact]
+Sceptical test: Is it valid and recoverable?
+
+Entry 5
+Link: New claim
+Statement: [what can now be concluded]
+Exact thesis evidence: [integration/conclusion]
+Sceptical test: Does the inference exceed the design?
+
+Entry 6
+Link: Boundary
+Statement: [where it should not travel]
+Exact thesis evidence: [limitations]
+Sceptical test: What credible alternative remains?
+
+Entry 7
+Link: Value
+Statement: [what can be understood/done next]
+Exact thesis evidence: [implication]
+Sceptical test: Is impact being claimed prematurely?
+
+Study or component integration
+
+Component: 1
+Question: [ ]
+Evidence: [ ]
+Distinct contribution: [ ]
+Dependency: [ ]
+Whole-thesis role: define / develop / test / explain / integrate
+Boundary: [ ]
+
+Candidate and collaborator contributions
+
+Decision/output: [ ]
+Candidate's accountable contribution: [ ]
+Other contributions: [person/role]
+How integrated/verified: [ ]
+Required declaration location: [ ]
+
+Independence evidence
+
+Entry 1
+Domain: problem and question
+Lead independently / lead with review / supported / N/A: [ ]
+Example decision or artefact: [ ]
+Remaining development: [ ]
+
+Entry 2
+Domain: evidence and design
+Lead independently / lead with review / supported / N/A: [ ]
+Example decision or artefact: [ ]
+Remaining development: [ ]
+
+Entry 3
+Domain: governance and project judgement
+Lead independently / lead with review / supported / N/A: [ ]
+Example decision or artefact: [ ]
+Remaining development: [ ]
+
+Entry 4
+Domain: analysis/technical work
+Lead independently / lead with review / supported / N/A: [ ]
+Example decision or artefact: [ ]
+Remaining development: [ ]
+
+Entry 5
+Domain: synthesis and communication
+Lead independently / lead with review / supported / N/A: [ ]
+Example decision or artefact: [ ]
+Remaining development: [ ]
+```
+
+</details>
 
 ## Whole-thesis claim
 
@@ -51,6 +171,8 @@ last-reviewed: "2026-08-28"
 
 ## Completed example
 
+*Illustrative example; replace these details with your own verified record.*
+
 **Bounded contribution:** For applied sport settings using repeated self-report measures, the thesis identifies decision requirements, bounds interpretation of within-athlete change and demonstrates a recoverable reporting workflow. It does not establish that using the workflow improves health or performance.
 
 | Component | Distinct contribution | Whole-thesis role | Boundary |
@@ -58,6 +180,10 @@ last-reviewed: "2026-08-28"
 | practitioner study | identifies decisions and current variation | define | reported practice, not effectiveness |
 | measurement study | establishes interpretable conditions | test | selected measures and setting |
 | workflow study | demonstrates recoverable implementation | integrate | reproducibility, not outcome impact |
+
+## Check your record
+
+Trace each part of the whole-thesis claim to a precise location. Distinguish demonstrated contribution from possible future use, and the candidate's work from collaborators' contributions.
 
 ## Scenario test
 

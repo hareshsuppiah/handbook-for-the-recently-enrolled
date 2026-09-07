@@ -1,6 +1,6 @@
 ---
 title: "I am waiting for feedback, approval, access, equipment or data"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
 
 ## Name the decision and its owner
@@ -19,6 +19,8 @@ Find out where the request has reached. Sending it, receiving an acknowledgement
 ## What to take when asking
 
 Explain when you asked, which deadline is affected, what you can do meanwhile and the alternatives. Ask for the specific decision you need.
+
+For example: “I sent [version] on [date] for a decision on [point]. To meet [milestone], I need that decision by [date]. Is that feasible, or should we arrange another reviewer or revise the plan?” Use an agreed shared location for the record so a remote or absent team member can find it.
 
 ## Stop or escalate
 

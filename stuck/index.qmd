@@ -1,9 +1,11 @@
 ---
 title: "I’m stuck"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
 
 If you've spent the morning looking at the same paragraph, error message or unanswered email, start here. Choose the description closest to your problem, or try the short exercise below.
+
+You only need one useful next step. You can skip the exercise and open a pathway directly. If several descriptions fit, begin with any urgent concern, then the issue that most affects what you can do next.
 
 ## Urgent concerns {#first-is-this-urgent-or-unsafe}
 
@@ -28,7 +30,7 @@ For immediate danger, contact local emergency services. For wellbeing, safety, c
 - [I cannot stop searching or synthesise what I have](endless-searching.qmd)
 - [I cannot choose a method](method-paralysis.qmd)
 - [I am waiting for feedback, approval, access, equipment or data](waiting-or-blocked.qmd)
-- [Recruitment, the study or the findings have failed](study-failure.qmd)
+- [Recruitment or the study has run into trouble, or the findings are hard to interpret](study-failure.qmd)
 - [My analysis, code or files do not work](technical-failure.qmd)
 - [I cannot start or stop revising the writing](writing-or-perfectionism.qmd)
 - [There is a supervision, authorship or collaboration problem](relationship-or-authorship.qmd)
@@ -38,6 +40,8 @@ For immediate danger, contact local emergency services. For wellbeing, safety, c
 ## What to take when asking for help
 
 Explain what you're trying to do, what you've tried and what answer would help. Mention any deadline or risk. If the usual route hasn't worked, the [message template](../templates/escalation-message.qmd) can help you ask for further support.
+
+“I don't yet know how to describe the problem” is also a usable starting point. Bring one paragraph, error, instruction or example of the difficulty and ask someone to work through it with you. You do not need a completed template before seeking help.
 
 ## You are moving again when
 

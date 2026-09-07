@@ -1,6 +1,6 @@
 ---
 title: "Unsure whether the work is good enough"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
 
 ## Name the stage and standard
@@ -14,6 +14,8 @@ A draft for feedback needs a different check from a paper you're about to submit
 3. Fix problems with safety, integrity, approval, evidence or reproducibility before optional improvements.
 4. Ask the relevant reviewer to confirm it's ready. Keep other refinements for later unless they address a real problem.
 
+For a developmental chapter, an openly marked gap can help a reviewer decide the argument. For a submitted manuscript, an unverified central claim is still a problem. “Good enough” is a judgement about this use of this version, not a score for you as a researcher.
+
 ## What to take when asking
 
 Show your reviewer the work, the checks you've completed and anything that still needs attention. Ask whether it's ready for its next use.
@@ -24,7 +26,7 @@ A deadline can't resolve a failed critical check. Equally, another possible impr
 
 ## You are moving again when
 
-The critical checks pass, or the responsible reviewer has explicitly resolved them, and you know what happens next.
+The critical checks pass and you know what happens next. A reviewer can clarify the standard or agree a permitted alternative; they cannot waive a safety, ethics or other approval requirement outside their authority. Keep any unresolved requirement visible.
 
 Use the [good-enough rubric](../checklists/good-enough-rubric.qmd) and the relevant phase checklist.
 

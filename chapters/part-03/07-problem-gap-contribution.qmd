@@ -1,6 +1,6 @@
 ---
 title: "Problem, gap and contribution"
-last-reviewed: "2026-09-06"
+last-reviewed: "2026-09-08"
 ---
 
 You've found a topic you care about and a population few papers mention. That gives you somewhere to start. Now comes the harder question: what would another study help us understand?
@@ -24,7 +24,7 @@ Write four linked statements:
 3. **Gap:** what remains inadequately known, tested, explained, represented or actionable.
 4. **Contribution:** what the study could add that would address part of the problem.
 
-Example:
+Here is an illustrative case to test against evidence, not a statement of established findings about doctoral students:
 
 - **Topic:** student disengagement in hybrid doctoral training.
 - **Problem:** programmes cannot distinguish productive temporary withdrawal from disengagement that predicts loss of participation.
@@ -32,6 +32,8 @@ Example:
 - **Possible contribution:** a conceptually grounded typology that distinguishes forms of withdrawal and identifies the evidence needed to study them.
 
 The possible contribution is stated as an output the design could support, not a promised finding.
+
+The problem and gap still need checking. In this example, you would need evidence about how programmes recognise withdrawal and what existing measures capture. If you cannot support those statements yet, label them as working assumptions. A neatly written four-part case does not verify itself.
 
 ::: {.decision-card}
 **Smallest useful next action:** Write the four statements above, then underline every word that makes a causal, universal, evaluative or novelty claim. Mark what evidence would be needed to defend each one.
@@ -72,6 +74,17 @@ Ask:
 
 “More research is needed” is not a consequence. “Without evidence about measurement error, the intervention effect cannot be interpreted confidently” is.
 
+### Try it: would this gap justify a study?
+
+You have found studies of a teaching approach in several cities, but none in your city. What would you need to establish before making the missing city the reason for a doctorate?
+
+<details class="practice-check">
+<summary>Compare your reasoning</summary>
+
+First check whether the underlying question is already well answered and whether something about the new setting could change that answer. The useful issue might be a different teaching context, language, access barrier or assumption in the existing explanation. Explain why that difference matters and how your study could investigate it. A missing location is a search finding; its importance still needs an argument.
+
+</details>
+
 ## Forms of contribution
 
 A project may contribute by:
@@ -90,7 +103,7 @@ One project may make several contributions, but avoid claiming every category. N
 
 ## Example: the empty cell
 
-A student finds no study combining a particular wearable device, one sport and athletes aged 17–18. The initial claim is: “No one has studied this, so the project is novel.”
+In this illustrative scenario, a student finds no study combining a particular wearable device, one sport and athletes aged 17–18. The initial claim is: “No one has studied this, so the project is novel.”
 
 Due diligence finds that:
 
@@ -136,6 +149,8 @@ Bring the four-statement chain, the strongest evidence for and against it, two p
 Seek help when the problem crosses disciplines you cannot adequately search; the contribution depends on a specialist method; cultural or community authority affects how the problem may be framed; intellectual property or partner interests constrain disclosure; or a claimed gap affects ethics, safety or policy decisions beyond the team's expertise.
 
 ## Try these resources
+
+Draft your four statements in the contribution template. Put a source or a clearly labelled question beside each part before asking someone to test the connection.
 
 - [Contribution statement](../../templates/contribution-statement.qmd)
 - [Topic due-diligence canvas](../../templates/topic-due-diligence.qmd)

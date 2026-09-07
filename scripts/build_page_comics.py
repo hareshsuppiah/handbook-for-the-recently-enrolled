@@ -20,106 +20,9 @@ META_DIR = ROOT / "research/xkcd-source-metadata"
 # Pages listed here receive an editorially selected xkcd comic. A page may be
 # deliberately absent when another cleared visual is planned or no visual adds
 # enough teaching value. Selection notes stay outside the public repository.
-ASSIGNMENTS: dict[str, int] = {
-    "index.qmd": 59,
-    "status.qmd": 910,
-    "chapters/part-01/01-phd-and-good-enough.qmd": 1052,
-    "chapters/part-01/02-first-90-days.qmd": 1425,
-    "chapters/part-02/05-meetings-and-records.qmd": 1860,
-    "chapters/part-02/06-feedback-and-independence.qmd": 481,
-    "chapters/part-03/07-problem-gap-contribution.qmd": 2368,
-    "chapters/part-03/08-topic-due-diligence.qmd": 1205,
-    "chapters/part-03/09-questions-and-pivots.qmd": 1282,
-    "chapters/part-04/10-search-ladder.qmd": 386,
-    "chapters/part-04/11-reproducible-searching.qmd": 979,
-    "chapters/part-04/12-reading-and-synthesis.qmd": 1447,
-    "chapters/part-05/13-design-alignment.qmd": 552,
-    "chapters/part-05/14-sampling-measurement-pilots.qmd": 882,
-    "chapters/part-05/15-rigour-and-variation.qmd": 1478,
-    "chapters/part-06/16-ethics-privacy-consent.qmd": 263,
-    "chapters/part-06/17-integrity-governance-ai.qmd": 1838,
-    "chapters/part-06/18-authorship-collaboration-corrections.qmd": 2025,
-    "chapters/part-07/19-data-management-storage.qmd": 2347,
-    "chapters/part-07/20-data-states-provenance.qmd": 2582,
-    "chapters/part-08/23-analysis-review-quarto.qmd": 1654,
-    "chapters/part-08/24-git-github-ai.qmd": 1597,
-    "chapters/part-09/25-milestones-weekly-work.qmd": 1205,
-    "chapters/part-09/26-risks-blocked-change.qmd": 722,
-    "chapters/part-09/27-collaboration-handoffs-scope.qmd": 1782,
-    "chapters/part-10/28-writing-and-argument.qmd": 2456,
-    "chapters/part-10/29-reviewable-work-feedback.qmd": 2025,
-    "chapters/part-10/30-publishing-review-communication.qmd": 2304,
-    "chapters/part-11/31-failed-studies.qmd": 349,
-    "chapters/part-11/33-decide-and-stuck.qmd": 1282,
-    "chapters/part-12/34-independence-contribution.qmd": 451,
-    "chapters/part-12/35-examination-corrections.qmd": 2025,
-    "chapters/part-12/36-closure-transition.qmd": 910,
-    "checklists/index.qmd": 2601,
-    "checklists/doctoral-journey.qmd": 59,
-    "checklists/starting-candidature.qmd": 1425,
-    "checklists/first-90-day-review.qmd": 1205,
-    "checklists/before-study-commitment.qmd": 1205,
-    "checklists/research-question-stress-test.qmd": 974,
-    "checklists/search-ladder.qmd": 386,
-    "checklists/pilot-readiness.qmd": 882,
-    "checklists/before-ethics-submission.qmd": 263,
-    "checklists/before-data-collection.qmd": 397,
-    "checklists/before-analysis.qmd": 552,
-    "checklists/git-github-starter.qmd": 1597,
-    "checklists/ai-use-decision.qmd": 1838,
-    "checklists/before-study-write-up.qmd": 2456,
-    "checklists/before-manuscript-submission.qmd": 2025,
-    "checklists/good-enough-rubric.qmd": 974,
-    "checklists/pivot-continue-stop.qmd": 1282,
-    "checklists/project-closure-handover.qmd": 910,
-    "templates/supervisor-expectations.qmd": 1028,
-    "templates/supervision-agreement.qmd": 1028,
-    "templates/meeting-agenda.qmd": 1860,
-    "templates/meeting-record.qmd": 910,
-    "templates/matters-arising.qmd": 1782,
-    "templates/action-register.qmd": 1425,
-    "templates/decision-log.qmd": 1282,
-    "templates/unresolved-questions.qmd": 2368,
-    "templates/risk-issues-register.qmd": 2368,
-    "templates/topic-due-diligence.qmd": 1205,
-    "templates/topic-case.qmd": 2368,
-    "templates/contribution-statement.qmd": 2456,
-    "templates/search-concepts.qmd": 979,
-    "templates/search-log.qmd": 979,
-    "templates/citation-chaining.qmd": 979,
-    "templates/paper-triage-extraction.qmd": 1447,
-    "templates/evidence-matrix.qmd": 1447,
-    "templates/synthesis-argument-map.qmd": 1447,
-    "templates/method-options.qmd": 263,
-    "templates/method-decision.qmd": 1282,
-    "templates/protocol-deviation.qmd": 263,
-    "templates/data-management-plan.qmd": 2582,
-    "templates/data-dictionary.qmd": 2582,
-    "templates/repository-readme.qmd": 225,
-    "templates/ai-use-log.qmd": 1838,
-    "templates/supervisor-review-cover-note.qmd": 1860,
-    "templates/feedback-response.qmd": 481,
-    "templates/authorship-conversation.qmd": 2025,
-    "templates/journal-due-diligence.qmd": 2304,
-    "templates/reviewer-response.qmd": 2025,
-    "templates/escalation-message.qmd": 1028,
-    "templates/thesis-contribution-map.qmd": 2456,
-    "stuck/index.qmd": 722,
-    "stuck/starting-or-expectations.qmd": 1425,
-    "stuck/topic-or-question.qmd": 974,
-    "stuck/method-paralysis.qmd": 1282,
-    "stuck/waiting-or-blocked.qmd": 303,
-    "stuck/study-failure.qmd": 349,
-    "stuck/technical-failure.qmd": 371,
-    "stuck/writing-or-perfectionism.qmd": 1691,
-    "stuck/good-enough.qmd": 974,
-    "contributions/index.qmd": 1060,
-    "contributions/how-to-help.qmd": 2601,
-    "contributions/editorial-workflow.qmd": 1319,
-    "contributions/ai-and-editorial-practice.qmd": 2173,
-    "contributions/visuals-and-credit.qmd": 14,
-    "references.qmd": 2086,
-}
+ASSIGNMENTS: dict[str, int] = {'chapters/part-01/02-first-90-days.qmd': 1425, 'chapters/part-05/13-design-alignment.qmd': 552, 'chapters/part-07/20-data-states-provenance.qmd': 2582, 'chapters/part-08/24-git-github-ai.qmd': 1597, 'chapters/part-09/25-milestones-weekly-work.qmd': 1205, 'chapters/part-09/27-collaboration-handoffs-scope.qmd': 1782, 'chapters/part-10/30-publishing-review-communication.qmd': 2304}
+
+ALT_TEXT: dict[int, str] = {1425: 'A programmer explains that locating a photo in a national park is straightforward, while recognising a bird in it may need years of research. Apparently similar tasks can need very different amounts of work.', 552: 'One person stopped believing correlation proves causation after a statistics class. When a friend credits the class, the person hesitates: the same causal caution applies to that explanation.', 2582: 'A person proposes analysing a pile of data; another points out that analysis produces more data. Derived files need names and records too.', 1597: 'A Git user can repeat commands but cannot explain them, and responds to errors by downloading a fresh copy. The joke recognises why practising a small recovery is more useful than memorising commands.', 1205: 'A table compares how often a task occurs with time saved per run to estimate how much time can be spent improving it. For example, saving one minute each day gives about one day over five years in this illustrative calculation.', 1782: 'A team repeatedly changes chat platforms while one member stays with an older system. More channels do not guarantee a shared record.', 2304: 'A news presenter repeatedly rephrases the status of an unreviewed paper before calling it a PDF. Publication format alone does not establish peer review.'}
 
 
 def book_pages() -> list[str]:
@@ -170,12 +73,12 @@ def write_lua_data(rows: list[dict[str, str]]) -> None:
     for row in rows:
         out.append(f"  [{lua_string(row['page_path'])}] = {{")
         out.append(f"    page_path = {lua_string(row['page_path'])},")
-        for key in ("comic_id", "title", "asset_path"):
+        for key in ("comic_id", "title", "asset_path", "alt_text"):
             out.append(f"    {key} = {lua_string(row[key])},")
         out.append("  },")
         out.append(f"  [{lua_string('title:' + row['page_title'])}] = {{")
         out.append(f"    page_path = {lua_string(row['page_path'])},")
-        for key in ("comic_id", "title", "asset_path"):
+        for key in ("comic_id", "title", "asset_path", "alt_text"):
             out.append(f"    {key} = {lua_string(row[key])},")
         out.append("  },")
     out.append("}")
@@ -229,7 +132,7 @@ def update_visual_register(unique: dict[int, tuple[dict[str, object], str]]) -> 
             "license_or_reuse_basis": "Creative Commons Attribution-NonCommercial 2.5; excluded from the handbook CC BY 4.0 licence",
             "license_url": "https://creativecommons.org/licenses/by-nc/2.5/",
             "changes": "Resized responsively by the website; otherwise unmodified",
-            "alt_text": f"xkcd comic titled {meta['safe_title']}; a full transcript is available at the linked original",
+            "alt_text": ALT_TEXT[comic_id],
             "caption": f"xkcd #{comic_id}, {meta['safe_title']}, by Randall Munroe",
             "placement": "See research/page-visuals.csv",
             "date_checked": "2026-08-30",
@@ -277,6 +180,7 @@ def main() -> None:
             "page_path": page,
             "page_title": title_match.group(1),
             "comic_id": str(comic_id),
+            "alt_text": ALT_TEXT[comic_id],
             "title": str(metadata[comic_id]["safe_title"]),
             "asset_path": assets[comic_id],
             "source_url": f"https://xkcd.com/{comic_id}/",

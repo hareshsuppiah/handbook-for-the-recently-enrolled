@@ -1,7 +1,35 @@
 ---
 title: "Feedback response matrix"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
+
+Use this when a set of comments needs a visible response. Give each distinct issue an ID, including comments you need to investigate or discuss before changing the draft.
+
+
+<details class="template-copy">
+<summary>Open the blank copyable template</summary>
+
+Copy this plain-text version into your approved project record. Repeat entry fields as needed and remove prompts that do not apply. The guidance and examples below help you complete it.
+
+```text
+Feedback response matrix
+
+Blank matrix
+
+ID: F-001
+Feedback: [quote or faithful summary]
+Underlying issue: [ ]
+Decision: accept / adapt / investigate / discuss / decline
+Proposed response: [ ]
+Location/evidence: [ ]
+Status: open / done
+
+Unresolved conflicts: [ ]
+Decision owner/date: [ ]
+New risks or cross-document changes: [ ]
+```
+
+</details>
 
 ## Blank matrix
 
@@ -15,9 +43,15 @@ last-reviewed: "2026-08-28"
 
 ## Completed example
 
+*Illustrative example; replace these details with your own verified record.*
+
 | ID | Feedback | Underlying issue | Decision | Proposed response | Location/evidence | Status |
 |---|---|---|---|---|---|---|
 | F-014 | “Be more critical” | paper-by-paper summary obscures competing claims | adapt | organise around three contested claims and add evidence matrix | Lit review §§2–4 | done |
+
+## Check your record
+
+Mark a response done after checking the revised passage and any affected tables or claims. If you decide against a change, retain the reason and any required agreement.
 
 ## Scenario test
 

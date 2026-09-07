@@ -1,6 +1,6 @@
 ---
 title: "Is this thesis ready to submit?"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
 
 **Pause point:** Before uploading or formally submitting the thesis for examination.
@@ -23,6 +23,24 @@ last-reviewed: "2026-08-28"
 - [ ] Source files, the final submitted copy and supporting records are stored in an approved, recoverable location.
 - [ ] I understand the examination, correction, appeal, publication and repository steps that follow submission.
 
+## Stop condition
+
+Do not submit an unchecked file or while authorship, permissions, confidentiality, required declarations or formal eligibility remain unresolved.
+
+## Evidence to retain
+
+Keep the exact submitted thesis, upload receipt, final source archive, permissions, declarations, approval evidence and submission checklist.
+
+After uploading, reopen the submitted copy if the system permits it and confirm that it is the checked version. Retain the receipt or status record; an upload attempt is not evidence that the institution accepted the submission.
+
+## Completed scenario
+
+The final PDF renders and the filename says `final`, but page inspection finds a missing appendix, one unresolved cross-reference and comments embedded in the PDF. The checklist fails. Regenerate from the authoritative source, inspect every page, test the upload copy, record its stable identity and submit only that verified file.
+
+## Sceptical-reader test
+
+Ask another person to locate the overall contribution, candidate contribution declaration, primary method justification, strongest limitation and one reported result using only the final file. Improve any navigation or explanation that makes these hard to find.
+
 ::: {.handbook-visual .original-meme}
 ::: {.meme-line}
 **The thesis is ready to submit.**
@@ -39,18 +57,6 @@ Original illustration created for *The Handbook for the Recently Enrolled* with 
 :::
 :::
 
-## Stop condition
+## Related guidance
 
-Do not submit an unchecked file or while authorship, permissions, confidentiality, required declarations or formal eligibility remain unresolved.
-
-## Evidence to retain
-
-Keep the exact submitted thesis, upload receipt, final source archive, permissions, declarations, approval evidence and submission checklist.
-
-## Completed scenario
-
-The final PDF renders and the filename says `final`, but page inspection finds a missing appendix, one unresolved cross-reference and comments embedded in the PDF. The checklist fails. Regenerate from the authoritative source, inspect every page, test the upload copy, record its stable identity and submit only that verified file.
-
-## Sceptical-reader test
-
-Ask another person to locate the overall contribution, candidate contribution declaration, primary method justification, strongest limitation and one reported result using only the final file. Improve any navigation or explanation that makes these hard to find.
+Read [Examination and corrections](../chapters/part-12/35-examination-corrections.qmd) to prepare for what follows submission.

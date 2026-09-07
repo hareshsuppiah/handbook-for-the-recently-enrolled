@@ -1,9 +1,47 @@
 ---
 title: "AI-use and verification log"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
 
+Complete a record for a material AI-assisted task while you can still explain the input, the result and your checks. Start the permission and input fields before using the tool; complete verification afterwards.
+
 Store protected prompts and outputs only in an approved environment. Never record credentials. Tailor disclosure to current local and publication requirements.
+
+
+<details class="template-copy">
+<summary>Open the blank copyable template</summary>
+
+Copy this plain-text version into your approved project record. Repeat entry fields as needed and remove prompts that do not apply. The guidance and examples below help you complete it.
+
+```text
+AI-use and verification log
+
+Store protected prompts and outputs only in an approved environment. Never record credentials. Tailor disclosure to current local and publication requirements.
+
+Blank record
+
+Record ID and date: [ ]
+Project stage and exact task: [ ]
+Tool, provider and available model/version: [ ]
+Account or processing environment: [public / institutionally managed / approved controlled / local; details]
+Applicable policy, approval, agreement or venue rule: [link and review date]
+
+Input category: [invented / public / internal / unpublished / personal / confidential / restricted / other]
+Sensitivity decision and basis: [do not reproduce protected content]
+Minimum-input or synthetic alternative used: [ ]
+Purpose and non-AI alternative considered: [ ]
+
+Output category: [text / citation candidates / code / analysis / image / classification / other]
+What was used, changed or rejected: [ ]
+Verification procedure: [source check, tests, independent calculation, expert review, difficult cases]
+Verification evidence and location: [ ]
+Known error, limitation or unresolved risk: [ ]
+Human decision-maker: [ ]
+Disclosure required and location: [ ]
+Next policy/tool review date: [ ]
+```
+
+</details>
 
 ## Blank record
 
@@ -29,6 +67,8 @@ Store protected prompts and outputs only in an approved environment. Never recor
 
 ## Completed example
 
+*Illustrative example; replace these details with your own verified record.*
+
 **Record ID:** AI-012, 28 August 2026
 **Task:** propose a minimal test for a de-identified analysis function after the error was reproduced with synthetic data.
 **Tool/environment:** institutionally managed coding assistant; version shown in session record.
@@ -40,6 +80,10 @@ Store protected prompts and outputs only in an approved environment. Never recor
 **Limitation:** test coverage does not establish validity of the scientific model.
 **Decision-maker:** named analyst.
 **Disclosure:** retained in internal methods log; manuscript disclosure will follow the selected journal's current policy.
+
+## Check your record
+
+A useful record lets another authorised person distinguish generated output from the part you checked and accepted. Leave the verification result unresolved until the check actually occurs.
 
 ## Scenario test
 

@@ -1,7 +1,35 @@
 ---
 title: "Supervision meeting agenda"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
+
+Start with the decision that most needs shared attention. Send the material in the agreed review window and tell people what you recommend, even if your recommendation is to test an uncertainty.
+
+
+<details class="template-copy">
+<summary>Open the blank copyable template</summary>
+
+Copy this plain-text version into your approved project record. Repeat entry fields as needed and remove prompts that do not apply. The guidance and examples below help you complete it.
+
+```text
+Supervision meeting agenda
+
+Blank template
+
+Meeting/date: [ ]
+Purpose: [What should change by the end?]
+Earlier actions needing attention: [IDs and current state]
+
+Time: [ ]
+Decision or feedback needed: [ ]
+Material and evidence: [link]
+Student recommendation: [ ]
+Desired outcome: decide / advise / escalate / note
+
+Before the meeting ends: confirm decisions, actions with an owner and date, how completion will be checked, unresolved questions, risks and the next review.
+```
+
+</details>
 
 ## Use
 
@@ -21,9 +49,15 @@ Send before a supervision meeting. Limit the main agenda to decisions and feedba
 
 ## Completed example
 
+*Illustrative example; replace these details with your own verified record.*
+
 | Time | Decision or feedback needed | Material and evidence | Student recommendation | Desired outcome |
 |---|---|---|---|---|
 | 15 min | Is recruitment ready for privacy review? | recruitment flow v2; access note | consult privacy adviser before ethics draft | decide next gate |
+
+## Check your record
+
+Before sending, check that each main item says what you need from the meeting and points to the correct version of the material.
 
 ## Scenario test
 

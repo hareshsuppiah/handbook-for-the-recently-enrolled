@@ -1,6 +1,6 @@
 ---
 title: "Is this application ready for ethics or governance review?"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
 
 Use the current forms and governing framework. The responsible review body decides whether the work is exempt or approved.
@@ -10,6 +10,8 @@ Use the current forms and governing framework. The responsible review body decid
 **Prevents:** Contradictory documents, unmanaged participant or community risks, unclear data flows, and delays caused by avoidable omissions.
 
 **Use:** Read-do.
+
+Open the application, participant materials and data-flow plan together. Follow one participant or source record through the whole proposed process, checking that every document describes the same steps. Where an item does not fit your method, record the applicable alternative or the responsible body's determination rather than guessing that no review is needed.
 
 ## Critical checks
 

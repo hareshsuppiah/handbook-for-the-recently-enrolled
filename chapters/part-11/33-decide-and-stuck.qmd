@@ -1,6 +1,6 @@
 ---
 title: "Deciding when you’re stuck"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
 
 You have been reading, drafting and going to meetings, but the same decision is still waiting. Perhaps you need a clearer question, a method you can use, permission to access data or enough time to do the work.
@@ -42,6 +42,17 @@ If the choice belongs to someone else, ask for that decision with the relevant f
 | Risk | Could action cause harm, breach or irreversible loss? | contain, seek specialist authority and do not improvise |
 
 Choose the matching [I’m stuck pathway](../../stuck/index.qmd) for the full route.
+
+More than one description may fit. Missing access might be the immediate obstacle while an unmanageable workload makes it harder to follow up. Choose the issue that most changes what is safe and possible next. You can address the research decision and seek support in parallel.
+
+**Try it:** You have read three methods papers and understand the options. You still cannot start because the data custodian has not authorised access. What would another general methods paper resolve?
+
+<details>
+<summary>Find the next useful move</summary>
+
+The immediate constraint is permission or access. Find the status of the request, the decision owner and the follow-up date. You might test code with synthetic data meanwhile, provided that is permitted, but reading another broad methods paper will not supply authorisation. Revisit methods if the access decision changes which evidence is available.
+
+</details>
 
 ## Decide the response
 
@@ -103,6 +114,8 @@ A useful escalation contains:
 8. a safe contact route.
 
 Leave out speculation, motive and unnecessary sensitive detail. Preserve supporting records in the authorised location rather than attaching them indiscriminately.
+
+If the full list feels too much, begin with three sentences: “I am trying to…”, “I cannot move forward because…” and “I need help with…”. Add the deadline or immediate risk. That is enough to begin a conversation; you can prepare the fuller account with help. Urgent protection or care does not depend on completing a decision form.
 
 ## Example: waiting for supervisor feedback
 

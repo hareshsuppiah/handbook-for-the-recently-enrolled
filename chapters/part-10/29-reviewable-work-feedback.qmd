@@ -1,6 +1,6 @@
 ---
 title: "Making work easier to review"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
 
 “Any thoughts?” is an easy message to send with a draft. It leaves your reviewer with a harder job: working out whether you want help with the argument, the analysis or the wording.
@@ -46,6 +46,12 @@ Before sending a substantial draft, agree or state:
 :::
 
 If timing matters, ask before sending a large package. “Can you review a 9,000-word full chapter for argument and structure by 18 September?” is a request that can be accepted, renegotiated or declined. “Please send feedback soon” hides the dependency.
+
+For a smaller request, the cover note can be this short:
+
+> This is a developmental draft of the discussion. I have checked the central sources, but the final paragraph is still provisional. Could you focus on whether Sections 2–3 support the conclusion, and whether I have explained the main limitation clearly? I am seeking argument feedback at this stage. Would [date] fit your review schedule?
+
+Agree a format both of you can use: comments in an accessible document, a short written response or a conversation followed by notes. A remote or part-time student should be able to recover the feedback without relying on an informal corridor conversation.
 
 ## Make it easy to see what changed
 
@@ -101,7 +107,7 @@ When reviewers disagree:
 6. ask reviewers to discuss the unresolved decision together where useful; and
 7. record the decision and downstream changes.
 
-Do not silently implement the last or most senior comment merely to end discomfort. Do not triangulate supervisors through separate messages. If the disagreement concerns safety, integrity, approvals, authorship, discrimination or supervision breakdown, use independent specialist or formal support.
+You do not have to implement the last or most senior comment simply to end the discomfort. Where it is safe, bring the conflicting instructions into one shared discussion so the reviewers can see the same problem. If the disagreement concerns safety, integrity, approvals, authorship, discrimination or supervision breakdown, use independent specialist or formal support.
 
 ## Example: “rewrite the discussion”
 
@@ -127,6 +133,8 @@ Supervisors remain responsible for their roles, and students should not be aband
 ## When feedback is late
 
 Record the agreed review window, its dependency and the decision date. Follow up with the exact material and requested decision. If delay threatens a milestone or repeats despite agreed arrangements, bring the record, impact, feasible alternatives and requested resolution to the appropriate supervision or graduate research process.
+
+You can ask whether a smaller review would unblock the next step: “Could you decide between these two interpretations first? The sentence edits can follow.” That does not replace a full review where one is required, but it makes the immediate dependency visible.
 
 Keep the document marked as awaiting review until you receive a decision.
 

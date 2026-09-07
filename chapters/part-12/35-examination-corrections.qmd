@@ -1,6 +1,6 @@
 ---
 title: "Examination and corrections"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
 
 There will probably still be sentences you could improve when it is time to submit. The more useful question is whether the thesis explains its contribution, supports its conclusions and meets the examination requirements.
@@ -83,7 +83,7 @@ Record the checksum or otherwise stable identity of the intended final file. Che
 - author/co-author and supervisor certifications where applicable; and
 - approved storage of source and final submitted copies.
 
-After upload, retain the receipt and confirm the system identifies the same file. Retain the completed upload confirmation.
+After upload, retain the receipt and confirm the system identifies the same file.
 
 ::: {.decision-card}
 **Smallest useful next action:** Choose one contribution claim and answer a sceptical examiner using an exact thesis location, methodological warrant, limitation and non-claim.
@@ -105,6 +105,16 @@ If an oral defence is used, practise explaining rather than reciting:
 Listen to the whole question, clarify ambiguous terms and take time to reason. It is legitimate to say that you do not know, then explain how you would investigate. Do not invent evidence or agree with a premise that misstates the thesis.
 
 Use a mock examination to practise reasoning through unfamiliar questions. Where feasible, include someone outside the supervisory team.
+
+Confirm the local format before rehearsing: who attends, how long the examination runs, what materials you may use and how questions or breaks are handled. Ask early about accessibility arrangements, communication support or remote participation you may need. These arrangements require the appropriate local process; this chapter cannot promise a particular format or adjustment.
+
+## While you wait for the result
+
+Keep the submitted version stable and use the official contact for questions about progress. Agree which unfinished tasks, paid work, rest or next-role preparation fit this period. You do not need to begin an unrequested rewrite simply because waiting feels uncomfortable.
+
+When the outcome arrives, first find the decision, the exact requirements, any deadline and the person authorised to explain them. Outcome categories and review routes vary between institutions. If the decision is difficult to understand or upsetting, ask for a conversation and consider bringing an appropriate support person where permitted. You can seek support while you work out the academic response.
+
+For a disputed process or possible review or appeal, obtain current independent advice promptly about eligibility, grounds and deadlines. Preserve the decision and submitted work. Avoid assuming that an ordinary request for clarification suspends a formal deadline.
 
 ## If you discover an error after submission
 

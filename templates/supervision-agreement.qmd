@@ -1,7 +1,64 @@
 ---
 title: "Supervision agreement"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
+
+Use this to turn the expectations conversation into a record everyone can refer to. Keep proposed terms visible until they have been discussed and acknowledged.
+
+
+<details class="template-copy">
+<summary>Open the blank copyable template</summary>
+
+Copy this plain-text version into your approved project record. Repeat entry fields as needed and remove prompts that do not apply. The guidance and examples below help you complete it.
+
+```text
+Supervision agreement
+
+Complete any mandatory institutional form separately. Confirm required review schedules, meeting frequency, workload allocation and authority for supervisory-team changes. Example timings do not establish this team's agreement.
+
+Blank agreement
+
+Purpose and scope:
+[What this agreement covers and which formal policy sits above it.]
+
+Supervisory team and roles:
+[Name roles, not private personal information in a public copy.]
+
+Decision authority:
+[Student provisional decisions; whole-team decisions; formal or specialist decisions.]
+
+Meeting cadence and preparation:
+[Frequency, agenda timing, papers and cancellation arrangements.]
+
+Communication and urgency:
+[Routine channel, urgent route, reasonable boundaries.]
+
+Feedback:
+[Reviewable material, requested focus, ordinary turnaround, long-work arrangements.]
+
+Records:
+[Who records decisions and actions, where they are stored, correction window.]
+
+Continuity and absence:
+[How planned and unexpected absence will be handled.]
+
+Development and independence:
+[Priority skills, networks, decision responsibilities and review of progress.]
+
+Authorship and contributions:
+[When and how contribution expectations will be recorded and revisited.]
+
+Concerns and escalation:
+[Current independent support and formal routes; do not include sensitive case details.]
+
+Review date:
+[Date and trigger events.]
+
+Acknowledgement:
+[How participants confirm that the record reflects the discussion.]
+```
+
+</details>
 
 ## When to use it
 
@@ -50,6 +107,8 @@ Use this template after the expectations conversation to record the working arra
 
 ## Completed example
 
+*Illustrative example; replace these details with your own verified record.*
+
 **Purpose and scope:** This record describes ordinary working arrangements. Current course rules and institutional policy take priority.
 
 **Team and authority:** The student prepares recommendations and may make reversible operational choices. Changes to the central question or design are discussed with both supervisors. Ethics and candidature decisions use the formal institutional process.
@@ -61,6 +120,10 @@ Use this template after the expectations conversation to record the working arra
 **Continuity:** Planned absence longer than two weeks is recorded in advance with a nominated contact and any milestone effect.
 
 **Development:** The student leads agenda preparation and presents a recommendation for major decisions. The arrangement is reviewed at day 90.
+
+## Check your record
+
+Confirm the record reflects the actual discussion, identify the governing institutional process and set the next review. A completed example does not establish your team's response times or authority.
 
 ## Scenario test
 

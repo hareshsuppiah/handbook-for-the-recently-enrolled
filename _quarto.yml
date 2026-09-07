@@ -1,6 +1,15 @@
+lang: en-AU
+
 project:
   type: book
   output-dir: _site
+  pre-render:
+    - python3 scripts/build_downloads.py
+  post-render:
+    - python3 scripts/finish_epub.py --if-present
+  resources:
+    - resources/downloads/
+    - assets/reader/
 
 book:
   title: "The Handbook for the Recently Enrolled"
@@ -168,6 +177,7 @@ bibliography: references.bib
 
 filters:
   - filters/page-comics.lua
+  - filters/reader-tables.lua
 
 format:
   html:
@@ -185,11 +195,19 @@ format:
     number-sections: false
     code-copy: true
     link-external-newwindow: true
-    include-in-header: includes/cloudflare-analytics.html
+    include-in-header:
+      - includes/cloudflare-analytics.html
+      - includes/reader-head.html
     include-before-body: includes/design-contract.html
-    include-after-body: includes/responsive-navigation.html
-  pdf:
-    documentclass: scrreprt
+    include-after-body:
+      - includes/responsive-navigation.html
+      - includes/reader-tools.html
+  epub:
+    toc: true
+    author: Haresh Suppiah
+    cover-image: assets/cover-2026-09.png
 
 language:
+  search-text-placeholder: "Search this book"
+  search-submit-button-title: "Search this book"
   title-block-author-single: "Project lead and founding editor"

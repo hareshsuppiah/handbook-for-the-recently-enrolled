@@ -1,6 +1,6 @@
 ---
 title: "Analysis, code or files do not work"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
 
 ## Preserve the evidence first
@@ -9,11 +9,13 @@ Save the error message and the command that produced it before changing anything
 
 ## Try this now
 
-1. Reproduce the failure.
+1. Reproduce the failure only if repeating the action is safe.
 2. Reduce it to a small example that contains no protected data.
 3. Check where it begins: the inputs, software, settings, code logic, saved session state, dependencies, available resources or output step.
 4. Change one thing and record what happened.
 5. Once it works, rerun from the original approved inputs in a fresh session and check the important outputs.
+
+If another run could delete files, overwrite the only copy, expose data or incur a charge, preserve the evidence you already have and seek help first. For an ordinary code error, a few invented rows may be enough to demonstrate it. For a formatting problem, try a copy containing only the affected table or paragraph.
 
 ## What to take when asking
 

@@ -1,6 +1,6 @@
 ---
 title: "The search ladder"
-last-reviewed: "2026-09-06"
+last-reviewed: "2026-09-08"
 ---
 
 Forty tabs open, and you're still wondering whether the paper you need is in tab forty-one. Before searching again, decide on its purpose. Learning the vocabulary for a meeting takes a different approach from reviewing all the evidence on a question.
@@ -12,6 +12,8 @@ The search ladder gives you five starting points. Choose one that fits your purp
 An orientation search can help you find terms and debates quickly. A review claiming comprehensive coverage needs a method that can support that claim. You can increase the structure as your purpose changes; be clear about what each search covered.
 
 ## Five levels of searching
+
+Think of these as routes for different purposes. You do not need to complete them in order or reach the top. Citation chaining can accompany any route, and a scoping review can require searching as demanding as a systematic review. The labels help you choose and explain a method; they do not rank the value of your project.
 
 ### 1. Orientation search
 
@@ -69,7 +71,7 @@ Citation searching can find records missed by text searching, particularly when 
 | Describe the extent and characteristics of a field | Scoping or evidence mapping |
 | Conduct a systematic review or make a completeness-sensitive synthesis claim | Systematic and reproducible |
 
-Move upward when missed evidence would materially change the decision, when a formal review method requires it or when the intended claim implies coverage your present search cannot defend.
+Reconsider the method when missed evidence would materially change the decision, when a formal review method requires it or when the intended claim implies coverage your present search cannot defend. That may mean a broader search, different sources or specialist input rather than simply moving to the next numbered level.
 
 ## Example: one search, two claims
 
@@ -80,6 +82,17 @@ A student searches Google Scholar for “doctoral student engagement”, reads t
 **Indefensible statement:** “The literature shows there are only four causes of doctoral disengagement.”
 
 The same activity can be useful or misleading depending on the claim made about its coverage.
+
+### Try it: choose the search before the tool
+
+You have a supervision meeting to discuss whether “withdrawal” and “disengagement” mean the same thing in the field. What would you search for, and what would let you stop?
+
+<details class="practice-check">
+<summary>See a proportionate starting point</summary>
+
+An orientation search is a reasonable start: find competing definitions, inspect relevant reviews and follow a few useful sources. Keep the terms, sources and unresolved differences in a concept map. Agree a time box and stop when you can show the definitions you found, their limits and the next question for supervision. This prepares a discussion; it cannot establish that you have found every definition or all relevant evidence.
+
+</details>
 
 ## Citation chaining without losing control
 
@@ -116,6 +129,8 @@ Record language, date, database and access limits, along with citation-search se
 Bring the question, intended output, current concept table, databases considered, sample strategy, known relevant records, limits and the decision you need. Ask: “What evidence could this approach systematically miss, and does that matter for the claim?”
 
 ## Try these resources
+
+Before searching again, write a one-line purpose and a stopping rule in the search log. Use the decision tree if you are unsure which method that purpose requires.
 
 - [Search-ladder decision tree](../../checklists/search-ladder.qmd)
 - [Search-concept table](../../templates/search-concepts.qmd)

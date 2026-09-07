@@ -1,7 +1,34 @@
 ---
 title: "Search-concept table"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
+
+Use this while turning a question into a search strategy. Start with the core concepts and the terms used by relevant sources, then translate them into each database's vocabulary.
+
+
+<details class="template-copy">
+<summary>Open the blank copyable template</summary>
+
+Copy this plain-text version into your approved project record. Repeat entry fields as needed and remove prompts that do not apply. The guidance and examples below help you complete it.
+
+```text
+Search-concept table
+
+Blank table
+
+Concept: [ ]
+Natural-language terms: [ ]
+Variants and abbreviations: [ ]
+Controlled vocabulary: [database heading]
+Related or contrary terms: [ ]
+Source and rationale: [seed/source]
+
+Elements not searched and why: [ ]
+Known relevant records used to test retrieval: [ ]
+Version/date: [ ]
+```
+
+</details>
 
 ## Blank table
 
@@ -15,11 +42,17 @@ last-reviewed: "2026-08-28"
 
 ## Completed example
 
+*Illustrative example; replace these details with your own verified record.*
+
 | Concept | Natural-language terms | Variants and abbreviations | Controlled vocabulary | Related or contrary terms | Source and rationale |
 |---|---|---|---|---|---|
 | doctoral participation | engagement; participation | PhD; doctoral; postgraduate research | database-specific | withdrawal; persistence; isolation | recent review and student terminology |
 
 **Not searched:** wellbeing outcome, because it is inconsistently indexed and will be assessed during screening.
+
+## Check your record
+
+Test the draft against known relevant records and investigate misses. A list of synonyms is preparation for a search, not evidence that the topic has been covered.
 
 ## Scenario test
 

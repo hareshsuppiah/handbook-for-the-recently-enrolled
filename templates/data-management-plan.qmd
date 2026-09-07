@@ -1,9 +1,114 @@
 ---
 title: "Living data-management plan"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
 
+Build this plan around the material the project will actually create. Start with one sensitive or irreplaceable item and trace it from collection to its final custodian or authorised disposal.
+
 Reconcile this plan with current institutional, ethics, legal, contractual, funder, community and data-custodian requirements. Keep protected details in an approved location.
+
+
+<details class="template-copy">
+<summary>Open the blank copyable template</summary>
+
+Copy this plain-text version into your approved project record. Repeat entry fields as needed and remove prompts that do not apply. The guidance and examples below help you complete it.
+
+```text
+Living data-management plan
+
+Reconcile this plan with current institutional, ethics, legal, contractual, funder, community and data-custodian requirements. Keep protected details in an approved location.
+
+Project and governance
+
+Project, owner and plan version: [ ]
+Next review trigger/date: [ ]
+Applicable approvals, policies, agreements and authorities: [ ]
+Data steward, custodian, security and escalation contacts: [ ]
+
+Material inventory
+
+Material or data class: [ ]
+Purpose and source: [ ]
+Sensitivity/authority: [ ]
+Format and volume: [ ]
+Authoritative location: [ ]
+Owner/custodian: [ ]
+
+Lifecycle controls
+
+Entry 1
+Stage: collect or receive
+Approved location/transfer: [ ]
+Access and role: [ ]
+Naming/version/metadata: [ ]
+Backup and restore: [ ]
+Evidence retained: [ ]
+
+Entry 2
+Stage: raw authoritative
+Approved location/transfer: [ ]
+Access and role: [ ]
+Naming/version/metadata: [ ]
+Backup and restore: [ ]
+Evidence retained: [ ]
+
+Entry 3
+Stage: process and analyse
+Approved location/transfer: [ ]
+Access and role: [ ]
+Naming/version/metadata: [ ]
+Backup and restore: [ ]
+Evidence retained: [ ]
+
+Entry 4
+Stage: collaborate or share
+Approved location/transfer: [ ]
+Access and role: [ ]
+Naming/version/metadata: [ ]
+Backup and restore: [ ]
+Evidence retained: [ ]
+
+Entry 5
+Stage: publish or release
+Approved location/transfer: [ ]
+Access and role: [ ]
+Naming/version/metadata: [ ]
+Backup and restore: [ ]
+Evidence retained: [ ]
+
+Entry 6
+Stage: retain/archive/dispose
+Approved location/transfer: [ ]
+Access and role: [ ]
+Naming/version/metadata: [ ]
+Backup and restore: [ ]
+Evidence retained: [ ]
+
+Access register summary
+
+Who can access identifiable or restricted material: [ ]
+Who can access coded or working material: [ ]
+Who approves, reviews and removes access: [ ]
+Offboarding and emergency access process: [ ]
+
+Recovery and continuity
+
+Backup source, frequency and retention: [ ]
+Separation from synchronised working copies: [ ]
+Encryption and key recovery: [ ]
+Last restore test, result and evidence: [ ]
+Maximum tolerable data loss and recovery time: [ ]
+
+Sharing, retention and closure
+
+Consent, licence, data-sovereignty and reuse conditions: [ ]
+Repository or archive and metadata requirements: [ ]
+Retention authority and period: [ ]
+Disposal/return method and verification: [ ]
+Final custodian and handover package: [ ]
+```
+
+</details>
 
 ## Project and governance
 
@@ -54,6 +159,8 @@ Reconcile this plan with current institutional, ethics, legal, contractual, fund
 
 ## Completed example excerpt
 
+*Illustrative example; replace these details with your own verified record.*
+
 | Material | Purpose/source | Sensitivity | Authoritative location | Custodian |
 |---|---|---|---|---|
 | consent forms | evidence of consent | directly identifying | restricted institutional records drive | chief investigator |
@@ -63,6 +170,10 @@ Reconcile this plan with current institutional, ethics, legal, contractual, fund
 | analysis code | reproducibility | non-sensitive after review | private version-controlled repository | candidate |
 
 **Restore test:** one encrypted audio file and its metadata were restored to an approved test folder, checksum matched, permissions were reapplied and recovery took 18 minutes. The test revealed that the linkage-key location was missing from the continuity document; this was corrected before collection.
+
+## Check your record
+
+Verify the named locations, permissions and recovery route in practice. A planned control and a tested control should be distinguishable in the retained evidence.
 
 ## Scenario test
 

@@ -1,0 +1,58 @@
+::: {.resource-catalogue}
+
+| Resource | Kind |
+|---|---|
+| [Can I use AI for this task?](checklists/ai-use-decision.qmd) | Checklist or decision aid |
+| [Could I restore this work?](checklists/backup-restore.qmd) | Checklist or decision aid |
+| [Is this study ready for analysis?](checklists/before-analysis.qmd) | Checklist or decision aid |
+| [Is this study ready to collect data?](checklists/before-data-collection.qmd) | Checklist or decision aid |
+| [Is this application ready for ethics or governance review?](checklists/before-ethics-submission.qmd) | Checklist or decision aid |
+| [Is this manuscript ready to submit?](checklists/before-manuscript-submission.qmd) | Checklist or decision aid |
+| [Before committing to a study](checklists/before-study-commitment.qmd) | Checklist or decision aid |
+| [Is this study ready to write up?](checklists/before-study-write-up.qmd) | Checklist or decision aid |
+| [Is this thesis ready to submit?](checklists/before-thesis-submission.qmd) | Checklist or decision aid |
+| [The whole doctorate: one checklist](checklists/doctoral-journey.qmd) | Checklist or decision aid |
+| [What should I check after 90 days?](checklists/first-90-day-review.qmd) | Checklist or decision aid |
+| [Is this project ready for Git and GitHub?](checklists/git-github-starter.qmd) | Checklist or decision aid |
+| [Is this good enough for its next use?](checklists/good-enough-rubric.qmd) | Checklist or decision aid |
+| [Is this pilot ready to run?](checklists/pilot-readiness.qmd) | Checklist or decision aid |
+| [Should I continue, pivot or stop?](checklists/pivot-continue-stop.qmd) | Checklist or decision aid |
+| [Is this project ready to close or hand over?](checklists/project-closure-handover.qmd) | Checklist or decision aid |
+| [Check your research question](checklists/research-question-stress-test.qmd) | Checklist or decision aid |
+| [How much searching does this decision need?](checklists/search-ladder.qmd) | Checklist or decision aid |
+| [What should I set up when candidature begins?](checklists/starting-candidature.qmd) | Checklist or decision aid |
+| [Action register](templates/action-register.qmd) | Editable template |
+| [AI-use and verification log](templates/ai-use-log.qmd) | Editable template |
+| [Authorship conversation record](templates/authorship-conversation.qmd) | Editable template |
+| [Citation-chaining log](templates/citation-chaining.qmd) | Editable template |
+| [Contribution statement](templates/contribution-statement.qmd) | Editable template |
+| [Data dictionary and codebook](templates/data-dictionary.qmd) | Editable template |
+| [Living data-management plan](templates/data-management-plan.qmd) | Editable template |
+| [Decision log](templates/decision-log.qmd) | Editable template |
+| [Escalation message builder](templates/escalation-message.qmd) | Editable template |
+| [Evidence matrix](templates/evidence-matrix.qmd) | Editable template |
+| [Feedback response matrix](templates/feedback-response.qmd) | Editable template |
+| [Folder and file-naming starter](templates/folder-file-naming.qmd) | Editable template |
+| [Journal selection due diligence](templates/journal-due-diligence.qmd) | Editable template |
+| [Matters-arising register](templates/matters-arising.qmd) | Editable template |
+| [Supervision meeting agenda](templates/meeting-agenda.qmd) | Editable template |
+| [Meeting record](templates/meeting-record.qmd) | Editable template |
+| [Methodological decision record](templates/method-decision.qmd) | Editable template |
+| [Method-options comparison](templates/method-options.qmd) | Editable template |
+| [Paper triage and extraction](templates/paper-triage-extraction.qmd) | Editable template |
+| [Protocol-deviation log](templates/protocol-deviation.qmd) | Editable template |
+| [Repository README template](templates/repository-readme.qmd) | Editable template |
+| [Reviewer-response matrix](templates/reviewer-response.qmd) | Editable template |
+| [Risk and issues register](templates/risk-issues-register.qmd) | Editable template |
+| [Search-concept table](templates/search-concepts.qmd) | Editable template |
+| [Search log](templates/search-log.qmd) | Editable template |
+| [Supervision agreement](templates/supervision-agreement.qmd) | Editable template |
+| [Supervisor expectations conversation guide](templates/supervisor-expectations.qmd) | Editable template |
+| [Supervisor review cover note](templates/supervisor-review-cover-note.qmd) | Editable template |
+| [Synthesis and argument map](templates/synthesis-argument-map.qmd) | Editable template |
+| [Thesis contribution map](templates/thesis-contribution-map.qmd) | Editable template |
+| [One-page case for a proposed topic](templates/topic-case.qmd) | Editable template |
+| [Check a proposed topic](templates/topic-due-diligence.qmd) | Editable template |
+| [Unresolved-questions log](templates/unresolved-questions.qmd) | Editable template |
+
+:::

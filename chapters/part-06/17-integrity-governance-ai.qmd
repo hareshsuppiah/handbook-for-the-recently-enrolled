@@ -1,6 +1,6 @@
 ---
 title: "Research integrity, governance and AI"
-last-reviewed: "2026-09-06"
+last-reviewed: "2026-09-08"
 ---
 
 You want help explaining an error message, finding search terms or revising a paragraph. AI may be useful for each task, but each needs a different check. An invented example is easy to share; an interview transcript or unpublished collaborator draft needs much more care.
@@ -25,6 +25,8 @@ A use can fail one or both:
 - an allowed task may still require disclosure, verification and version records.
 
 The Australian Code places responsibility on researchers for accurate records, appropriate methods, justified conclusions, responsible dissemination and accurate citation [@australian-code-2018]. Those responsibilities continue when software or AI is involved.
+
+There are useful tasks you can make small enough to inspect. Suppose an approved coding assistant is helping you explain a function error. Recreate the error with invented values, remove project names and file paths, and state the result you expect before asking for help. If the function should add `2 + 4 + 6`, you can check the answer against `12` yourself. That confirms one example; you still need to test missing inputs and other relevant cases before using the function in research. Keep the verified change and its limits in the record.
 
 ## Classify the proposed AI task
 
@@ -118,7 +120,7 @@ The current ARC–NHMRC position for their grant programs keeps responsibility a
 
 **Proposed task:** upload an unpublished manuscript and reviewer invitation to a public chatbot to draft the review.
 
-**Stop-screen result:** the manuscript and review process are confidential; the reviewer does not own the authors' unpublished ideas; the tool's handling is not authorised; and evaluation must be the reviewer's own expert judgement.
+**Permission and privacy check:** the manuscript and review process are confidential; the reviewer does not own the authors' unpublished ideas; the tool's handling is not authorised; and evaluation must be the reviewer's own expert judgement.
 
 **Decision:** do not upload the material. Read and assess it within the authorised environment. If the governing policy permits limited language editing, draft the review first and use only the permitted tool and minimum non-identifying text, then recheck meaning and confidentiality.
 
@@ -182,5 +184,7 @@ Describe the task, input sensitivity and tool environment. Bring the policy or a
 - [ ] The guidance and tool terms have a review date.
 
 ## Try these resources
+
+Describe the task in a sentence with three parts: what you would send, what you want back and how you would check it. Use that description in the decision tree. “Help with my thesis” is too broad to make a useful permission or verification decision.
 
 Use the [AI-use decision tree](../../checklists/ai-use-decision.qmd), [AI-use and verification log](../../templates/ai-use-log.qmd), [protocol-deviation log](../../templates/protocol-deviation.qmd) and [Before analysis](../../checklists/before-analysis.qmd). For suspected integrity concerns, follow the responsible local process and seek confidential advice rather than investigating people through an AI tool.

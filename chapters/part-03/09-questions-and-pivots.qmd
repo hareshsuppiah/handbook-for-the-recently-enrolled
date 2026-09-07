@@ -1,6 +1,6 @@
 ---
 title: "Research questions, aims and pivots"
-last-reviewed: "2026-09-06"
+last-reviewed: "2026-09-08"
 ---
 
 Your research question has acquired another “and”. It now mentions three outcomes, a comparison and an intervention. Each addition sounds worthwhile; together they may be more than one project can answer.
@@ -9,7 +9,7 @@ Put the wording aside for a moment and ask what evidence you could collect. We'l
 
 ## Make the question answerable by the planned evidence
 
-A research question specifies the uncertainty the study can credibly reduce. The aim states the overall intended inquiry; objectives name the work needed to answer it; hypotheses state specified expectations where the design and tradition require them. None should promise more than the feasible evidence can support.
+A research question says what you want to find out. The aim gives the study's overall direction, and objectives identify the pieces of inquiry needed to answer the question. A hypothesis states an expectation to test where the design and research tradition call for one. Each must fit evidence you can feasibly obtain and the conclusions you could draw from it—its intended inference.
 
 Research on doctoral training describes several ways to develop questions, including finding gaps, challenging assumptions, comparing positions and solving problems with stakeholders. Questions can develop throughout the doctorate [@chevalier2024questions]. When yours changes, keep the old version and record the reason, any effects on the study and any approvals needed.
 
@@ -73,6 +73,15 @@ The student chooses the central uncertainty:
 > How do employees in two distributed teams explain changes in work boundaries and perceived wellbeing during a defined organisational transition?
 
 Performance and intervention effectiveness become out of scope for the first study. They may become later questions only if the thesis design, resources and evidence justify them.
+
+Now keep the aim and objectives aligned with that narrower question:
+
+- **Aim:** Understand how employees describe work boundaries and perceived wellbeing during the transition.
+- **Objective 1:** Identify the boundary changes employees describe within the defined period.
+- **Objective 2:** Examine how employees connect those changes with their perceived wellbeing.
+- **Objective 3:** Compare the accounts across the two teams, including accounts that challenge the emerging interpretation.
+
+These objectives organise an interpretive inquiry. They do not promise an estimate of an intervention effect or require a statistical hypothesis. A humanities or practice-led project may instead frame objectives around interpreting a corpus, developing an argument or making and critically examining work. The question still needs a clear relationship to the material and method.
 
 ## When the question should change
 
@@ -139,6 +148,8 @@ Bring the old and revised chains side by side, the evidence that triggered chang
 Seek formal or specialist advice when the change affects approval, preregistration, data permissions, cultural governance, partner agreements, funding, intellectual property, formal milestones or the central candidature scope.
 
 ## Try these resources
+
+Write your question, aim and objectives on one page. Circle any objective that needs evidence outside the question's scope, then use the research-question stress test before expanding the study.
 
 - [Research-question stress test](../../checklists/research-question-stress-test.qmd)
 - [Pivot, continue or stop decision aid](../../checklists/pivot-continue-stop.qmd)

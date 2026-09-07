@@ -1,6 +1,6 @@
 ---
 title: "A supervision, authorship or collaboration problem feels stuck"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
 
 ## Separate disagreement from harm
@@ -19,6 +19,8 @@ Start by describing the problem. Are expectations unclear, is an agreed task rep
 ## What to take when asking
 
 Bring the relevant agreements, contribution records and messages. Explain the effect on your work, what you've tried and what decision or protection you need.
+
+You can seek initial advice before assembling a complete record. Ask how the service handles confidentiality, who may see your information and what options you have before choosing what to disclose. If a direct conversation is safe, begin with the specific agreement or decision; you do not have to diagnose the other person's motives.
 
 ## Stop or escalate
 

@@ -1,9 +1,63 @@
 ---
 title: "Reviewer-response matrix"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
 
+Start by preserving the editor and reviewer numbering. Split comments with several distinct requests into traceable subpoints, and keep an unresolved conflict visible until it has a decision.
+
 Use one row for every editor and reviewer point, including comments you do not accept literally. Preserve the original numbering.
+
+
+<details class="template-copy">
+<summary>Open the blank copyable template</summary>
+
+Copy this plain-text version into your approved project record. Repeat entry fields as needed and remove prompts that do not apply. The guidance and examples below help you complete it.
+
+```text
+Reviewer-response matrix
+
+Decision summary
+
+Manuscript/version: [ ]
+
+Decision and deadline: [ ]
+
+Response owner and author approval route: [ ]
+
+Files in the authoritative response package: [ ]
+
+Blank matrix
+
+ID: E1/R1.1
+Comment or faithful summary: [ ]
+Underlying concern: [scientific/reporting/reader concern]
+Disposition: accept / adapt / investigate / discuss / decline
+Response and rationale: [ ]
+Manuscript change/location: [page/line/section or no change]
+Other records affected: [analysis/supplement/abstract/etc.]
+Status/verification: open / checked / author-approved
+
+Response pattern
+
+For each point:
+
+1. thank or acknowledge without empty repetition;
+2. state the concern you understood;
+3. explain what you did and why;
+4. identify the exact changed location or explain a reasoned non-change; and
+5. quote only the short passage needed to make verification easy.
+
+Conflict and new-analysis checks
+
+- [ ] Editor instructions take precedence where they define the decision, but scientific or ethical concerns are raised explicitly.
+- [ ] Conflicting reviewer requests are shown rather than silently choosing one.
+- [ ] New analyses have a stated purpose and are labelled planned, amended or exploratory accurately.
+- [ ] Any protocol, registration, ethics, data, code or authorship implications are addressed.
+- [ ] Abstract, tables, figures, supplement and response letter agree.
+- [ ] Every author approves the revised manuscript and response.
+```
+
+</details>
 
 ## Decision summary
 
@@ -33,6 +87,8 @@ For each point:
 
 ## Completed example
 
+*Illustrative example; replace these details with your own verified record.*
+
 | ID | Comment or faithful summary | Underlying concern | Disposition | Response and rationale | Manuscript change/location | Other records affected | Status/verification |
 |---|---|---|---|---|---|---|---|
 | R2.4 | Dichotomise recovery score for easier interpretation | continuous effect may be hard for applied readers to interpret | adapt | retain continuous primary analysis because an arbitrary split loses information; add predicted-value plot at meaningful reference points and clarify effect size | Results §3.2; Fig 2; Discussion ¶2 | figure script, caption, supplement and abstract checked | author-approved |
@@ -47,6 +103,10 @@ For each point:
 - [ ] Any protocol, registration, ethics, data, code or authorship implications are addressed.
 - [ ] Abstract, tables, figures, supplement and response letter agree.
 - [ ] Every author approves the revised manuscript and response.
+
+## Check your record
+
+Check each claimed change in the manuscript version you will resubmit. The response, analysis, figures and author-approved package must describe the same revision.
 
 ## Scenario test
 

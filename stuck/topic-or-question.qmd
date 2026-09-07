@@ -1,6 +1,6 @@
 ---
 title: "My topic still feels too vague"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
 
 ## Find the weakest link
@@ -16,6 +16,8 @@ Try explaining what you want to find out in two sentences. Where does the explan
 5. Compare continuing, narrowing the question, changing direction, pausing or stopping.
 
 Use the [topic due-diligence canvas](../templates/topic-due-diligence.qmd) and [research-question stress test](../checklists/research-question-stress-test.qmd).
+
+Try changing “I want to study doctoral feedback” to “How do students in this setting interpret conflicting supervisor feedback?”. That is an illustrative question, not a ready-made design. It gives you something concrete to test: whose accounts you need, what access is possible and which kind of answer those accounts could support.
 
 ## What to take when asking
 

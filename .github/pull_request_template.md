@@ -30,3 +30,7 @@ List the render, link, navigation, content and visual checks run. Attach screens
 
 - [ ] The agent or maintainer has not merged or published this change.
 - [ ] Haresh has reviewed the final diff and approved merge.
+
+## Reader and evidence checks
+
+For substantive edits, use `.agents/skills/handbook-editor/references/evidence-note.md`. Identify the reader problem, source checks and preserved caveats/links. Include a rendered screenshot for layout or GitHub tutorial changes, and record keyboard, phone and fallback checks for interactions.

@@ -1,9 +1,59 @@
 ---
 title: "Protocol-deviation log"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
 
+Use this to record a difference between the planned or authorised procedure and what happened. Start with the facts and immediate response; uncertainty about the cause should remain visible.
+
 Follow the ethics, governance, safety, clinical, regulatory, site, cultural and institutional process that applies. Use this log alongside any required notification or urgent action.
+
+
+<details class="template-copy">
+<summary>Open the blank copyable template</summary>
+
+Copy this plain-text version into your approved project record. Repeat entry fields as needed and remove prompts that do not apply. The guidance and examples below help you complete it.
+
+```text
+Protocol-deviation log
+
+Follow the ethics, governance, safety, clinical, regulatory, site, cultural and institutional process that applies. Use this log alongside required notification or urgent action.
+
+Immediate response
+
+If participant or community welfare, animal welfare, safety, confidentiality, data integrity or legal authority may be affected, stop the affected activity where safe, protect people and records, and contact the responsible local authority.
+
+Blank record
+
+Deviation ID: [ ]
+Date/time detected and detector: [ ]
+Study, site and applicable protocol version: [ ]
+Planned procedure: [quote or link exact section]
+What actually occurred: [facts only]
+When and how it began: [ ]
+People, cases, records or outputs affected: [use protected identifiers]
+
+Immediate risk assessment:
+
+- welfare or safety: [none / possible / confirmed; basis]
+- consent, privacy or authority: [ ]
+- data quality or provenance: [ ]
+- intended inference: [ ]
+- ongoing recurrence: [ ]
+
+Immediate containment: [ ]
+Original evidence and versions preserved at: [ ]
+Required notification, review or amendment: [authority, owner, deadline]
+Root or contributing conditions: [do not blame before evidence]
+Options considered: correct / reprocess / recollect / exclude / amend / pause / stop / other
+Decision and authoriser: [ ]
+Corrective and preventive action: [owner, due date]
+Verification of effectiveness: [observable test]
+Effect on previous analyses or claims: [ ]
+Reporting location: [thesis, manuscript, registry, sponsor, governance record]
+Closure evidence and date: [ ]
+```
+
+</details>
 
 ## Immediate response
 
@@ -41,6 +91,8 @@ If participant or community welfare, animal welfare, safety, confidentiality, da
 
 ## Completed example
 
+*Illustrative example; replace these details with your own verified record.*
+
 **Deviation ID:** DEV-007
 **Protocol:** wearable study v2.1, timestamp normalisation section 4.3.
 **Planned procedure:** convert device timestamps using the recorded local offset before valid-day classification.
@@ -51,6 +103,10 @@ If participant or community welfare, animal welfare, safety, confidentiality, da
 **Decision:** verify firmware behaviour using known test records, repair the conversion in a new script version, rerun affected derivations, compare original and corrected eligibility, and seek governance confirmation before final analysis.
 **Verification:** known timestamps reproduce exactly and an independent reviewer checks five affected records.
 **Reporting:** methods deviation and effect on sample flow will be reported; conclusions will be compared across original and corrected derivations where interpretable.
+
+## Check your record
+
+Close the entry only after the authorised response and its verification are recorded. A result that appears unchanged still needs evidence for that judgement.
 
 ## Scenario test
 

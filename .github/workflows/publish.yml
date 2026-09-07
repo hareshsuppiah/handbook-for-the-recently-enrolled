@@ -21,9 +21,14 @@ jobs:
       - uses: actions/checkout@v4
       - uses: quarto-dev/quarto-actions/setup@v2
       - uses: actions/configure-pages@v5
-      - uses: quarto-dev/quarto-actions/render@v2
-        with:
-          to: html
+      - name: Render web and offline editions
+        run: quarto render
+      - name: Verify the rendered release
+        run: |
+          python3 scripts/verify_book.py
+          python3 scripts/verify_editorial_workflow.py
+          python3 scripts/test_finish_epub.py
+          python3 scripts/verify_reader_experience.py
       - uses: actions/upload-pages-artifact@v4
         with:
           path: _site

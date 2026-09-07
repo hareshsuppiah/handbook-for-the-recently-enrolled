@@ -30,3 +30,9 @@ Headings, body copy and interface labels use IBM Plex Sans with the native syste
 - Deterministic title composition source: `assets/cover.svg`
 - Self-contained web cover: `assets/cover-final.png`
 - Alt text: “A worn dark-brown handbook cover. A graduate researcher stands before four paths leading towards library stacks, a laboratory, an archive and a staircase.”
+
+## September 2026 reader tools
+
+Page tools use labelled text controls for copying a page link, printing and suggesting a change. Checklists can be ticked with optional device-only persistence, clear failure messaging and an undoable reset. Template downloads are plain Markdown. The home page offers situation routes; the resource finder filters an existing readable table. Native disclosures reveal short worked answers. These are progressive enhancements: the source remains usable for no-script and offline reading.
+
+The currently published cover is `assets/cover-2026-09.png`, with two researchers approaching an imagined library; it supersedes the earlier `cover-final.png` in the sidebar. Comic placement is selective, with no quota, and follows the main teaching content. Practical forms and safety routes take precedence over visual decoration.

@@ -1,7 +1,31 @@
 ---
 title: "Action register"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
+
+Use this when an agreement needs to become something a person will do. Start with one action; link it to the meeting or decision that created it.
+
+
+<details class="template-copy">
+<summary>Open the blank copyable template</summary>
+
+Copy this plain-text version into your approved project record. Repeat entry fields as needed and remove prompts that do not apply. The guidance and examples below help you complete it.
+
+```text
+Action register
+
+Blank register
+
+ID: A-001
+Action: [verb + object]
+Owner: [one owner]
+Due: [date]
+Dependency: [ID or none]
+Status: queued / active / blocked / done / cancelled
+Evidence of done: [observable result]
+```
+
+</details>
 
 ## Blank register
 
@@ -11,13 +35,19 @@ last-reviewed: "2026-08-28"
 
 ## Completed example
 
+*Illustrative example; replace these details with your own verified record.*
+
 | ID | Action | Owner | Due | Dependency | Status | Evidence of done |
 |---|---|---|---|---|---|---|
-| A-031 | Book privacy consultation | student | Friday | none | active | calendar confirmation saved |
+| A-031 | Book privacy consultation | student | Friday | none | done | calendar confirmation saved |
 
 ## Decision rules
 
 If you need approval, access or a reply, keep the action open until it arrives. Mark it **blocked** when you cannot proceed. Give each action one named owner so everyone knows who will follow up.
+
+## Check your record
+
+Before marking an action done, open the promised evidence. If the action was to obtain access, an emailed request is progress, not completion.
 
 ## Scenario test
 

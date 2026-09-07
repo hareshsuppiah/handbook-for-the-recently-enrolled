@@ -1,6 +1,6 @@
 ---
 title: "Reading, synthesis and citation"
-last-reviewed: "2026-09-06"
+last-reviewed: "2026-09-08"
 ---
 
 Your reference library is growing, but the literature review still reads like one paper after another. You know what each author did. The harder part is explaining what the papers tell you together.
@@ -34,6 +34,8 @@ Not every located record deserves the same attention.
 | Deep reading | How does its reasoning work and where could it fail? | Trace assumptions, warrants, alternatives and boundaries | analytic memo or argument map |
 
 A paper can move between passes. Triage is not permission to cite a source you have not verified.
+
+**Try this with one paper:** Write “I am reading this to find out…” at the top of the note. Find the passage that answers it, record the location and add one sentence about its limits. You have the beginning of a usable evidence record; you can fill the remaining fields when the paper warrants closer reading.
 
 ## Extract the claim each paper supports
 
@@ -81,11 +83,25 @@ A synthesis paragraph normally needs more than citations placed after a topic se
 
 ### Worked example
 
-**Catalogue version:** “Smith found feedback was useful. Lee found students wanted more feedback. Patel discussed supervision.”
+Here is a small example using two real sources. The notes are deliberately selective: they serve a paragraph about what makes feedback useful, not a complete review of either paper.
 
-**Synthesis version:** “Feedback is not a single exposure whose presence guarantees improvement. Across the selected studies, usefulness depended on whether comments were tied to a clear goal and translated into an actionable next step; however, the evidence came largely from taught-course settings, so the mechanism is more defensible here than a universal estimate for doctoral supervision.”
+| Source and location | Relevant evidence | What it cannot establish here |
+|---|---|---|
+| Hattie and Timperley, pp. 86–87 and Figure 1 | Their model connects feedback with goals, current progress and possible next steps [@hattie-timperley-2007]. | A classroom-focused model is not a direct test of doctoral supervision. |
+| Wisniewski and colleagues, abstract and discussion | Their meta-analysis found variable feedback effects, with information content helping explain differences [@wisniewski2020feedback]. | The educational evidence cannot supply a universal effect estimate for doctoral supervision. |
 
-The second version makes a comparative claim, states the condition, identifies the boundary and shows why the evidence matters. The citations would still need to be checked against each supporting source.
+**Catalogue version:** “Hattie and Timperley describe a model of feedback. Wisniewski and colleagues report a meta-analysis of feedback.”
+
+**Synthesis version:** “The information in feedback matters to how it may help a learner. A model connecting comments to goals, progress and next steps offers one explanation, while a later meta-analysis shows why feedback should not be treated as a uniform intervention [@hattie-timperley-2007; @wisniewski2020feedback]. For doctoral supervision, these sources support a cautious practical question: what will this comment help the researcher understand or do next? They do not establish how much any particular supervision arrangement will improve outcomes.”
+
+The paragraph connects the sources, explains their different roles and separates an evidence-based interpretation from a practical application. The source locations make those decisions checkable.
+
+<details class="practice-check">
+<summary>Try the same move with your own sources</summary>
+
+Choose two sources that address the same question. In one sentence, explain a meaningful agreement or disagreement. In a second, explain whether their setting, concepts, evidence or method helps account for it. Add the strongest qualification and the consequence for your project. Check each sentence against the original passages before polishing it.
+
+</details>
 
 ## Audit citation integrity
 
@@ -161,4 +177,4 @@ Before treating a literature section as ready for review, confirm:
 
 ## Try these resources
 
-Use the [paper triage and extraction template](../../templates/paper-triage-extraction.qmd), [evidence matrix](../../templates/evidence-matrix.qmd) and [synthesis and argument map](../../templates/synthesis-argument-map.qmd). If reading has become endless, use the [search ladder](10-search-ladder.qmd) and [I’m stuck](../../stuck/index.qmd).
+Choose one paragraph that currently lists papers. Use the [paper triage and extraction template](../../templates/paper-triage-extraction.qmd) and [evidence matrix](../../templates/evidence-matrix.qmd) to compare its sources, then rebuild it with the [synthesis and argument map](../../templates/synthesis-argument-map.qmd). If reading has become endless, use the [search ladder](10-search-ladder.qmd) and [I’m stuck](../../stuck/index.qmd).

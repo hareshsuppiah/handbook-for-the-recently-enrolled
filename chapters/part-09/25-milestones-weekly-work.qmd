@@ -1,6 +1,6 @@
 ---
 title: "Milestones, dependencies and weekly progress"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
 
 “Work on the literature review” can sit on a to-do list for weeks. It leaves both the starting point and the week's intended result unclear.
@@ -32,7 +32,7 @@ Use the date to work out when each part must be available for review.
 
 ## Work backwards through dependencies
 
-Begin with the accepted evidence and decompose it:
+Start with what the reviewer needs to accept, then work back to the tasks that will produce it:
 
 `accepted milestone → reviewable package → component outputs → verified inputs → permissions/resources → next actions`
 
@@ -97,9 +97,11 @@ Separate:
 
 Place buffers before important commitments as well as at the end of candidature. Common uncertainties include recruitment, ethics review, data access, equipment, collaborator feedback, analysis failure, illness, leave, caring responsibilities and revision cycles.
 
-Do not treat a buffer as available scope. If it is consumed, revisit downstream commitments.
+Keep the buffer for the uncertainty it was meant to absorb. If that time is used, revisit the commitments that follow instead of treating the buffer as space for extra tasks.
 
 ## Plan at three horizons
+
+Start with the research time you actually have. A plan for three study days a week will look different from one for full-time candidature. Include paid work, caring, access to equipment, travel and any agreed adjustments before assigning tasks. You do not need to explain private health or family circumstances in a shared plan; the team needs to know the availability and decisions that affect the work.
 
 ### Candidature horizon
 
@@ -115,18 +117,26 @@ Select outcomes that move the twelve-week decision. Protect focused blocks, coll
 
 Plans at different horizons should connect; the weekly list should not become a separate universe of urgent messages.
 
+### Make the week small enough to use
+
+Suppose you have two research mornings and one shorter afternoon. Use the mornings to compare the five feedback studies from the opening example, then use the afternoon to draft the paragraph and send it. If an extra teaching task removes a morning, renegotiate the output or review date. Moving the missing work into every evening is a change to your workload, even if the spreadsheet still looks on time.
+
+Keep an easier task available for a short or interrupted session, such as checking one reference. It can help you use that session, but it does not replace protected time for work that needs concentration.
+
 ## Run the weekly review
 
 1. **Collect:** capture open commitments, messages, notes, files and decisions.
 2. **Reconcile:** compare planned state with actual evidence.
 3. **Close:** mark accepted work only with proof; record superseded work.
-4. **Clarify:** convert ambiguous items into outcomes, deliverables and next actions.
+4. **Clarify:** turn vague items into results you can show and actions you can start.
 5. **Review waiting/blocked:** follow up or escalate at the defined threshold.
 6. **Review risks and changes:** update impact on milestones and buffers.
 7. **Choose:** select limited weekly outcomes tied to the active horizon.
 8. **Schedule:** place focused work and required conversations realistically.
 9. **Communicate:** send decisions or requests that others need.
 10. **Record:** retain the weekly state, not every transient thought.
+
+For a small project, this can be five lines in a notebook: produced, waiting, next, decision needed and review date. Use more fields only when they help coordinate the work. A week spent ruling out an unworkable approach can still move the project forward.
 
 ## Example: the “90% complete” chapter
 

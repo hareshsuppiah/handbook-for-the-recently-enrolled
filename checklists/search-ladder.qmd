@@ -1,6 +1,6 @@
 ---
 title: "How much searching does this decision need?"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
 
 **Pause point:** Before beginning or materially expanding a literature search.
@@ -8,6 +8,8 @@ last-reviewed: "2026-08-28"
 **Prevents:** Claiming comprehensive coverage after a quick search, or spending weeks on a review when you only need an introduction to the field.
 
 ## Choose the level
+
+Choose a main purpose, then add the methods it needs. These are not ranks of quality or compulsory steps. Citation searching can supplement several routes, and a scoping review may need extensive, reproducible retrieval.
 
 1. **Do you need only vocabulary, landmarks and a field map?**  
    Use an **orientation search**. Report it as selective.
@@ -28,6 +30,12 @@ last-reviewed: "2026-08-28"
 - [ ] A stopping rule or protocol is defined.
 - [ ] Known relevant records and contrary terms are considered.
 - [ ] Limitations will be reported without implying completeness.
+
+Write a stopping rule in the search log before you begin. For orientation, that might be an agreed time box and a usable vocabulary map. A scoping or systematic review follows its chosen methodology and protocol; a time box alone does not establish that the search is complete.
+
+## Stop condition
+
+Pause any claim of comprehensive coverage if the search and its records cannot support it. You may still use the work as a clearly labelled preliminary search while arranging the additional work or specialist advice needed.
 
 ## Scenario test
 

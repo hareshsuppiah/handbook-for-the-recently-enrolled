@@ -1,7 +1,67 @@
 ---
 title: "Supervisor expectations conversation guide"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
+
+Take this to a conversation, rather than filling in expectations on other people's behalf. Start with the two or three uncertainties affecting the next stage of work.
+
+
+<details class="template-copy">
+<summary>Open the blank copyable template</summary>
+
+Copy this plain-text version into your approved project record. Repeat entry fields as needed and remove prompts that do not apply. The guidance and examples below help you complete it.
+
+```text
+Supervisor expectations conversation guide
+
+Record agreed arrangements separately from proposed ones. Complete the required institutional agreement where applicable. Example timings are illustrative.
+
+Blank guide
+
+Roles and decisions
+
+- Student responsibilities: [ ]
+- Principal supervisor responsibilities: [ ]
+- Other supervisor or adviser responsibilities: [ ]
+- Decisions the student may make provisionally: [ ]
+- Decisions requiring the full team: [ ]
+- Decisions belonging to a formal or specialist process: [ ]
+
+Meetings and communication
+
+- Usual meeting frequency: [ ]
+- Agenda and papers sent by: [ ]
+- Routine channel: [ ]
+- Urgent channel and what counts as urgent: [ ]
+- Planned absence and continuity: [ ]
+
+Feedback
+
+- What counts as reviewable material: [ ]
+- Focus requested from the reviewer: [ ]
+- Typical window for short material: [ ]
+- Agreed window for long material: [ ]
+- How conflicting feedback will be reconciled: [ ]
+
+Records and follow-up
+
+- Meeting record prepared by: [ ]
+- Shared location: [ ]
+- Corrections made within: [ ]
+- Actions recorded with owner, date, dependencies and a way to check completion: [ ]
+- Decisions recorded with rationale and review trigger: [ ]
+
+Development, authorship and boundaries
+
+- Priority training or specialist support: [ ]
+- Opportunities for increasing independence: [ ]
+- Working and contact boundaries: [ ]
+- When authorship and contributions will be discussed: [ ]
+- Support or escalation routes: [ ]
+- Date to review this agreement: [ ]
+```
+
+</details>
 
 ## When to use it
 
@@ -53,6 +113,8 @@ Use this guide before or during an early supervision meeting, after a supervisor
 
 ## Completed example
 
+*Illustrative example; replace these details with your own verified record.*
+
 **Roles:** The student prepares options and a recommendation. The principal supervisor coordinates project-direction decisions. The methods co-supervisor advises on design. Ethics approval remains with the institutional committee.
 
 **Meetings:** Fortnightly for the first three months, reviewed at day 90. The student sends a decision-focused agenda and papers two working days beforehand. Email is routine; a message headed “milestone risk” is used when a delay affects a formal deadline.
@@ -62,6 +124,10 @@ Use this guide before or during an early supervision meeting, after a supervisor
 **Records:** The student circulates decisions and actions within two working days. Corrections are made in the shared record. An action is complete only when its stated evidence exists.
 
 **Development and boundaries:** No expectation of routine replies outside working hours. Authorship is discussed before an abstract or paper is committed. The arrangement is reviewed at day 90.
+
+## Check your record
+
+Capture agreed arrangements and remaining questions separately, then transfer the agreed version to the supervision agreement. The example timings are illustrative.
 
 ## Scenario test
 

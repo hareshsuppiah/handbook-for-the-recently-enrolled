@@ -1,11 +1,13 @@
 ---
 title: "Should I continue, pivot or stop?"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
 
 **Pause point:** When consequential new evidence, failure or constraint challenges the current project direction.
 
 **Prevents:** Continuing because of sunk effort, pivoting toward attractive results, or stopping before testing a repairable dependency.
+
+**Use:** Discuss the diagnostic, then use the do-confirm checks to record the decision. A failed study component does not by itself mean ending the doctorate. Distinguish the affected task or study from any formal change to candidature, and identify who can decide each.
 
 ## Five-minute diagnostic
 
@@ -41,6 +43,8 @@ Pause affected work immediately if continuing would breach approval, safety, int
 ## Worked scenario
 
 Recruitment reaches 20% of the minimum viable pool after the agreed feasibility window. Options are an additional authorised site, a narrower qualitative question, extended recruitment or stopping the study. The team compares contribution, approval, time and burden; it does not extend recruitment automatically because six months have already been invested.
+
+The percentage is an illustration, not a universal stopping threshold. Use criteria justified for your design and agreed before reviewing the result. A move to a qualitative question would require an appropriate question, method and approval review; it is not a way to rescue the original quantitative claim with fewer participants.
 
 ## What to bring to supervision
 

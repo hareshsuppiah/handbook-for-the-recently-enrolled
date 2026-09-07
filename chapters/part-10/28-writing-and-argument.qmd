@@ -1,6 +1,6 @@
 ---
 title: "Writing an argument"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
 
 You can rewrite an introduction for weeks and still be unsure what the chapter is trying to say. Put the sentences aside for a moment. Write down the question, your answer and the evidence that supports it.
@@ -10,6 +10,8 @@ That rough version gives you something to work with. You can see where a source 
 ## Start with a rough argument {#build-the-reasoning-before-polishing-the-sentences}
 
 Writing can help you find out what you think. You can begin before every question is settled, as long as you mark what still needs checking. A polished paragraph will not fix a weak inference or an unverified source; use the draft to find those problems early.
+
+Try three rough sentences: “My answer is…”, “The evidence for it is…” and “This evidence supports that answer because…”. The third sentence explains the connection between the evidence and your answer, often called the **warrant**. Add “This does not tell us…” to find the limit. You can refine the wording after you can see the reasoning.
 
 ## Match the draft to its purpose
 
@@ -36,7 +38,7 @@ For each section, write one question the reader needs answered. Then specify:
 - the boundary beyond which the claim should not travel; and
 - the next consequence for the chapter or study.
 
-If you cannot state the section's question, additional prose usually increases the problem. Return to the argument map rather than searching for a more impressive first sentence.
+If the question is still unclear, write a rough version in the argument map and test it against the evidence. You can change it as the reasoning develops. Finding an impressive first sentence can wait.
 
 ## Help the reader follow a paragraph {#build-paragraphs-as-reasoning-units}
 
@@ -50,7 +52,7 @@ Use the sequence to diagnose a paragraph that feels incomplete. It is a guide, s
 
 **Argument-centred paragraph:** Across the three studies, structured feedback was associated with more specific revisions, but the studies used different settings and did not test doctoral completion. The evidence therefore supports a workflow hypothesis about revision. It does not show that the approach improves candidature outcomes.
 
-The reader can now see what the studies have in common and what they cannot tell us.
+These are invented examples of paragraph structure, not summaries of named studies. The reader can now see what the studies have in common and what they cannot tell us. In your draft, replace the example with comparisons and citations you have checked.
 
 ## Explain why the evidence supports your answer {#separate-claim-evidence-and-warrant}
 
@@ -76,6 +78,8 @@ Before polishing, test the strength of the verb:
 
 Choose the verb your design and evidence support. A precise description can be a useful contribution.
 
+These verbs are choices, not a ladder every thesis should climb. An interpretation of an interview, text or creative work also needs a clear account of the material, how you read it and which alternative readings you considered. Use the language and standards appropriate to that kind of argument.
+
 ## Write early, but label uncertainty
 
 Use visible markers such as:
@@ -89,6 +93,12 @@ Use visible markers such as:
 Maintain a short unresolved-claims list. Replace each marker with verified content, revise the claim or remove it before the relevant review gate. Do not leave invented citations, guessed values or plausible-sounding filler in a shared draft where it could be mistaken for evidence.
 
 Write difficult middle sections before repeatedly polishing the abstract or introduction. Openings often stabilise only after the argument and contribution are clear.
+
+## When expressing the idea is the difficult part
+
+You can sketch an argument in another language, explain it aloud, dictate a rough version or begin with a diagram if that helps you think. Use approved tools and keep confidential material within its permitted setting. The rough form is there to help you produce a draft you understand and can explain.
+
+Ask a writing adviser or trusted reader to identify where the meaning becomes hard to follow. “Which sentence made you lose the connection?” gives you more to work with than “Does this sound academic?”. If you use translation, editing or AI assistance, check the applicable rules, preserve your responsibility for the argument and disclose assistance where required.
 
 ## Give each major section a job
 
@@ -112,7 +122,7 @@ Present evidence in an order that answers the question. Distinguish planned, ame
 
 ### Discussion
 
-Answer the question, relate the result to prior evidence, examine plausible explanations and limitations, state the contribution and define implications without crossing the inferential boundary. Do not introduce a different study in the final pages.
+Answer the question and compare the result with prior evidence. Examine plausible explanations and limitations, then state what the work contributes and what follows from it. Keep those implications within what the study can establish; avoid introducing a different study in the final pages.
 
 Choose and use the relevant current reporting guideline where one exists. The guideline supports completeness; it does not replace methodological judgement or local requirements [@nhmrc-publication-guide].
 

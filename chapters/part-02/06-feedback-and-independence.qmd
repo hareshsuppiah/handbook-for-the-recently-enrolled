@@ -1,6 +1,6 @@
 ---
 title: "Feedback, disagreement and independence"
-last-reviewed: "2026-09-06"
+last-reviewed: "2026-09-08"
 ---
 
 A draft comes back covered in comments. A few are easy to act on. Others say “be more critical”, and two supervisors seem to want different things. You can spend a long time revising before working out what either meant.
@@ -34,6 +34,8 @@ Use a feedback-response matrix. For each comment:
 
 You do not need to accept every suggestion literally. You do need to address the problem it reveals. A reader who proposes the wrong solution may still have located a real ambiguity.
 
+Start with the comments that change the question, method or argument. Wording edits can wait if those decisions are still open. When a long comment list feels unmanageable, choose one section and ask the reviewer to help you identify its most important revision.
+
 ## When feedback conflicts
 
 Contradictory comments may reflect:
@@ -58,7 +60,9 @@ Do not blend incompatible comments into a compromise that satisfies neither rati
 
 Check the agreed window before treating the delay as a relationship problem. Then send a factual follow-up that names the material, request, date and consequence:
 
-> I sent the two-page design note on 4 September for a decision needed by 18 September. Could you confirm whether review by 15 September is feasible? If not, I propose moving the milestone discussion and completing the reversible analysis setup while we arrange an alternative review.
+> I sent the two-page design note on 4 September for a decision needed by 18 September. Could you confirm whether review by 15 September is feasible? If not, could we arrange an alternative reviewer or agree how to raise the deadline risk? I can complete the reversible analysis setup while we settle the review arrangements.
+
+Moving a supervision discussion does not move an official milestone. Check the formal change route if the deadline itself needs to change.
 
 If delay repeatedly threatens progress, use the continuity or formal support route recorded in the supervision agreement.
 
@@ -76,6 +80,15 @@ The response matrix proposes:
 - ask the supervisor whether this addresses the intended meaning of “critical”.
 
 The supervisor can now review a specific revision and clarify anything the student has misunderstood.
+
+Here is how one part of that response might look:
+
+| Comment | My reading of the problem | Response and evidence of completion |
+|---|---|---|
+| “Be more critical” | The section reports each paper separately, so the disagreement is hard to see | Compare the three explanations in one paragraph; link each comparison to the source passage. Ask whether this addresses the comment. |
+| “Delete the contrary study” | Its relevance may not be clear | Investigate before deleting. Check whether its different setting explains the result, then propose retaining it with that qualification or record a defensible reason for excluding it. |
+
+These are possible responses to illustrate the process. The actual source evidence determines the revision.
 
 ## When you disagree
 
@@ -131,6 +144,8 @@ Bring what you checked, the strongest evidence, realistic options, your recommen
 - health or wellbeing requires specialist or urgent support.
 
 ## Try these resources
+
+Choose one important comment and complete a row in the feedback response matrix. If its meaning is still unclear, return that row as a question before rewriting the whole draft.
 
 - [Supervisor review cover note](../../templates/supervisor-review-cover-note.qmd)
 - [Feedback response matrix](../../templates/feedback-response.qmd)

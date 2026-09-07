@@ -1,9 +1,118 @@
 ---
 title: "Method-options comparison"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
 
+Use this before settling on a design. Compare a small number of credible options against the same research question; include an accessible narrower option where it answers a useful question.
+
 Compare serious design options before commitment. Obtain method-specific, governance and community advice where consequences are material.
+
+
+<details class="template-copy">
+<summary>Open the blank copyable template</summary>
+
+Copy this plain-text version into your approved project record. Repeat entry fields as needed and remove prompts that do not apply. The guidance and examples below help you complete it.
+
+```text
+Method-options comparison
+
+Obtain method-specific, governance and community advice where consequences are material. Informal access support is not written authority or proof that data can be supplied.
+
+What the study needs to answer
+
+Research question: [ ]
+Intended inference or claim: [ ]
+Target population, context, cases or corpus: [ ]
+Risks we must address: [ ]
+Confirmed limits on the study: [ ]
+
+Comparison table
+
+Entry 1
+Criterion: Design or approach
+Option A: [ ]
+Option B: [ ]
+Option C: [ ]
+
+Entry 2
+Criterion: Inference it can support
+Option A: [ ]
+Option B: [ ]
+Option C: [ ]
+
+Entry 3
+Criterion: Evidence required
+Option A: [ ]
+Option B: [ ]
+Option C: [ ]
+
+Entry 4
+Criterion: What remains unknowable
+Option A: [ ]
+Option B: [ ]
+Option C: [ ]
+
+Entry 5
+Criterion: Main assumptions
+Option A: [ ]
+Option B: [ ]
+Option C: [ ]
+
+Entry 6
+Criterion: Surviving alternative explanation
+Option A: [ ]
+Option B: [ ]
+Option C: [ ]
+
+Entry 7
+Criterion: Sampling or source boundary
+Option A: [ ]
+Option B: [ ]
+Option C: [ ]
+
+Entry 8
+Criterion: Measurement or interpretation risk
+Option A: [ ]
+Option B: [ ]
+Option C: [ ]
+
+Entry 9
+Criterion: Analysis and skills required
+Option A: [ ]
+Option B: [ ]
+Option C: [ ]
+
+Entry 10
+Criterion: Ethics, governance or cultural authority
+Option A: [ ]
+Option B: [ ]
+Option C: [ ]
+
+Entry 11
+Criterion: Time, cost and dependency
+Option A: [ ]
+Option B: [ ]
+Option C: [ ]
+
+Entry 12
+Criterion: Smallest useful feasibility test
+Option A: [ ]
+Option B: [ ]
+Option C: [ ]
+
+Entry 13
+Criterion: Failure or stop condition
+Option A: [ ]
+Option B: [ ]
+Option C: [ ]
+
+Provisional choice: [ ]
+Why it is preferable for this inference: [ ]
+Why the strongest alternative was rejected: [ ]
+What would reverse the choice: [ ]
+```
+
+</details>
 
 ## What the study needs to answer
 
@@ -38,6 +147,8 @@ Compare serious design options before commitment. Obtain method-specific, govern
 
 ## Completed example
 
+*Illustrative example; replace these details with your own verified record.*
+
 **Question:** How can one university identify candidates at elevated risk of withdrawal early enough to offer support?
 **Intended inference:** bounded prediction within that university, not universal causation.
 
@@ -50,6 +161,10 @@ Compare serious design options before commitment. Obtain method-specific, govern
 | Stop condition | outcome or timing cannot be reconstructed | recruitment route is unsafe or unavailable | no lawful, useful integration path |
 
 **Provisional choice:** begin with an administrative feasibility audit. Proceed to the combined option only if lawful linkage, participant protection, recruitment and integration logic are confirmed.
+
+## Check your record
+
+Make the best alternative a fair comparison. Record uncertain access or capability as uncertain, with a check and owner, rather than giving an attractive design assumed feasibility.
 
 ## Scenario test
 

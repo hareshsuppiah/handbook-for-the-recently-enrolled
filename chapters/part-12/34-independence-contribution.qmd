@@ -1,6 +1,6 @@
 ---
 title: "Independence and contribution"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
 
 “Be more independent” is difficult feedback to act on. It becomes clearer when you attach it to a decision. Can you compare two methods, recommend one, explain why and recognise where you need specialist advice?
@@ -33,6 +33,8 @@ Assess capability across decisions rather than asking whether you “feel indepe
 | Accountability | can explain decisions, correct errors and leave a usable record |
 
 Independence varies by domain. A candidate can lead the conceptual argument while correctly relying on statistical, cultural, clinical, technical or community expertise. Seeking qualified help is part of sound judgement.
+
+Independence also does not mean doing every physical, administrative or technical task without assistance. An accessible workflow, assistive technology or agreed support can help you carry out the research while you remain responsible for the decisions that are yours. Make roles clear in the relevant contribution record without putting private health details into a thesis declaration.
 
 ## Agree how supervision can change {#calibrate-supervisory-support}
 
@@ -80,6 +82,17 @@ Then test:
 - Does the contribution belong to the thesis, a study, the team or the candidate?
 - What is useful even if the preferred interpretation is rejected?
 
+**Try it:** Replace “This thesis makes an important contribution to understanding feedback” with a statement an examiner could check.
+
+<details>
+<summary>See a more specific claim</summary>
+
+“This thesis identifies three ways students interpret conflicting supervisor feedback, using interviews from one university, and explains how those interpretations shaped the revisions they described.”
+
+This invented example names the new account, its evidence and its setting. It still needs the actual thesis locations and a comparison with prior work. It cannot establish how common those interpretations are across universities or whether the revisions improved completion rates.
+
+</details>
+
 ## Integrate study-level contributions
 
 Each study should have a distinct job in the whole-thesis argument. Use a matrix:
@@ -111,6 +124,8 @@ A project studies athlete-reported recovery data, where interpretation differs a
 The thesis can claim to identify decision requirements, clarify when changes can be interpreted and demonstrate a recoverable workflow. Those studies do not establish improved athlete health or performance.
 
 The candidate framed the programme, led design and synthesis, and implemented the workflow. Measurement specialists and practitioners contributed expertise, with their roles reported separately. That account shows what the candidate led without erasing the collaboration.
+
+In a historical thesis, the components might instead bring a neglected archive into the account, test an established interpretation against it and explain how the combined reading changes the field's understanding. In practice-led work, a creative artefact and critical account may contribute together. Use your field's examination requirements to decide how that relationship needs to be demonstrated.
 
 ## Look for evidence of independence
 

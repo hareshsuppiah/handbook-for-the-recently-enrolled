@@ -1,10 +1,24 @@
 ---
 title: "Practical resources"
+last-reviewed: "2026-09-08"
 ---
 
-These 53 checklists, decision aids and templates are linked to the decisions and pause points where they can help.
+Choose a resource for the task in front of you. You do not need to set up every template before starting the doctorate.
 
 Use a checklist before starting a study, analysing data or submitting your work. Each one helps you catch omissions while there's still time to fix them.
+
+## Find a useful starting point
+
+| What you need to do | Open this | Leave with |
+|---|---|---|
+| Prepare for a supervision meeting | [Meeting agenda](templates/meeting-agenda.qmd) | The decisions and questions you want to discuss |
+| Turn reading into an argument | [Synthesis and argument map](templates/synthesis-argument-map.qmd) | A provisional answer linked to evidence and limits |
+| Ask for focused feedback | [Review cover note](templates/supervisor-review-cover-note.qmd) | A clear request for the next kind of review |
+| Choose between methods | [Method-options table](templates/method-options.qmd) | A comparison you can take to an adviser |
+| Follow up work that is waiting | [Action register](templates/action-register.qmd) | A named decision owner and follow-up date |
+| Work out where to begin | [I'm stuck](stuck/index.qmd) | One next action or a route to help |
+
+Copy only the fields that serve the decision, keeping required approvals and records intact. Worked examples show one way to complete a resource; they are not evidence about your own project. Keep private research material in its approved location, away from public suggestions or shared examples.
 
 ## Phase checkpoints
 
@@ -33,10 +47,10 @@ Read [how these checklists work](checklists/index.qmd) before using them.
 - [Good-enough rubric](checklists/good-enough-rubric.qmd)
 - [Pivot, continue or stop](checklists/pivot-continue-stop.qmd)
 
-## Templates
+## All checklists and templates
 
-Open **Templates** in the book contents to find meeting agendas, search logs, research plans, data records and writing tools. You can copy them into whatever system you already use.
+Browse the complete catalogue below or search by a word in the title. Templates include a blank editable download and a clearly labelled worked example where useful. Tickable checklists remain reminders to make the required checks; they do not grant approval.
 
-Priority templates include a completed example alongside the blank version. Adapt the fields to your project.
+{{< include includes/resource-catalogue.qmd >}}
 
 The public repository keeps the row-by-row status in [`planning/requirements-checklist.csv`](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/blob/main/planning/requirements-checklist.csv).

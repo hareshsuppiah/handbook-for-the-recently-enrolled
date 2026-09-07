@@ -1,9 +1,52 @@
 ---
 title: "Paper triage and extraction"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
 
+Use the triage block to decide what to retrieve, then the extraction block after reading an included source. Keep the source authors' interpretation separate from the inference you make for your own project.
+
 Adapt the fields to the evidence type and selected review method. Do not store copyrighted, confidential, identifiable or culturally restricted material in an inappropriate location.
+
+
+<details class="template-copy">
+<summary>Open the blank copyable template</summary>
+
+Copy this plain-text version into your approved project record. Repeat entry fields as needed and remove prompts that do not apply. The guidance and examples below help you complete it.
+
+```text
+Paper triage and extraction
+
+Do not store copyrighted, confidential, identifiable or culturally restricted material in an inappropriate location. A title-and-abstract screen is not source verification.
+
+Blank triage record
+
+Record ID: [ ]
+Verified citation or stable link: [ ]
+Question this source may answer: [ ]
+Evidence or source type: [ ]
+Population, setting, period or corpus: [ ]
+Apparent relevance: high / possible / low
+Credibility or fit warnings: [ ]
+Decision: retrieve / include / hold / exclude
+Reason and reviewer/date: [ ]
+
+Blank extraction record
+
+Source's own purpose or question: [ ]
+Design, approach or form of argument: [ ]
+Materials, participants, sources or cases: [ ]
+Relevant finding, evidence or reasoning: [ ]
+Exact location: [page, section, table, figure, timestamp or dataset location]
+Authors' interpretation: [ ]
+My interpretation: [label inference explicitly]
+Limitations stated by authors: [ ]
+Additional limitations or applicability boundaries: [ ]
+Contradictory or qualifying evidence to seek: [ ]
+How this changes the present argument or decision: [ ]
+Use: cite / compare / background only / exclude
+```
+
+</details>
 
 ## Use this at two different moments
 
@@ -38,6 +81,8 @@ Adapt the fields to the evidence type and selected review method. Do not store c
 
 ## Completed example
 
+*Illustrative example; replace these details with your own verified record.*
+
 **Record ID:** FEED-014
 **Verified citation:** Hattie, J. and Timperley, H. (2007), “The Power of Feedback”, *Review of Educational Research*, 77(1), 81–112, DOI verified.
 **Question this source may answer:** What makes feedback actionable?
@@ -51,6 +96,10 @@ Adapt the fields to the evidence type and selected review method. Do not store c
 **My interpretation:** the model can structure a doctoral feedback conversation, but transfer to doctoral settings is an inference.
 **Applicability boundary:** do not claim that all feedback improves doctoral outcomes.
 **Use:** compare with doctorate-specific evidence and cite only for the bounded conceptual claim.
+
+## Check your record
+
+Open the exact source location behind each extracted claim. Keep a title-and-abstract judgement labelled as triage until the fuller source check is complete.
 
 ## Scenario test
 

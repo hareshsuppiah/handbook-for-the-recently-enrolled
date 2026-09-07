@@ -1,6 +1,6 @@
 ---
 title: "Analysis, writing and Quarto"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
 
 Your analysis says 124 participants. The table in your draft says 121. Somewhere between the analysis and the manuscript, a copy-and-paste step has gone stale.
@@ -129,6 +129,8 @@ Decide whether a document:
 
 State the choice. Do not imply that a public manuscript source can regenerate confidential analysis if the data and secure environment are necessarily separate.
 
+Cached or frozen results are previously computed results reused during a build. They can save time, but seeing a newly rendered page does not prove its analysis was rerun. Record the input and code versions that produced those results, and check whether changes require fresh computation. See Quarto's [execution options](https://quarto.org/docs/computations/execution-options.html) and [project execution guidance](https://quarto.org/docs/projects/code-execution.html) for the distinction and configuration.
+
 ## Example: the manually updated table
 
 An analysis runs in a graphical tool. The student copies the values into Excel, reformats them and pastes a screenshot into Word. Later, the text reports 124 participants but the screenshot still shows 121. Nobody can tell which exclusions it includes.
@@ -136,6 +138,27 @@ An analysis runs in a graphical tool. The student copies the values into Excel, 
 Save the analysis state and export a structured results table. Check the participant counts against the recruitment and exclusion record, then generate the publication table from that export. Quarto can insert the generated table into the manuscript. A controlled table specification can serve the same purpose in another writing workflow.
 
 After rendering, compare the displayed table with the analysis output. Ask a reviewer to trace one value back to its source.
+
+### Try a small source-to-report example
+
+If you already have R, Quarto and its R dependencies installed, save the following as `practice.qmd` in a separate practice folder. The numbers are invented. This is a small demonstration of an updateable report, not a research analysis or a request to migrate your thesis.
+
+````text
+---
+title: "A small report"
+format: html
+---
+
+```{{r}}
+counts <- c(2, 4, 6)
+total <- sum(counts)
+data.frame(group = c("A", "B", "C"), count = counts)
+```
+
+The total is `{{r}} total` across `{{r}} length(counts)` groups.
+````
+
+Render with `quarto render practice.qmd`. You should see three rows and a total of 12. Change the final input from `6` to `8`, render again and check that the table and sentence both update to give a total of 14. The code block creates the result; the inline expression inserts it into the prose. The [official Quarto R guide](https://quarto.org/docs/computations/r.html) covers setup and execution. If this is unfamiliar, use the graphical-tool route above and retain the same link between the exported result and the text.
 
 ## Build a representative prototype
 
@@ -179,5 +202,7 @@ If the route fails, bring the prototype, error or export problem, method require
 []{#prototype-the-whole-route-with-one-real-example}
 
 ## Try these resources
+
+Choose one result currently copied by hand. Record its source and update route, then test whether a changed input reaches the table, caption and prose consistently.
 
 Use the [method-options comparison](../../templates/method-options.qmd), [Before analysis](../../checklists/before-analysis.qmd), [paper extraction template](../../templates/paper-triage-extraction.qmd), [search log](../../templates/search-log.qmd) and [supervisor review cover note](../../templates/supervisor-review-cover-note.qmd). Continue to [Git, GitHub and AI-assisted workflows](24-git-github-ai.qmd).

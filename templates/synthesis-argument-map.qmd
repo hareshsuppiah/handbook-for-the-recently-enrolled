@@ -1,9 +1,61 @@
 ---
 title: "Synthesis and argument map"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
 
+Use this when several sources need to become an argument. Start with one claim and map the evidence that supports, qualifies or challenges it before drafting the paragraph.
+
 Use this map for a paragraph, section or decision that depends on several sources. Every cited source must still be opened and checked.
+
+
+<details class="template-copy">
+<summary>Open the blank copyable template</summary>
+
+Copy this plain-text version into your approved project record. Repeat entry fields as needed and remove prompts that do not apply. The guidance and examples below help you complete it.
+
+```text
+Synthesis and argument map
+
+Open and check each cited source against the exact claim. Label the writer's inference separately from the source's own conclusion.
+
+Blank map
+
+Question this section answers: [ ]
+Claim and its limits: [ ]
+Why the claim matters: [ ]
+
+Entry 1
+Role: Supporting evidence
+What belongs here: [direct evidence or reasoning]
+Source and exact location: [ ]
+
+Entry 2
+Role: Qualifying evidence
+What belongs here: [condition, uncertainty or subgroup]
+Source and exact location: [ ]
+
+Entry 3
+Role: Contrary evidence
+What belongs here: [credible challenge or alternative]
+Source and exact location: [ ]
+
+Entry 4
+Role: Warrant
+What belongs here: [why the evidence justifies the claim]
+Source and exact location: [ ]
+
+Entry 5
+Role: Boundary
+What belongs here: [where the claim should not be assumed]
+Source and exact location: [ ]
+
+Alternative explanation: [ ]
+Sentence that would overclaim: [ ]
+Defensible paragraph sequence: claim → comparison → warrant → boundary → consequence
+Remaining evidence needed: [ ]
+```
+
+</details>
 
 ## Blank map
 
@@ -26,6 +78,8 @@ Use this map for a paragraph, section or decision that depends on several source
 
 ## Completed example
 
+*Illustrative example; replace these details with your own verified record.*
+
 **Question:** What makes feedback usable during candidature?
 
 **Claim and its limits:** Feedback is more likely to be actionable when it identifies the goal, current performance and a feasible next step, but this does not guarantee improved doctoral outcomes.
@@ -41,6 +95,10 @@ Use this map for a paragraph, section or decision that depends on several source
 **Sentence that would overclaim:** “Supervisor feedback following this model improves PhD completion.”
 
 **Defensible consequence:** Use the model to structure a feedback request while seeking doctorate-specific evidence and tracking whether the resulting revision is actually possible.
+
+## Check your record
+
+Explain the warrant in your own words: why does this evidence justify this claim? If that link is missing, more citations alone will not supply it.
 
 ## Scenario test
 

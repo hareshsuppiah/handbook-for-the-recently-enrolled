@@ -1,9 +1,57 @@
 ---
 title: "Escalation message builder"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
 
+Choose the authorised recipient and the exact decision you need before adapting the message. Keep only the options and dates that apply; the example is not a required timetable.
+
 Use this to request a decision, protection or intervention when the ordinary route has not resolved the issue or is inappropriate. Use emergency or specialist reporting routes directly when urgent.
+
+
+<details class="template-copy">
+<summary>Open the blank copyable template</summary>
+
+Copy this plain-text version into your approved project record. Repeat entry fields as needed and remove prompts that do not apply. The guidance and examples below help you complete it.
+
+```text
+Escalation message builder
+
+Privacy screen
+
+- [ ] I am contacting the correct authorised recipient.
+- [ ] I have included only information needed for this decision.
+- [ ] Sensitive evidence is stored in an approved location, not broadly attached.
+- [ ] I have avoided speculation about motives or diagnoses.
+- [ ] I have named any immediate safety, participant, privacy or integrity concern clearly.
+
+Blank message
+
+Subject: Decision/support needed by [date]: [specific issue]
+
+Hello [name/role],
+
+I am requesting [the exact decision, protection, review or action].
+
+The current position is [two or three factual sentences: expected state, observed state and relevant dates]. The immediate impact is [milestone, work, participant, safety or other consequence].
+
+I have already [actions and results]. The relevant record is [authorised location or concise reference].
+
+The feasible options I can see are:
+
+1. [option and main consequence];
+2. [option and main consequence]; and
+3. [option and main consequence].
+
+My provisional recommendation is [option] because [bounded reason]. I need [decision/action] by [date] because [trigger or consequence]. Please let me know if this should instead use [known formal route].
+
+Regards,
+
+[name]
+
+Before sending: replace bracketed prompts; remove unused options; use the authorised urgent or independent route where required.
+```
+
+</details>
 
 ## Privacy screen
 
@@ -39,6 +87,8 @@ Regards,
 
 ## Completed example
 
+*Illustrative example; replace these details with your own verified record.*
+
 **Subject:** Supervision review decision needed by 22 September: ethics submission dependency
 
 Hello Graduate Research Coordinator,
@@ -56,6 +106,10 @@ Could you advise or decide the appropriate route by 22 September? No participant
 Regards,
 
 [name]
+
+## Check your record
+
+Check that the recipient can take the requested action. Retain the reply and next decision in the appropriate record; sending the message does not resolve the issue.
 
 ## Scenario test
 

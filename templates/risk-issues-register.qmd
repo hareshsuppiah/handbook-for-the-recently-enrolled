@@ -1,9 +1,62 @@
 ---
 title: "Risk and issues register"
-last-reviewed: "2026-08-31"
+last-reviewed: "2026-09-08"
 ---
 
+Start with the event most likely to change the next decision or threaten a duty of care. Name its current state, an observable trigger and the person who can act.
+
 Use this register for risks and problems that could change what you do next. Read [Risks, blocked work and change](../chapters/part-09/26-risks-blocked-change.qmd) before first use.
+
+
+<details class="template-copy">
+<summary>Open the blank copyable template</summary>
+
+Copy this plain-text version into your approved project record. Repeat entry fields as needed and remove prompts that do not apply. The guidance and examples below help you complete it.
+
+```text
+Risk and issues register
+
+Classification key
+
+- Risk: an uncertain future event or condition.
+- Issue: the event has happened or the condition exists.
+- Waiting: progress depends on a known external action.
+- Blocked: the current route cannot produce the required outcome.
+- Incident: harm, breach, loss or unsafe conduct may have occurred; use the authorised urgent process.
+
+Blank register
+
+ID: R-001
+State: risk / issue / waiting / blocked
+Cause, event and consequence: Because [cause], [event] may/has occurred, causing [consequence]
+Current evidence: known: [ ]; uncertain: [ ]
+Prevention or current response: [ ]
+Contingency or alternative: [ ]
+Owner: [ ]
+Trigger, follow-up or escalation date: [date + condition]
+Status and closure evidence: open / monitoring / escalated / closed because [evidence]
+
+If likelihood or consequence ratings are required locally, define the scale beside the register. Do not present guessed numbers as measured probability.
+
+Plan a fallback
+
+Complete one card for any risk that could make a study infeasible, threaten an important deadline or interrupt a duty of care. Attach it to the matching register ID.
+
+Register ID and protected outcome: [What must remain possible or protected?]
+Trigger: [Observable condition or date that prompts a decision]
+Fallback route: [Specific alternative, including what it can and cannot answer]
+Test before activation: [Small check that shows whether the fallback is feasible]
+Activation owner: [Person who can decide to switch]
+Required authority: [Ethics, governance, data, safety, partner, funder or candidature decision, if any]
+Prerequisites: [Approval, access, skill, equipment, code, budget or handover needed]
+Review date: [When the trigger and fallback will be reconsidered]
+Activation record: [Decision, date, reason and linked approval]
+Evidence that the fallback works: [Test, access confirmation, restore result, calibration or other proof]
+
+Privacy and authority: keep sensitive case details in the authorised confidential process. This register does not replace incident, safety, privacy, ethics or research-integrity reporting.
+```
+
+</details>
 
 ## Classification key
 
@@ -57,6 +110,8 @@ Do not treat this worked example as a universal recruitment rule. Its numbers ar
 
 ## Completed example
 
+*Illustrative example; replace these details with your own verified record.*
+
 | ID | State | Cause, event and consequence | Current evidence | Prevention or current response | Contingency or alternative | Owner | Trigger, follow-up or escalation date | Status and closure evidence |
 |---|---|---|---|---|---|---|---|---|
 | R-004 | issue; analysis waiting | Because partner legal review has no decision date, the controlled-data extract was not confirmed by 15 Sep, which may make the primary analysis infeasible in candidature | request acknowledged; variable list and approval absent; no transfer | request written timetable; test pipeline with synthetic data | assess public dataset and narrower question; prepare change decision | student: tests and record; supervisor: scientific decision; custodian: access | follow up 18 Sep; choose route 30 Sep | open; closes only with written access or approved alternative and updated records |
@@ -72,6 +127,10 @@ At each agreed review:
 5. activate contingencies before the protected buffer is exhausted;
 6. link any material change to the decision record and required approval; and
 7. close only with observable evidence.
+
+## Check your record
+
+Check whether the trigger has occurred and whether the fallback is still feasible. Keep incident reporting in its authorised process; this register records the project consequence and links to the appropriate decision.
 
 ## Scenario test
 

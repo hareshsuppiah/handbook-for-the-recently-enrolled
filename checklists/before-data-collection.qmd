@@ -1,6 +1,6 @@
 ---
 title: "Is this study ready to collect data?"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
 
 **Pause point:** Immediately before the first participant, observation, specimen, device recording, field visit or restricted-data transfer.
@@ -8,6 +8,8 @@ last-reviewed: "2026-08-28"
 **Prevents:** Beginning without valid permission, approved materials, trained people, safe procedures or recoverable data systems.
 
 **Use:** Do-confirm.
+
+Walk through the actual first session or transfer with the people doing it. Name the project, site, date and material versions in your retained record. Recheck the affected items when the team, site, device, materials or data route changes; yesterday's ticks do not verify today's workflow.
 
 ## Critical checks
 

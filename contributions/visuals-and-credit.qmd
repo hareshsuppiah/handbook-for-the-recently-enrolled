@@ -1,6 +1,6 @@
 ---
 title: "Visuals, humour and credit"
-last-reviewed: "2026-08-29"
+last-reviewed: "2026-09-08"
 ---
 
 The handbook can be serious without sounding solemn on every page. A well-placed cartoon, visual analogy or familiar research frustration can help a reader remember an idea. The joke must serve the teaching point, not turn the handbook into a gallery of borrowed internet culture.
@@ -31,6 +31,10 @@ Wikimedia Commons notes that files can carry different reuse and attribution con
 Giving credit does not cure a missing licence. Attribution and permission are separate checks.
 
 For example, [PHD Comics asks people to obtain permission before reproducing its comics](https://phdcomics.com/about.php). We will identify a useful strip first, request permission for that exact use and wait for written approval before embedding it. Until then, a link is the most the handbook will provide.
+
+## Screenshots of contribution steps
+
+The contribution guide includes real GitHub captures dated 8 September 2026. The example form was not submitted. Screenshots are cropped to the relevant controls, paired with written instructions and labelled when they show a historical status. GitHub’s interface and marks remain third-party material and are excluded from the handbook’s CC BY 4.0 licence. A screenshot is an example of the interface on that date, not a guarantee that its buttons or status are current.
 
 ## The credit line
 

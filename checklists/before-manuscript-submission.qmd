@@ -1,5 +1,6 @@
 ---
 title: "Is this manuscript ready to submit?"
+last-reviewed: "2026-09-08"
 ---
 
 **Pause point:** Before submitting a manuscript to a journal, conference or edited collection.
@@ -16,6 +17,7 @@ title: "Is this manuscript ready to submit?"
 - [ ] The appropriate reporting guideline has been completed where one exists.
 - [ ] Claims, title and abstract match the design, evidence, uncertainty and limitations.
 - [ ] References, data, quotations, tables, figures, statistics, supplements and cross-references have been checked.
+- [ ] Figures and tables remain legible in the submission format, and captions or alternative descriptions explain the relevant information without relying on colour alone.
 - [ ] Copyright permissions, licences, funding, acknowledgements and conflicts of interest are complete.
 - [ ] Data, code and materials availability statements are accurate and do not breach consent, approval or agreements.
 - [ ] Any required disclosure of AI-assisted work is accurate and consistent with authorship and outlet rules.
@@ -29,3 +31,11 @@ Do not submit without every author's approval or while the manuscript, supportin
 ## Evidence to retain
 
 Keep the outlet check, author approvals, reporting checklist, permission records, exact submission package, receipt and all editorial correspondence.
+
+## Scenario test
+
+All authors approved the manuscript, but the submission portal contains an older supplement and automatically builds a PDF without one figure. Pause submission, replace the supplement, inspect the portal-generated proof and confirm any substantive change with the authors before submitting. The approved source document alone does not establish which files the editor will receive.
+
+## Related guidance
+
+Use [Publishing, peer review and communication](../chapters/part-10/30-publishing-review-communication.qmd) and the [journal due-diligence template](../templates/journal-due-diligence.qmd) before uploading the final package.

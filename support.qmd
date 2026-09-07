@@ -1,5 +1,6 @@
 ---
 title: "Local rules and specialist help"
+last-reviewed: "2026-09-08"
 ---
 
 Some questions need an answer from someone who knows your project or university. Use this page to find a starting point.
@@ -17,6 +18,14 @@ Some questions need an answer from someone who knows your project or university.
 | Records and access after the project ends | Your research office and data custodian, including any funder, partner or community commitments. |
 
 When an answer affects an approval, submission or irreversible action, keep the advice and its date with your project records.
+
+## Make the first enquiry small
+
+Send a short description of the decision you need, the relevant deadline and the rule or agreement you have already checked. Ask: “Is this the right office to advise, and who can authorise the decision?” A person may be able to explain a process without having authority to approve the change.
+
+For example: “My data-access decision is delayed and the current milestone assumes analysis starts next month. Which process applies if the timeline needs to change, and what information should I bring?” Use placeholders or a general account until you know the appropriate confidential channel for sensitive details.
+
+Record the answer in a few fields: **question, adviser or office, date, current policy link, decision or advice, next action**. If written advice conflicts with a rule or another office's answer, ask the responsible office to resolve the conflict before a consequential action. Keep the unresolved point visible.
 
 ## If you need confidential support {#when-someone-may-be-harmed}
 

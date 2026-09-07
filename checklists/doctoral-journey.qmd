@@ -1,9 +1,13 @@
 ---
 title: "The whole doctorate: one checklist"
-last-reviewed: "2026-08-29"
+last-reviewed: "2026-09-08"
 ---
 
 Keep this page beside your project plan. It follows the doctorate from considering an offer to handing over your work. Find your current stage, work through its checks and open the linked guidance when you need it. Return to the study checkpoints for each new study.
+
+**Jump to your current work:** [Getting started](#before-you-accept-or-start) · [Planning a study](#before-committing-to-each-study) · [Running a study](#while-a-study-is-running) · [Analysis and writing](#before-analysis) · [Thesis submission](#before-submitting-the-thesis) · [Closure](#before-closure-handover-or-departure).
+
+The sequence is a guide to decisions, not a fixed timetable. Studies may overlap, and archival, theoretical, creative or practice-led projects may use different materials and cycles. Adapt the checks with your team for part-time study, remote work, leave and local milestones; keep the required permissions and evidence checks.
 
 These checks draw on the approach described in *The Checklist Manifesto* and WHO guidance [@gawande2010checklist; @who2009checklist]. [How the checklists work](index.qmd) explains when to follow items in order and when to check work you've already done.
 
@@ -12,7 +16,7 @@ These checks draw on the approach described in *The Checklist Manifesto* and WHO
 *Original illustration created for this handbook with human editorial direction and OpenAI image tools. [Visuals, humour and credit](../contributions/visuals-and-credit.qmd).*
 
 ::: {.callout-note title="Make this checklist yours"}
-The boxes don't save when you refresh or close the page. Print it or copy the checks into your project system. Add dates and links to the relevant records as you go.
+Work on one relevant stage at a time. Ticks are temporary unless you select **Remember ticks on this device** in the interactive controls; that option saves only tick states in this browser. Print or copy the checks into your approved project system and add dates, evidence links and reasons for anything that does not apply. [What a tick means](index.qmd#what-a-tick-means) explains the limits. A completed count is not permission to proceed or a measure of your worth as a researcher.
 :::
 
 ## Before you accept or start

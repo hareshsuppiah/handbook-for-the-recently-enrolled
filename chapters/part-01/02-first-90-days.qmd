@@ -1,15 +1,15 @@
 ---
 title: "Your first 90 days"
-last-reviewed: "2026-09-06"
+last-reviewed: "2026-09-08"
 ---
 
 The first weeks come with plenty to do: activate accounts, meet people, complete training and revisit the proposal that got you here. You may finish a busy day without having touched the research. Some of that setup is necessary, but it helps to know what you're setting up for.
 
-Use the first 90 days to get your files, supervision and early research questions into workable shape. The schedule below gives you a starting point; move things around to fit your programme and its deadlines.
+Use the first 90 days to get your files, supervision and early research questions into workable shape. The schedule below is a planning example, not a universal milestone or a test of whether you belong. Agree dates that fit your programme, study mode and available research time. Keep official deadlines visible; changing this working schedule does not change a formal requirement.
 
 ## Get set up for the work {#build-the-foundations-before-chasing-momentum}
 
-By the end of 90 days, you need a research environment that works, a functioning supervisory relationship and a provisional direction. You do not need to prove the thesis or lock every study into place.
+Use this early period to establish a research environment that works, a functioning supervisory relationship and a provisional direction. At the agreed review, show what is working and what still needs help. You do not need to prove the thesis or lock every study into place.
 
 Doctoral training is broader than producing a thesis. Current UKRI expectations, for example, separate responsibilities across students, supervisors, research organisations, funders and collaborators, and include the research environment, support, research skills and professional development [@ukri-expectations-2024]. That framework is specific to funded UK training, but the division of responsibility is a useful warning: you are responsible for active participation and documented progress, not for personally providing every service, approval or safeguard the project needs.
 
@@ -26,7 +26,7 @@ Decide which foundations must exist before specialised work becomes reliable. Wo
 If a task depends on approval, access, training, equipment, data, another person or a local deadline, expose that dependency early. Quiet dependencies are a common cause of avoidable delay.
 
 ::: {.decision-card}
-**Smallest useful next action:** Open the [Starting candidature checklist](../../checklists/starting-candidature.qmd), mark each item as confirmed, unknown or not applicable, and assign an owner and date to every unknown.
+**Smallest useful next action:** Open the [Starting candidature checklist](../../checklists/starting-candidature.qmd). Tick what you have confirmed. In your project notes, record unknowns with a person to ask and a follow-up date; record a reason for anything that does not apply.
 :::
 
 ## What to do at each phase
@@ -85,6 +85,17 @@ By the 90-day point, aim for a defensible provisional plan, not final certainty.
 
 Use the [First 90-day review](../../checklists/first-90-day-review.qmd) as a do-confirm pause point.
 
+### Fit the sequence to your working week
+
+You can adapt the schedule without having to disclose private circumstances to everyone involved. Describe the working arrangement or support you need, and use the appropriate confidential service for sensitive information.
+
+| If this affects your work | An arrangement to discuss |
+|---|---|
+| Part-time study, employment or caring | Set outcomes against the research time you actually have; confirm which formal dates can change and who authorises that. |
+| Remote study, fieldwork or different time zones | Agree an accessible meeting time, a way to share work asynchronously and a contact if the main supervisor is unavailable. |
+| Disability, illness or variable capacity | Discuss accessible materials, practical adjustments and a review point with the relevant support service and supervisory team as appropriate. |
+| Archival, creative or community-based work | Identify the permissions, materials, relationships or cycles of making that determine the sequence, rather than borrowing a laboratory timetable. |
+
 ## How to decide
 
 - **If the activity involves participants, restricted data, hazardous work or a controlled environment:** confirm the required approval, training and supervision before beginning.
@@ -110,13 +121,15 @@ Make time to meet people beyond the supervisory team: peers, librarians, methodo
 
 ## What progress looks like
 
-| Stage | Novice practice | Developing practice | Increasingly independent practice |
+| Area | A pattern to move beyond | A useful working habit | A further step when ready |
 |---|---|---|---|
 | Questions | Waits for a complete task list | Maintains an unresolved-questions log | Prioritises questions by risk and decision value |
 | Supervision | Reports activity | Brings options and asks targeted questions | Makes provisional recommendations and records decisions |
 | Evidence | Accumulates papers | Maps evidence to project questions | Tests contrary evidence and states search limits |
 | Planning | Copies the proposal into a timeline | Identifies dependencies and review points | Replans when evidence changes while preserving rationale |
 | Records | Relies on memory and email | Uses actions and decision logs | Maintains a recoverable project record others can follow |
+
+Use these as examples of habits to develop, not a scorecard. You may already have extensive professional or research experience in one area and need support in another.
 
 ## Use supervision to settle the next decision
 
@@ -137,6 +150,8 @@ Use the responsible candidature, ethics, integrity, safety, accessibility, wellb
 For practical prompts and a next conversation, see [the guide to life during a PhD](../../stuck/life-during-a-phd.qmd#isolation).
 
 ## Try these resources
+
+Choose the first unfinished foundation that is holding up your work. Take one question about it to the responsible person, then record the answer and next action.
 
 - [Starting candidature checklist](../../checklists/starting-candidature.qmd)
 - [First 90-day review](../../checklists/first-90-day-review.qmd)

@@ -1,9 +1,69 @@
 ---
 title: "Authorship conversation record"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
 
+Use one record per paper, presentation or other output. Start with the work people have actually completed, then record expectations and the authorship decision separately.
+
 Apply the authorship standard governing the output. Use this record to document the discussion alongside institutional, publisher, contractual, ethical, community and legal requirements.
+
+
+<details class="template-copy">
+<summary>Open the blank copyable template</summary>
+
+Copy this plain-text version into your approved project record. Repeat entry fields as needed and remove prompts that do not apply. The guidance and examples below help you complete it.
+
+```text
+Authorship conversation record
+
+Apply the authorship standard governing the output alongside institutional, publisher, contractual, ethical, community and legal requirements.
+
+Output and standard
+
+Output title or ID: [ ]
+Output type and intended venue: [ ]
+Conversation date and attendees: [ ]
+Current authorship/contribution standard: [link, version and review date]
+Relevant disciplinary order convention: [ ]
+Data, IP, community, contract or approval constraints: [ ]
+
+Contribution record
+
+Use CRediT or another suitable vocabulary to describe work, but apply the governing authorship criteria separately.
+
+Person or community: [ ]
+Work completed and evidence: [ ]
+Work expected: [ ]
+Accountability/review responsibility: [ ]
+Provisional status and order: [author / acknowledge / undecided]
+Change trigger: [ ]
+
+Decisions
+
+Proposed author list and order: [ ]
+Reason for order: [ ]
+Contributions not meeting authorship criteria and proposed recognition: [ ]
+Permission needed for acknowledgement or named credit: [ ]
+Unresolved disagreement or dissent: [ ]
+Independent advice or formal process required: [ ]
+Next review trigger/date: [ ]
+Confirmation method and retained evidence: [ ]
+
+Final author-contribution declaration (adapt to the venue)
+Output and version: [ ]
+Governing authorship standard: [ ]
+For each contributor, repeat:
+Name or approved group name: [ ]
+Completed contribution roles: [ ]
+Specific work and relevant section/output: [ ]
+Review, approval and accountability confirmation: [record and date]
+Author list and order agreed at: [record and date]
+Acknowledgements and permission to name: [ ]
+Unresolved contribution or agreement: [ ]
+Required declaration location: [ ]
+```
+
+</details>
 
 ## Output and standard
 
@@ -33,7 +93,13 @@ Use CRediT or another suitable vocabulary to describe work, but apply the govern
 **Next review trigger/date:** [ ]
 **Confirmation method and retained evidence:** [ ]
 
+## Prepare the final author-contribution declaration
+
+Use the declaration fields in the copyable template to describe completed work for the exact output being submitted. Follow the venue's required form and keep each proposed author's review, approval and accountability confirmation with the record. CRediT roles describe the work; the governing authorship criteria still determine eligibility.
+
 ## Completed example
+
+*Illustrative example; replace these details with your own verified record.*
 
 **Output:** Withdrawal-prediction methods paper.
 **Standard:** institution's current Australian-Code-aligned authorship procedure plus selected journal policy.
@@ -47,10 +113,14 @@ Use CRediT or another suitable vocabulary to describe work, but apply the govern
 
 **Review trigger:** after the validated analysis and before full-draft circulation. The record states that provisional order is not permanent entitlement.
 
+## Check your record
+
+Circulate the provisional record through an appropriate route and retain corrections, agreement or unresolved disagreement. A filled table does not establish consent to the author list.
+
 ## Scenario test
 
 A senior collaborator requests authorship after providing access but has not made a scholarly contribution and will not review the manuscript. Do not add or refuse them solely by status. Apply the current standard, explain the accountable contribution required, offer an appropriate acknowledgement if permitted, document the conversation, and seek independent advice if power or retaliation makes direct resolution unsafe.
 
 ## Related guidance
 
-Return to [Authorship, collaboration and correcting the record](../chapters/part-06/18-authorship-collaboration-corrections.qmd) and prepare the final [contribution statement](contribution-statement.qmd) from completed—not promised—work.
+Return to [Authorship, collaboration and correcting the record](../chapters/part-06/18-authorship-collaboration-corrections.qmd). The separate [research contribution statement](contribution-statement.qmd) describes what the project adds to knowledge or practice; use this page's declaration fields for author roles.

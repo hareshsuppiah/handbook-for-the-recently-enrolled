@@ -1,0 +1,57 @@
+/* Reading and reuse tools: quiet, semantic and optional. */
+.reader-tools { display:flex; flex-wrap:wrap; align-items:center; gap:.5rem 1rem; margin:1rem 0; font-size:.88rem; }
+.reader-tools button, .reader-tools a { min-height:44px; display:inline-flex; align-items:center; padding:.35rem .65rem; color:var(--bs-body-color); background:transparent; border:1px solid #dedede; border-radius:3px; text-decoration:underline; text-underline-offset:3px; cursor:pointer; }
+.reader-tools button:hover, .reader-tools a:hover { background:#f7f7f7; }
+.reader-tools button:focus-visible, .reader-tools a:focus-visible, main summary:focus-visible, main input:focus-visible, main select:focus-visible { outline:2px solid #171717; outline-offset:3px; }
+.reader-status:empty { display:none; }
+.reader-status, .reader-storage-note { font-size:.88rem; color:#595959; }
+.checklist-tools { margin:1.5rem 0 2rem; padding:1rem 0; border-block:1px solid #dedede; }
+.checklist-tools > p:first-child { font-weight:600; }
+.checklist-tools label { display:flex; gap:.65rem; align-items:center; min-height:44px; }
+main input[type="checkbox"] { width:1.15rem; height:1.15rem; accent-color:#171717; flex-shrink:0; }
+main li.task-list-item { padding-block:.3rem; }
+main details { margin:1.2rem 0; padding:.8rem 0; border-block:1px solid #dedede; }
+main summary { cursor:pointer; min-height:44px; padding:.4rem 0; font-weight:600; }
+main details[open] summary { margin-bottom:.65rem; }
+.route-chooser { margin:1.5rem 0; }
+.route-chooser label, .resource-search { display:block; font-weight:600; }
+.route-chooser select, .resource-search input { display:block; width:100%; max-width:36rem; min-height:44px; margin:.5rem 0; padding:.55rem; font:inherit; border:1px solid #777; background:#fff; color:#171717; border-radius:3px; }
+[data-reading-route] { padding:.85rem 0; border-bottom:1px solid #dedede; }
+[data-reading-route] h3 { margin-top:.3rem; }
+[hidden] { display:none !important; }
+.handbook-comic { margin-top:2rem; }
+.handbook-comic img { max-height:32rem; width:auto; max-width:100%; }
+@media (max-width:767px) { .reader-tools { gap:.5rem; } .reader-tools button,.reader-tools a { padding:.4rem .5rem; } }
+@media print { .reader-tools,.reader-status,.route-chooser,.resource-search,.checklist-tools { display:none !important; } [data-reading-route][hidden], main details > * { display:block !important; } main input[type="checkbox"] { appearance:auto; } }
+
+.phone-page-contents { display:none; }
+main li label { display:block; min-height:44px; padding:.3rem 0; cursor:pointer; }
+@media (max-width:767px) {
+  .phone-page-contents { display:block; margin:1.25rem 0 1.75rem; padding:1rem 0; border-block:1px solid var(--rule); font-size:.9rem; }
+  .phone-page-contents p { font-weight:600; margin-bottom:.4rem; }
+  .phone-page-contents ul { list-style:none; padding-left:0; margin:0; }
+  .phone-page-contents a { display:block; padding:.4rem 0; min-height:44px; }
+}
+@media print { .phone-page-contents { display:none !important; } }
+
+.reader-table { max-width:100%; overflow-x:auto; margin:1rem 0; }
+.reader-table:focus-visible { outline:2px solid var(--focus); outline-offset:3px; }
+.reader-table table { margin-bottom:.25rem; }
+.template-copy pre, .template-copy code { white-space:pre-wrap; overflow-wrap:anywhere; }
+@media print { .reader-table { overflow:visible; } .reader-table table { width:100%; font-size:.8rem; } }
+
+@media print {
+  html,body { overflow:visible !important; height:auto !important; padding:0 !important; }
+  #quarto-header { display:none !important; }
+  .skip-link,.reader-noscript { display:none !important; }
+  #quarto-content.page-columns { display:block !important; position:static !important; inset:auto !important; width:auto !important; height:auto !important; overflow:visible !important; padding:0 !important; margin:0 !important; }
+  #quarto-document-content { position:static !important; width:100% !important; max-width:none !important; height:auto !important; overflow:visible !important; margin:0 !important; padding:0 !important; }
+  main details::details-content { content-visibility:visible !important; }
+  main details > * { display:block !important; }
+  main pre { white-space:pre-wrap !important; overflow-wrap:anywhere; }
+  .reader-table { max-width:100%; }
+  .reader-table table { table-layout:fixed; }
+  .reader-table td,.reader-table th { overflow-wrap:anywhere; }
+}
+
+.handbook-home #title-block-header .quarto-title-meta { display:none !important; }

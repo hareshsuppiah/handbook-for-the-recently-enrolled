@@ -1,5 +1,6 @@
 ---
 title: "What should I set up when candidature begins?"
+last-reviewed: "2026-09-08"
 ---
 
 **Pause point:** Before beginning substantive research work.
@@ -8,11 +9,14 @@ title: "What should I set up when candidature begins?"
 
 **Use:** Read-do.
 
+Start with what you can confirm today. Leave unknown items unticked and record who can answer them and when you will follow up. Your action register and decision log can be separate sections in one approved document; you do not need a complicated software setup.
+
 ## Critical checks
 
 - [ ] I have confirmed my official start date, enrolment status and next formal milestone in the institution's current system.
 - [ ] I know who is formally on my supervisory team and have a first meeting booked.
 - [ ] We have discussed responsibilities, contact expectations, feedback, meeting records and how decisions will be documented.
+- [ ] The working arrangement is realistic for my study mode, location, employment, caring and accessibility needs, with a route to discuss adjustments or changes.
 - [ ] I have identified required induction, research-integrity, safety, methods, ethics, data and professional-development training.
 - [ ] I have an approved location for research files plus a separate action register and decision log.
 - [ ] I can access the systems, rooms, software, equipment, data or services needed for the first phase.

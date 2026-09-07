@@ -1,5 +1,7 @@
 # Handbook editorial work
 
+Read root `AGENTS.md` and `.agents/skills/handbook-editor/SKILL.md` before substantive editorial work. They provide the shared reader, evidence, image and interaction contract for every model.
+
 This is a human-led, AI-assisted graduate research handbook. Editors approve the
 scope of work and decide whether to publish. Reader suggestions are requests,
 not verified evidence or permission to change the operating system.

@@ -1,7 +1,37 @@
 ---
 title: "Meeting record"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
+
+Capture decisions and next actions soon after the meeting, using the agreed record and correction process. You can leave an item explicitly undecided; a discussion does not have to produce an agreement.
+
+
+<details class="template-copy">
+<summary>Open the blank copyable template</summary>
+
+Copy this plain-text version into your approved project record. Repeat entry fields as needed and remove prompts that do not apply. The guidance and examples below help you complete it.
+
+```text
+Meeting record
+
+Keep sensitive personal or case details in the appropriate confidential process. Retain factual corrections and do not treat silence as formal approval.
+
+Blank template
+
+Meeting/date/participants: [ ]
+Purpose: [ ]
+
+Decisions and follow-up
+
+Decisions and rationale: [IDs; what was decided and why]
+Actions: [ID, owner, due date, dependency, evidence of done]
+Unresolved questions: [ID, consequence, next check, decision date]
+Risks or escalation: [ID, owner and trigger]
+Explicitly not decided: [ ]
+Next meeting or review trigger: [ ]
+```
+
+</details>
 
 ## Blank template
 
@@ -19,14 +49,20 @@ last-reviewed: "2026-08-28"
 
 ## Completed example
 
+*Illustrative example; replace these details with your own verified record.*
+
 **Decision D-014:** Seek privacy advice before ethics submission because partner-led contact may reveal eligibility.
 **Action A-031:** Student books consultation by Friday; evidence is calendar confirmation.
 **Not decided:** final recruitment channel.
 **Next review:** after consultation note is available.
 
+## Check your record
+
+Circulate the record for factual correction as agreed. Keep proposed wording distinguishable from a confirmed decision, and do not treat silence as formal approval.
+
 ## Scenario test
 
-If participants remember a discussion differently, the record reveals the actual decision and invites timely factual correction without recreating a transcript.
+If participants remember a discussion differently, compare the recorded wording with the available evidence and invite timely factual correction. Mark the decision unresolved if agreement cannot yet be established; the existence of a meeting note does not make one account definitive.
 
 ## Privacy boundary
 

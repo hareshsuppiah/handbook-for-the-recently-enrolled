@@ -1,7 +1,36 @@
 ---
 title: "One-page case for a proposed topic"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
+
+Use this to request a specific next decision about a proposed topic. A short case for a feasibility test can be useful before you have enough evidence to recommend the full study.
+
+
+<details class="template-copy">
+<summary>Open the blank copyable template</summary>
+
+Copy this plain-text version into your approved project record. Repeat entry fields as needed and remove prompts that do not apply. The guidance and examples below help you complete it.
+
+```text
+One-page case for a proposed topic
+
+Blank case
+
+Decision requested: [proceed, test, narrow or redesign]
+Problem: [What needs to be understood or solved?]
+What is known: [strongest evidence]
+What remains unresolved and why it matters: [ ]
+Provisional question: [ ]
+Possible contribution: [bounded]
+Proposed evidence and design options: [ ]
+Feasibility evidence: [access, skills, time, resources]
+Governance and relationships: [ ]
+Strongest objection: [ ]
+Alternative: [ ]
+Recommendation and next decision: [ ]
+```
+
+</details>
 
 ## Blank case
 
@@ -20,6 +49,8 @@ last-reviewed: "2026-08-28"
 
 ## Completed example
 
+*Illustrative example; replace these details with your own verified record.*
+
 **Decision:** approve a short feasibility phase, not the full study.
 **Problem:** Current workload interpretation may be distorted by sport-specific device error.
 **Unresolved:** Whether the error changes practical classifications.
@@ -27,6 +58,10 @@ last-reviewed: "2026-08-28"
 **Contribution:** Context-bounded validity evidence.
 **Objection:** Existing laboratory evidence may already be sufficient.
 **Recommendation:** bench test and specialist method review before participant commitment.
+
+## Check your record
+
+Check that the recommendation follows from the evidence and strongest objection. Name what the next test will decide, rather than treating a favourable discussion as authority to begin governed work.
 
 ## Scenario test
 

@@ -1,5 +1,6 @@
 ---
 title: "Before committing to a study"
+last-reviewed: "2026-09-08"
 ---
 
 **Pause point:** Before committing substantial time, money, participant burden, scarce access or thesis scope to a study.
@@ -7,6 +8,8 @@ title: "Before committing to a study"
 **Prevents:** Running a study that cannot answer its question, is not feasible, duplicates existing work without justification, or creates obligations the team cannot meet.
 
 **Use:** Do-confirm. Repeat for every study, including secondary analyses and substantial method-development work.
+
+Bring the question, design sketch and evidence about access to the same discussion. For an archival, theoretical or creative project, substitute the relevant corpus, arguments, materials and criteria for terms such as sample or measure. Record any unknown with a person to ask and a decision date; the [checklist guide](index.qmd#what-a-tick-means) explains how to handle items that do not apply.
 
 ## Critical checks
 

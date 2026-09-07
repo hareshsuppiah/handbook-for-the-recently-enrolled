@@ -1,6 +1,6 @@
 ---
 title: "How to suggest an improvement"
-last-reviewed: "2026-09-05"
+last-reviewed: "2026-09-08"
 ---
 
 You can send a useful suggestion without knowing Git or editing the handbook. The form asks where the problem appears, what you noticed, what you would change and how the change would help.
@@ -24,24 +24,41 @@ If you are new to GitHub, [create a free personal account](https://github.com/si
 
 ## Complete the form
 
-1. Open [Suggest an improvement](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/issues/new?template=share-feedback.yml).
-2. Sign in if GitHub asks you to.
-3. In **Add a title**, write a short description such as `Add guidance on repeating a pilot after recruitment changes`.
-4. Choose the closest kind of improvement. The category does not need to be perfect.
-5. Paste the page link and name the heading. If the material is missing, say where you expected to find it.
-6. Describe what you noticed.
-7. Describe the change you would like. You can suggest an outcome without writing the final wording.
-8. Explain how the change would help a graduate researcher.
-9. Choose the stage when the suggestion matters most.
-10. Add a source or shareable example if you have one. Explain what it supports and where it applies.
-11. State how you would like to be credited.
-12. Confirm that you have removed private material and understand that the suggestion will be public.
-13. Use **Preview** above any long answer if you want to check links or lists. Return to **Write** to make a correction.
-14. Read the title and answers once more, then select **Submit new issue**.
+### 1. Say where you got stuck
 
-![A worked example follows the form from title and missing-topic category through location, observation, proposed change, benefit and final privacy check.](../assets/contributions/form-example.svg){fig-alt="Worked example: suggest peer-group guidance, select the missing-topic category, identify first-90-days coverage, explain the gap and benefit, then finish the credit and privacy fields before submitting."}
+Open [Suggest an improvement](https://github.com/hareshsuppiah/handbook-for-the-recently-enrolled/issues/new?template=share-feedback.yml) and sign in if asked. Write a short title, choose the closest kind of improvement, and add the page link and heading. If a section is missing, say where you expected to find it.
 
-The diagram follows the handbook form. GitHub may move its buttons as the interface changes.
+Under **What did you notice?**, describe your experience. A few sentences are enough. Fields marked with an asterisk are required.
+
+![The real GitHub form: an example title, improvement category, page location and a short description of the missing introduction.](../assets/contributions/github-form-start-2026-09.png){fig-alt="GitHub Create new issue form showing Add a title, improvement type, page location and What did you notice. The example asks for an introduction to what a doctorate is." width=520}
+
+*Screenshot captured 8 September 2026. This example was filled in for the guide and was not submitted.*
+
+### 2. Describe what would help
+
+Under **What would you change?**, say what you want to understand or do. Then explain the benefit and choose the stage when it matters. You can write “Small clarity edit” for a small correction. Sources are optional; give a link and its relevance if you have one.
+
+**Write** is the editing view. **Preview** shows how an answer's formatting and links will look. You can leave the formatting buttons alone and use ordinary text.
+
+![The real GitHub writing controls and an example of explaining how the proposed change would help.](../assets/contributions/github-form-write-2026-09.png){fig-alt="GitHub text fields with Write and Preview tabs. The example asks for a simple explanation of an original contribution and says it would help a new researcher understand the advice." width=525}
+
+### 3. Check privacy, then create the suggestion
+
+Choose how you want to be credited. “No public credit” means no acknowledgement in the handbook; **your GitHub username and the issue are still public**. Read your answers, remove private material and tick the two privacy confirmations.
+
+If GitHub suggests a **Potential duplicate**, open it in another tab and see whether it already covers your point. You can add a useful detail to that discussion instead.
+
+When ready, select **Create**. Some GitHub layouts call this **Submit new issue**. This is the step that posts your suggestion publicly. Leave **Create more** unticked unless you want another blank form afterwards. You can ignore the Assignees, Labels, Projects and Milestone controls; the editorial team handles those.
+
+![The real form's credit field, privacy confirmations, duplicate suggestion and green Create button.](../assets/contributions/github-form-finish-2026-09.png){fig-alt="Before posting, choose credit, confirm that private material is removed and that your username will be public, check a potential duplicate, then select Create. The screenshot's privacy boxes are intentionally unticked." width=525}
+
+These are dated captures of GitHub, not a live form. Layout and button names can change; the written steps describe the same actions.
+
+## Add a screenshot when it explains the problem
+
+A screenshot helps with a clipped table, a missing navigation button or a page that is hard to use on a phone. In **What did you notice?**, use **Add Files**, or paste a screenshot into the answer. Before attaching it, crop to the relevant page area and remove names, account details, notifications, private tabs and research data. Reopen the saved image to check it.
+
+Also describe the problem in words: the page, device or browser, what you tried, what happened and what you expected. Images alone are difficult to search and may be inaccessible. For example: “On a phone, the final column of the meeting table is cut off and I cannot scroll to it.”
 
 ## Worked examples
 
@@ -75,13 +92,13 @@ Do not include names, identifiable personal information, participant data, priva
 
 ## Follow the reply
 
-After you select **Submit new issue**, GitHub opens a page with a number such as `#42`. Save that page or use GitHub's **Subscribe** control to receive updates. Notification delivery depends on your [GitHub notification settings](https://docs.github.com/en/subscriptions-and-notifications).
+After you select **Create** (or **Submit new issue**), GitHub opens a page with a number such as `#42`. Save that page or use GitHub's **Subscribe** control to receive updates. Notification delivery depends on your [GitHub notification settings](https://docs.github.com/en/subscriptions-and-notifications).
 
 An editor may ask a question in a comment. Reply in the box at the bottom of the issue so the discussion stays with the suggestion. You can mention a new source or clarify the scope there.
 
 ## Change something after submission
 
-You can edit an issue that you created [@github-creating-issue]. Open the suggestion and choose **Edit** on the first post. Change the title or answers, then save the update. Add a comment instead when you are answering an editor, because that preserves the conversation.
+You can edit an issue that you created [@github-creating-issue]. Open the suggestion and use the title’s edit control, or the first post’s three-dot menu and **Edit**, depending on what you need to change. Change the title or answers, then save the update. Add a comment instead when you are answering an editor, because that preserves the conversation.
 
 Read [How suggestions become edits](editorial-workflow.qmd) to follow the review and publication process.
 

@@ -1,6 +1,6 @@
 ---
 title: "Git, GitHub and AI-assisted workflows"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
 
 Suppose you change an analysis and later need to see exactly what you changed. Git keeps that history. GitHub adds a shared place to discuss changes and review them before they become part of the project.
@@ -23,6 +23,8 @@ Each time, inspect the selected changes before committing. Review and test propo
 - **GitHub repository:** hosted Git history plus permissions, issues, pull requests, actions and other service features.
 
 Version control records changes so prior states can be compared and recovered [@git-version-control]. It does not replace backup, data governance or an archive.
+
+A *diff* is the comparison showing what you added, removed or changed. Start by inspecting one sentence in that comparison. A commit saves the selected change in your local history; a push sends commits to the remote. Opening a pull request proposes integration, and merging accepts that change into the target branch. A published site may still need its separate build and deployment to finish. Check the state you actually need instead of treating each of these steps as “saved”.
 
 ## Decide what belongs in Git
 
@@ -79,6 +81,8 @@ A useful commit:
 
 Commit often enough that review and recovery are meaningful, not every keystroke or only once at thesis submission.
 
+For your first practice change, add a sentence to a non-sensitive README: “This repository is a practice copy.” Inspect the diff and select only that file. After committing, find the sentence in the commit view; after pushing, find the same commit in the remote repository. You have now tested two different things: local history and remote delivery. The [starter workflow](../../checklists/git-github-starter.qmd) gives the full sequence. Use a practice copy before learning recovery or conflict handling on important work.
+
 ## Use branches and pull requests for reviewable change
 
 A branch creates a separate place to develop a change before integrating it [@github-branches]. A pull request can show the difference, checks, discussion and approval decision.
@@ -132,6 +136,8 @@ Submission does not authorise implementation. The editorial workflow should be:
 `suggestion → privacy check → duplicate/coverage check → evidence review → owner decision → implementation branch → verification → approval → release → contributor notified`
 
 An approved issue can then become a task with a defined scope for an AI coding agent or human contributor. The issue should state acceptance criteria, files in scope, required sources, tests and actions that remain owner-only.
+
+If you only want to improve this handbook, you can start with [Suggest an improvement](../../contributions/index.qmd). Describe the page, what was unclear and what you expected to find. You do not need a local repository or an AI agent to submit a reader suggestion.
 
 ## Review work drafted by an AI agent {#use-ai-or-agents-inside-a-controlled-change-loop}
 
@@ -193,5 +199,7 @@ Ask a colleague to follow the README from a fresh clone. If they need help, brin
 []{#show-the-exact-change-and-its-risk}
 
 ## Try these resources
+
+Make and inspect one harmless change before adding branches, automation or agents to your workflow. Keep the resulting commit as a reference you can return to when the vocabulary gets crowded.
 
 Use the [Git and GitHub starter workflow](../../checklists/git-github-starter.qmd), [repository README template](../../templates/repository-readme.qmd), [AI-use decision tree](../../checklists/ai-use-decision.qmd), [AI-use log](../../templates/ai-use-log.qmd) and [Before project closure and handover](../../checklists/project-closure-handover.qmd).

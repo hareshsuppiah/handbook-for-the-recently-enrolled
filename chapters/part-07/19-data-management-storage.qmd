@@ -1,6 +1,6 @@
 ---
 title: "Data management, storage and recovery"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
 
 You have files called `final` and `final2`, plus a copy on your laptop. Before sending one to a collaborator, you need to establish which is current and whether you can recover it if the wrong folder is deleted.
@@ -14,6 +14,8 @@ Your data-management plan explains what you collect, where it goes, who can use 
 `collection → original copy → working copies → analysis → sharing → archive or disposal`
 
 For each step, name the storage location and person responsible. If you cannot fill in a step, you have a useful question to resolve before collecting more material.
+
+Start with one file you would struggle to replace. Write down where the original lives, who can edit it and how you would retrieve yesterday's version. Then check those answers in the actual system. A plan that says “backed up by the university” still needs a named service, coverage and a person or route you can contact for recovery.
 
 ## Inventory everything that matters
 
@@ -104,6 +106,8 @@ Identifiable or restricted data may belong in a separate controlled system. In t
 
 The structure should make it difficult to overwrite raw material or mistake a working export for an approved release.
 
+A folder called `01_raw_read_only` is only a label. Check the permissions or other controls that prevent overwrite, and test them with a harmless file. Likewise, putting a file in `04_release` does not give it approval for sharing. Record the review and intended audience before moving approved material there.
+
 ## Name files for retrieval and interpretation
 
 A useful pattern is:
@@ -142,7 +146,7 @@ ARDC good-data guidance covers planning, organisation, documentation, storage, a
 
 Suppose a project folder synchronises to three laptops. During a review, you discover that raw interviews, the re-identification key and public presentation files share that folder. Everyone can edit it, including an assistant who has left. The laptop disks are unencrypted, nobody knows the deleted-file retention period, and nobody has tested a restore.
 
-First, move the identifiable data and separately protected key to approved locations. Remove unnecessary local copies and access. Keep non-sensitive code and documentation in the collaboration space.
+First, use the responsible data or privacy process to contain unnecessary access and assess whether an incident has occurred. Preserve the records needed for that assessment. Arrange an authorised move of the identifiable data and separately protected key to approved locations, and verify the destination copies before removing local copies under the applicable retention and incident instructions. Keep non-sensitive code and documentation in the collaboration space.
 
 Then check what the institutional backup service covers and restore a test copy to an approved location. Record how long recovery took, whether the files were complete and whether the permissions were right. Schedule quarterly reviews of access and recovery for this example project.
 
@@ -200,5 +204,7 @@ Take the data-flow map, access register and restore result to your supervisor or
 []{#bring-your-real-storage-plan}
 
 ## Try these resources
+
+Your next useful result is a recorded restore, even if it reveals a problem. Choose an approved test file and agree the recovery route with the person who manages the storage.
 
 Use the [data-management plan](../../templates/data-management-plan.qmd), [folder and file-naming starter](../../templates/folder-file-naming.qmd) and [backup and restore audit](../../checklists/backup-restore.qmd). The next chapter separates [raw, clean, derived and analysis-ready data](20-data-states-provenance.qmd).

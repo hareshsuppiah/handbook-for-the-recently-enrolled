@@ -1,6 +1,6 @@
 ---
 title: "Is this project ready to close or hand over?"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
 
 Apply current retention, disposal, ownership, departure, repository and account-closure rules. Handover is not complete until the recipient demonstrates access and recovery.
@@ -35,6 +35,8 @@ Keep the closure decision, archive manifest, access record, disposal evidence, h
 ## Completed scenario
 
 A candidate provides a folder and says the analysis is reproducible. The recipient can open the report but cannot locate the approved input, restore the environment or identify which script created Figure 3. Handover fails. The candidate supplies the input manifest, release tag, environment file, one build command and output map; the recipient reruns Figure 3 and the backup restore before acknowledging transfer.
+
+For an archival or creative project, the equivalent demonstration may be opening the authorised catalogue or source inventory, tracing a reproduced image to its permission record, and locating the notes needed to understand an interpretation or artefact. Choose the test for the work being transferred; a software build is not a universal requirement.
 
 
 ## Related guidance

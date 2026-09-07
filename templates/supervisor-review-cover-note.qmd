@@ -1,7 +1,34 @@
 ---
 title: "Supervisor review cover note"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
+
+Attach this to the exact version you want reviewed. State the decision or claim at stake and ask a small number of questions appropriate to the draft's current state.
+
+
+<details class="template-copy">
+<summary>Open the blank copyable template</summary>
+
+Copy this plain-text version into your approved project record. Repeat entry fields as needed and remove prompts that do not apply. The guidance and examples below help you complete it.
+
+```text
+Supervisor review cover note
+
+Blank template
+
+Material and version: [ ]
+Current state: exploratory / partial / full / near-final
+Purpose and intended reader: [ ]
+Decision or claim this supports: [ ]
+What I checked: [evidence, alternatives, local requirements]
+My provisional view: [recommendation and main limitation]
+Feedback requested now: [one to three precise questions]
+Not useful to review yet: [ ]
+Decision date and agreed review window: [ ]
+Linked files and response record: [ ]
+```
+
+</details>
 
 ## Blank template
 
@@ -18,6 +45,8 @@ last-reviewed: "2026-08-28"
 
 ## Completed example
 
+*Illustrative example; replace these details with your own verified record.*
+
 **Material:** Recruitment flow v2.
 **State:** discussion draft.
 **Decision:** whether it is ready for privacy consultation.
@@ -26,6 +55,10 @@ last-reviewed: "2026-08-28"
 **Feedback requested:** Does the flow make the privacy questions clear? Is anything missing before consultation?
 **Not yet:** sentence-level editing.
 **Decision date:** 18 September.
+
+## Check your record
+
+Open every linked file and read the request from the reviewer's position. They should know where to start, what you have checked and what kind of response would help.
 
 ## Scenario test
 

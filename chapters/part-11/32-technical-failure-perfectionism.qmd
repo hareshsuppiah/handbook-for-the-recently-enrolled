@@ -1,11 +1,13 @@
 ---
 title: "Technical problems, perfectionism and scope creep"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
 
 Your analysis stops running. You update packages, change some code and try another input. Hours later, the error is still there, but you can no longer remember which version last worked.
 
 Pause the changes and save the failure. A small example and the exact error will help you find the cause. Later in this chapter, we look at a related problem: continuing to change a working analysis or draft because you cannot decide when it is good enough.
+
+For broken code or files, start with [preserving the failure](#stabilise-before-troubleshooting). If the work functions but you keep revising it, go to [quality work and perfectionism](#distinguish-quality-work-from-perfectionism).
 
 ## Decide what needs fixing {#name-the-blockage-before-spending-more-effort}
 
@@ -29,6 +31,8 @@ Record:
 
 Do not repeatedly reinstall, upgrade, copy files or edit inputs before preserving this state. Uncontrolled repair can destroy the comparison that would reveal the cause.
 
+If the failing action may delete files, overwrite the only copy, expose data or create a charge, do not repeat it simply to obtain a better error message. Preserve the evidence you already have and seek the appropriate IT, data or safety help. Ordinary troubleshooting assumes the next test is safe to run.
+
 ## Reduce to a smallest failing example
 
 Remove irrelevant data, code, document sections or steps while keeping the failure. Use synthetic or non-sensitive inputs when seeking help. The smallest example should state:
@@ -41,6 +45,8 @@ Remove irrelevant data, code, document sections or steps while keeping the failu
 6. what has already been tested.
 
 A screenshot of “Error” is rarely enough. A reproducible case allows another person, including your future self, to test a hypothesis rather than guess.
+
+For a document problem, a small example might be a copy containing the single table that breaks the layout. For code, it might be five invented rows and the few lines that trigger the error. Remove names, tokens, private paths and other identifying details from both the example and the error text before sharing it publicly.
 
 ## Narrow down the cause {#classify-the-technical-failure}
 
@@ -94,6 +100,8 @@ Recovery may require:
 - documenting any discrepancy and correction.
 
 If the original result cannot be reproduced, do not quietly substitute a new value. Escalate the reporting and correction decision.
+
+You do not need to master every technical term before asking for help. A **checksum** is a file fingerprint used to check whether its contents changed; an **environment** is the software and settings needed to run the work. If you cannot collect one of these, say what you can identify and ask the person helping you to show you the missing step.
 
 ## Distinguish quality work from perfectionism
 
@@ -194,7 +202,7 @@ Use the [good-enough-for-this-stage rubric](../../checklists/good-enough-rubric.
 
 ## Sources and limits
 
-The troubleshooting steps and readiness questions are editorial suggestions. Its clean-run, environment and computational-reproducibility principles are aligned with NASEM and The Turing Way, with non-computational and discipline-specific limits stated [@nasem-reproducibility-2019; @turing-way-environments].
+The troubleshooting steps and readiness questions are editorial suggestions. Their clean-run, environment and computational-reproducibility principles are aligned with NASEM and The Turing Way, with non-computational and discipline-specific limits stated [@nasem-reproducibility-2019; @turing-way-environments].
 
 ## References
 

@@ -1,6 +1,6 @@
 ---
 title: "Ethics, privacy and consent"
-last-reviewed: "2026-09-06"
+last-reviewed: "2026-09-08"
 ---
 
 You're planning audio interviews, but the meeting software offers video recording and automatic transcription. It looks convenient. It also collects faces, backgrounds and other information that wasn't in the approved plan.
@@ -29,6 +29,8 @@ Trace the complete pathway:
 10. dissemination, return of results and future use.
 
 Walk through this sequence from a participant's perspective. Check whether the instructions make sense, withdrawal is possible as described and the team can respond if something goes wrong.
+
+For the interview, rehearse with a colleague using invented material before involving a participant. Have them ask: “Who gets the recording?”, “What happens if I stop halfway?” and “Could someone recognise me in a quotation?” Check each answer against the approved documents and the actual platform settings. A mismatch gives you a precise question for the responsible ethics or privacy contact; do not improvise a promise to make the rehearsal flow better.
 
 ## Separate the authorities
 
@@ -80,6 +82,8 @@ These terms are not interchangeable.
 The OAIC warns that removing names alone may not remove re-identification risk, which depends on the data, access, available linked information and release context [@oaic-key-concepts]. Small groups, distinctive narratives, locations, dates, roles, images and combined variables can identify people.
 
 Do not promise anonymity when the research team can identify participants or when quotations could reveal them.
+
+For example, replacing a name with “Participant 4” does little if the quotation identifies the only person in a distinctive role at a named site. Consider the whole extract and its audience, including what readers may already know. The safer wording in your participant information must follow the real protection you can provide and the approved consent process.
 
 ## Minimise data before securing it
 
@@ -166,5 +170,7 @@ Bring the participant pathway, data-flow map and current protocol versions, alon
 - [ ] Written approvals and conditions cover the activity about to occur.
 
 ## Try these resources
+
+Before the next governed activity, compare one real workflow with its approved description. Resolve any mismatch with the responsible authority and retain the answer where the team can find it.
 
 Use [Before ethics or governance submission](../../checklists/before-ethics-submission.qmd), [Before data collection](../../checklists/before-data-collection.qmd), the [pilot-readiness checklist](../../checklists/pilot-readiness.qmd) and [protocol-deviation log](../../templates/protocol-deviation.qmd). For urgent or case-specific risk, follow the responsible local process rather than relying on this handbook.

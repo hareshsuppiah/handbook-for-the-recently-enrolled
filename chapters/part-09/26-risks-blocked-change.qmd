@@ -1,6 +1,6 @@
 ---
 title: "Risks, blocked work and changing plans"
-last-reviewed: "2026-08-31"
+last-reviewed: "2026-09-08"
 ---
 
 Data access was meant to arrive this month. It hasn't, and the next study depends on it. You can follow up, prepare analysis code or test another dataset, but you also need a date for deciding whether the original plan still fits.
@@ -63,6 +63,15 @@ Official research-funding guidance treats uncertainty as part of research planni
 
 Run a cheap test while the first route is still available. Check whether the alternative dataset contains the required variables. Rehearse a restore. Ask whether another supervisor can cover the decisions due during an absence. Fit the proposed backup analysis to simulated data and state which claim it could support. Record what the test established and what is still uncertain.
 
+**Try it:** Your fallback is “use public data if partner access fails”. What would you need to know before calling that a usable alternative?
+
+<details>
+<summary>Work through the fallback</summary>
+
+Find the actual dataset and check its licence, variables, population, dates and usable records. Try one part of the planned analysis with it. Then write the question this source could answer and what it would leave unanswered. A dataset being public tells you neither that it fits the question nor that every proposed use is permitted. Take unresolved access or governance questions to the responsible service before switching.
+
+</details>
+
 ## Check what the alternative changes {#keep-the-non-negotiables-in-place}
 
 The alternative needs to meet the study's ethical, scientific and practical requirements. Before activation, check whether it changes:
@@ -106,6 +115,8 @@ Specify which diagnostics or data conditions would make the planned analysis uns
 ### Reduced capacity
 
 Health, disability, caring, financial or other disruption may make a workload or deadline unworkable. Know the confidential support and candidature routes, and keep enough project documentation for a pause or handover. Seek the relevant leave, adjustment or timeline decision while protecting wellbeing and essential duties. Keep personal details out of the shared risk register.
+
+An agreed part-time schedule or established accessibility arrangement belongs in the baseline plan. It should not have to be rediscovered as a new risk each week. Review the plan when circumstances or requirements change, and ask which commitments will move with them.
 
 ### A shorter timeline
 
@@ -175,7 +186,7 @@ Before implementing a material change, assess:
 | Outputs | Which chapters, registrations, manuscripts, reports or communications must be revised? |
 | Authority | Who can recommend, approve, implement and verify the change? |
 
-Record the current baseline, precipitating evidence, realistic options, recommendation, impact analysis, required approvals, decision, implementation owner and verification evidence. Link the change to the decision log rather than silently replacing old files.
+Keep the earlier plan and explain what happened to make you reconsider it. Record the realistic options, your recommendation, what each would change and any approvals needed. When the decision is made, name who will carry it out and how you will check the result. Link this record to the decision log rather than silently replacing old files.
 
 Small reversible adjustments do not need elaborate paperwork. The record should be proportionate to the consequence and reversibility. A change affecting participant-facing material, consent, approved data use, safety, registered analysis or contractual commitments may be consequential even if it takes only minutes to edit.
 

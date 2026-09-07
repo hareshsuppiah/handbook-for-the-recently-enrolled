@@ -1,6 +1,6 @@
 ---
 title: "Getting support"
-last-reviewed: "2026-09-06"
+last-reviewed: "2026-09-08"
 ---
 
 If workload, health or someone's behaviour is making research difficult, you can ask for support before you have worked out every detail. Start with the service that fits the problem.
@@ -20,6 +20,8 @@ For immediate danger, contact local emergency services. For an urgent health con
 | Suspected research misconduct | Your research integrity adviser or the institution's designated confidential contact. |
 
 Contact names vary between universities. If you're unsure, ask a confidential student support service to help you find the right one.
+
+You can begin with: “I need advice about a situation affecting my research. Before I explain, can you tell me how confidentiality works and whether you are the right person to help?” Ask for an accessible contact method or a support person if that would help. If a service is unavailable, ask for its alternative route; urgent help should not wait for an ordinary appointment.
 
 ## Prepare what you can {#preserve-only-what-is-safe}
 

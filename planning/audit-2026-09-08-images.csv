@@ -1,0 +1,99 @@
+page,image,decision,reason
+index.qmd,assets/xkcd/59-graduation.jpg,remove placement,Keep practical resource or help route focused; remove repeated comic
+status.qmd,assets/xkcd/910-permanence.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+chapters/part-01/01-phd-and-good-enough.qmd,assets/xkcd/1052-every-major-s-terrible.png,remove placement,"Remove loose topic association, distracting scale, duplicated joke or misleading tone"
+chapters/part-01/02-first-90-days.qmd,assets/xkcd/1425-tasks.png,retain,Direct teaching connection; useful alternative text; placed after chapter actions
+chapters/part-02/05-meetings-and-records.qmd,assets/xkcd/1860-communicating.png,remove placement,"Remove loose topic association, distracting scale, duplicated joke or misleading tone"
+chapters/part-02/06-feedback-and-independence.qmd,assets/xkcd/481-listen-to-yourself.png,remove placement,"Remove loose topic association, distracting scale, duplicated joke or misleading tone"
+chapters/part-03/07-problem-gap-contribution.qmd,assets/xkcd/2368-bigger-problem.png,remove placement,"Remove loose topic association, distracting scale, duplicated joke or misleading tone"
+chapters/part-03/08-topic-due-diligence.qmd,assets/xkcd/1205-is-it-worth-the-time.png,remove placement,"Remove loose topic association, distracting scale, duplicated joke or misleading tone"
+chapters/part-03/09-questions-and-pivots.qmd,assets/xkcd/1282-monty-hall.png,remove placement,"Remove loose topic association, distracting scale, duplicated joke or misleading tone"
+chapters/part-04/10-search-ladder.qmd,assets/xkcd/386-duty-calls.png,remove placement,"Remove loose topic association, distracting scale, duplicated joke or misleading tone"
+chapters/part-04/11-reproducible-searching.qmd,assets/xkcd/979-wisdom-of-the-ancients.png,remove placement,"Remove loose topic association, distracting scale, duplicated joke or misleading tone"
+chapters/part-04/12-reading-and-synthesis.qmd,assets/xkcd/1447-meta-analysis.png,remove placement,"Remove loose topic association, distracting scale, duplicated joke or misleading tone"
+chapters/part-05/13-design-alignment.qmd,assets/xkcd/552-correlation.png,retain,Direct teaching connection; useful alternative text; placed after chapter actions
+chapters/part-05/14-sampling-measurement-pilots.qmd,assets/xkcd/882-significant.png,remove placement,"Remove loose topic association, distracting scale, duplicated joke or misleading tone"
+chapters/part-05/15-rigour-and-variation.qmd,assets/xkcd/1478-p-values.png,remove placement,"Remove loose topic association, distracting scale, duplicated joke or misleading tone"
+chapters/part-06/16-ethics-privacy-consent.qmd,assets/xkcd/263-certainty.png,remove placement,"Remove loose topic association, distracting scale, duplicated joke or misleading tone"
+chapters/part-06/17-integrity-governance-ai.qmd,assets/xkcd/1838-machine-learning.png,remove placement,"Remove loose topic association, distracting scale, duplicated joke or misleading tone"
+chapters/part-06/18-authorship-collaboration-corrections.qmd,assets/xkcd/2025-peer-review.png,remove placement,"Remove loose topic association, distracting scale, duplicated joke or misleading tone"
+chapters/part-07/19-data-management-storage.qmd,assets/xkcd/2347-dependency.png,remove placement,"Remove loose topic association, distracting scale, duplicated joke or misleading tone"
+chapters/part-07/20-data-states-provenance.qmd,assets/xkcd/2582-data-trap.png,retain,Direct teaching connection; useful alternative text; placed after chapter actions
+chapters/part-08/23-analysis-review-quarto.qmd,assets/xkcd/1654-universal-install-script.png,remove placement,"Remove loose topic association, distracting scale, duplicated joke or misleading tone"
+chapters/part-08/24-git-github-ai.qmd,assets/xkcd/1597-git.png,retain,Direct teaching connection; useful alternative text; placed after chapter actions
+chapters/part-09/25-milestones-weekly-work.qmd,assets/xkcd/1205-is-it-worth-the-time.png,retain,Direct teaching connection; useful alternative text; placed after chapter actions
+chapters/part-09/26-risks-blocked-change.qmd,assets/xkcd/722-computer-problems.png,remove placement,"Remove loose topic association, distracting scale, duplicated joke or misleading tone"
+chapters/part-09/27-collaboration-handoffs-scope.qmd,assets/xkcd/1782-team-chat.png,retain,Direct teaching connection; useful alternative text; placed after chapter actions
+chapters/part-10/28-writing-and-argument.qmd,assets/xkcd/2456-types-of-scientific-paper.png,remove placement,"Remove loose topic association, distracting scale, duplicated joke or misleading tone"
+chapters/part-10/29-reviewable-work-feedback.qmd,assets/xkcd/2025-peer-review.png,remove placement,"Remove loose topic association, distracting scale, duplicated joke or misleading tone"
+chapters/part-10/30-publishing-review-communication.qmd,assets/xkcd/2304-preprint.png,retain,Direct teaching connection; useful alternative text; placed after chapter actions
+chapters/part-11/31-failed-studies.qmd,assets/xkcd/349-success.png,remove placement,"Remove loose topic association, distracting scale, duplicated joke or misleading tone"
+chapters/part-11/33-decide-and-stuck.qmd,assets/xkcd/1282-monty-hall.png,remove placement,"Remove loose topic association, distracting scale, duplicated joke or misleading tone"
+chapters/part-12/34-independence-contribution.qmd,assets/xkcd/451-impostor.png,remove placement,"Remove loose topic association, distracting scale, duplicated joke or misleading tone"
+chapters/part-12/35-examination-corrections.qmd,assets/xkcd/2025-peer-review.png,remove placement,"Remove loose topic association, distracting scale, duplicated joke or misleading tone"
+chapters/part-12/36-closure-transition.qmd,assets/xkcd/910-permanence.png,remove placement,"Remove loose topic association, distracting scale, duplicated joke or misleading tone"
+checklists/index.qmd,assets/xkcd/2601-instructions.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+checklists/doctoral-journey.qmd,assets/xkcd/59-graduation.jpg,remove placement,Keep practical resource or help route focused; remove repeated comic
+checklists/starting-candidature.qmd,assets/xkcd/1425-tasks.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+checklists/first-90-day-review.qmd,assets/xkcd/1205-is-it-worth-the-time.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+checklists/before-study-commitment.qmd,assets/xkcd/1205-is-it-worth-the-time.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+checklists/research-question-stress-test.qmd,assets/xkcd/974-the-general-problem.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+checklists/search-ladder.qmd,assets/xkcd/386-duty-calls.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+checklists/pilot-readiness.qmd,assets/xkcd/882-significant.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+checklists/before-ethics-submission.qmd,assets/xkcd/263-certainty.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+checklists/before-data-collection.qmd,assets/xkcd/397-unscientific.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+checklists/before-analysis.qmd,assets/xkcd/552-correlation.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+checklists/git-github-starter.qmd,assets/xkcd/1597-git.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+checklists/ai-use-decision.qmd,assets/xkcd/1838-machine-learning.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+checklists/before-study-write-up.qmd,assets/xkcd/2456-types-of-scientific-paper.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+checklists/before-manuscript-submission.qmd,assets/xkcd/2025-peer-review.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+checklists/good-enough-rubric.qmd,assets/xkcd/974-the-general-problem.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+checklists/pivot-continue-stop.qmd,assets/xkcd/1282-monty-hall.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+checklists/project-closure-handover.qmd,assets/xkcd/910-permanence.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+templates/supervisor-expectations.qmd,assets/xkcd/1028-communication.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+templates/supervision-agreement.qmd,assets/xkcd/1028-communication.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+templates/meeting-agenda.qmd,assets/xkcd/1860-communicating.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+templates/meeting-record.qmd,assets/xkcd/910-permanence.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+templates/matters-arising.qmd,assets/xkcd/1782-team-chat.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+templates/action-register.qmd,assets/xkcd/1425-tasks.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+templates/decision-log.qmd,assets/xkcd/1282-monty-hall.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+templates/unresolved-questions.qmd,assets/xkcd/2368-bigger-problem.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+templates/risk-issues-register.qmd,assets/xkcd/2368-bigger-problem.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+templates/topic-due-diligence.qmd,assets/xkcd/1205-is-it-worth-the-time.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+templates/topic-case.qmd,assets/xkcd/2368-bigger-problem.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+templates/contribution-statement.qmd,assets/xkcd/2456-types-of-scientific-paper.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+templates/search-concepts.qmd,assets/xkcd/979-wisdom-of-the-ancients.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+templates/search-log.qmd,assets/xkcd/979-wisdom-of-the-ancients.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+templates/citation-chaining.qmd,assets/xkcd/979-wisdom-of-the-ancients.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+templates/paper-triage-extraction.qmd,assets/xkcd/1447-meta-analysis.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+templates/evidence-matrix.qmd,assets/xkcd/1447-meta-analysis.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+templates/synthesis-argument-map.qmd,assets/xkcd/1447-meta-analysis.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+templates/method-options.qmd,assets/xkcd/263-certainty.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+templates/method-decision.qmd,assets/xkcd/1282-monty-hall.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+templates/protocol-deviation.qmd,assets/xkcd/263-certainty.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+templates/data-management-plan.qmd,assets/xkcd/2582-data-trap.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+templates/data-dictionary.qmd,assets/xkcd/2582-data-trap.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+templates/repository-readme.qmd,assets/xkcd/225-open-source.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+templates/ai-use-log.qmd,assets/xkcd/1838-machine-learning.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+templates/supervisor-review-cover-note.qmd,assets/xkcd/1860-communicating.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+templates/feedback-response.qmd,assets/xkcd/481-listen-to-yourself.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+templates/authorship-conversation.qmd,assets/xkcd/2025-peer-review.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+templates/journal-due-diligence.qmd,assets/xkcd/2304-preprint.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+templates/reviewer-response.qmd,assets/xkcd/2025-peer-review.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+templates/escalation-message.qmd,assets/xkcd/1028-communication.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+templates/thesis-contribution-map.qmd,assets/xkcd/2456-types-of-scientific-paper.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+stuck/index.qmd,assets/xkcd/722-computer-problems.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+stuck/starting-or-expectations.qmd,assets/xkcd/1425-tasks.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+stuck/topic-or-question.qmd,assets/xkcd/974-the-general-problem.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+stuck/method-paralysis.qmd,assets/xkcd/1282-monty-hall.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+stuck/waiting-or-blocked.qmd,assets/xkcd/303-compiling.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+stuck/study-failure.qmd,assets/xkcd/349-success.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+stuck/technical-failure.qmd,assets/xkcd/371-compiler-complaint.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+stuck/writing-or-perfectionism.qmd,assets/xkcd/1691-optimization.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+stuck/good-enough.qmd,assets/xkcd/974-the-general-problem.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+contributions/index.qmd,assets/xkcd/1060-crowdsourcing.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+contributions/how-to-help.qmd,assets/xkcd/2601-instructions.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+contributions/editorial-workflow.qmd,assets/xkcd/1319-automation.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+contributions/ai-and-editorial-practice.qmd,assets/xkcd/2173-trained-a-neural-net.png,remove placement,Keep practical resource or help route focused; remove repeated comic
+contributions/visuals-and-credit.qmd,assets/xkcd/14-copyright.jpg,remove placement,Keep practical resource or help route focused; remove repeated comic
+references.qmd,assets/xkcd/2086-history-department.png,remove placement,Keep practical resource or help route focused; remove repeated comic

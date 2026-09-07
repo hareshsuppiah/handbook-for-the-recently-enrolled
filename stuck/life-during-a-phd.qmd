@@ -1,6 +1,6 @@
 ---
 title: "Life during a doctorate"
-last-reviewed: "2026-09-06"
+last-reviewed: "2026-09-08"
 ---
 
 Perhaps you work alone, your funding ends before your submission date, or every conversation about the future assumes you want an academic job. These concerns deserve time in your plans and conversations, too.
@@ -18,6 +18,14 @@ Try a weekly co-working session or a small reading group. Your graduate research
 After a few sessions, ask whether it provides the contact you wanted. If the problem is exclusion, bullying or discriminatory treatment, a social activity is not an adequate response: use [independent support](relationship-or-authorship.qmd). If isolation is affecting your health, contact an appropriate support service as well.
 
 **Next step:** name the kind of contact you miss and arrange one manageable opportunity for it. Add it to your [weekly plan](../chapters/part-09/25-milestones-weekly-work.qmd).
+
+## The usual study week does not fit my life {#study-pattern-and-access}
+
+A schedule can look reasonable on paper while depending on evenings you spend caring, campus access you do not have or meetings outside your study days. Write down the research time and access you can reliably use, then compare them with the tasks and contact the project requires. You can state the practical constraint without sharing private details with the whole team.
+
+Ask about planned review windows, remote participation, accessible documents, equipment booking or the formal route for adjustments. Confirm what is agreed and who needs to act. These arrangements depend on your circumstances and institution; an informal promise may not change a formal milestone, award or access condition.
+
+**Next step:** take one concrete mismatch and a proposed change to your supervisor or the relevant support service. Use the [weekly-planning chapter](../chapters/part-09/25-milestones-weekly-work.qmd) to build a plan around the agreed arrangements. If direct discussion is unsafe, start with independent support.
 
 ## I am exhausted and cannot get started {#exhaustion}
 

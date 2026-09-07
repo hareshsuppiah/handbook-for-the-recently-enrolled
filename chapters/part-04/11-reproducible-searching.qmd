@@ -1,6 +1,6 @@
 ---
 title: "Reproducible literature searches"
-last-reviewed: "2026-09-06"
+last-reviewed: "2026-09-08"
 ---
 
 You need to update a search from six months ago. The notes say “Scopus, March, about 800 hits”. The date, fields and filters have disappeared with the browser history.
@@ -37,8 +37,27 @@ Break the question into concepts that need to be represented in retrieval. For e
 Do not mechanically include every element of a question. Outcomes are sometimes poorly represented in titles and abstracts; adding them can remove relevant records. Test the decision empirically against known records and with specialist advice.
 
 ::: {.decision-card}
-**Smallest useful next action:** Put one concept in each column of the [Search-concept table](../../templates/search-concepts.qmd), then test whether the draft strategy retrieves three known relevant records for the right reason.
+**Smallest useful next action:** Put one concept in each row of the [Search-concept table](../../templates/search-concepts.qmd), then test the draft strategy against a small set of known relevant records, such as three papers. Record why each was or was not retrieved. Passing this check helps diagnose the strategy; it does not prove complete coverage.
 :::
+
+### From a question to a draft search
+
+For a question about doctoral participation, two starting concepts might be:
+
+| Concept | Candidate words to test |
+|---|---|
+| Doctoral study | doctoral; PhD |
+| Participation | engagement; participation; withdrawal |
+
+A plain Boolean sketch would be:
+
+```text
+(doctoral OR PhD) AND (engagement OR participation OR withdrawal)
+```
+
+`OR` groups alternative words; `AND` connects the two concepts. This sketch is not a validated database strategy. Check each platform's syntax, fields and subject headings, and refine the terms using relevant records. “Withdrawal” may retrieve irrelevant records as well as useful ones, so inspect what it is doing before dropping it.
+
+If you add `AND wellbeing`, test what disappears. A relevant paper may discuss wellbeing in the full text without using that word in the fields you searched. Keep the concept table, the actual executed search and the reason for each revision together.
 
 ## Check each translated search string
 
@@ -96,6 +115,8 @@ The repaired record contains:
 
 The original screening decisions are retained; the failure is documented rather than silently reconstructed.
 
+Even a correctly recorded search may return a different count later as the database changes. Preserve the original export and date so the original evidence set remains identifiable; document the update as a new run. Reproducibility requires a recoverable method and record, not a promise that a changing database will always return the same number.
+
 ## Stopping rules
 
 Stopping depends on the purpose:
@@ -130,6 +151,8 @@ Use the reporting standard for your review type. Verify records independently of
 Bring the question, eligibility logic, concept table, draft strategies, known records, planned sources, required output, deadline and the specific uncertainty. Ask what the approach could systematically miss and which change would most improve retrieval.
 
 ## Try these resources
+
+Log your next search while the results are still open. Save the executed strategy and export, then ask whether someone else could identify exactly which run produced that file.
 
 - [Search-concept table](../../templates/search-concepts.qmd)
 - [Search log](../../templates/search-log.qmd)

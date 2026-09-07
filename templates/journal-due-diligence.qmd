@@ -1,9 +1,125 @@
 ---
 title: "Journal selection due diligence"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
 
+Use this to compare realistic outlets for one manuscript. Complete the checks that could rule an outlet out before spending time on formatting.
+
 Complete this from current official pages. Record the date and URL for each consequential claim.
+
+
+<details class="template-copy">
+<summary>Open the blank copyable template</summary>
+
+Copy this plain-text version into your approved project record. Repeat entry fields as needed and remove prompts that do not apply. The guidance and examples below help you complete it.
+
+```text
+Journal selection due diligence
+
+Complete consequential checks from current official pages and record the URL and date. Pause submission if fees, rights, peer review, publisher identity, author agreement, reporting duties or confidentiality conditions remain materially unclear.
+
+Manuscript decision
+
+Working title and article type: [ ]
+
+Contribution in one sentence: [ ]
+
+Primary readers and decision/use: [ ]
+
+Required reporting guideline: [ ]
+
+Thesis, funder, partner or timing constraints: [ ]
+
+Candidate comparison
+
+Entry 1
+Check: Aims, scope and reader fit
+Candidate A: [evidence + URL/date]
+Candidate B: [ ]
+Candidate C: [ ]
+
+Entry 2
+Check: Recent comparable articles
+Candidate A: [ ]
+Candidate B: [ ]
+Candidate C: [ ]
+
+Entry 3
+Check: Accepted article type/length
+Candidate A: [ ]
+Candidate B: [ ]
+Candidate C: [ ]
+
+Entry 4
+Check: Peer-review and decision process
+Candidate A: [ ]
+Candidate B: [ ]
+Candidate C: [ ]
+
+Entry 5
+Check: Reporting/registration/data/code rules
+Candidate A: [ ]
+Candidate B: [ ]
+Candidate C: [ ]
+
+Entry 6
+Check: Authorship, disclosure and AI rules
+Candidate A: [ ]
+Candidate B: [ ]
+Candidate C: [ ]
+
+Entry 7
+Check: All fees, currency, tax and waiver
+Candidate A: [ ]
+Candidate B: [ ]
+Candidate C: [ ]
+
+Entry 8
+Check: Copyright, licence, preprint and repository rights
+Candidate A: [ ]
+Candidate B: [ ]
+Candidate C: [ ]
+
+Entry 9
+Check: Evidenced timeline and thesis fit
+Candidate A: [ ]
+Candidate B: [ ]
+Candidate C: [ ]
+
+Entry 10
+Check: Publisher, board, identifiers, indexing and preservation verified
+Candidate A: [ ]
+Candidate B: [ ]
+Candidate C: [ ]
+
+Entry 11
+Check: Corrections, complaints and integrity policies
+Candidate A: [ ]
+Candidate B: [ ]
+Candidate C: [ ]
+
+Entry 12
+Check: Warning signs and unresolved claims
+Candidate A: [ ]
+Candidate B: [ ]
+Candidate C: [ ]
+
+Decision
+
+Preferred outlet and why: [ ]
+
+Trade-offs accepted: [ ]
+
+Fallback outlet and changes required: [ ]
+
+Advice or authority still needed: [ ]
+
+Author approval/date: [ ]
+
+Recheck date: [immediately before submission]
+```
+
+</details>
 
 ## Manuscript decision
 
@@ -50,6 +166,8 @@ Complete this from current official pages. Record the date and URL for each cons
 
 ## Completed example
 
+*Illustrative example; replace these details with your own verified record.*
+
 **Paper:** Validated workflow for monitoring athlete-reported recovery; methods article for applied researchers and practitioners.
 
 | Check | Candidate A | Candidate B |
@@ -61,6 +179,10 @@ Complete this from current official pages. Record the date and URL for each cons
 | Decision | preferred: verified fit and feasible thesis timing | pause: unresolved process, fee and rights |
 
 **Evidence of done:** All authors approve Candidate A and the exact manuscript package; URLs and 28 August 2026 check date are retained. Candidate B is not labelled fraudulent—only insufficiently verified.
+
+## Check your record
+
+Reopen the consequential policy pages immediately before submission. Record author approval of the chosen outlet and the exact package, not only a preferred journal name.
 
 ## Scenario test
 

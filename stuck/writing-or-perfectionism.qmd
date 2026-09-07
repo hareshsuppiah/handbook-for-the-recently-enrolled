@@ -1,6 +1,6 @@
 ---
 title: "I cannot start writing or stop revising"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
 
 ## Find where the writing stalls
@@ -14,6 +14,8 @@ Try explaining the paragraph aloud. If you know what you want to say but can't g
 3. Give each planned paragraph a temporary heading describing its job.
 4. Mark missing evidence or unresolved points so you can return to them.
 5. Agree what this draft needs to show before review. Once it meets that standard, send it rather than reopening optional refinements.
+
+Give yourself a small target: write one rough answer to the section's question, then add a checked source and a limitation. If speaking, dictation, another language or a diagram helps you begin, use it within your project's privacy and tool rules. Ask for writing or accessibility support when expressing the idea is the barrier.
 
 ## What to take when asking
 

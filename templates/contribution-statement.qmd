@@ -1,7 +1,41 @@
 ---
 title: "Contribution statement"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
+
+This template describes what the research may add to knowledge or practice. For who did which work, use the [authorship conversation record](authorship-conversation.qmd).
+
+
+<details class="template-copy">
+<summary>Open the blank copyable template</summary>
+
+Copy this plain-text version into your approved project record. Repeat entry fields as needed and remove prompts that do not apply. The guidance and examples below help you complete it.
+
+```text
+Contribution statement
+
+Blank template
+
+Problem: [What consequential difficulty or puzzle exists?]
+
+Present limitation: [What is not adequately known, explained, represented, tested or actionable?]
+
+Relevant audience or field: [Whose understanding or decision is affected?]
+
+This project will produce: [Evidence, explanation, method, synthesis, artefact or application the design can actually support.]
+
+Possible contribution: [What may change in knowledge, practice, method, theory or future inquiry?]
+
+Boundary: [Population, context, method, assumptions and claims the work will not support.]
+
+Evidence needed to defend it: [What would persuade a sceptical reader?]
+
+Strongest alternative account: [What else could explain the issue or make the contribution unnecessary?]
+
+Review trigger: [When will this statement be revised?]
+```
+
+</details>
 
 ## When to use it
 
@@ -29,6 +63,8 @@ Use this early to make the proposed contribution testable, then revise it after 
 
 ## Completed example
 
+*Illustrative example; replace these details with your own verified record.*
+
 **Problem:** Hybrid doctoral programmes cannot distinguish purposeful temporary withdrawal from disengagement that threatens participation.
 
 **Present limitation:** Visible attendance measures collapse several forms of withdrawal and rarely incorporate student accounts.
@@ -44,6 +80,10 @@ Use this early to make the proposed contribution testable, then revise it after 
 **Alternative:** Existing self-regulation theory may already explain the distinction sufficiently.
 
 **Review trigger:** After initial literature mapping and pilot interviews.
+
+## Check your record
+
+Read the output, contribution and boundary sentences together. If they require different studies, revise the statement before polishing its language.
 
 ## Scenario test
 

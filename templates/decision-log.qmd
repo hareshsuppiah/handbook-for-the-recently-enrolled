@@ -1,7 +1,33 @@
 ---
 title: "Decision log"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
+
+Use this when you choose a route that someone may later need to understand. Record what was known at the time; append a later decision when the evidence changes.
+
+
+<details class="template-copy">
+<summary>Open the blank copyable template</summary>
+
+Copy this plain-text version into your approved project record. Repeat entry fields as needed and remove prompts that do not apply. The guidance and examples below help you complete it.
+
+```text
+Decision log
+
+Blank record
+
+Decision ID/date/owner: [ ]
+Question: [What had to be decided?]
+Options considered: [Include realistic alternatives.]
+Evidence and constraints: [Links; distinguish fact from assumption.]
+Decision: [ ]
+Rationale: [Why this option now?]
+Dissent or limitation: [ ]
+Consequences and actions: [IDs]
+Review trigger: [What new evidence or date reopens it?]
+```
+
+</details>
 
 ## Blank record
 
@@ -17,10 +43,16 @@ last-reviewed: "2026-08-28"
 
 ## Completed example
 
+*Illustrative example; replace these details with your own verified record.*
+
 **Question:** Proceed with partner dataset or prepare an alternative?
 **Decision:** Prepare the accessible-data alternative while access remains unresolved.
 **Rationale:** It preserves progress without representing access as secured.
 **Review trigger:** written access confirmation or 15 September.
+
+## Check your record
+
+Someone reading the entry should be able to explain why you chose this option then, and what would reopen the decision now.
 
 ## Scenario test
 

@@ -1,6 +1,6 @@
 ---
 title: "Publishing and peer review"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
 
 You have a paper ready to share. Choosing a journal means finding readers who will care about the work, then checking whether the journal's scope, review process, fees and publishing terms suit it.
@@ -113,6 +113,21 @@ For each comment:
 7. verify consistency across abstract, methods, results, discussion and supplement.
 
 Help the editor and future reader understand the reasoning. Be specific, calm and complete. A polite response is not enough if the analysis is wrong; an extensive new analysis is not justified merely because it was requested.
+
+## Start with one reviewer comment
+
+An editorial decision and a page of criticism can be difficult to read together. First identify the decision, the revision deadline and any conditions. You can leave the detailed response until you have had time to read it carefully. Then group repeated comments and start with the ones that affect the central argument.
+
+**Practice comment:** “The abstract overstates what this single-site study can show. Please clarify the scope.” Draft a response that says what changed and where, without claiming you have fixed every limitation.
+
+<details>
+<summary>See an illustrative response</summary>
+
+“We agree that the abstract generalised beyond the study setting. We have changed ‘doctoral researchers’ to ‘participants at the study university’ in the final sentence of the abstract. We have also narrowed the corresponding claim in the discussion, paragraph 4. The revised limitation explains that this study does not establish whether the pattern holds at other institutions.”
+
+This is a model response, not a change made to your manuscript. Replace its locations with the exact revised text and check that the response describes changes you actually made.
+
+</details>
 
 ## When a reviewer asks for the wrong analysis
 

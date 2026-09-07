@@ -1,28 +1,75 @@
 ---
 title: "The Handbook for the Recently Enrolled"
 subtitle: "An Operating Manual for Graduate Researchers"
-description: "A practical, evidence-informed operating manual for graduate researchers."
+body-classes: handbook-home
 ---
 
-You have a research project, a supervisor and plenty of questions. There are papers to read and studies to plan, often before you're quite sure how to do either. This handbook gives you somewhere to start, including when the project takes an unexpected turn.
-
-This handbook helps you work through those everyday decisions, from choosing a topic to handing over your work. You'll find explanations, examples and templates you can use in your own project. Start with whatever you need today.
+You have a research project, a supervisor and plenty of questions. This handbook helps you work through the decisions ahead, from choosing a topic to handing over your work. You'll find explanations, examples and templates you can use in your own project. Start with whatever you need today.
 
 The book grows through readers' questions and suggestions. [About this edition](status.qmd).
 
 ## Start from your situation
 
-- **I want to see the complete journey:** open [the whole doctorate checklist](checklists/doctoral-journey.qmd).
-- **I have just enrolled:** begin with [your first 90 days](chapters/part-01/02-first-90-days.qmd).
-- **I need to work better with my supervisors:** use [roles and expectations](chapters/part-02/04-roles-and-expectations.qmd).
-- **I am unsure whether my topic is defensible:** run [topic due diligence](chapters/part-03/08-topic-due-diligence.qmd).
-- **I keep searching but cannot stop:** use [the search ladder](chapters/part-04/10-search-ladder.qmd).
-- **My project has gone wrong:** begin with [failed studies](chapters/part-11/31-failed-studies.qmd).
-- **I cannot work out what kind of problem I have:** go directly to [I’m stuck](stuck/index.qmd).
+You don't need to read in order. Choose one route, try its first action, and come back when a different question matters.
+
+::: {.content-visible when-format="html"}
+
+<div class="route-chooser" data-route-chooser="true" hidden="hidden">
+<label for="reading-situation">What would help today?</label>
+<select id="reading-situation">
+<option value="">Show all reading routes</option>
+<option value="starting">I'm starting or considering a doctorate</option>
+<option value="supervision">I have a supervision meeting coming up</option>
+<option value="question">I need a question and a workable study</option>
+<option value="evidence">I need to find or organise evidence</option>
+<option value="writing">I need to write or finish</option>
+<option value="stuck">I'm stuck, overloaded or dealing with a setback</option>
+</select>
+</div>
+
+:::
+
+::: {data-reading-route="starting"}
+### Find your feet
+
+Start with [what a doctorate asks of you](chapters/part-01/01-phd-and-good-enough.qmd), then [your first 90 days](chapters/part-01/02-first-90-days.qmd). **Try today:** write down one expectation you want to clarify. The [whole-doctorate checklist](checklists/doctoral-journey.qmd) shows the longer journey.
+:::
+
+::: {data-reading-route="supervision"}
+### Prepare for a useful conversation
+
+Read [roles and expectations](chapters/part-02/04-roles-and-expectations.qmd), then take a [meeting agenda](templates/meeting-agenda.qmd). **Try today:** write the decision you need help with at the top of the agenda.
+:::
+
+::: {data-reading-route="question"}
+### Turn an interest into a study
+
+Work through [topic due diligence](chapters/part-03/08-topic-due-diligence.qmd) and [design alignment](chapters/part-05/13-design-alignment.qmd). **Try today:** draft one question and name the evidence that could answer it. Use the [question stress test](checklists/research-question-stress-test.qmd) to find what is still unclear.
+:::
+
+::: {data-reading-route="evidence"}
+### Find what you need, then make sense of it
+
+Begin with [the search ladder](chapters/part-04/10-search-ladder.qmd) and [reading and synthesis](chapters/part-04/12-reading-and-synthesis.qmd). **Try today:** record one search in a [search log](templates/search-log.qmd), including what it helped you decide.
+:::
+
+::: {data-reading-route="writing"}
+### Make something another person can read
+
+Use [writing and argument](chapters/part-10/28-writing-and-argument.qmd) and the [supervisor review cover note](templates/supervisor-review-cover-note.qmd). **Try today:** write one rough paragraph with a claim, supporting evidence and its limit. Near the end? Start with [examination and corrections](chapters/part-12/35-examination-corrections.qmd).
+:::
+
+::: {data-reading-route="stuck"}
+### Work out what needs attention first
+
+Use [I'm stuck](stuck/index.qmd) to find a route, or read [life during a PhD](stuck/life-during-a-phd.qmd) for isolation, competing commitments and choices about continuing. **Try today:** name the thing preventing your next step. If someone may be unsafe, go directly to [wellbeing and safety support](stuck/wellbeing-or-safety.qmd).
+:::
 
 ## How to use the handbook
 
 Dip into a chapter, try the example, then use a checklist or template if it helps. The [whole-doctorate checklist](checklists/doctoral-journey.qmd) gives you a route through the book, including the questions to ask before you enrol.
+
+The [resource finder](resources.qmd) brings the checklists and editable templates together. You can tick a checklist in your browser, choose whether to remember its ticks on this device, or print it. Templates have a download link so you can work in your own editor.
 
 For university procedures or advice about your particular study, [find the right person to ask](support.qmd).
 

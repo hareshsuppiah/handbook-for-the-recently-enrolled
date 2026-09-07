@@ -1,6 +1,6 @@
 ---
 title: "Is this pilot ready to run?"
-last-reviewed: "2026-08-28"
+last-reviewed: "2026-09-08"
 ---
 
 Use this before a feasibility test, instrument test, workflow rehearsal or pilot study. Obtain any required authority before participant, animal, field, clinical, restricted-data or culturally governed activity begins.
@@ -11,6 +11,8 @@ Use this before a feasibility test, instrument test, workflow rehearsal or pilot
 
 **Use:** Do-confirm. Every critical item needs evidence, not confidence.
 
+Start by completing this sentence: “After this pilot, we need to decide whether…”. Then identify what you must observe to make that decision. The pilot might rehearse an interview, test access to an archive, check an instrument or follow a file through an analysis workflow; its purpose determines the relevant checks.
+
 ## What the pilot will test
 
 - [ ] The uncertainty the pilot must reduce is stated in one sentence.
@@ -18,6 +20,8 @@ Use this before a feasibility test, instrument test, workflow rehearsal or pilot
 - [ ] The main study element being rehearsed is explicit.
 - [ ] The pilot is distinguished from exploratory research and from the main study.
 - [ ] Criteria were set before seeing pilot results.
+
+For example, if the decision concerns whether recordings can be handled securely, test the approved recording-to-storage route and recovery with permitted test material. A successful interview conversation alone cannot settle that workflow question.
 
 ## Sampling and measurement
 
