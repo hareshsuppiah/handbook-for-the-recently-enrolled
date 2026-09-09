@@ -1,7 +1,13 @@
 ---
 title: "What a doctorate asks of you"
-last-reviewed: "2026-09-06"
+last-reviewed: "2026-09-09"
 ---
+
+A PhD is easy to mistake for three other things: more coursework, a very long assignment, or a private test of whether you are clever enough to stay. It is none of those. A doctorate is a supervised period of research training in which you learn to produce and defend a contribution to knowledge or understanding.
+
+Official descriptions phrase that contribution differently, but the common idea is surprisingly stable. The UK Quality Assurance Agency says doctoral work makes an original contribution through original research or original application of existing knowledge or understanding, across research, professional, practice-based and practice-led doctorates [@qaa-doctoral]. The Australian Qualifications Framework describes the research doctorate as making a significant and original contribution to knowledge at Level 10 [@aqf-doctoral]. These are broad qualification descriptions, not a universal rulebook. Institutions, disciplines and doctoral forms still set the live requirements, milestones and examination procedures [@aqf-review-2019].
+
+That broader purpose gives the practical advice in this chapter its point. Once you know the job of the degree, it becomes easier to judge the job of today's note, draft, application or chapter.
 
 You've written a page, crossed most of it out and started comparing it with a finished thesis. That's a demanding standard for a Tuesday afternoon. Early work needs to help you think, try an idea or get feedback. It can do those jobs while still being rough.
 
@@ -9,11 +15,7 @@ The trick is knowing which standard applies. Notes for yourself, a draft for sup
 
 ## Judge the work by its current job
 
-A doctorate asks you to make and defend an original contribution through research. It does not ask you to begin as an independent expert or to produce a flawless version of the thesis in your first year.
-
-Official descriptions differ in wording and jurisdiction, but they converge on several features: advanced knowledge, original research or application, critical judgement, responsible conduct, and the ability to communicate and defend the work. The UK Quality Assurance Agency, for example, describes original contribution as common across research, professional, practice-based and practice-led doctorates [@qaa-doctoral-2020]. Australia places doctoral qualifications at Level 10 of its qualifications framework, but the precise award requirements are still set by the enrolling institution [@aqf-review-2019].
-
-You should be able to explain how these parts of the work connect.
+At working level, you should be able to explain how these parts of the work connect.
 
 > question → decision → method → evidence → interpretation → contribution
 
