@@ -1,9 +1,9 @@
 ---
 title: "What a doctorate asks of you"
-last-reviewed: "2026-09-08"
+last-reviewed: "2026-09-10"
 ---
 
-You may know the topic you want to study and still wonder what makes the work a PhD. A Doctor of Philosophy is a research degree in which you develop the ability to investigate a question and make an original contribution to knowledge. You learn the field, justify an approach, work out what the evidence supports and present a case that other researchers can scrutinise. You do this with supervision while developing your own judgement [@stanford-doctoral-requirements].
+You may know the topic you want to study and still wonder what makes the work a PhD. It can be easy to picture it as more coursework or a very long assignment. A Doctor of Philosophy is a period of supervised research training in which you develop the ability to investigate a question and make an original contribution to knowledge. You learn the field, justify an approach, work out what the evidence supports and present a case that other researchers can scrutinise. You do this with supervision while developing your own judgement [@stanford-doctoral-requirements].
 
 The contribution gives the work its purpose: someone should be able to understand something more clearly, investigate it more reliably or reconsider an existing explanation because of what you have done. That might involve new evidence, a better method, a carefully supported interpretation or an original application of knowledge. The form depends on your field and degree [@qaa-doctoral-2020]. You will need to explain what you added, how you know and where its limits lie.
 
