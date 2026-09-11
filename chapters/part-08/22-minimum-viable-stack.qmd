@@ -54,6 +54,7 @@ Create a stack register:
 | Tool or system | Job it owns | Authoritative outputs | Inputs/sensitivity | Integration | Backup/export | Owner/review date |
 |---|---|---|---|---|---|---|
 | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| Example (hypothetical): reference manager | verified source metadata and citation export | citation library and exported `.bib` snapshot | citation metadata; PDFs only if approved for this storage | manuscript tool citation plugin reads the same library | weekly export to approved project folder; test import once per month | candidate; review in supervision meeting (2026-10) |
 
 If two tools hold the current manuscript or dataset, agree which one to edit and how the other copy will be updated.
 
