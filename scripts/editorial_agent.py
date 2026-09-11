@@ -31,15 +31,29 @@ MAX_DAILY_RUNS = 12
 def api(path, payload=None, method=None, token=None):
     if not path.startswith(f"/repos/{REPO}/"):
         raise ValueError("API destination outside this repository")
-    req = Request("https://api.github.com" + path,
-                  data=json.dumps(payload).encode() if payload is not None else None,
-                  method=method or ("POST" if payload is not None else "GET"),
-                  headers={"Authorization": "Bearer " + (token or os.environ["GH_TOKEN"]),
-                           "Accept": "application/vnd.github+json", "Content-Type": "application/json",
-                           "X-GitHub-Api-Version": "2022-11-28"})
-    with urlopen(req, timeout=40) as response:
-        raw = response.read()
-    return json.loads(raw) if raw else None
+    resolved_method = method or ("POST" if payload is not None else "GET")
+    body = json.dumps(payload).encode() if payload is not None else None
+    write_method = resolved_method in {"POST", "PUT", "PATCH", "DELETE"}
+
+    def send(auth_token):
+        req = Request("https://api.github.com" + path,
+                      data=body,
+                      method=resolved_method,
+                      headers={"Authorization": "Bearer " + auth_token,
+                               "Accept": "application/vnd.github+json", "Content-Type": "application/json",
+                               "X-GitHub-Api-Version": "2022-11-28"})
+        with urlopen(req, timeout=40) as response:
+            raw = response.read()
+        return json.loads(raw) if raw else None
+
+    primary = token or os.environ["GH_TOKEN"]
+    try:
+        return send(primary)
+    except HTTPError as error:
+        fallback = os.environ.get("COPILOT_USER_TOKEN")
+        if token is None and write_method and error.code == 403 and fallback and fallback != primary:
+            return send(fallback)
+        raise
 
 
 def items(path, limit=300):
