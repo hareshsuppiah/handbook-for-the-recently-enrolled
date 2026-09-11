@@ -3,6 +3,8 @@ import json
 import unittest
 import os
 import subprocess
+from io import BytesIO
+from urllib.error import HTTPError
 from unittest.mock import patch
 import editorial_agent as agent
 
@@ -34,6 +36,37 @@ class EditorialTests(unittest.TestCase):
     def test_foreign_api_destination_blocked(self):
         with self.assertRaises(ValueError):
             agent.api("/user")
+
+    def test_write_api_retries_with_copilot_user_token_on_forbidden(self):
+        calls = []
+
+        class FakeResponse:
+            def __init__(self, payload):
+                self.payload = payload
+
+            def read(self):
+                return self.payload
+
+            def __enter__(self):
+                return self
+
+            def __exit__(self, exc_type, exc, tb):
+                return False
+
+        def fake_urlopen(req, timeout=40):
+            calls.append(req.get_header("Authorization"))
+            if len(calls) == 1:
+                raise HTTPError(req.full_url, 403, "Forbidden", hdrs=None, fp=BytesIO(b"{}"))
+            return FakeResponse(b'{"ok": true}')
+
+        with patch.dict(os.environ, {"GH_TOKEN": "gh-token", "COPILOT_USER_TOKEN": "pat-token"}, clear=False), \
+                patch.object(agent, "urlopen", side_effect=fake_urlopen):
+            result = agent.api(f"/repos/{agent.REPO}/issues/1/comments", {"body": "test"})
+
+        self.assertEqual(result, {"ok": True})
+        self.assertEqual(len(calls), 2)
+        self.assertNotEqual(calls[0], calls[1])
+        self.assertTrue(all(x.startswith("Bearer ") for x in calls))
 
     def test_closed_issue_does_not_invoke_model(self):
         with patch.object(agent, "api", return_value={"state": "closed"}), patch.object(agent, "model") as model:
